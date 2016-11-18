@@ -48,7 +48,7 @@ public class Identifier {
                 return idTypePattern[0];
             }
         }
-        throw new BadParamException("Invalid id: " + idStr);
+        throw new BadParamException("Invalid id.");
     }
 
     /**
@@ -73,12 +73,11 @@ public class Identifier {
         throws BadParamException
     {
         if (!idTypeValid(type)) {
-            throw new BadParamException("Id type '" + type +
-                "' not recognized");
+            throw new BadParamException("Id type not recognized.");
         }
         if (!idTypeMatches(value, type)) {
-            throw new BadParamException("Id: '" + value +
-                "' doesn't look like a valid id of type '" + type + "'");
+            throw new BadParamException("This doesn't look like a valid " +
+                "id for this type.");
         }
         String cvalue = null;
         if (type.equals("pmcid")) {
