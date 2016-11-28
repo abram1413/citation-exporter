@@ -73,7 +73,7 @@ public class IdResolver {
 
         String idConverterUrlProp = System.getProperty("id_converter_url");
         idConverterUrl = idConverterUrlProp != null ? idConverterUrlProp :
-            "http://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/";
+            "https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/";
         String idConverterParamsProp =
                 System.getProperty("id_converter_params");
         idConverterParams = idConverterParamsProp != null ?
