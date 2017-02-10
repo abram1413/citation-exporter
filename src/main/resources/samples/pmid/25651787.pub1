@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pub-one-record-set xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:p1="http://pubmed.gov/pub-one">
+  <pub-one-record xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" p1:id="pubmed_25651787" p1:pmid="pubmed_25651787" record-type="article" xml:lang="eng">
+    <source-meta>
+      <object-id pub-id-type="iso-abbrev">CA Cancer J Clin</object-id>
+      <object-id pub-id-type="nlm-ta">CA Cancer J Clin</object-id>
+      <object-id pub-id-type="nlm-journal-id">0370647</object-id>
+      <title-group>
+        <title>CA: a cancer journal for clinicians</title>
+      </title-group>
+      <issn publication-format="electronic">1542-4863</issn>
+      <issn-l>0007-9235</issn-l>
+    </source-meta>
+    <document-meta>
+      <object-id pub-id-type="pmid">25651787</object-id>
+      <object-id pub-id-type="doi">10.3322/caac.21262</object-id>
+      <subj-group subj-group-type="publication-type">
+        <subject>Journal Article</subject>
+      </subj-group>
+      <title-group>
+        <title>Global cancer statistics, 2012.</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Torre</surname>
+            <given-names initials="LA">Lindsey A</given-names>
+          </name>
+          <aff>Epidemiologist, Surveillance and Health Services Research, American Cancer Society, Atlanta, GA.</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bray</surname>
+            <given-names initials="F">Freddie</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Siegel</surname>
+            <given-names initials="RL">Rebecca L</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ferlay</surname>
+            <given-names initials="J">Jacques</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lortet-Tieulent</surname>
+            <given-names initials="J">Joannie</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jemal</surname>
+            <given-names initials="A">Ahmedin</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date date-type="ppub" iso-8601-date="201503">
+        <month>3</month>
+        <year>2015</year>
+      </pub-date>
+      <pub-date date-type="epub" iso-8601-date="20150204">
+        <day>4</day>
+        <month>2</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>65</volume>
+      <issue>2</issue>
+      <fpage>87</fpage>
+      <lpage>108</lpage>
+      <pub-history>
+        <date date-type="aheadofprint" iso-8601-date="20150204">
+          <day>4</day>
+          <month>2</month>
+          <year>2015</year>
+        </date>
+        <date date-type="entrez" iso-8601-date="20150206T060000">
+          <day>6</day>
+          <month>2</month>
+          <year>2015</year>
+        </date>
+        <date date-type="pubmed" iso-8601-date="20150206T060000">
+          <day>6</day>
+          <month>2</month>
+          <year>2015</year>
+        </date>
+        <date date-type="medline" iso-8601-date="20150506T060000">
+          <day>6</day>
+          <month>5</month>
+          <year>2015</year>
+        </date>
+      </pub-history>
+      <permissions>
+        <copyright-statement>© 2015 American Cancer Society.</copyright-statement>
+      </permissions>
+      <abstract>
+        <p>Cancer constitutes an enormous burden on society in more and less economically developed countries alike. The occurrence of cancer is increasing because of the growth and aging of the population, as well as an increasing prevalence of established risk factors such as smoking, overweight, physical inactivity, and changing reproductive patterns associated with urbanization and economic development. Based on GLOBOCAN estimates, about 14.1 million new cancer cases and 8.2 million deaths occurred in 2012 worldwide. Over the years, the burden has shifted to less developed countries, which currently account for about 57% of cases and 65% of cancer deaths worldwide. Lung cancer is the leading cause of cancer death among males in both more and less developed countries, and has surpassed breast cancer as the leading cause of cancer death among females in more developed countries; breast cancer remains the leading cause of cancer death among females in less developed countries. Other leading causes of cancer death in more developed countries include colorectal cancer among males and females and prostate cancer among males. In less developed countries, liver and stomach cancer among males and cervical cancer among females are also leading causes of cancer death. Although incidence rates for all cancers combined are nearly twice as high in more developed than in less developed countries in both males and females, mortality rates are only 8% to 15% higher in more developed countries. This disparity reflects regional differences in the mix of cancers, which is affected by risk factors and detection practices, and/or the availability of treatment. Risk factors associated with the leading causes of cancer death include tobacco use (lung, colorectal, stomach, and liver cancer), overweight/obesity and physical inactivity (breast and colorectal cancer), and infection (liver, stomach, and cervical cancer). A substantial portion of cancer cases and deaths could be prevented by broadly applying effective prevention measures, such as tobacco control, vaccination, and the use of early detection tests.</p>
+      </abstract>
+      <kwd-group kwd-group-type="MeshHeadingList">
+        <kwd content-type="not-major">Body Mass Index</kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Breast Neoplasms</kwd>
+          <nested-kwd>
+            <kwd content-type="not-major">epidemiology</kwd>
+          </nested-kwd>
+        </nested-kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Colorectal Neoplasms</kwd>
+          <nested-kwd>
+            <kwd content-type="not-major">epidemiology</kwd>
+          </nested-kwd>
+        </nested-kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Developed Countries</kwd>
+          <nested-kwd>
+            <kwd content-type="major">statistics &amp; numerical data</kwd>
+          </nested-kwd>
+        </nested-kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Developing Countries</kwd>
+          <nested-kwd>
+            <kwd content-type="major">statistics &amp; numerical data</kwd>
+          </nested-kwd>
+        </nested-kwd>
+        <kwd content-type="not-major">Female</kwd>
+        <kwd content-type="not-major">Global Health</kwd>
+        <kwd content-type="not-major">Humans</kwd>
+        <kwd content-type="not-major">Incidence</kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Liver Neoplasms</kwd>
+          <nested-kwd>
+            <kwd content-type="not-major">epidemiology</kwd>
+          </nested-kwd>
+        </nested-kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Lung Neoplasms</kwd>
+          <nested-kwd>
+            <kwd content-type="not-major">epidemiology</kwd>
+          </nested-kwd>
+        </nested-kwd>
+        <kwd content-type="not-major">Male</kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Neoplasms</kwd>
+          <nested-kwd>
+            <kwd content-type="not-major">diagnosis</kwd>
+            <kwd content-type="major">epidemiology</kwd>
+            <kwd content-type="not-major">etiology</kwd>
+            <kwd content-type="not-major">mortality</kwd>
+            <kwd content-type="not-major">prevention &amp; control</kwd>
+            <kwd content-type="not-major">therapy</kwd>
+          </nested-kwd>
+        </nested-kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Overweight</kwd>
+          <nested-kwd>
+            <kwd content-type="not-major">epidemiology</kwd>
+          </nested-kwd>
+        </nested-kwd>
+        <kwd content-type="not-major">Poverty</kwd>
+        <kwd content-type="not-major">Prevalence</kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Prostatic Neoplasms</kwd>
+          <nested-kwd>
+            <kwd content-type="not-major">epidemiology</kwd>
+          </nested-kwd>
+        </nested-kwd>
+        <kwd content-type="not-major">Risk Factors</kwd>
+        <kwd content-type="not-major">Sedentary Lifestyle</kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Smoking</kwd>
+          <nested-kwd>
+            <kwd content-type="not-major">adverse effects</kwd>
+          </nested-kwd>
+        </nested-kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Stomach Neoplasms</kwd>
+          <nested-kwd>
+            <kwd content-type="not-major">epidemiology</kwd>
+          </nested-kwd>
+        </nested-kwd>
+        <kwd content-type="not-major">Survival Rate</kwd>
+        <nested-kwd>
+          <kwd content-type="not-major">Uterine Cervical Neoplasms</kwd>
+          <nested-kwd>
+            <kwd content-type="not-major">epidemiology</kwd>
+          </nested-kwd>
+        </nested-kwd>
+      </kwd-group>
+      <kwd-group kwd-group-type="NOTNLM">
+        <kwd content-type="not-major">cancer</kwd>
+        <kwd content-type="not-major">epidemiology</kwd>
+        <kwd content-type="not-major">health disparities</kwd>
+        <kwd content-type="not-major">incidence</kwd>
+        <kwd content-type="not-major">survival</kwd>
+      </kwd-group>
+      <kwd-group kwd-group-type="document-languages">
+        <kwd>eng</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>CitationSubset</meta-name>
+          <meta-value>AIM</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>CitationSubset</meta-name>
+          <meta-value>IM</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </document-meta>
+  </pub-one-record>
+</pub-one-record-set>

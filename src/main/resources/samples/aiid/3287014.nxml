@@ -1,0 +1,3132 @@
+<!-- ArticleInstanceId : 3287014, Path: advurol/2012-2012/1/preload/nxml/, Name : AU2012-364919.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article">
+  <?properties open_access?>
+  <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>
+  <?DTDIdentifier.IdentifierType public?>
+  <?SourceDTD.DTDName journalpublishing.dtd?>
+  <?SourceDTD.Version 2.3?>
+  <?ConverterInfo.XSLTName jp2nlmx2.xsl?>
+  <?ConverterInfo.Version 2?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Adv Urol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Adv Urol</journal-id>
+      <journal-id journal-id-type="publisher-id">AU</journal-id>
+      <journal-title-group>
+        <journal-title>Advances in Urology</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1687-6369</issn>
+      <issn pub-type="epub">1687-6377</issn>
+      <publisher>
+        <publisher-name>Hindawi Publishing Corporation</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">22400017</article-id>
+      <article-id pub-id-type="doi">10.1155/2012/364919</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Review Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Progress in Personalizing Chemotherapy for Bladder Cancer</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chang</surname>
+            <given-names>James S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lara</surname>
+            <given-names>Primo N.</given-names>
+            <suffix>Jr.</suffix>
+          </name>
+          <xref ref-type="aff" rid="I1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pan</surname>
+            <given-names>Chong-Xian</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">
+            <sup>1</sup>
+          </xref>
+          <xref ref-type="aff" rid="I2">
+            <sup>2</sup>
+          </xref>
+          <xref ref-type="aff" rid="I3">
+            <sup>3</sup>
+          </xref>
+          <xref ref-type="aff" rid="I4">
+            <sup>4</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="I1">
+        <sup>1</sup>Department of Internal Medicine, Division of Hematology/Oncology, University of California Davis, Sacramento, CA 95817, USA
+      </aff>
+      <aff id="I2">
+        <sup>2</sup>Department of Urology, University of California Davis, Sacramento, CA 95817, USA
+      </aff>
+      <aff id="I3">
+        <sup>3</sup>Department of Medicine, VA Northern California Health Care System, Mather, CA 95655, USA
+      </aff>
+      <aff id="I4">
+        <sup>4</sup>UC Davis Urothelial Carcinoma Initiative, University of California Davis Cancer Center, 4501 X Street, Room 3016, Sacramento, CA 95817, USA
+      </aff>
+      <author-notes>
+        <corresp id="cor1">*Chong-Xian Pan: <email>cxpan@ucdavis.edu</email></corresp>
+        <fn fn-type="other">
+          <p>Academic Editor: Hirotsugu Uemura</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>13</day>
+        <month>2</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>2012</volume>
+      <elocation-id>364919</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>25</day>
+          <month>8</month>
+          <year>2011</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>16</day>
+          <month>11</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>11</month>
+          <year>2011</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#x000a9; 2012 James S. Chang et al.</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <license license-type="open-access">
+          <license-p>This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Platinum-based chemotherapy is commonly used for the treatment of locally advanced and metastatic bladder cancer. However, there are currently no methods to predict chemotherapy response in this disease setting. A better understanding of the biology of bladder cancer has led to developments of molecular biomarkers that may help guide clinical decision making. These biomarkers, while promising, have not yet been validated in prospective trials and are not ready for clinical applications. As alkylating agents, platinum drugs kill cancer cells mainly through induction of DNA damage. A microdosing approach is currently being tested to determine if chemoresistance can be identified by measuring platinum-induced DNA damage using highly sensitive accelerator mass spectrometry technology. The hope is that these emerging strategies will help pave the road towards personalized therapy in advanced bladder cancer.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1">
+      <title>1. Introduction</title>
+      <p>Bladder urothelial cancer is the 4th most common cancer in males and 9th in females and a major cause of morbidity and mortality worldwide. In the United States, approximately 70,530 individuals were diagnosed with bladder cancer in 2010 and 14,680 died from it [<xref ref-type="bibr" rid="B1">1</xref>]. Most bladder cancers in the developed world are of urothelial origin (transitional cell), arising from the epithelial lining. Bladder cancers are broadly classified as noninvasive or invasive (muscle-invasive and metastatic) cancers. The noninvasive and invasive subtypes are thought to arise from distinct biological pathways [<xref ref-type="bibr" rid="B2">2</xref>]. About 70 to 80% of newly diagnosed bladder cancers are noninvasive. The initial treatment of noninvasive cancer involves a complete transurethral resection followed by adjuvant intravesical therapy [<xref ref-type="bibr" rid="B3">3</xref>]. As many as 70% of noninvasive cancers recur, necessitating life-long surveillance, and up to 25% will progress to more advanced disease [<xref ref-type="bibr" rid="B4">4</xref>, <xref ref-type="bibr" rid="B5">5</xref>].</p>
+      <p>For patients with muscle-invasive, nonmetastatic disease, radical cystectomy with bilateral pelvic lymph node dissection remains the mainstay of treatment. Recurrence can be frequent even after surgery. For example, about 50% of patients with deep, muscle-invasive disease will develop metastatic disease even after surgery [<xref ref-type="bibr" rid="B6">6</xref>]. Thus, systemic platinum-based chemotherapy, either in a neoadjuvant or adjuvant setting, is considered a component of the standard care for this disease. Metastatic disease is usually treated with chemotherapy, but the median survival even with the best chemotherapy is often only about 14 months [<xref ref-type="bibr" rid="B7">7</xref>].</p>
+      <p>Improving survival outcomes in advanced bladder cancer will require moving beyond conventional histopathologic evaluation such as stage and grade. Molecular biomarkers have the potential to more accurately determine prognosis and assign patients to appropriate treatments. Such biomarkers are already being used in other solid tumors such as breast, colon, and lung. For example, high expression of the ERCC1 gene is prognostic of improved survival and predictive of reduced response to platinum-based therapy in non-small cell cancer (NSCLC) [<xref ref-type="bibr" rid="B8">8</xref>]. Many promising biomarkers are now being evaluated for bladder cancer, offering the potential of improving clinical outcomes. As our understanding of the molecular pathways in bladder cancer improves, more personalized therapies can be delivered that are potentially more active and hopefully less toxic. In this paper, we will review the current chemotherapeutic treatments for advanced disease, highlight the potential role of biomarkers, and remark on the future direction of bladder cancer care.</p>
+    </sec>
+    <sec id="sec2">
+      <title>2. Treatment of Muscle-Invasive Bladder Cancer</title>
+      <p>The current standard treatment in the United States for muscle-invasive bladder cancer is radical cystectomy with bilateral pelvic lymph node dissection. These patients often develop metastatic disease despite aggressive surgical intervention. In organ-confined pT2 disease, the 5-year survival rate is approximately 68% [<xref ref-type="bibr" rid="B9">9</xref>]. Patients with more deeply invasive tumors have lower five-year survival rates of 30 to 50% [<xref ref-type="bibr" rid="B10">10</xref>]. Relapse is due to the presence of occult micrometastases. </p>
+      <sec sec-type="subsection" id="sec2.1">
+        <title>2.1. Neoadjuvant Therapy</title>
+        <p>The rationale for neoadjuvant chemotherapy prior to cystectomy is to treat micrometastatic disease that is present at diagnosis. It also helps downstage the tumor and increases the potential for complete resection of tumor. Furthermore, neoadjuvant chemotherapy allows delivery of systemic therapy through intact blood vessels and can be better tolerated before the patient is debilitated by surgery. There is level I evidence with two randomized trials to support the use of neoadjuvant chemotherapy [<xref ref-type="bibr" rid="B11">11</xref>, <xref ref-type="bibr" rid="B12">12</xref>]. The largest neoadjuvant chemotherapy trial was conducted by the Medical Research Council/European Organisation for Research and Treatment of Cancer. In this phase III trial, 976 patients with high-grade T2-T4a, N0-NX, M0 bladder cancer were randomly assigned to three cycles of neoadjuvant chemotherapy (CMV: cisplatin, methotrexate, and vinblastine, <italic>n</italic> = 491) or no chemotherapy (<italic>n</italic> = 485) then followed by institution's choice of therapy with radical cystectomy and/or radiation therapy [<xref ref-type="bibr" rid="B11">11</xref>]. At three years, the pathologic complete response (pCR) in the neoadjuvant group was 33%. Although there was a 5.5% survival benefit at three years (55.5 for chemotherapy versus 50% for no chemotherapy), it did not reach statistical significance. At eight-year followup, results showed a statistically significant 16% reduction in the risk of death, corresponding to an increase in 10-year survival from 30 to 36% after neoadjuvant chemotherapy [<xref ref-type="bibr" rid="B13">13</xref>].</p>
+        <p>A US Intergroup trial (INT 0080) randomized 307 patients with stage T2-4, N0, M0 bladder cancer to three cycles of neoadjuvant methotrexate, vinblastine, doxorubicin, and cisplatin (MVAC) or no chemotherapy followed by cystectomy [<xref ref-type="bibr" rid="B12">12</xref>]. The trial took 13 years to accrue. At a median followup of 8.7 years, pCR with MVAC was higher (38 versus 15%). Patients treated with MVAC showed an improvement in median overall survival (77 versus 46 months, <italic>P</italic> = 0.06) and five-year overall survival (57 versus 43%, <italic>P</italic> = 0.06) that were of borderline statistical significance.</p>
+        <p>The benefit of neoadjuvant chemotherapy was confirmed by a meta-analysis of 11 randomized trials with 3005 patients. It was found that those who received neoadjuvant platinum-based combination chemotherapy compared to local therapy alone had a 14% reduction in the risk of death [<xref ref-type="bibr" rid="B14">14</xref>]. This was equivalent to a 5% absolute improvement in overall survival from 45 to 50% at 5 years (<italic>P</italic> = 0.003). There was also a significant disease-free survival benefit (<italic>P</italic> &#x0003c; 0.0001), equivalent to a 9% absolute improvement at 5 years.</p>
+        <p>Even though CMV and MVAC were used in the above-mentioned prospective trials, the gemcitabine and cisplatin (GC) combination is commonly used in the neoadjuvant setting. There is no randomized trial supporting the use of the GC regimen in this setting. Clinicians mainly extrapolated the data in the metastatic setting showing similar efficacy but better tolerability with the GC regimen compared to MVAC.</p>
+        <p>Neoadjuvant cisplatin-based chemotherapy is not widely used in practice even though there is level I evidence indicating a significant survival advantage for patients with muscle-invasive bladder cancer [<xref ref-type="bibr" rid="B15">15</xref>]. An analysis of 7,161 patients with stage III bladder cancer from the National Cancer Database between 1998 to 2003 revealed that perioperative chemotherapy was administered to 11.6% of patients with stage III bladder transitional cell carcinoma with 10.4% receiving adjuvant chemotherapy and 1.2% receiving neoadjuvant chemotherapy [<xref ref-type="bibr" rid="B16">16</xref>]. A more recent analysis from the same database between 2003 and 2007 showed a slight increase in the use of neoadjuvant chemotherapy (up to 13% of patients in 2007) [<xref ref-type="bibr" rid="B17">17</xref>]. One major concern is the potential for disease progression due to delayed definitive treatment in patients who do not respond to neoadjuvant chemotherapy. There is a critical need to identify those who will respond favorably to neoadjuvant chemotherapy.</p>
+      </sec>
+      <sec sec-type="subsection" id="sec2.2">
+        <title>2.2. Adjuvant Therapy</title>
+        <p>The postoperative adjuvant approach has several advantages. It allows for selection of patients at highest risk for surgical failure based on accurate pathologic staging, avoids delay in potentially curative surgery especially in nonresponders to chemotherapy, and prevents overtreating patients who may have a reasonable outcome from surgery alone. The drawbacks include difficulty in administering chemotherapy postoperatively as a result of declines in performance status or development of complications and delays in treating occult metastatic disease.</p>
+        <p>The results from the adjuvant trials have been conflicting and difficult to interpret. Two small trials have shown a significant difference in favor of adjuvant chemotherapy. One trial randomized 91 patients with pT3-T4a or node-positive bladder cancer to four cycles of adjuvant chemotherapy or to observation after radical cystectomy [<xref ref-type="bibr" rid="B18">18</xref>]. The chemotherapy regimen employed was cisplatin, cyclophosphamide, and doxorubicin. There was a significant improvement in median survival in the adjuvant group (4.3 versus 2.4 years, <italic>P</italic> = 0.0062) and percentage free of progression (70 versus 46%, <italic>P</italic> = 0.01) at three years compared to observation. The three-year overall survival in patients was not statistically significant though. A German trial randomized 49 similarly high-risk patients (pT3b, pT4a, and/or positive pelvic lymph nodes) to MVAC, MVEC (methotrexate, vinblastine, epirubicin, and cisplatin), or observation [<xref ref-type="bibr" rid="B19">19</xref>]. It was terminated early when an interim analysis showed significant improvement in three-year progression-free survival (PFS) (63% versus 13%, <italic>P</italic> = 0.002). Ten-year survival data from this trial still favored adjuvant chemotherapy over surgery alone [<xref ref-type="bibr" rid="B20">20</xref>]. Of note, most patients randomly assigned to observation after cystectomy were not given chemotherapy at the time of relapse.</p>
+        <p>Other trials revealed no benefit with adjuvant chemotherapy. A Swiss trial randomized 77 patients with muscle-invasive (pT2), nonmetastatic bladder cancer to observation or 3 cycles of cisplatin. There was no significant difference in the overall survival at 5 years between the treatment and control group (57 versus 54%) [<xref ref-type="bibr" rid="B21">21</xref>].</p>
+        <p>The positive trials were criticized for having major deficiencies including small sample size, early stopping of patient entry, inappropriate statistical analyses, and poor reporting of results [<xref ref-type="bibr" rid="B22">22</xref>]. A meta-analysis based on 491 patients from six trials reported an absolute improvement in survival of 9% at 3 years [<xref ref-type="bibr" rid="B23">23</xref>]. It did acknowledge that the results were drawn from limited data and, therefore, was insufficient to base reliable treatment decisions. Many large cooperative group trials were designed to answer the adjuvant chemotherapy question but have been terminated prematurely due to problems with accrual. A recent large retrospective cohort study consisting of 3,947 patients from 11 centers demonstrated a significant survival benefit with adjuvant chemotherapy in patients at the highest risk of disease progression, such as those with advanced pathologic stage and nodal involvement [<xref ref-type="bibr" rid="B24">24</xref>]. In the 20% of patients with the highest risk disease, the median survival was 25 weeks for those receiving adjuvant chemotherapy and 19.2 weeks for those who did not. As of now, adjuvant chemotherapy is commonly used in patients with pT3-T4 or node-positive disease who have not received neoadjuvant chemotherapy.</p>
+      </sec>
+    </sec>
+    <sec id="sec3">
+      <title>3. Treatment of Metastatic Bladder Cancer</title>
+      <p>The standard treatment for patients with metastatic bladder cancer is systemic chemotherapy. Although bladder cancer is a chemosensitive tumor, the median survival with chemotherapy is only around 14 months. The five-year survival rate remains poor at about 15% [<xref ref-type="bibr" rid="B7">7</xref>]. Cisplatin-based combination therapy is considered first-line based on a prospective randomized trial that compared cisplatin alone to MVAC in 269 patients [<xref ref-type="bibr" rid="B25">25</xref>]. Patients treated with MVAC had significant improvement in response rate (39 versus 12%), PFS (10 versus 4.3 months), and overall survival (12.5 versus 8.2 months). Toxicity is a major concern with the MVAC regimen, particularly leukopenia, febrile neutropenia, mucositis, and nausea/vomiting. Only 24% of the patients received full-dose MVAC without dosage modifications. Five patients (4%) in the MVAC group plus 2 patients who were switched over to the MVAC regimen died from treatment-related toxicity.</p>
+      <p>In the search for a less toxic yet still effective regimen, a randomized phase III trial of 405 patients compared GC to MVAC [<xref ref-type="bibr" rid="B26">26</xref>]. The overall response rate (49 versus 46%), time to progression (7.4 versus 7.4 months), and median survival (13.8 versus 14.8 months) were similar for both regimens. Patients treated with GC were more likely to complete treatment with fewer dose adjustments. They had experienced less grade 3 or 4 neutropenia, neutropenic sepsis, and mucositis. An updated analysis showed similar 5-year overall survival rates of 13.0% for GC and 15.3% for MVAC [<xref ref-type="bibr" rid="B7">7</xref>]. Although the trial was not designed as an equivalence trial, GC has been adopted by many as the standard first-line treatment based on similar efficacy and lesser toxicity.</p>
+      <p>Another randomized phase III trial assigned 263 patients to high-dose-intensity MVAC (2-week cycles) with granulocyte colony-stimulating factor (G-CSF) versus standard MVAC (4-week cycles) to see if overall survival can be improved [<xref ref-type="bibr" rid="B27">27</xref>]. High-dose-intensity MVAC had significantly improved complete response (21 versus 9%), overall response (62 versus 50%), and the median PFS time (9.1 versus 8.2 months), but there was no difference in overall survival. Toxicity was less with high-dose-intensity MVAC which was attributed to the use of G-CSF. In a subsequent seven-year update, there was a significant survival advantage at 5 years with high-dose-intensity MVAC (21.8 versus 13.5%) [<xref ref-type="bibr" rid="B28">28</xref>]. This regimen is becoming more popular because of improved outcomes, shorter duration, and less toxicity compared to standard MVAC.</p>
+    </sec>
+    <sec id="sec4">
+      <title>4. Biomarkers for Personalized Chemotherapy</title>
+      <p>Currently, chemotherapy for bladder cancer is taking the approach of one formula for all. Most patients presently receive a platinum-based regimen, usually GC. However, only about half of the bladder cancers will respond to chemotherapy. Extensive research is ongoing to better understand the biology of the disease process in order to improve clinical outcomes. Conventional prognostic factors such as the grade and stage of the tumor and tools like nomograms are useful in predicting the outcomes associated with surgery and the risk of recurrence but are inadequate in predicting response to chemotherapy [<xref ref-type="bibr" rid="B29">29</xref>, <xref ref-type="bibr" rid="B30">30</xref>]. Biomarkers have the potential not only to further identify high-risk bladder cancer patients, but also to help select therapy for those who will benefit most from it. A personalized approach to chemotherapy has the potential to reduce toxicity and improve clinical outcomes (<xref ref-type="table" rid="tab1">Table 1</xref>). </p>
+      <sec sec-type="subsection" id="sec4.1">
+        <title>4.1. Single Gene Markers</title>
+        <sec sec-type="subsubsection" id="sec4.1.1">
+          <title>4.1.1. p53</title>
+          <p>p53 is the most studied biomarker in bladder cancer and many other cancer types. It plays a critical role in the regulation of cell cycle and is also involved in DNA damage and repair, cell cycle arrest, and apoptosis [<xref ref-type="bibr" rid="B31">31</xref>]. Alteration in the p53 leads to a loss of its tumor suppressor function and is thought to be a key event in carcinogenesis. It has been reported that overexpression of p53 in the nucleus, as detected by immunohistochemistry, was associated with increased risk of recurrence and death in bladder cancer [<xref ref-type="bibr" rid="B32">32</xref>, <xref ref-type="bibr" rid="B33">33</xref>]. However, a meta-analysis of 117 studies comprising of 10,026 patients showed that changes in p53 were only weakly predictive of recurrence, progression, and mortality in bladder cancer [<xref ref-type="bibr" rid="B34">34</xref>]. p53 overexpression was predictive of recurrence, progression, and mortality in 27%, 50%, and 29% of eligible studies, respectively.</p>
+          <p>In addition to having prognostic qualities, studies have suggested that p53 may be predictive of benefit to chemotherapy [<xref ref-type="bibr" rid="B35">35</xref>]. A retrospective analysis of patients treated with adjuvant therapy found that patients with p53 alteration had increased sensitivity to treatment and had more benefit from adjuvant chemotherapy [<xref ref-type="bibr" rid="B36">36</xref>]. Since p53 is involved in cell cycle arrest and DNA repair, the lack of a normal p53 could result in greater cancer cell killing when exposed to DNA-damaging therapy. This hypothesis was put to the test in a phase III trial that focused on patients with pT1 or pT2, N0, M0 bladder cancer who had undergone a radical cystectomy and bilateral pelvic lymphadenectomy [<xref ref-type="bibr" rid="B37">37</xref>]. This group is not usually treated with adjuvant therapy but has a recurrence rate of about 30%. Those whose tumors demonstrated &#x02265; 10% nuclear immunoreactivity for p53 were randomized to three cycles of adjuvant MVAC versus observation while p53-negative patients were observed. The trial tried to confirm p53 as a predictive biomarker and to see whether p53-altered tumors would respond better to MVAC. A total of 521 patients were registered, 499 underwent p53 assessment, 272 (55%) were positive, and 114 (42%) were randomly assigned. Unfortunately, due to the high patient refusal rate, lower than expected event rate, and failures to receive assigned therapy, accrual was halted and questions about p53 as a biomarker remain.</p>
+        </sec>
+        <sec sec-type="subsubsection" id="sec4.1.2">
+          <title>4.1.2. ERCC1</title>
+          <p>Nucleotide excision repair pathway plays a major role in DNA damage repair, and the excision repair cross-complementing group 1 (ERCC1) is key member [<xref ref-type="bibr" rid="B38">38</xref>]. The cytotoxic effect of cisplatin is attributed to the formation of bulky DNA adducts. ERCC1 helps remove these adducts and thus may cause resistance to platinum agents [<xref ref-type="bibr" rid="B39">39</xref>]. In NSCLC, high ERCC1 is associated with an improved prognosis and predictive of reduced response to platinum-based therapy [<xref ref-type="bibr" rid="B40">40</xref>].</p>
+          <p>Studies have also been done to evaluate ERCC1 as a biomarker in patients with advanced bladder cancer treated with cisplatin-based chemotherapy. Bellmunt et al. performed gene expression analysis by using real-time quantitative PCR in tumors of 57 patients with metastatic or locally advanced, surgically incurable patients who were treated with either GC or GC plus paclitaxel [<xref ref-type="bibr" rid="B41">41</xref>]. At a median followup of 19 months, the median survival was significantly longer in patients with low ERCC1 level (25.4 versus 15.4 months, <italic>P</italic> = 0.03). Low ERCC1 level is predictive of the progression-free survival in patients who received adjuvant cisplatin-based chemotherapy. At 5 years, only 45% of patients with low ERCC1 level had progressed versus 70% of patients with high ERCC1 level (hazard ratio = 0.52, <italic>P</italic> = 0.03) [<xref ref-type="bibr" rid="B42">42</xref>]. There was also a PFS advantage found in metastatic patients with low ERCC1 (10.6 versus 8.4 months, <italic>P</italic> = 0.03) [<xref ref-type="bibr" rid="B43">43</xref>]. However, prospective randomized controlled clinical trials are needed to determine the true value of ERCC1 expression in predicting response to platinum-based chemotherapy.</p>
+        </sec>
+        <sec sec-type="subsubsection" id="sec4.1.3">
+          <title>4.1.3. RRM1</title>
+          <p>Ribonucleotide reductase subunit M1 (RRM1) gene encodes one of two nonidentical subunits of ribonucleotide reductase, an essential enzyme involved in the production of deoxyribonucleotides for DNA synthesis and repair [<xref ref-type="bibr" rid="B44">44</xref>]. Another function of RRM1 is suppression of cell migration and metastasis formation [<xref ref-type="bibr" rid="B45">45</xref>]. It is the molecular target of gemcitabine, an antimetabolite used in several malignancies including lung and bladder. Increased expression of RRM1 is associated with increased survival of patients with resected NSCLC [<xref ref-type="bibr" rid="B46">46</xref>]. In patients with early stage NSCLC who had only received surgical treatment, the overall survival for those with high RRM1 expression was more than 120 months compared to 60.2 months for those with low RRM1 (<italic>P</italic> = 0.02) [<xref ref-type="bibr" rid="B47">47</xref>]. The survival advantage was limited to patients with tumors that also expressed ERCC1. On the other hand, high RRM1 expression appears to be a predictor of decreased response to gemcitabine/platinum chemotherapy [<xref ref-type="bibr" rid="B48">48</xref>].</p>
+          <p>RRM1 may have utility as a biomarker in bladder cancer as well. In the Bellmunt study where patients received GC with or without paclitaxel, there was a trend towards longer time in progression in tumors with low RRM1 expression [<xref ref-type="bibr" rid="B41">41</xref>]. High RRM1 expression was found to be prognostic for improved survival in younger patients (aged &#x0003c; 70 years) with muscle-invasive bladder [<xref ref-type="bibr" rid="B49">49</xref>]. The median overall survival was 10.6 years in younger patients high RRM1 expression versus 1.6 years in older patients (<italic>P</italic> = 0.001), but made no significant difference for patients with low RRM1 expression (2.3 versus 1.6 years in younger and older patients, resp.).</p>
+        </sec>
+        <sec sec-type="subsubsection" id="sec4.1.4">
+          <title>4.1.4. hENT1</title>
+          <p>Human equilibrative nucleoside transporter 1 (hENT1) is the major molecule of nucleoside transporter proteins. Gemcitabine is a pyrimidine nucleoside analogue that requires plasma membrane nucleoside transporter proteins to enter the cell and exert cytotoxicity. Studies in cultured cells showed that hENT1 deficiency is associated with gemcitabine resistance [<xref ref-type="bibr" rid="B50">50</xref>]. The ability for hENT1 to predict benefit in patients receiving gemcitabine has been studied in other cancers such as pancreas and lung [<xref ref-type="bibr" rid="B51">51</xref>&#x02013;<xref ref-type="bibr" rid="B53">53</xref>].</p>
+          <p>In a small study of 12 patients, hENT1 was detected in 3 patients and two of them presented with a complete response to gemcitabine [<xref ref-type="bibr" rid="B54">54</xref>]. The mean value of hENT1 was significantly higher in the patients who had a pathological complete response. A larger study evaluated 40 patients with metastatic bladder cancer who received GC-based chemotherapy [<xref ref-type="bibr" rid="B55">55</xref>]. Immunohistochemistry on tumor tissue was performed with specific hENT1 antibodies. Eighteen (90%) out of 20 patients with high hENT1 expression showed a response to chemotherapy whereas only 7 (35%) of 20 patients with low hENT1 expression responded. A significantly longer median survival was seen in patients with high hENT1 expression than those with lower levels (17.3 versus 11.6 months, <italic>P</italic> = 0.003). Therefore, hENT1 might be a relevant biomarker in metastatic bladder cancer patients receiving GC-based chemotherapy.</p>
+        </sec>
+        <sec sec-type="subsubsection" id="sec4.1.5">
+          <title>4.1.5. BRCA1</title>
+          <p>The breast cancer susceptibility gene 1 (BRCA1) is a tumor suppressor gene that is central in DNA repair pathways. It encodes a nuclear protein that functions in multiple biological processes, including gene transcription, DNA damage repair, and apoptosis [<xref ref-type="bibr" rid="B56">56</xref>]. Low expression of BRCA1 has been found to increase sensitivity to cisplatin-based chemotherapy in ovarian cancer and NSCLC [<xref ref-type="bibr" rid="B57">57</xref>, <xref ref-type="bibr" rid="B58">58</xref>]. A similar result was found in bladder cancer where a significant pathologic response to neoadjuvant cisplatin-based chemotherapy was attained in 66% of patients with low/intermediate BRCA1 levels compared with 22% of patients with high BRCA1 levels (<italic>P</italic> = 0.01) [<xref ref-type="bibr" rid="B59">59</xref>]. Median survival was prolonged in patients with low/intermediate compared to high BRCA1 levels (168 versus 34 months, <italic>P</italic> = 0.002). BRCA1 may be a useful tool in the selection of patients for neoadjuvant cisplatin-based chemotherapy.</p>
+        </sec>
+        <sec sec-type="subsubsection" id="sec4.1.6">
+          <title>4.1.6. MDR1</title>
+          <p>The multidrug resistance gene 1 (MDR1) encodes P-glycoprotein (Pgp), a membrane protein that acts as an energy-dependent cellular efflux pump. Pgp can reduce intracellular concentrations of chemotherapy drugs like anthracyclines and vinca alkaloids which are components of MVAC, resulting in decreased cytotoxicity. Furthermore, it appears that chemotherapy drugs induce MDR1 and lead to drug resistance [<xref ref-type="bibr" rid="B60">60</xref>]. In patients with locally advanced bladder cancer receiving adjuvant chemotherapy, high MDR1 expression is associated with inferior survival [<xref ref-type="bibr" rid="B42">42</xref>]. After 2 years, more than 65% of patients with high MDR1 expression had progressed compared to only 25% of patients with low MDR1 expression. After 5 years, only 23% of patients with high MDR1 expression were still alive versus 62% of patients with low MDR1 expression (HR 0.25, <italic>P</italic> = 0.0006).</p>
+        </sec>
+        <sec sec-type="subsubsection" id="sec4.1.7">
+          <title>4.1.7. Bcl-2</title>
+          <p>B-cell lymphoma 2 (Bcl-2) is the representing member of the large Bcl-2 family that is important in regulating cellular apoptosis. It was originally identified in follicular lymphoma at the site of the t(14; 18) translocation [<xref ref-type="bibr" rid="B61">61</xref>]. Bc1-2 is an antiapoptotic protein that is localized in intracellular membranes and has been found to have prognostic value in bladder cancer. Overexpression of Bcl-2 is associated with reduced survival in patients with invasive bladder cancer and lower response rate to chemotherapy [<xref ref-type="bibr" rid="B62">62</xref>]. In patients with invasive disease treated with radiotherapy only, Bcl-2 positivity was found to be related to poor local control (36 versus 72%) as well as to shorter disease-specific survival (74 versus 94%) at 3 years [<xref ref-type="bibr" rid="B63">63</xref>]. In a study of four apoptosis markers, including Bcl-2, caspase-3, p53, and survivin, in patients treated by radical cystectomy, Bcl-2 was independently associated with higher pathologic stage, probability of disease recurrence (HR 2.24, <italic>P</italic> &#x0003c; 0.001), and disease-specific mortality (HR 2.06, <italic>P</italic> = 0.001) [<xref ref-type="bibr" rid="B64">64</xref>].</p>
+        </sec>
+        <sec sec-type="subsubsection" id="sec4.1.8">
+          <title>4.1.8. MicroRNA</title>
+          <p>MicroRNA (miRNA) is small noncoding regulatory RNA molecules with the stem-loop secondary structure. Its size ranges from 17 to 25 nucleotides. It was first found in worms but later was found in most eukaryotic cells [<xref ref-type="bibr" rid="B65">65</xref>, <xref ref-type="bibr" rid="B66">66</xref>]. It works as a posttranscriptional regulator of genes by binding to the complementary 3&#x02032; untranslated region of target mRNA and degrading the target mRNA or suppressing translation. Because one miRNA can bind to and regulate the expression of multiple mRNAs, it works as a master posttranscriptional regulator of gene expression. miRNAs are involved in almost every aspects of oncogenesis. They have been found to be upregulated or downregulated depending on their corresponding functions as a tumor suppressor or promoter [<xref ref-type="bibr" rid="B67">67</xref>]. Multiple miRNAs have been found to be involved in bladder cancer [<xref ref-type="bibr" rid="B68">68</xref>]. Genome-wide deep sequencing of clinical specimens revealed that a set of miRNAs was aberrantly expressed in bladder cancer when compared to the normal matched control [<xref ref-type="bibr" rid="B69">69</xref>]. Many of the miRNA dysregulated in bladder cancer were repeatedly identified in other cancer types, but some of them have not been reported before [<xref ref-type="bibr" rid="B70">70</xref>]. Some of these miRNAs affect several signaling and metabolic pathways that can be potentially targeted for cancer therapy in bladder cancer. Among those miRNAs, MiR-34a is frequently downregulated or deleted in several cancer types [<xref ref-type="bibr" rid="B71">71</xref>, <xref ref-type="bibr" rid="B72">72</xref>]. It is a known downstream effector of p53 that regulates several components of the p53 pathway such as Cdk6 and E2F3. Researchers at University of California at Davis found that transfection of bladder cancer cell lines with pre-miR-34a followed by cisplatin treatment results in a dramatic reduction in clonogenic potential and induction of senescence compared to treatment with cisplatin alone. Analysis of 27 preneoadjuvant chemotherapy patient samples revealed many of the patients who subsequently did not respond to treatment (based on surgical resection postchemotherapy and 5-year survival data) express lower levels of miR-34a [<xref ref-type="bibr" rid="B73">73</xref>]. However, the clinical significance needs to be defined in prospective trials.</p>
+        </sec>
+      </sec>
+      <sec sec-type="subsection" id="sec4.2">
+        <title>4.2. Combination of Genetic Markers</title>
+        <p>Individual gene biomarkers may not adequately capture the complex molecular activities in tumor cells. To accurately predict chemosensitivity requires a large body of information. For example, there are over 150 genes involved in the major DNA repair pathways that are relevant to platinum-DNA adducts alone. Several studies have been conducted using a combination of genetic markers to predict response to chemotherapy. Takata et al. analyzed the gene expression profile of 27,648 genes from 27 invasive bladder cancers using a cDNA microarray [<xref ref-type="bibr" rid="B74">74</xref>]. Profiles of tumors from patients who responded to MVAC neoadjuvant chemotherapy were compared to nonresponders to develop a scoring system of 14 predictive genes. This system was able to accurately predict drug response in 8 out of 9 patients. It was applied to 22 additional cases of bladder cancer and correctly predicted clinical response for 19 cases [<xref ref-type="bibr" rid="B75">75</xref>]. Another approach uses the coexpression extrapolation (COXEN) algorithm derived from expression microarray data of the National Cancer Institute (NCI)-60 cell line panel to predict drug sensitivity of bladder cancer cell lines [<xref ref-type="bibr" rid="B76">76</xref>]. The COXEN-based gene expression model was able to effectively stratify chemosensitivity and predict the 3-year overall survival in patients treated with MVAC [<xref ref-type="bibr" rid="B77">77</xref>].</p>
+      </sec>
+      <sec sec-type="subsection" id="sec4.3">
+        <title>4.3. DNA Damage as a Predictor of Chemoresistance</title>
+        <p>The major limitation of studying individual genes or gene combination in cancer specimens is that <italic>in vivo</italic> patient pathophysiological changes cannot be analyzed. Furthermore, genetic alterations can be so complicated that they cannot be fully explored. For example, over 700 genes are involved in cellular response to platinum chemotherapy [<xref ref-type="bibr" rid="B78">78</xref>]. Even though all these genes can be studied with the currently available high throughput analysis, such as microarray and whole genome or transcriptome sequencing, the <italic>in vivo</italic> factors (such as drug metabolism, distribution, local vasculature, and drug delivery) and external factors (such as dose calculation and administration) cannot be analyzed.</p>
+        <p>To overcome these limitations, we have taken a radically different approach to study chemoresistance to platinum therapy <italic>in vivo</italic> under the physiological conditions [<xref ref-type="bibr" rid="B79">79</xref>, <xref ref-type="bibr" rid="B80">80</xref>]. As alkylating agents, platinum analogs kill cancer cells mainly through induction of DNA damage (adducts). We hypothesize that cancer cells with low platinum-induced DNA can survive chemotherapy and are platinum resistant (<xref ref-type="fig" rid="fig1">Figure 1</xref>). Therefore, measurement of platinum-induced DNA damage may allow for identification of chemoresistance. By analyzing some other major steps along the chemotherapy pathway, such as drug metabolism and DNA repair, some of the major underlying chemoresistant mechanisms can be determined that help design of personalized chemotherapy to overcome resistance. For example, if the chemoresistance to platinum chemotherapy is secondary to increased DNA repair (as measured by fast decrease of DNA adducts over time), platinum drugs can be combined with a DNA repair inhibitor, such as a PARP (Poly ADP ribose polymerase) inhibitor, to overcome resistance. Several studies already showed that low DNA damage induced by alkylating agents correlated with chemoresistance with a few exceptions [<xref ref-type="bibr" rid="B81">81</xref>&#x02013;<xref ref-type="bibr" rid="B90">90</xref>]. However, the major limitation for those studies to be in clinical application is that the technologies used in those studies are not sensitive enough for clinical applications because patients had to receive toxic therapeutic to high-dose chemotherapy before DNA damage could be detected. </p>
+        <p>We have developed a highly sensitive technology to measure carboplatin or oxaliplatin-induced DNA damage using accelerator mass spectrometry (AMS). It is an isotope ratio mass spectrometric method that precisely determines the concentration of very rare (&#x0003c;1&#x02009;:&#x02009;10<sup>9</sup>) isotope in an isolated sample [<xref ref-type="bibr" rid="B91">91</xref>, <xref ref-type="bibr" rid="B92">92</xref>]. Compared with the other technologies, the advantage of using AMS to detect DNA adducts/damage is its high sensitivity and precision. It can detect <sup>14</sup>C at the zeptomole (zmole, 10<sup>&#x02212;21</sup> mole) level per mg of carbon with the precision as low as 0.25% [<xref ref-type="bibr" rid="B93">93</xref>]. To measure platinum-induced DNA damage, <sup>14</sup>C-labeled platinum analogs are used. When DNA damage is induced, platinum analogs together with <sup>14</sup>C are conjugated to genomic DNA. By measuring the amount of <sup>14</sup>C on genomic DNA, the amount of DNA damage can be calculated. Because of the supersensitivity of AMS, this approach allows the measurement of DNA adducts without exposing cancer cells or patients to toxic chemotherapy. To perform this test, cancer cells/patients are first treated with one nontoxic microdose (1% of therapeutic dose or less) of <sup>14</sup>C-labeled platinum drug before cancer patients undergo biopsy or surgical resection. Biopsy is required for most cancer patients before chemotherapy can be administered as the standard of care. Some of the tumor specimens will be used for the AMS analysis. Only a few milligrams of tumor tissue are needed for detection of DNA adducts with AMS. One major limitation of this approach is that cisplatin cannot be studied as there is no carbon atom in cisplatin molecule to allow for <sup>14</sup>C labeling. Fortunately, the chemoresistance spectrum of cisplatin and carboplatin is very similar as these two drugs form the same platinum-DNA cross-links [<xref ref-type="bibr" rid="B94">94</xref>].</p>
+        <p>We have performed extensive preclinical studies to show the feasibility of this microdosing approach [<xref ref-type="bibr" rid="B79">79</xref>, <xref ref-type="bibr" rid="B80">80</xref>, <xref ref-type="bibr" rid="B95">95</xref>]. Microdosing with <sup>14</sup>C-carboplatin could induce DNA damage, the physiological target of therapeutic carboplatin. The DNA damage induced by microdosing is highly linearly proportional to that of therapeutic carboplatin (<italic>P</italic> &#x0003c; 10<sup>&#x02212;15</sup>), suggesting that the microdosing approach can be used to predict DNA damage induced by therapeutic dose of carboplatin. In studies with cell lines, the level of DNA damage is superior in predicting chemoresistance when compared to the ERCC1 level [<xref ref-type="bibr" rid="B80">80</xref>]. This finding is consistent with the underlying pathophysiology of resistance to platinum in that ERCC1 is one of many proteins involved in DNA repair while DNA damage levels are the cumulative results of formation and repair of DNA damage. Because carboplatin is rarely used in clinic as a single agent, we determined and found that addition of gemcitabine had little effects on the formation of platinum-DNA adducts in a bladder cancer cell line [<xref ref-type="bibr" rid="B95">95</xref>]. Based on these preclinical studies, a Phase 0 microdosing trial has been designed and is currently going on to determine if the DNA damage induced by the microdosing <sup>14</sup>C-carboplatin correlate with chemotherapy outcomes (<ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov/">http://clinicaltrials.gov/</ext-link> identifier no. NCT01261299).</p>
+      </sec>
+    </sec>
+    <sec id="sec5">
+      <title>5. Conclusion</title>
+      <p>Cancer therapeutics is moving towards personalized medicine to select the most effective therapy while avoiding the ineffective and/or toxic therapy based on the underlying pathophysiology of the patients and their tumors. In bladder cancer, questions remain about who will benefit most from chemotherapy as only around 50% of bladder cancer patients will have tumor response from chemotherapy. Biomarkers have shown promise in prognostication and in selecting therapy and might help answer some of these questions. For example, ERCC1 status may be important to be determined before giving platinum-based chemotherapy, or hENT1 or RRM1 before gemcitabine. Combinations of biomarkers (including microRNA) can offer more accuracy in prediction than individual ones. Our group is using a microdosing approach to identify resistance to platinum drugs [<xref ref-type="bibr" rid="B79">79</xref>, <xref ref-type="bibr" rid="B80">80</xref>]. The efficacy needs to be determined in large clinical trials. A better understanding of tumor biology and pathogenic pathways will hopefully lead to more molecularly targeted therapy. Research is ongoing to test agents that target the fibroblast, epidermal, and vascular endothelial growth factor pathways [<xref ref-type="bibr" rid="B96">96</xref>]. The hope is that in the future targeted therapy will augment cytotoxic chemotherapy and that biomarkers will be able to risk stratify patients and help optimize therapy.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="B1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jemal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Siegel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Cancer statistics, 2010</article-title>
+          <source>
+            <italic>CA Cancer Journal for Clinicians</italic>
+          </source>
+          <year>2010</year>
+          <volume>60</volume>
+          <issue>5</issue>
+          <fpage>277</fpage>
+          <lpage>300</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McConkey</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>W</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Molecular genetics of bladder cancer: emerging mechanisms of tumor initiation and progression</article-title>
+          <source>
+            <italic>Urologic Oncology</italic>
+          </source>
+          <year>2010</year>
+          <volume>28</volume>
+          <issue>4</issue>
+          <fpage>429</fpage>
+          <lpage>440</lpage>
+          <pub-id pub-id-type="pmid">20610280</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kirkali</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Chan</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Manoharan</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Bladder cancer: epidemiology, staging and grading, and diagnosis</article-title>
+          <source>
+            <italic>Urology</italic>
+          </source>
+          <year>2005</year>
+          <volume>66</volume>
+          <issue>6</issue>
+          <fpage>4</fpage>
+          <lpage>34</lpage>
+          <pub-id pub-id-type="pmid">16399414</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cookson</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Herr</surname>
+              <given-names>HW</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>ZF</given-names>
+            </name>
+            <name>
+              <surname>Soloway</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Sogani</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Fair</surname>
+              <given-names>WR</given-names>
+            </name>
+          </person-group>
+          <article-title>The treated natural history of high risk superficial bladder cancer: 15- year outcome</article-title>
+          <source>
+            <italic>Journal of Urology</italic>
+          </source>
+          <year>1997</year>
+          <volume>158</volume>
+          <issue>1</issue>
+          <fpage>62</fpage>
+          <lpage>67</lpage>
+          <pub-id pub-id-type="pmid">9186324</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soloway</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Sofer</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Vaidya</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Contemporary management of stage T1 transitional cell carcinoma of the bladder</article-title>
+          <source>
+            <italic>Journal of Urology</italic>
+          </source>
+          <year>2002</year>
+          <volume>167</volume>
+          <issue>4</issue>
+          <fpage>1573</fpage>
+          <lpage>1583</lpage>
+          <pub-id pub-id-type="pmid">11912367</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raghavan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Shipley</surname>
+              <given-names>WU</given-names>
+            </name>
+            <name>
+              <surname>Garnick</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Richie</surname>
+              <given-names>JP</given-names>
+            </name>
+          </person-group>
+          <article-title>Biology and management of bladder cancer</article-title>
+          <source>
+            <italic>New England Journal of Medicine</italic>
+          </source>
+          <year>1990</year>
+          <volume>322</volume>
+          <issue>16</issue>
+          <fpage>1129</fpage>
+          <lpage>1138</lpage>
+          <pub-id pub-id-type="pmid">2181313</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Von Der Maase</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Sengelov</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>JT</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Long-term survival results of a randomized trial comparing gemcitabine plus cisplatin, with methotrexate, vinblastine, doxorubicin, plus cisplatin in patients with bladder cancer</article-title>
+          <source>
+            <italic>Journal of Clinical Oncology</italic>
+          </source>
+          <year>2005</year>
+          <volume>23</volume>
+          <issue>21</issue>
+          <fpage>4602</fpage>
+          <lpage>4608</lpage>
+          <pub-id pub-id-type="pmid">16034041</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bepler</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Begum</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Simon</surname>
+              <given-names>GR</given-names>
+            </name>
+          </person-group>
+          <article-title>Molecular analysis-based treatment strategies for non-small cell lung cancer</article-title>
+          <source>
+            <italic>Cancer Control</italic>
+          </source>
+          <year>2008</year>
+          <volume>15</volume>
+          <issue>2</issue>
+          <fpage>130</fpage>
+          <lpage>139</lpage>
+          <pub-id pub-id-type="pmid">18376380</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gschwend</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Dahm</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Fair</surname>
+              <given-names>WR</given-names>
+            </name>
+          </person-group>
+          <article-title>Disease specific survival as endpoint of outcome for bladder cancer patients following radical cystectomy</article-title>
+          <source>
+            <italic>European Urology</italic>
+          </source>
+          <year>2002</year>
+          <volume>41</volume>
+          <issue>4</issue>
+          <fpage>440</fpage>
+          <lpage>448</lpage>
+          <pub-id pub-id-type="pmid">12074817</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quek</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Stein</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Nichols</surname>
+              <given-names>PW</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Prognostic significance of lymphovascular invasion of bladder cancer treated with radical cystectomy</article-title>
+          <source>
+            <italic>Journal of Urology</italic>
+          </source>
+          <year>2005</year>
+          <volume>174</volume>
+          <issue>1</issue>
+          <fpage>103</fpage>
+          <lpage>106</lpage>
+          <pub-id pub-id-type="pmid">15947587</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <article-title>Neoadjuvant cisplatin, methotrexate, and vinblastine chemotherapy for muscle-invasive bladder cancer: a randomised controlled trial. International collaboration of trialists</article-title>
+          <source>
+            <italic>The Lancet</italic>
+          </source>
+          <year>1999</year>
+          <volume>354</volume>
+          <issue>9178</issue>
+          <fpage>533</fpage>
+          <lpage>540</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grossman</surname>
+              <given-names>HB</given-names>
+            </name>
+            <name>
+              <surname>Natale</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Tangen</surname>
+              <given-names>CM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Neoadjuvant chemotherapy plus cystectomy compared with cystectomy alone for locally advanced bladder cancer</article-title>
+          <source>
+            <italic>New England Journal of Medicine</italic>
+          </source>
+          <year>2003</year>
+          <volume>349</volume>
+          <issue>9</issue>
+          <fpage>859</fpage>
+          <lpage>866</lpage>
+          <pub-id pub-id-type="pmid">12944571</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Griffiths</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Hall</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Sylvester</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>International phase III trial assessing neoadjuvant cisplatin, methotrexate, and vinblastine chemotherapy for muscle-invasive bladder cancer: long-term results of the BA06 30894 trial</article-title>
+          <source>
+            <italic>Journal of Clinical Oncology</italic>
+          </source>
+          <year>2011</year>
+          <volume>29</volume>
+          <issue>16</issue>
+          <fpage>2171</fpage>
+          <lpage>2177</lpage>
+          <pub-id pub-id-type="pmid">21502557</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <collab>Advanced Bladder Cancer (ABC) Meta-analysis Collaboration</collab>
+          <article-title>Neoadjuvant chemotherapy in invasive bladder cancer: update of a systematic review and meta-analysis of individual patient data advanced bladder cancer (ABC) meta-analysis collaboration</article-title>
+          <source>
+            <italic>European Urology</italic>
+          </source>
+          <year>2005</year>
+          <volume>48</volume>
+          <issue>2</issue>
+          <fpage>202</fpage>
+          <lpage>206</lpage>
+          <pub-id pub-id-type="pmid">15939524</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hussain</surname>
+              <given-names>MHA</given-names>
+            </name>
+            <name>
+              <surname>Wood</surname>
+              <given-names>DP</given-names>
+            </name>
+            <name>
+              <surname>Bajorin</surname>
+              <given-names>DF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Bladder cancer: narrowing the gap between evidence and practice</article-title>
+          <source>
+            <italic>Journal of Clinical Oncology</italic>
+          </source>
+          <year>2009</year>
+          <volume>27</volume>
+          <issue>34</issue>
+          <fpage>5680</fpage>
+          <lpage>5684</lpage>
+          <pub-id pub-id-type="pmid">19858384</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>David</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Milowsky</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Ritchey</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Carroll</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Nanus</surname>
+              <given-names>DM</given-names>
+            </name>
+          </person-group>
+          <article-title>Low incidence of perioperative chemotherapy for stage III bladder cancer 1998 to 2003: a report from the national cancer data base</article-title>
+          <source>
+            <italic>Journal of Urology</italic>
+          </source>
+          <year>2007</year>
+          <volume>178</volume>
+          <issue>2</issue>
+          <fpage>451</fpage>
+          <lpage>454</lpage>
+          <pub-id pub-id-type="pmid">17561135</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fedeli</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Fedewa</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Ward</surname>
+              <given-names>EM</given-names>
+            </name>
+          </person-group>
+          <article-title>Treatment of muscle invasive bladder cancer: evidence from the national cancer database, 2003 to 2007</article-title>
+          <source>
+            <italic>Journal of Urology</italic>
+          </source>
+          <year>2011</year>
+          <volume>185</volume>
+          <issue>1</issue>
+          <fpage>72</fpage>
+          <lpage>78</lpage>
+          <pub-id pub-id-type="pmid">21074192</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Skinner</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Daniels</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Russell</surname>
+              <given-names>CA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The role of adjuvant chemotherapy following cystectomy for invasive bladder cancer: a prospective comparative trial</article-title>
+          <source>
+            <italic>Journal of Urology</italic>
+          </source>
+          <year>1991</year>
+          <volume>145</volume>
+          <issue>3</issue>
+          <fpage>459</fpage>
+          <lpage>467</lpage>
+          <pub-id pub-id-type="pmid">1997689</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stockle</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Meyenburg</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Wellek</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Advanced bladder cancer (stages pT3b, pT4a, pN1 and pN2): improved survival after radical cystectomy and 3 adjuvant cycles of chemotherapy. Results of a controlled prospective study</article-title>
+          <source>
+            <italic>Journal of Urology</italic>
+          </source>
+          <year>1992</year>
+          <volume>148</volume>
+          <issue>2</issue>
+          <fpage>302</fpage>
+          <lpage>307</lpage>
+          <pub-id pub-id-type="pmid">1635123</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lehmann</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Franzaring</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Th&#x000fc;roff</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wellek</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>St&#x000f6;ckle</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Complete long-term survival data from a trial of adjuvant chemotherapy vs control after radical cystectomy for locally advanced bladder cancer</article-title>
+          <source>
+            <italic>BJU International</italic>
+          </source>
+          <year>2006</year>
+          <volume>97</volume>
+          <issue>1</issue>
+          <fpage>42</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="pmid">16336326</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Studer</surname>
+              <given-names>UE</given-names>
+            </name>
+            <name>
+              <surname>Bacchi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Biedermann</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Adjuvant cisplatin chemotherapy following cystectomy for bladder cancer: results of a prospective randomized trial</article-title>
+          <source>
+            <italic>Journal of Urology</italic>
+          </source>
+          <year>1994</year>
+          <volume>152</volume>
+          <issue>1</issue>
+          <fpage>81</fpage>
+          <lpage>84</lpage>
+          <pub-id pub-id-type="pmid">8201695</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sylvester</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Sternberg</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>The role of adjuvant combination chemotherapy after cystectomy in locally advanced bladder cancer: what we do not know and why</article-title>
+          <source>
+            <italic>Annals of Oncology</italic>
+          </source>
+          <year>2000</year>
+          <volume>11</volume>
+          <issue>7</issue>
+          <fpage>851</fpage>
+          <lpage>856</lpage>
+          <pub-id pub-id-type="pmid">10997813</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <collab>Advanced Bladder Cancer (ABC) Meta-analysis Collaboration</collab>
+          <article-title>Adjuvant chemotherapy in invasive bladder cancer: a systematic review and meta-analysis of individual patient data Advanced Bladder Cancer (ABC) Meta-analysis Collaboration</article-title>
+          <source>
+            <italic>European Urology</italic>
+          </source>
+          <year>2005</year>
+          <volume>48</volume>
+          <issue>2</issue>
+          <fpage>189</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="pmid">15939530</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Svatek</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Shariat</surname>
+              <given-names>SF</given-names>
+            </name>
+            <name>
+              <surname>Lasky</surname>
+              <given-names>RE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The effectiveness of off-protocol adjuvant chemotherapy for patients with urothelial carcinoma of the urinary bladder</article-title>
+          <source>
+            <italic>Clinical Cancer Research</italic>
+          </source>
+          <year>2010</year>
+          <volume>16</volume>
+          <issue>17</issue>
+          <fpage>4461</fpage>
+          <lpage>4467</lpage>
+          <pub-id pub-id-type="pmid">20651056</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Loehrer</surname>
+              <given-names>PJ</given-names>
+              <suffix>Sr.</suffix>
+            </name>
+            <name>
+              <surname>Einhorn</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Elson</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A randomized comparison of cisplatin alone or in combination with methotrexate, vinblastine, and doxorubicin in patients with metastatic urothelial carcinoma: a cooperative group study</article-title>
+          <source>
+            <italic>Journal of Clinical Oncology</italic>
+          </source>
+          <year>1992</year>
+          <volume>10</volume>
+          <issue>7</issue>
+          <fpage>1066</fpage>
+          <lpage>1073</lpage>
+          <pub-id pub-id-type="pmid">1607913</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Von der Maase</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Hansen</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>JT</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Gemcitabine and cisplatin versus methotrexate, vinblastine, doxorubicin, and cisplatin in advanced or metastatic bladder cancer: results of a large, randomized, multinational, multicenter, phase III study</article-title>
+          <source>
+            <italic>Journal of Clinical Oncology</italic>
+          </source>
+          <year>2000</year>
+          <volume>18</volume>
+          <issue>17</issue>
+          <fpage>3068</fpage>
+          <lpage>3077</lpage>
+          <pub-id pub-id-type="pmid">11001674</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sternberg</surname>
+              <given-names>CN</given-names>
+            </name>
+            <name>
+              <surname>De Mulder</surname>
+              <given-names>PHM</given-names>
+            </name>
+            <name>
+              <surname>Schornagel</surname>
+              <given-names>JH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Randomized phase III trial of high-dose-intensity methotrexate, vinblastine, doxorubicin, and cisplatin (MVAC) chemotherapy and recombinant human granulocyte colony-stimulating factor versus classic MVAC in advanced urothelial tract tumors: european organization for research and treatment of cancer protocol no. 30924</article-title>
+          <source>
+            <italic>Journal of Clinical Oncology</italic>
+          </source>
+          <year>2001</year>
+          <volume>19</volume>
+          <issue>10</issue>
+          <fpage>2638</fpage>
+          <lpage>2646</lpage>
+          <pub-id pub-id-type="pmid">11352955</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sternberg</surname>
+              <given-names>CN</given-names>
+            </name>
+            <name>
+              <surname>De Mulder</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Schornagel</surname>
+              <given-names>JH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Seven year update of an EORTC phase III trial of high-dose intensity M-VAC chemotherapy and G-CSF versus classic M-VAC in advanced urothelial tract tumours</article-title>
+          <source>
+            <italic>European Journal of Cancer</italic>
+          </source>
+          <year>2006</year>
+          <volume>42</volume>
+          <issue>1</issue>
+          <fpage>50</fpage>
+          <lpage>54</lpage>
+          <pub-id pub-id-type="pmid">16330205</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bochner</surname>
+              <given-names>BH</given-names>
+            </name>
+            <name>
+              <surname>Dalbagni</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kattan</surname>
+              <given-names>MW</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Postoperative nomogram predicting risk of recurrence after radical cystectomy for bladder cancer</article-title>
+          <source>
+            <italic>Journal of Clinical Oncology</italic>
+          </source>
+          <year>2006</year>
+          <volume>24</volume>
+          <issue>24</issue>
+          <fpage>3967</fpage>
+          <lpage>3972</lpage>
+          <pub-id pub-id-type="pmid">16864855</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karakiewicz</surname>
+              <given-names>PI</given-names>
+            </name>
+            <name>
+              <surname>Shariat</surname>
+              <given-names>SF</given-names>
+            </name>
+            <name>
+              <surname>Palapattu</surname>
+              <given-names>GS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Nomogram for predicting disease recurrence after radical cystectomy for transitional cell carcinoma of the bladder</article-title>
+          <source>
+            <italic>Journal of Urology</italic>
+          </source>
+          <year>2006</year>
+          <volume>176</volume>
+          <issue>4</issue>
+          <fpage>1354</fpage>
+          <lpage>1362</lpage>
+          <pub-id pub-id-type="pmid">16952631</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vazquez</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bond</surname>
+              <given-names>EE</given-names>
+            </name>
+            <name>
+              <surname>Levine</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Bond</surname>
+              <given-names>GL</given-names>
+            </name>
+          </person-group>
+          <article-title>The genetics of the p53 pathway, apoptosis and cancer therapy</article-title>
+          <source>
+            <italic>Nature Reviews Drug Discovery</italic>
+          </source>
+          <year>2008</year>
+          <volume>7</volume>
+          <issue>12</issue>
+          <fpage>979</fpage>
+          <lpage>987</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Esrig</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Elmajian</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Groshen</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Accumulation of nuclear p53 and tumor progression in bladder cancer</article-title>
+          <source>
+            <italic>New England Journal of Medicine</italic>
+          </source>
+          <year>1994</year>
+          <volume>331</volume>
+          <issue>19</issue>
+          <fpage>1259</fpage>
+          <lpage>1264</lpage>
+          <pub-id pub-id-type="pmid">7935683</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sarkis</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Dalbagni</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Cordon-Cardo</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Nuclear overexpression of p53 protein in transitional cell bladder carcinoma: a marker for disease progression</article-title>
+          <source>
+            <italic>Journal of the National Cancer Institute</italic>
+          </source>
+          <year>1993</year>
+          <volume>85</volume>
+          <issue>1</issue>
+          <fpage>53</fpage>
+          <lpage>59</lpage>
+          <pub-id pub-id-type="pmid">7677935</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malats</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Bustos</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Nascimento</surname>
+              <given-names>CM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>P53 as a prognostic marker for bladder cancer: a meta-analysis and review</article-title>
+          <source>
+            <italic>The Lancet Oncology</italic>
+          </source>
+          <year>2005</year>
+          <volume>6</volume>
+          <issue>9</issue>
+          <fpage>678</fpage>
+          <lpage>686</lpage>
+          <pub-id pub-id-type="pmid">16129368</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B35">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Tolis</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Giaccone</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>p53 and chemosensitivity</article-title>
+          <source>
+            <italic>Annals of Oncology</italic>
+          </source>
+          <year>1999</year>
+          <volume>10</volume>
+          <issue>9</issue>
+          <fpage>1011</fpage>
+          <lpage>1021</lpage>
+          <pub-id pub-id-type="pmid">10572598</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B36">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cote</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Esrig</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Groshen</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>p53 and treatment of bladder cancer</article-title>
+          <source>
+            <italic>Nature</italic>
+          </source>
+          <year>1997</year>
+          <volume>385</volume>
+          <issue>6612</issue>
+          <fpage>123</fpage>
+          <lpage>125</lpage>
+          <pub-id pub-id-type="pmid">8990112</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stadler</surname>
+              <given-names>WM</given-names>
+            </name>
+            <name>
+              <surname>Lerner</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Groshen</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Phase III study of molecularly targeted adjuvant therapy in locally advanced urothelial cancer of the bladder based on p53 status</article-title>
+          <source>
+            <italic>Journal of Clinical Oncology</italic>
+          </source>
+          <year>2011</year>
+          <volume>29</volume>
+          <issue>25</issue>
+          <fpage>3443</fpage>
+          <lpage>3449</lpage>
+          <pub-id pub-id-type="pmid">21810677</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B38">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Park</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Bessho</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Matsunaga</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Sancar</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Purification and characterization of the XPF-ERCC1 complex of human DNA repair excision nuclease</article-title>
+          <source>
+            <italic>Journal of Biological Chemistry</italic>
+          </source>
+          <year>1995</year>
+          <volume>270</volume>
+          <issue>39</issue>
+          <fpage>22657</fpage>
+          <lpage>22660</lpage>
+          <pub-id pub-id-type="pmid">7559382</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B39">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gossage</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Madhusudan</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Current status of excision repair cross complementing-group 1 (ERCC1) in cancer</article-title>
+          <source>
+            <italic>Cancer Treatment Reviews</italic>
+          </source>
+          <year>2007</year>
+          <volume>33</volume>
+          <issue>6</issue>
+          <fpage>565</fpage>
+          <lpage>577</lpage>
+          <pub-id pub-id-type="pmid">17707593</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B40">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vilmar</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Santoni-Rugiu</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>S&#x000f8;rensen</surname>
+              <given-names>JB</given-names>
+            </name>
+          </person-group>
+          <article-title>ERCC1 and histopathology in advanced NSCLC patients randomized in a large multicenter phase III trial</article-title>
+          <source>
+            <italic>Annals of Oncology</italic>
+          </source>
+          <year>2010</year>
+          <volume>21</volume>
+          <issue>9</issue>
+          <fpage>1817</fpage>
+          <lpage>1824</lpage>
+          <pub-id pub-id-type="pmid">20332140</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B41">
+        <label>41</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bellmunt</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Paz-Ares</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Cuello</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Gene expression of ERCC1 as a novel prognostic marker in advanced bladder cancer patients receiving cisplatin-based chemotherapy</article-title>
+          <source>
+            <italic>Annals of Oncology</italic>
+          </source>
+          <year>2007</year>
+          <volume>18</volume>
+          <issue>3</issue>
+          <fpage>522</fpage>
+          <lpage>528</lpage>
+          <pub-id pub-id-type="pmid">17229776</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B42">
+        <label>42</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoffmann</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Wild</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Leicht</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MDR1 and ERCC1 expression predict outcome of patients with locally advanced bladder cancer receiving adjuvant chemotheraphy</article-title>
+          <source>
+            <italic>Neoplasia</italic>
+          </source>
+          <year>2010</year>
+          <volume>12</volume>
+          <issue>8</issue>
+          <fpage>628</fpage>
+          <lpage>636</lpage>
+          <pub-id pub-id-type="pmid">20689757</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B43">
+        <label>43</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>KH</given-names>
+            </name>
+            <name>
+              <surname>Do</surname>
+              <given-names>IG</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>HS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Excision repair cross-complementation group 1 (ERCC1) expression in advanced urothelial carcinoma patients receiving cisplatin-based chemotherapy</article-title>
+          <source>
+            <italic>APMIS</italic>
+          </source>
+          <year>2010</year>
+          <volume>118</volume>
+          <issue>12</issue>
+          <fpage>941</fpage>
+          <lpage>948</lpage>
+          <pub-id pub-id-type="pmid">21091775</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B44">
+        <label>44</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Elledge</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Zhou</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Allen</surname>
+              <given-names>JB</given-names>
+            </name>
+          </person-group>
+          <article-title>Ribonucleotide reductase: regulation, regulation, regulation</article-title>
+          <source>
+            <italic>Trends in Biochemical Sciences</italic>
+          </source>
+          <year>1992</year>
+          <volume>17</volume>
+          <issue>3</issue>
+          <fpage>119</fpage>
+          <lpage>123</lpage>
+          <pub-id pub-id-type="pmid">1412696</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B45">
+        <label>45</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gautam</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>ZR</given-names>
+            </name>
+            <name>
+              <surname>Bepler</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>RRM1-induced metastasis suppression through PTEN-regulated pathways</article-title>
+          <source>
+            <italic>Oncogene</italic>
+          </source>
+          <year>2003</year>
+          <volume>22</volume>
+          <issue>14</issue>
+          <fpage>2135</fpage>
+          <lpage>2142</lpage>
+          <pub-id pub-id-type="pmid">12687015</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B46">
+        <label>46</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bepler</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Cantor</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>RRM1 and PTEN as prognostic parameters for overall and disease-free survival in patients with non-small-cell lung cancer</article-title>
+          <source>
+            <italic>Journal of Clinical Oncology</italic>
+          </source>
+          <year>2004</year>
+          <volume>22</volume>
+          <issue>10</issue>
+          <fpage>1878</fpage>
+          <lpage>1885</lpage>
+          <pub-id pub-id-type="pmid">15143080</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B47">
+        <label>47</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zheng</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Haura</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bepler</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>DNA synthesis and repair genes RRM1 and ERCC1 in lung cancer</article-title>
+          <source>
+            <italic>New England Journal of Medicine</italic>
+          </source>
+          <year>2007</year>
+          <volume>356</volume>
+          <issue>8</issue>
+          <fpage>800</fpage>
+          <lpage>808</lpage>
+          <pub-id pub-id-type="pmid">17314339</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B48">
+        <label>48</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bepler</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Kusmartseva</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>RRM1 modulated in vitro and in vivo efficacy of gemcitabine and platinum in non-small-cell lung cancer</article-title>
+          <source>
+            <italic>Journal of Clinical Oncology</italic>
+          </source>
+          <year>2006</year>
+          <volume>24</volume>
+          <issue>29</issue>
+          <fpage>4731</fpage>
+          <lpage>4737</lpage>
+          <pub-id pub-id-type="pmid">16966686</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B49">
+        <label>49</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Harshman</surname>
+              <given-names>LC</given-names>
+            </name>
+            <name>
+              <surname>Bepler</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Higgins</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Allen</surname>
+              <given-names>GI</given-names>
+            </name>
+            <name>
+              <surname>Srinivas</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Ribonucleotide reductase subunit M1 expression in resectable, muscle-invasive urothelial cancer correlates with survival in younger patients</article-title>
+          <source>
+            <italic>BJU International</italic>
+          </source>
+          <year>2010</year>
+          <volume>106</volume>
+          <issue>11</issue>
+          <fpage>1805</fpage>
+          <lpage>1811</lpage>
+          <pub-id pub-id-type="pmid">20438561</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B50">
+        <label>50</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mackey</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Mani</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Selner</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Functional nucleoside transporters are required for gemcitabine influx and manifestation of toxicity in cancer cell lines</article-title>
+          <source>
+            <italic>Cancer Research</italic>
+          </source>
+          <year>1998</year>
+          <volume>58</volume>
+          <issue>19</issue>
+          <fpage>4349</fpage>
+          <lpage>4357</lpage>
+          <pub-id pub-id-type="pmid">9766663</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B51">
+        <label>51</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spratlin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sangha</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Glubrecht</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The absence of human equilibrative nucleoside transporter 1 is associated with reduced survival in patients with gemcitabine-treated pancreas adenocarcinoma</article-title>
+          <source>
+            <italic>Clinical Cancer Research</italic>
+          </source>
+          <year>2004</year>
+          <volume>10</volume>
+          <issue>20</issue>
+          <fpage>6956</fpage>
+          <lpage>6961</lpage>
+          <pub-id pub-id-type="pmid">15501974</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B52">
+        <label>52</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mar&#x000e9;chal</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Mackey</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Lai</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Human equilibrative nucleoside transporter 1 and human concentrative nucleoside transporter 3 predict survival after adjuvant gemcitabine therapyin resected pancreatic adenocarcinoma</article-title>
+          <source>
+            <italic>Clinical Cancer Research</italic>
+          </source>
+          <year>2009</year>
+          <volume>15</volume>
+          <issue>8</issue>
+          <fpage>2913</fpage>
+          <lpage>2919</lpage>
+          <pub-id pub-id-type="pmid">19318496</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B53">
+        <label>53</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>S&#x000e8;ve</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Mackey</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Isaac</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>CN-II expression predicts survival in patients receiving gemcitabine for advanced non-small cell lung cancer</article-title>
+          <source>
+            <italic>Lung Cancer</italic>
+          </source>
+          <year>2005</year>
+          <volume>49</volume>
+          <issue>3</issue>
+          <fpage>363</fpage>
+          <lpage>370</lpage>
+          <pub-id pub-id-type="pmid">15923058</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B54">
+        <label>54</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mey</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Giovannetti</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>De Braud</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>In vitro synergistic cytotoxicity of gemcitabine and pemetrexed and pharmacogenetic evaluation of response to gemcitabine in bladder cancer patients</article-title>
+          <source>
+            <italic>British Journal of Cancer</italic>
+          </source>
+          <year>2006</year>
+          <volume>95</volume>
+          <issue>3</issue>
+          <fpage>289</fpage>
+          <lpage>297</lpage>
+          <pub-id pub-id-type="pmid">16868547</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B55">
+        <label>55</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsumura</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Nakamura</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Kohjimoto</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The prognostic significance of human equilibrative nucleoside transporter 1 expression in patients with metastatic bladder cancer treated with gemcitabine-cisplatin-based combination chemotherapy</article-title>
+          <source>
+            <italic>BJU International</italic>
+          </source>
+          <year>2011</year>
+          <volume>108</volume>
+          <issue>2</issue>
+          <fpage>E110</fpage>
+          <lpage>E116</lpage>
+          <pub-id pub-id-type="pmid">21166756</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B56">
+        <label>56</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Fishel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Greene</surname>
+              <given-names>MI</given-names>
+            </name>
+          </person-group>
+          <article-title>BRCA1 and cell signaling</article-title>
+          <source>
+            <italic>Oncogene</italic>
+          </source>
+          <year>2000</year>
+          <volume>19</volume>
+          <issue>53</issue>
+          <fpage>6152</fpage>
+          <lpage>6158</lpage>
+          <pub-id pub-id-type="pmid">11156529</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B57">
+        <label>57</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quinn</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>James</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>GE</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>BRCA1 mRNA expression levels predict for overall survival in ovarian cancer after chemotherapy</article-title>
+          <source>
+            <italic>Clinical Cancer Research</italic>
+          </source>
+          <year>2007</year>
+          <volume>13</volume>
+          <issue>24</issue>
+          <fpage>7413</fpage>
+          <lpage>7420</lpage>
+          <pub-id pub-id-type="pmid">18094425</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B58">
+        <label>58</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taron</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rosell</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Felip</surname>
+              <given-names>E</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>BRCA1 mRNA expression levels as an indicator of chemoresistance in lung cancer</article-title>
+          <source>
+            <italic>Human Molecular Genetics</italic>
+          </source>
+          <year>2004</year>
+          <volume>13</volume>
+          <issue>20</issue>
+          <fpage>2443</fpage>
+          <lpage>2449</lpage>
+          <pub-id pub-id-type="pmid">15317748</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B59">
+        <label>59</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Font</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Taron</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gago</surname>
+              <given-names>JL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>BRCA1 mRNA expression and outcome to neoadjuvant cisplatin-based chemotherapy in bladder cancer</article-title>
+          <source>
+            <italic>Annals of Oncology</italic>
+          </source>
+          <year>2011</year>
+          <volume>22</volume>
+          <issue>1</issue>
+          <fpage>139</fpage>
+          <lpage>144</lpage>
+          <pub-id pub-id-type="pmid">20603439</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B60">
+        <label>60</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tada</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wada</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Kuroiwa</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MRD1 gene overexpression and altered degree of methylation at the promoter region in bladder cancer during chemotherapeutic treatment</article-title>
+          <source>
+            <italic>Clinical Cancer Research</italic>
+          </source>
+          <year>2000</year>
+          <volume>6</volume>
+          <issue>12</issue>
+          <fpage>4618</fpage>
+          <lpage>4627</lpage>
+          <pub-id pub-id-type="pmid">11156211</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B61">
+        <label>61</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adams</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Cory</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>The Bcl-2 protein family: arbiters of cell survival</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>1998</year>
+          <volume>281</volume>
+          <issue>5381</issue>
+          <fpage>1322</fpage>
+          <lpage>1326</lpage>
+          <pub-id pub-id-type="pmid">9735050</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B62">
+        <label>62</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kong</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Shin</surname>
+              <given-names>KY</given-names>
+            </name>
+            <name>
+              <surname>Oh</surname>
+              <given-names>YH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Bcl-2 and p53 expressions in invasive bladder cancers</article-title>
+          <source>
+            <italic>Acta Oncologica</italic>
+          </source>
+          <year>1998</year>
+          <volume>37</volume>
+          <issue>7-8</issue>
+          <fpage>715</fpage>
+          <lpage>720</lpage>
+          <pub-id pub-id-type="pmid">10050992</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B63">
+        <label>63</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ong</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Moonen</surname>
+              <given-names>LMF</given-names>
+            </name>
+            <name>
+              <surname>Gallee</surname>
+              <given-names>MPW</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Prognostic factors in transitional cell cancer of the bladder: an emerging role for Bcl-2 and p53</article-title>
+          <source>
+            <italic>Radiotherapy and Oncology</italic>
+          </source>
+          <year>2001</year>
+          <volume>61</volume>
+          <issue>2</issue>
+          <fpage>169</fpage>
+          <lpage>175</lpage>
+          <pub-id pub-id-type="pmid">11690683</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B64">
+        <label>64</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karam</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Lotan</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Karakiewicz</surname>
+              <given-names>PI</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Use of combined apoptosis biomarkers for prediction of bladder cancer recurrence and mortality after radical cystectomy</article-title>
+          <source>
+            <italic>The Lancet Oncology</italic>
+          </source>
+          <year>2007</year>
+          <volume>8</volume>
+          <issue>2</issue>
+          <fpage>128</fpage>
+          <lpage>136</lpage>
+          <pub-id pub-id-type="pmid">17267327</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B65">
+        <label>65</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>RC</given-names>
+            </name>
+            <name>
+              <surname>Feinbaum</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Ambros</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>1993</year>
+          <volume>75</volume>
+          <issue>5</issue>
+          <fpage>843</fpage>
+          <lpage>854</lpage>
+          <pub-id pub-id-type="pmid">8252621</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B66">
+        <label>66</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wightman</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Ha</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Ruvkun</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Posttranscriptional regulation of the heterochronic gene lin-14 by lin-4 mediates temporal pattern formation in C. elegans</article-title>
+          <source>
+            <italic>Cell</italic>
+          </source>
+          <year>1993</year>
+          <volume>75</volume>
+          <issue>5</issue>
+          <fpage>855</fpage>
+          <lpage>862</lpage>
+          <pub-id pub-id-type="pmid">8252622</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B67">
+        <label>67</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>YS</given-names>
+            </name>
+            <name>
+              <surname>Dutta</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>MicroRNAs in cancer</article-title>
+          <source>
+            <italic>Annual Review of Pathology</italic>
+          </source>
+          <year>2009</year>
+          <volume>4</volume>
+          <fpage>199</fpage>
+          <lpage>227</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B68">
+        <label>68</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Catto</surname>
+              <given-names>JWF</given-names>
+            </name>
+            <name>
+              <surname>Alcaraz</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bjartell</surname>
+              <given-names>AS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MicroRNA in prostate, bladder, and kidney cancer: a systematic review</article-title>
+          <source>
+            <italic>European Urology</italic>
+          </source>
+          <year>2011</year>
+          <volume>59</volume>
+          <fpage>671</fpage>
+          <lpage>681</lpage>
+          <pub-id pub-id-type="pmid">21296484</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B69">
+        <label>69</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Han</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MicroRNA expression signatures of bladder cancer revealed by deep sequencing</article-title>
+          <source>
+            <italic>PLoS One</italic>
+          </source>
+          <year>2011</year>
+          <volume>6</volume>
+          <issue>3</issue>
+          <comment>Article ID e18286.</comment>
+        </element-citation>
+      </ref>
+      <ref id="B70">
+        <label>70</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>X</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Comparative mRNA and microrna expression profiling of three genitourinary cancers reveals common hallmarks and Cancer-Specific molecular events</article-title>
+          <source>
+            <italic>PLoS One</italic>
+          </source>
+          <year>2011</year>
+          <volume>6</volume>
+          <issue>7</issue>
+          <comment>Article ID e22570.</comment>
+        </element-citation>
+      </ref>
+      <ref id="B71">
+        <label>71</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bommer</surname>
+              <given-names>GT</given-names>
+            </name>
+            <name>
+              <surname>Gerin</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Feng</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>p53-mediated activation of miRNA34 candidate tumor-suppressor genes</article-title>
+          <source>
+            <italic>Current Biology</italic>
+          </source>
+          <year>2007</year>
+          <volume>17</volume>
+          <issue>15</issue>
+          <fpage>1298</fpage>
+          <lpage>1307</lpage>
+          <pub-id pub-id-type="pmid">17656095</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B72">
+        <label>72</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Welch</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Stallings</surname>
+              <given-names>RL</given-names>
+            </name>
+          </person-group>
+          <article-title>MicroRNA-34a functions as a potential tumor suppressor by inducing apoptosis in neuroblastoma cells</article-title>
+          <source>
+            <italic>Oncogene</italic>
+          </source>
+          <year>2007</year>
+          <volume>26</volume>
+          <issue>34</issue>
+          <fpage>5017</fpage>
+          <lpage>5022</lpage>
+          <pub-id pub-id-type="pmid">17297439</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B73">
+        <label>73</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vinall</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Zripoll</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>MiR-34a chemo-sensitizes bladder cancer cells to cisplatin treatment regardless of P53-Rb pathway status</article-title>
+          <comment>
+            <italic>International Journal of Cancer</italic>. In press
+          </comment>
+        </element-citation>
+      </ref>
+      <ref id="B74">
+        <label>74</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Takata</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Katagiri</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kanehira</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Predicting response to methotrexate, vinblastine, doxorubicin, and cisplatin neoadjuvant chemotherapy for bladder cancers through genome-wide gene expression profiling</article-title>
+          <source>
+            <italic>Clinical Cancer Research</italic>
+          </source>
+          <year>2005</year>
+          <volume>11</volume>
+          <issue>7</issue>
+          <fpage>2625</fpage>
+          <lpage>2636</lpage>
+          <pub-id pub-id-type="pmid">15814643</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B75">
+        <label>75</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Takata</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Katagiri</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kanehira</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Validation study of the prediction system for clinical response of M-VAC neoadjuvant chemotherapy</article-title>
+          <source>
+            <italic>Cancer Science</italic>
+          </source>
+          <year>2007</year>
+          <volume>98</volume>
+          <issue>1</issue>
+          <fpage>113</fpage>
+          <lpage>117</lpage>
+          <pub-id pub-id-type="pmid">17116130</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B76">
+        <label>76</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Havaleshko</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A strategy for predicting the chemosensitivity of human cancers and its application to drug discovery</article-title>
+          <source>
+            <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+          </source>
+          <year>2007</year>
+          <volume>104</volume>
+          <issue>32</issue>
+          <fpage>13086</fpage>
+          <lpage>13091</lpage>
+          <pub-id pub-id-type="pmid">17666531</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B77">
+        <label>77</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Williams</surname>
+              <given-names>PD</given-names>
+            </name>
+            <name>
+              <surname>Cheon</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Havaleshko</surname>
+              <given-names>DM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Concordant gene expression signatures predict clinical outcomes of cancer patients undergoing systemic therapy</article-title>
+          <source>
+            <italic>Cancer Research</italic>
+          </source>
+          <year>2009</year>
+          <volume>69</volume>
+          <issue>21</issue>
+          <fpage>8302</fpage>
+          <lpage>8309</lpage>
+          <pub-id pub-id-type="pmid">19843853</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B78">
+        <label>78</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Matsuoka</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ballif</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Smogorzewska</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>ATM and ATR substrate analysis reveals extensive protein networks responsive to DNA damage</article-title>
+          <source>
+            <italic>Science</italic>
+          </source>
+          <year>2007</year>
+          <volume>316</volume>
+          <issue>5828</issue>
+          <fpage>1160</fpage>
+          <lpage>1166</lpage>
+          <pub-id pub-id-type="pmid">17525332</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B79">
+        <label>79</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henderson</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>Pan</surname>
+              <given-names>CX</given-names>
+            </name>
+          </person-group>
+          <article-title>Human microdosing for the prediction of patient response</article-title>
+          <source>
+            <italic>Bioanalysis</italic>
+          </source>
+          <year>2010</year>
+          <volume>2</volume>
+          <issue>3</issue>
+          <fpage>373</fpage>
+          <lpage>376</lpage>
+          <pub-id pub-id-type="pmid">21083245</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B80">
+        <label>80</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henderson</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A microdosing approach for characterizing formation and repair of carboplatin-DNA monoadducts and chemoresistance</article-title>
+          <source>
+            <italic>International Journal of Cancer</italic>
+          </source>
+          <year>2011</year>
+          <volume>129</volume>
+          <issue>6</issue>
+          <fpage>1425</fpage>
+          <lpage>1434</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B81">
+        <label>81</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Parker</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Tarone</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Platinum-DNA damage in leukocyte DNA of patients receiving carboplatin and cisplatin chemotherapy, measured by atomic absorption spectrometry</article-title>
+          <source>
+            <italic>Carcinogenesis</italic>
+          </source>
+          <year>1991</year>
+          <volume>12</volume>
+          <issue>7</issue>
+          <fpage>1253</fpage>
+          <lpage>1258</lpage>
+          <pub-id pub-id-type="pmid">2070490</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B82">
+        <label>82</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonetti</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Apostoli</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Zaninelli</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Inductively coupled plasma mass spectroscopy quantitation of platinum-DNA adducts in peripheral blood leukocytes of patients receiving cisplatin- or carboplatin-based chemotherapy</article-title>
+          <source>
+            <italic>Clinical Cancer Research</italic>
+          </source>
+          <year>1996</year>
+          <volume>2</volume>
+          <issue>11</issue>
+          <fpage>1829</fpage>
+          <lpage>1835</lpage>
+          <pub-id pub-id-type="pmid">9816137</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B83">
+        <label>83</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fichtinger-Schepman</surname>
+              <given-names>AMJ</given-names>
+            </name>
+            <name>
+              <surname>Van Der Velde-Visser</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Van Dijk-Knijnenburg</surname>
+              <given-names>HCM</given-names>
+            </name>
+            <name>
+              <surname>Van Oosterom</surname>
+              <given-names>AT</given-names>
+            </name>
+            <name>
+              <surname>Baan</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Berends</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Kinetics of the formation and removal of cisplatin-DNA adducts in blood cells and tumor tissue of cancer patients receiving chemotherapy: comparison with in vitro adduct formation</article-title>
+          <source>
+            <italic>Cancer Research</italic>
+          </source>
+          <year>1990</year>
+          <volume>50</volume>
+          <issue>24</issue>
+          <fpage>7887</fpage>
+          <lpage>7894</lpage>
+          <pub-id pub-id-type="pmid">2253228</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B84">
+        <label>84</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fisch</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Howard</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Einhorn</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Sledge</surname>
+              <given-names>GW</given-names>
+            </name>
+          </person-group>
+          <article-title>Relationship between platinum-DNA adducts in leukocytes of patients with advanced germ cell cancer and survival</article-title>
+          <source>
+            <italic>Clinical Cancer Research</italic>
+          </source>
+          <year>1996</year>
+          <volume>2</volume>
+          <issue>6</issue>
+          <fpage>1063</fpage>
+          <lpage>1066</lpage>
+          <pub-id pub-id-type="pmid">9816268</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B85">
+        <label>85</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoebers</surname>
+              <given-names>FJP</given-names>
+            </name>
+            <name>
+              <surname>Pluim</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Hart</surname>
+              <given-names>AAM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cisplatin-DNA adduct formation in patients treated with cisplatin-based chemoradiation: lack of correlation between normal tissues and primary tumor</article-title>
+          <source>
+            <italic>Cancer Chemotherapy and Pharmacology</italic>
+          </source>
+          <year>2008</year>
+          <volume>61</volume>
+          <issue>6</issue>
+          <fpage>1075</fpage>
+          <lpage>1081</lpage>
+          <pub-id pub-id-type="pmid">17639394</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B86">
+        <label>86</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Motzer</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Reed</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Perera</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Platinum-DNA adducts assayed in leukocytes of patients with germ cell tumors measured by atomic absorbance spectrometry and enzyme-linked immunosorbent assay</article-title>
+          <source>
+            <italic>Cancer</italic>
+          </source>
+          <year>1994</year>
+          <volume>73</volume>
+          <issue>11</issue>
+          <fpage>2843</fpage>
+          <lpage>2852</lpage>
+          <pub-id pub-id-type="pmid">7514956</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B87">
+        <label>87</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reed</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Ozols</surname>
+              <given-names>RF</given-names>
+            </name>
+            <name>
+              <surname>Tarone</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Platinum-DNA adducts in leukocyte DNA correlate with disease response in ovarian cancer patients receiving platinum-based chemotherapy</article-title>
+          <source>
+            <italic>Proceedings of the National Academy of Sciences of the United States of America</italic>
+          </source>
+          <year>1987</year>
+          <volume>84</volume>
+          <issue>14</issue>
+          <fpage>5024</fpage>
+          <lpage>5028</lpage>
+          <pub-id pub-id-type="pmid">3110781</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B88">
+        <label>88</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reed</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Parker</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>I</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Platinum-DNA adduct in leukocyte DNA of a cohort of 49 patients with 24 different types of malignancies</article-title>
+          <source>
+            <italic>Cancer Research</italic>
+          </source>
+          <year>1993</year>
+          <volume>53</volume>
+          <issue>16</issue>
+          <fpage>3694</fpage>
+          <lpage>3699</lpage>
+          <pub-id pub-id-type="pmid">8339278</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B89">
+        <label>89</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schellens</surname>
+              <given-names>JHM</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Planting</surname>
+              <given-names>AST</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Relationship between the exposure to cisplatin, DNA-adduct formation in leucocytes and tumour response in patients with solid tumours</article-title>
+          <source>
+            <italic>British Journal of Cancer</italic>
+          </source>
+          <year>1996</year>
+          <volume>73</volume>
+          <issue>12</issue>
+          <fpage>1569</fpage>
+          <lpage>1575</lpage>
+          <pub-id pub-id-type="pmid">8664132</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B90">
+        <label>90</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Van De Vaart</surname>
+              <given-names>PJM</given-names>
+            </name>
+            <name>
+              <surname>Belderbos</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>De Jong</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>DNA-adduct levels as a predictor of outcome for NSCLC patients receiving daily cisplatin and radiotherapy</article-title>
+          <source>
+            <italic>International Journal of Cancer</italic>
+          </source>
+          <year>2000</year>
+          <volume>86</volume>
+          <issue>3</issue>
+          <fpage>160</fpage>
+          <lpage>166</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B91">
+        <label>91</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogel</surname>
+              <given-names>JS</given-names>
+            </name>
+          </person-group>
+          <article-title>Accelerator mass spectrometry for quantitative in vivo tracing</article-title>
+          <source>
+            <italic>BioTechniques</italic>
+          </source>
+          <year>2005</year>
+          <fpage>25</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="pmid">16528913</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B92">
+        <label>92</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vogel</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Turteltaub</surname>
+              <given-names>KW</given-names>
+            </name>
+            <name>
+              <surname>Finkel</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Nelson</surname>
+              <given-names>DE</given-names>
+            </name>
+          </person-group>
+          <article-title>Accelerator mass spectrometry: isotope quantification at attomole sensitivity</article-title>
+          <source>
+            <italic>Analytical Chemistry</italic>
+          </source>
+          <year>1995</year>
+          <volume>67</volume>
+          <issue>11</issue>
+          <fpage>353A</fpage>
+          <lpage>359A</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B93">
+        <label>93</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guilderson</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Caldeira</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Duffy</surname>
+              <given-names>PB</given-names>
+            </name>
+          </person-group>
+          <article-title>Radiocarbon as a diagnostic tracer in ocean and carbon cycle modeling</article-title>
+          <source>
+            <italic>Global Biogeochemical Cycles</italic>
+          </source>
+          <year>2000</year>
+          <volume>14</volume>
+          <issue>3</issue>
+          <fpage>887</fpage>
+          <lpage>902</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B94">
+        <label>94</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Lippard</surname>
+              <given-names>SJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Cellular processing of platinum anticancer drugs</article-title>
+          <source>
+            <italic>Nature Reviews Drug Discovery</italic>
+          </source>
+          <year>2005</year>
+          <volume>4</volume>
+          <issue>4</issue>
+          <fpage>307</fpage>
+          <lpage>320</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B95">
+        <label>95</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Malfatti</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Gemcitabine causes minimal modulation of carboplatin-DNA monoadduct formation and repair in bladder cancer cells</article-title>
+          <source>
+            <italic>Chemical Research in Toxicology</italic>
+          </source>
+          <year>2010</year>
+          <volume>23</volume>
+          <issue>11</issue>
+          <fpage>1653</fpage>
+          <lpage>1655</lpage>
+          <pub-id pub-id-type="pmid">21028869</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B96">
+        <label>96</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Flaig</surname>
+              <given-names>TW</given-names>
+            </name>
+          </person-group>
+          <article-title>Novel targeted agents for the treatment of bladder cancer: translating laboratory advances into clinical application</article-title>
+          <source>
+            <italic>International Brazilian Journal of Urology</italic>
+          </source>
+          <year>2010</year>
+          <volume>36</volume>
+          <issue>3</issue>
+          <fpage>273</fpage>
+          <lpage>282</lpage>
+          <pub-id pub-id-type="pmid">20602819</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="fig1" position="float">
+      <label>Figure 1</label>
+      <caption>
+        <p>Pathways leading to chemotherapy-induced cell death and resistance. The major steps are shown in the sequential order. DNA damage is the critical step in this response pathway. Cells with low chemotherapy-induced DNA damage will survive chemotherapy and are chemoresistant. We propose that chemoresistance can possibly be identified by measuring chemotherapy-induced DNA damage and that some of the underlying resistance mechanisms can potentially be elucidated by measuring the other major steps such as metabolism, cell uptake/efflux, and DNA repair. The underlined steps can be determined with AMS.</p>
+      </caption>
+      <graphic xlink:href="AU2012-364919.001"/>
+    </fig>
+    <table-wrap id="tab1" position="float">
+      <label>Table 1</label>
+      <caption>
+        <p>Single gene markers for prognosis and prediction of response in bladder cancer. </p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" rowspan="1" colspan="1">Markers</th>
+            <th align="left" rowspan="1" colspan="1">Function</th>
+            <th align="left" rowspan="1" colspan="1">Relation to bladder cancer</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">p53<sup>34</sup></td>
+            <td align="left" rowspan="1" colspan="1">Tumor suppressor, DNA repair, and apoptosis</td>
+            <td align="left" rowspan="1" colspan="1">p53 mutation associated with high recurrence and progression</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">ERCC1<sup>41-43</sup></td>
+            <td align="left" rowspan="1" colspan="1">DNA repair</td>
+            <td align="left" rowspan="1" colspan="1">Low expression associated with increased response to platinum-based chemotherapy</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">RRM1<sup>41,&#x02009;&#x02009;49</sup></td>
+            <td align="left" rowspan="1" colspan="1">Synthesis of deoxyribonucleotides</td>
+            <td align="left" rowspan="1" colspan="1">High expression with improved survival and possibly resistance to gemcitabine</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">hENT1<sup>54-55</sup></td>
+            <td align="left" rowspan="1" colspan="1">Nucleoside transporter</td>
+            <td align="left" rowspan="1" colspan="1">Sensitivity to gemcitabine</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">BRCA1<sup>59</sup></td>
+            <td align="left" rowspan="1" colspan="1">DNA repair</td>
+            <td align="left" rowspan="1" colspan="1">Low expression related to increased response and prolonged survival</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">MDR1<sup>42,&#x02009;&#x02009;60</sup></td>
+            <td align="left" rowspan="1" colspan="1">P-glycoprotein efflux pump</td>
+            <td align="left" rowspan="1" colspan="1">High expression associated with resistance to chemotherapy</td>
+          </tr>
+          <tr>
+            <td align="left" rowspan="1" colspan="1">Bcl-2<sup>64</sup></td>
+            <td align="left" rowspan="1" colspan="1">Antiapoptosis protein</td>
+            <td align="left" rowspan="1" colspan="1">Associated with more advanced stage and worse prognosis</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>
+
+

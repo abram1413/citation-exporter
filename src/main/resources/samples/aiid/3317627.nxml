@@ -1,0 +1,83 @@
+<!-- ArticleInstanceId : 3317627, Path: yjbm/85-2012/2/preload/nxml/, Name : yjbm_85_2_163.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="retraction">
+  <?DTDIdentifier.IdentifierValue http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd?>
+  <?DTDIdentifier.IdentifierType system?>
+  <?SourceDTD.DTDName journalpublishing3.dtd?>
+  <?SourceDTD.Version 3.0?>
+  <?ConverterInfo.XSLTName jp2nlmx2.xsl?>
+  <?ConverterInfo.Version 2?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Yale J Biol Med</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Yale J Biol Med</journal-id>
+      <journal-id journal-id-type="pmc">yjbm</journal-id>
+      <journal-id journal-id-type="publisher-id">YJBM</journal-id>
+      <journal-title-group>
+        <journal-title>The Yale Journal of Biology and Medicine</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0044-0086</issn>
+      <issn pub-type="epub">1551-4056</issn>
+      <publisher>
+        <publisher-name>YJBM</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">22473496</article-id>
+      <article-id pub-id-type="publisher-id">yjbm852163</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Retraction</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Retraction: Reducing the Harm of Stress: Medications to Rescue the Prefrontal Cortex and Overcome Bad Habits</article-title>
+        <subtitle>The Science of Stress: Focus on the Brain, Breaking Bad Habits, and Chronic Disease</subtitle>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jin</surname>
+            <given-names>Lu E.</given-names>
+          </name>
+        </contrib>
+        <aff>Department of Neurobiology, Yale School of Medicine, New Haven, Connecticut</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp>To whom all correspondence should be addressed: Lu E. Jin, Department of Neurobiology, Yale School of Medicine, 200 South Frontage Road, New Haven, CT 06511; E-mail: <email>Lu.jin@yale.edu</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>04</day>
+        <month>4</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>6</month>
+        <year>2012</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>4</day>
+        <month>4</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>85</volume>
+      <issue>2</issue>
+      <fpage>163</fpage>
+      <lpage>163</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#x000a9;2012, Yale Journal of Biology and Medicine</copyright-statement>
+        <copyright-year>2012</copyright-year>
+        <copyright-holder>Yale Journal of Biology and Medicine</copyright-holder>
+        <license license-type="open access">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial No Derivatives License, which permits for noncommercial use, distribution, and reproduction in any digital medium, provided the original work is properly cited and is not altered in any way.</license-p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <p>The Editors of the <italic>Yale Journal of Biology and Medicine</italic> have retracted "Reducing the Harm of Stress" <related-article xlink:href="3238325" related-article-type="retracted-article" vol="84" page="479" ext-link-type="pmcid" id="d34e82"/> after it came to their attention that some of the data mentioned in this piece did not have prior approval from the symposium presenter for publication.
+    </p>
+  </body>
+</article>
+
+

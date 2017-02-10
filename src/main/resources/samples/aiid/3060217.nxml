@@ -1,0 +1,115 @@
+<!-- ArticleInstanceId : 3060217, Path: cmaj/183-2011/5/preload/nxml/, Name : 183e306.nxml -->
+<?release-delay 12|0?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="other">
+  <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>
+  <?DTDIdentifier.IdentifierType public?>
+  <?SourceDTD.DTDName journalpublishing.dtd?>
+  <?SourceDTD.Version 2.3?>
+  <?ConverterInfo.XSLTName jp2nlmx2.xsl?>
+  <?ConverterInfo.Version 2?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">CMAJ</journal-id>
+      <journal-id journal-id-type="publisher-id">9711805</journal-id>
+      <journal-title-group>
+        <journal-title>CMAJ : Canadian Medical Association Journal</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0820-3946</issn>
+      <issn pub-type="epub">1488-2329</issn>
+      <publisher>
+        <publisher-name>Canadian Medical Association</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1503/cmaj.101393</article-id>
+      <article-id pub-id-type="publisher-id">183e306</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Humanities</subject>
+          <subj-group>
+            <subject>Poetry</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Love poem</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Neilson</surname>
+            <given-names>Shane</given-names>
+          </name>
+          <role>Family physician</role>
+        </contrib>
+        <aff id="af1-183e306">Guelph, Ont</aff>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <day>22</day>
+        <month>3</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>22</day>
+        <month>3</month>
+        <year>2012</year>
+      </pub-date>
+<!-- PMC Release delay is 12 months and 0 days and was based on the <pub-date pub-type="ppub"/>. -->
+      <volume>183</volume>
+      <issue>5</issue>
+      <fpage>E306</fpage>
+      <lpage>E306</lpage>
+      <permissions>
+        <copyright-statement>&#x000a9; 1995-2011, Canadian Medical Association</copyright-statement>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <verse-group>
+      <verse-line>My darling, I&#x02019;ve plied the true and saving grace</verse-line>
+      <verse-line>amongst recalcitrant hearts, recidivist kidneys</verse-line>
+      <verse-line>that sing the chronic song, wiped tears from faces,</verse-line>
+      <verse-line>measured liver spans as if they were bridges</verse-line>
+      <verse-line>and I were always spanning to you, to you.</verse-line>
+    </verse-group>
+    <verse-group>
+      <verse-line>I remember looking out the window of the ICU</verse-line>
+      <verse-line>and seeing the world, gold and green, women</verse-line>
+      <verse-line>with strollers, cars and plash, and there was love:</verse-line>
+      <verse-line>leveraged as the fallback plan, the one line held</verse-line>
+      <verse-line>or damn the campaign, there being no other side</verse-line>
+      <verse-line>to join.</verse-line>
+    </verse-group>
+    <verse-group>
+      <verse-line>I&#x02019;m tired. My hands were in ten bodies today,</verse-line>
+      <verse-line>but this morning, I rolled over bad-back griefs,</verse-line>
+      <verse-line>stirred by the early AM alarm, and spied your face:</verse-line>
+      <verse-line>impassive, gently breathing. There is no way</verse-line>
+      <verse-line>to lie there and not be Herculean: able to wish</verse-line>
+      <verse-line>the massive hospital away, able to touch your hair</verse-line>
+      <verse-line>and multiply the wishes to a thousand, falling wide</verse-line>
+      <verse-line>and long off the mark.</verse-line>
+    </verse-group>
+    <verse-group>
+      <verse-line>My darling bride, wield</verse-line>
+      <verse-line>your beauty as surpassing, as your say:</verse-line>
+      <verse-line>I walk to the hospital with recalcitrant heart,</verse-line>
+      <verse-line>with wishes dwindling to a to-do list</verse-line>
+      <verse-line>that prepares me for the OR, for the wards,</verse-line>
+      <verse-line>for that window where South Street peeks out</verse-line>
+      <verse-line>and Halifax could be any other day, a different precipice.</verse-line>
+      <verse-line>I could be another man, broad and limber, tall</verse-line>
+      <verse-line>and fierce, withstanding pain; but I&#x02019;m a doctor,</verse-line>
+      <verse-line>with catheters in the dam, the plash of blood</verse-line>
+      <verse-line>and the plash of wishes long fallen wide,</verse-line>
+      <verse-line>off the mark we made.</verse-line>
+    </verse-group>
+    <fig id="f1-183e306" position="anchor">
+      <graphic xlink:href="183e306f1"/>
+      <attrib>Image courtesy of &#x000a9;2011 Jupiterimages Corp.</attrib>
+    </fig>
+  </body>
+</article>
+
+

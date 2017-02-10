@@ -1,0 +1,3545 @@
+<!-- ArticleInstanceId : 2714974, Path: wtpa/5-2009/205/wtpa5232/preload/nxml/, Name : ukmss-5232.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties manuscript?>
+  <?iso-abbr Nature?>
+  <?submitter-system ukmss?>
+  <?submitter-userid 12819?>
+  <?submitter-authority WT?>
+  <?submitter-login sd1?>
+  <?submitter-name Sancha Martin?>
+  <?origin ukpmcpa?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-journal-id">0410462</journal-id>
+      <journal-id journal-id-type="pubmed-jr-id">6011</journal-id>
+      <journal-id journal-id-type="nlm-ta">Nature</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Nature</journal-id>
+      <journal-title-group>
+        <journal-title>Nature</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0028-0836</issn>
+      <issn pub-type="epub">1476-4687</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">17529967</article-id>
+      <article-id pub-id-type="doi">10.1038/nature05887</article-id>
+      <article-id pub-id-type="manuscript">wtpa5232</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Genome-wide association study identifies novel breast cancer susceptibility loci</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Easton</surname>
+            <given-names>Douglas F.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pooley</surname>
+            <given-names>Karen A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dunning</surname>
+            <given-names>Alison M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pharoah</surname>
+            <given-names>Paul D. P.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Thompson</surname>
+            <given-names>Deborah</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ballinger</surname>
+            <given-names>Dennis G.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Struewing</surname>
+            <given-names>Jeffery P.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Morrison</surname>
+            <given-names>Jonathan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Field</surname>
+            <given-names>Helen</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Luben</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wareham</surname>
+            <given-names>Nicholas</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ahmed</surname>
+            <given-names>Shahana</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Healey</surname>
+            <given-names>Catherine S.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bowman</surname>
+            <given-names>Richard</given-names>
+          </name>
+          <xref ref-type="aff" rid="A6">6</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <collab>the SEARCH collaborators</collab>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meyer</surname>
+            <given-names>Kerstin B.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Haiman</surname>
+            <given-names>Christopher A.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A8">8</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kolonel</surname>
+            <given-names>Laurence K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A9">9</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Henderson</surname>
+            <given-names>Brian E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A8">8</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Marchand</surname>
+            <given-names>Loic Le</given-names>
+          </name>
+          <xref ref-type="aff" rid="A9">9</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brennan</surname>
+            <given-names>Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sangrajrang</surname>
+            <given-names>Suleeporn</given-names>
+          </name>
+          <xref ref-type="aff" rid="A11">11</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gaborieau</surname>
+            <given-names>Valerie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Odefrey</surname>
+            <given-names>Fabrice</given-names>
+          </name>
+          <xref ref-type="aff" rid="A10">10</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shen</surname>
+            <given-names>Chen-Yang</given-names>
+          </name>
+          <xref ref-type="aff" rid="A12">12</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wu</surname>
+            <given-names>Pei-Ei</given-names>
+          </name>
+          <xref ref-type="aff" rid="A12">12</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Hui-Chun</given-names>
+          </name>
+          <xref ref-type="aff" rid="A12">12</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eccles</surname>
+            <given-names>Diana</given-names>
+          </name>
+          <xref ref-type="aff" rid="A13">13</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Evans</surname>
+            <given-names>D. Gareth</given-names>
+          </name>
+          <xref ref-type="aff" rid="A14">14</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Peto</surname>
+            <given-names>Julian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A15">15</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fletcher</surname>
+            <given-names>Olivia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A16">16</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Johnson</surname>
+            <given-names>Nichola</given-names>
+          </name>
+          <xref ref-type="aff" rid="A16">16</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Seal</surname>
+            <given-names>Sheila</given-names>
+          </name>
+          <xref ref-type="aff" rid="A17">17</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Stratton</surname>
+            <given-names>Michael R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A17">17</xref>
+          <xref ref-type="aff" rid="A18">18</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rahman</surname>
+            <given-names>Nazneen</given-names>
+          </name>
+          <xref ref-type="aff" rid="A17">17</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chenevix-Trench</surname>
+            <given-names>Georgia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A19">19</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bojesen</surname>
+            <given-names>Stig E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A20">20</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nordestgaard</surname>
+            <given-names>B&#x000f8;rge G.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A20">20</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Axelsson</surname>
+            <given-names>Christen K.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A21">21</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Garcia-Closas</surname>
+            <given-names>Montserrat</given-names>
+          </name>
+          <xref ref-type="aff" rid="A22">22</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brinton</surname>
+            <given-names>Louise</given-names>
+          </name>
+          <xref ref-type="aff" rid="A22">22</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chanock</surname>
+            <given-names>Stephen</given-names>
+          </name>
+          <xref ref-type="aff" rid="A23">23</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lissowska</surname>
+            <given-names>Jolanta</given-names>
+          </name>
+          <xref ref-type="aff" rid="A24">24</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Peplonska</surname>
+            <given-names>Beata</given-names>
+          </name>
+          <xref ref-type="aff" rid="A25">25</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nevanlinna</surname>
+            <given-names>Heli</given-names>
+          </name>
+          <xref ref-type="aff" rid="A26">26</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fagerholm</surname>
+            <given-names>Rainer</given-names>
+          </name>
+          <xref ref-type="aff" rid="A26">26</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eerola</surname>
+            <given-names>Hannaleena</given-names>
+          </name>
+          <xref ref-type="aff" rid="A26">26</xref>
+          <xref ref-type="aff" rid="A27">27</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kang</surname>
+            <given-names>Daehee</given-names>
+          </name>
+          <xref ref-type="aff" rid="A28">28</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yoo</surname>
+            <given-names>Keun-Young</given-names>
+          </name>
+          <xref ref-type="aff" rid="A28">28</xref>
+          <xref ref-type="aff" rid="A29">29</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Noh</surname>
+            <given-names>Dong-Young</given-names>
+          </name>
+          <xref ref-type="aff" rid="A28">28</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ahn</surname>
+            <given-names>Sei-Hyun</given-names>
+          </name>
+          <xref ref-type="aff" rid="A30">30</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hunter</surname>
+            <given-names>David J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A31">31</xref>
+          <xref ref-type="aff" rid="A32">32</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hankinson</surname>
+            <given-names>Susan E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A32">32</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cox</surname>
+            <given-names>David G.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A31">31</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hall</surname>
+            <given-names>Per</given-names>
+          </name>
+          <xref ref-type="aff" rid="A33">33</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wedren</surname>
+            <given-names>Sara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A33">33</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Jianjun</given-names>
+          </name>
+          <xref ref-type="aff" rid="A34">34</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Low</surname>
+            <given-names>Yen-Ling</given-names>
+          </name>
+          <xref ref-type="aff" rid="A34">34</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bogdanova</surname>
+            <given-names>Natalia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A35">35</xref>
+          <xref ref-type="aff" rid="A36">36</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sch&#x000fc;rmann</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A36">36</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>D&#x000f6;rk</surname>
+            <given-names>Thilo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A36">36</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tollenaar</surname>
+            <given-names>Rob A. E. M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A37">37</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jacobi</surname>
+            <given-names>Catharina E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A38">38</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Devilee</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A39">39</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Klijn</surname>
+            <given-names>Jan G. M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A40">40</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sigurdson</surname>
+            <given-names>Alice J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A41">41</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Doody</surname>
+            <given-names>Michele M.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A41">41</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Alexander</surname>
+            <given-names>Bruce H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A42">42</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Jinghui</given-names>
+          </name>
+          <xref ref-type="aff" rid="A4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cox</surname>
+            <given-names>Angela</given-names>
+          </name>
+          <xref ref-type="aff" rid="A43">43</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brock</surname>
+            <given-names>Ian W.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A43">43</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>MacPherson</surname>
+            <given-names>Gordon</given-names>
+          </name>
+          <xref ref-type="aff" rid="A43">43</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Reed</surname>
+            <given-names>Malcolm W. R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A44">44</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Couch</surname>
+            <given-names>Fergus J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A45">45</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Goode</surname>
+            <given-names>Ellen L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A45">45</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Olson</surname>
+            <given-names>Janet E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A45">45</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meijers-Heijboer</surname>
+            <given-names>Hanne</given-names>
+          </name>
+          <xref ref-type="aff" rid="A46">46</xref>
+          <xref ref-type="aff" rid="A47">47</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>van den Ouweland</surname>
+            <given-names>Ans</given-names>
+          </name>
+          <xref ref-type="aff" rid="A47">47</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Uitterlinden</surname>
+            <given-names>Andr&#x000e9;</given-names>
+          </name>
+          <xref ref-type="aff" rid="A48">48</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rivadeneira</surname>
+            <given-names>Fernando</given-names>
+          </name>
+          <xref ref-type="aff" rid="A48">48</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Milne</surname>
+            <given-names>Roger L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A49">49</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ribas</surname>
+            <given-names>Gloria</given-names>
+          </name>
+          <xref ref-type="aff" rid="A49">49</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gonzalez-Neira</surname>
+            <given-names>Anna</given-names>
+          </name>
+          <xref ref-type="aff" rid="A49">49</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Benitez</surname>
+            <given-names>Javier</given-names>
+          </name>
+          <xref ref-type="aff" rid="A49">49</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hopper</surname>
+            <given-names>John L.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A50">50</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>McCredie</surname>
+            <given-names>Margaret</given-names>
+          </name>
+          <xref ref-type="aff" rid="A51">51</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Southey</surname>
+            <given-names>Melissa</given-names>
+          </name>
+          <xref ref-type="aff" rid="A50">50</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Giles</surname>
+            <given-names>Graham G.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A52">52</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Schroen</surname>
+            <given-names>Chris</given-names>
+          </name>
+          <xref ref-type="aff" rid="A53">53</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Justenhoven</surname>
+            <given-names>Christina</given-names>
+          </name>
+          <xref ref-type="aff" rid="A54">54</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brauch</surname>
+            <given-names>Hiltrud</given-names>
+          </name>
+          <xref ref-type="aff" rid="A54">54</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hamann</surname>
+            <given-names>Ute</given-names>
+          </name>
+          <xref ref-type="aff" rid="A55">55</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ko</surname>
+            <given-names>Yon-Dschun</given-names>
+          </name>
+          <xref ref-type="aff" rid="A56">56</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Spurdle</surname>
+            <given-names>Amanda B.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A19">19</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Beesley</surname>
+            <given-names>Jonathan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A19">19</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Xiaoqing</given-names>
+          </name>
+          <xref ref-type="aff" rid="A19">19</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <collab>kConFab</collab>
+          <xref ref-type="aff" rid="A57">57</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <collab>AOCS Management Group</collab>
+          <xref ref-type="aff" rid="A19">19</xref>
+          <xref ref-type="aff" rid="A57">57</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mannermaa</surname>
+            <given-names>Arto</given-names>
+          </name>
+          <xref ref-type="aff" rid="A58">58</xref>
+          <xref ref-type="aff" rid="A59">59</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kosma</surname>
+            <given-names>Veli-Matti</given-names>
+          </name>
+          <xref ref-type="aff" rid="A58">58</xref>
+          <xref ref-type="aff" rid="A59">59</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kataja</surname>
+            <given-names>Vesa</given-names>
+          </name>
+          <xref ref-type="aff" rid="A58">58</xref>
+          <xref ref-type="aff" rid="A60">60</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hartikainen</surname>
+            <given-names>Jaana</given-names>
+          </name>
+          <xref ref-type="aff" rid="A58">58</xref>
+          <xref ref-type="aff" rid="A59">59</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Day</surname>
+            <given-names>Nicholas E.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cox</surname>
+            <given-names>David R.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ponder</surname>
+            <given-names>Bruce A. J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+          <xref ref-type="aff" rid="A7">7</xref>
+        </contrib>
+        <aff id="A1">
+          <label>Author affiliations: 1</label>CR-UK Genetic Epidemiology Unit, Department of Public Health and Primary Care, University of Cambridge, Cambridge CB1 8RN, UK.
+        </aff>
+        <aff id="A2">
+          <label>2</label>Department of Oncology, University of Cambridge, Cambridge CB1 8RN, UK.
+        </aff>
+        <aff id="A3">
+          <label>3</label>Perlegen Sciences, Inc., 2021 Stierlin Court, Mountain View, California 94043, USA.
+        </aff>
+        <aff id="A4">
+          <label>4</label>Laboratory of Population Genetics, US National Cancer Institute, Bethesda, Maryland 20892, USA.
+        </aff>
+        <aff id="A5">
+          <label>5</label>EPIC, Department of Public Health and Primary Care, University of Cambridge, Cambridge CB1 8RN, UK.
+        </aff>
+        <aff id="A6">
+          <label>6</label>MRC Dunn Clinical Nutrition Centre, Cambridge CB2 0XY, UK.
+        </aff>
+        <aff id="A7">
+          <label>7</label>Cancer Research UK Cambridge Research Institute, Cambridge CB2 0RE, UK.
+        </aff>
+        <aff id="A8">
+          <label>8</label>Department of Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, California 90033, USA.
+        </aff>
+        <aff id="A9">
+          <label>9</label>Epidemiology Program, Cancer Research Center of Hawaii, University of Hawaii, Honolulu, Hawaii 96813, USA.
+        </aff>
+        <aff id="A10">
+          <label>10</label>International Agency for Research on Cancer, 150 Cours Albert Thomas, Lyon 69008, France.
+        </aff>
+        <aff id="A11">
+          <label>11</label>National Cancer Institute, Bangkok 10400, Thailand.
+        </aff>
+        <aff id="A12">
+          <label>12</label>Institute of Biomedical Sciences, Academia Sinica, Taipei 11529, Taiwan.
+        </aff>
+        <aff id="A13">
+          <label>13</label>Wessex Clinical Genetics Service, Princess Anne Hospital, Southampton SO16 5YA, UK.
+        </aff>
+        <aff id="A14">
+          <label>14</label>Regional Genetic Service, St Mary's Hospital, Manchester M13 0JH, UK.
+        </aff>
+        <aff id="A15">
+          <label>15</label>London School of Hygiene and Tropical Medicine, London WC1E 7HT, UK, and Institute of Cancer Research, Sutton, Surrey SM2 5NG, UK.
+        </aff>
+        <aff id="A16">
+          <label>16</label>Breakthrough Breast Cancer Research Centre, London SW3 6JB, UK.
+        </aff>
+        <aff id="A17">
+          <label>17</label>Section of Cancer Genetics, Institute of Cancer Research, Sutton, Surrey SM2 5NG, UK.
+        </aff>
+        <aff id="A18">
+          <label>18</label>Cancer Genome Project, Wellcome Trust Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB10 1SA, UK.
+        </aff>
+        <aff id="A19">
+          <label>19</label>Queensland Institute of Medical Research, Brisbane, Queensland 4006, Australia
+        </aff>
+        <aff id="A20">
+          <label>20</label>Departments of Clinical Biochemistry, Herlev and Bispebjerg University Hospitals, University of Copenhagen, DK-2730 Herlev, Denmark.
+        </aff>
+        <aff id="A21">
+          <label>21</label>Department of Breast Surgery, Herlev and Bispebjerg University Hospitals, University of Copenhagen, DK-2730 Herlev, Denmark.
+        </aff>
+        <aff id="A22">
+          <label>22</label>Division of Cancer Epidemiology and Genetics, National Cancer Institute, Rockville, Maryland 20852, USA.
+        </aff>
+        <aff id="A23">
+          <label>23</label>Advanced Technology Center, National Cancer Institute, Gaithersburg, Maryland 20877, USA.
+        </aff>
+        <aff id="A24">
+          <label>24</label>Cancer Center and M. Sklodowska-Curie Institute of Oncology, Warsaw 02781, Poland.
+        </aff>
+        <aff id="A25">
+          <label>25</label>Nofer Institute of Occupational Medicine, Lodz 90950, Poland.
+        </aff>
+        <aff id="A26">
+          <label>26</label>Departments of Obstetrics and Gynecology, Helsinki University Central Hospital, Helsinki 00029, Finland.
+        </aff>
+        <aff id="A27">
+          <label>27</label>Department of Oncology, Helsinki University Central Hospital, Helsinki 00029, Finland.
+        </aff>
+        <aff id="A28">
+          <label>28</label>Seoul National University College of Medicine, Seoul 151-742, Korea.
+        </aff>
+        <aff id="A29">
+          <label>29</label>National Cancer Center, Goyang 411-769, Korea.
+        </aff>
+        <aff id="A30">
+          <label>30</label>Ulsan University College of Medicine, Ulsan 680-749, Korea.
+        </aff>
+        <aff id="A31">
+          <label>31</label>Program in Molecular and Genetic Epidemiology, Harvard School of Public Health, 677 Huntington Ave., Boston, Massachusetts 02115, USA.
+        </aff>
+        <aff id="A32">
+          <label>32</label>Channing Laboratory, Brigham and Women's Hospital and Harvard Medical School, 181 Longwood Ave., Boston, Massachusetts 02115, USA.
+        </aff>
+        <aff id="A33">
+          <label>33</label>Department of Medical Epidemiology and Biostatistics, Karolinska Institute, Stockholm SE-171 77, Sweden.
+        </aff>
+        <aff id="A34">
+          <label>34</label>Population Genetics, Genome Institute of Singapore, 60 Biopolis Street, Singapore 138672, Republic of Singapore.
+        </aff>
+        <aff id="A35">
+          <label>35</label>Department of Radiation Oncology, Hannover Medical School, D-30625 Hannover, Germany.
+        </aff>
+        <aff id="A36">
+          <label>36</label>Department of Gynecology and Obstetrics, Hannover Medical School, D-30625 Hannover, Germany.
+        </aff>
+        <aff id="A37">
+          <label>37</label>Department of Surgery, Leiden University Medical Center, Albinusdreef 2, 2333 ZA Leiden, the Netherlands.
+        </aff>
+        <aff id="A38">
+          <label>38</label>Department of Medical Decision Making, Leiden University Medical Center, Albinusdreef 2, 2333 ZA Leiden, the Netherlands.
+        </aff>
+        <aff id="A39">
+          <label>39</label>Departments of Human Genetics and Pathology, Leiden University Medical Center, Albinusdreef 2, 2333 ZA Leiden, the Netherlands.
+        </aff>
+        <aff id="A40">
+          <label>40</label>Family Cancer Clinic, Department of Medical Oncology, Erasmus MC-Daniel den Hoed Cancer Center, Groene Hilledijk 301, 3075 EA Rotterdam, the Netherlands.
+        </aff>
+        <aff id="A41">
+          <label>41</label>Radiation Epidemiology Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, NIH, DHHS, Bethesda, Maryland 20892, USA.
+        </aff>
+        <aff id="A42">
+          <label>42</label>Environmental Health Sciences, University of Minnesota, Minneapolis, Minnesota 55455, USA.
+        </aff>
+        <aff id="A43">
+          <label>43</label>Institute for Cancer Studies, Sheffield University Medical School, Sheffield S10 2RX, UK.
+        </aff>
+        <aff id="A44">
+          <label>44</label>Academic Unit of Surgical Oncology, Sheffield University Medical School, Sheffield S10 2RX, UK.
+        </aff>
+        <aff id="A45">
+          <label>45</label>Mayo Clinic College of Medicine, Rochester, Minnesota 55905, USA.
+        </aff>
+        <aff id="A46">
+          <label>46</label>VU University Medical Center, 1007 MB Amsterdam, the Netherlands.
+        </aff>
+        <aff id="A47">
+          <label>47</label>Department of Clinical Genetics, Erasmus University, Rotterdam NL-3015-GE, the Netherlands.
+        </aff>
+        <aff id="A48">
+          <label>48</label>Internal Medicine, Erasmus University, Rotterdam NL-3015-GE, the Netherlands.
+        </aff>
+        <aff id="A49">
+          <label>49</label>Spanish National Cancer Centre (CNIO), Madrid E-28029, Spain.
+        </aff>
+        <aff id="A50">
+          <label>50</label>Centre for Molecular, Environmental, Genetic and Analytical Epidemiology, University of Melbourne, Carlton, Victoria 3053, Australia.
+        </aff>
+        <aff id="A51">
+          <label>51</label>Department of Preventive and Social Medicine, University of Otago, Dunedin 9001, New Zealand.
+        </aff>
+        <aff id="A52">
+          <label>52</label>Cancer Epidemiology Centre, Cancer Council Victoria, Carlton, Victoria 3053, Australia.
+        </aff>
+        <aff id="A53">
+          <label>53</label>Genetic Epidemiology Laboratory, Department of Pathology, University of Melbourne, Parkville, Victoria 3052, Australia.
+        </aff>
+        <aff id="A54">
+          <label>54</label>Dr. Margarete Fischer-Bosch-Institute of Clinical Pharamcology, 70376 Stuttgart and University of Tuebingen, 72074 Tuebingen, Germany.
+        </aff>
+        <aff id="A55">
+          <label>55</label>Deutsches Krebsforschungszentrum, Heidelberg 69120, Germany.
+        </aff>
+        <aff id="A56">
+          <label>56</label>Evangelische Kliniken Bonn gGmbH Johanniter Krankenhaus, 53113 Bonn, Germany.
+        </aff>
+        <aff id="A57">
+          <label>57</label>Peter MacCallum Cancer Centre, Melbourne, Victoria 3002, Australia.
+        </aff>
+        <aff id="A58">
+          <label>58</label>Insitute of Clinical Medicine, Pathology and Forensic Medicine, University of Kuopio, Kuopio FIN-70210, Finland.
+        </aff>
+        <aff id="A59">
+          <label>59</label>Departments of Oncology and Pathology, University Hospital of Kuopio, Kuopio FIN-70211, Finland.
+        </aff>
+        <aff id="A60">
+          <label>60</label>Department of Oncology, Vaasa Central Hospital, Vaasa 65130, Finland.
+        </aff>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Luccarini</surname>
+            <given-names>Craig</given-names>
+          </name>
+          <xref ref-type="aff" rid="A61">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Conroy</surname>
+            <given-names>Don</given-names>
+          </name>
+          <xref ref-type="aff" rid="A61">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shah</surname>
+            <given-names>Mitul</given-names>
+          </name>
+          <xref ref-type="aff" rid="A61">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Munday</surname>
+            <given-names>Hannah</given-names>
+          </name>
+          <xref ref-type="aff" rid="A61">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jordan</surname>
+            <given-names>Clare</given-names>
+          </name>
+          <xref ref-type="aff" rid="A61">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Perkins</surname>
+            <given-names>Barbara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A61">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>West</surname>
+            <given-names>Judy</given-names>
+          </name>
+          <xref ref-type="aff" rid="A61">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Redman</surname>
+            <given-names>Karen</given-names>
+          </name>
+          <xref ref-type="aff" rid="A61">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Driver</surname>
+            <given-names>Kristy</given-names>
+          </name>
+          <xref ref-type="aff" rid="A61">1</xref>
+        </contrib>
+        <on-behalf-of>The SEARCH collaborators</on-behalf-of>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Aghmesheh</surname>
+            <given-names>Morteza</given-names>
+          </name>
+          <xref ref-type="aff" rid="A62">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Amor</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref ref-type="aff" rid="A62">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Andrews</surname>
+            <given-names>Lesley</given-names>
+          </name>
+          <xref ref-type="aff" rid="A62">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Antill</surname>
+            <given-names>Yoland</given-names>
+          </name>
+          <xref ref-type="aff" rid="A65">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Armes</surname>
+            <given-names>Jane</given-names>
+          </name>
+          <xref ref-type="aff" rid="A66">6</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Armitage</surname>
+            <given-names>Shane</given-names>
+          </name>
+          <xref ref-type="aff" rid="A67">7</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Arnold</surname>
+            <given-names>Leanne</given-names>
+          </name>
+          <xref ref-type="aff" rid="A67">7</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Balleine</surname>
+            <given-names>Rosemary</given-names>
+          </name>
+          <xref ref-type="aff" rid="A68">8</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Begley</surname>
+            <given-names>Glenn</given-names>
+          </name>
+          <xref ref-type="aff" rid="A69">9</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Beilby</surname>
+            <given-names>John</given-names>
+          </name>
+          <xref ref-type="aff" rid="A70">10</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bennett</surname>
+            <given-names>Ian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A71">11</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bennett</surname>
+            <given-names>Barbara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A62">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Berry</surname>
+            <given-names>Geoffrey</given-names>
+          </name>
+          <xref ref-type="aff" rid="A72">12</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Blackburn</surname>
+            <given-names>Anneke</given-names>
+          </name>
+          <xref ref-type="aff" rid="A73">13</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brennan</surname>
+            <given-names>Meagan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A74">14</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Brown</surname>
+            <given-names>Melissa</given-names>
+          </name>
+          <xref ref-type="aff" rid="A75">15</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Buckley</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref ref-type="aff" rid="A76">16</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Burke</surname>
+            <given-names>Jo</given-names>
+          </name>
+          <xref ref-type="aff" rid="A77">17</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Butow</surname>
+            <given-names>Phyllis</given-names>
+          </name>
+          <xref ref-type="aff" rid="A78">18</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Byron</surname>
+            <given-names>Keith</given-names>
+          </name>
+          <xref ref-type="aff" rid="A79">19</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Callen</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref ref-type="aff" rid="A80">20</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Campbell</surname>
+            <given-names>Ian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A81">21</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chenevix-Trench</surname>
+            <given-names>Georgia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A82">22</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Clarke</surname>
+            <given-names>Christine</given-names>
+          </name>
+          <xref ref-type="aff" rid="A83">23</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Colley</surname>
+            <given-names>Alison</given-names>
+          </name>
+          <xref ref-type="aff" rid="A84">24</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cotton</surname>
+            <given-names>Dick</given-names>
+          </name>
+          <xref ref-type="aff" rid="A85">25</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cui</surname>
+            <given-names>Jisheng</given-names>
+          </name>
+          <xref ref-type="aff" rid="A86">26</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Culling</surname>
+            <given-names>Bronwyn</given-names>
+          </name>
+          <xref ref-type="aff" rid="A87">27</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cummings</surname>
+            <given-names>Margaret</given-names>
+          </name>
+          <xref ref-type="aff" rid="A88">28</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dawson</surname>
+            <given-names>Sarah-Jane</given-names>
+          </name>
+          <xref ref-type="aff" rid="A65">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dixon</surname>
+            <given-names>Joanne</given-names>
+          </name>
+          <xref ref-type="aff" rid="A89">29</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dobrovic</surname>
+            <given-names>Alexander</given-names>
+          </name>
+          <xref ref-type="aff" rid="A90">30</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dudding</surname>
+            <given-names>Tracy</given-names>
+          </name>
+          <xref ref-type="aff" rid="A91">31</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Edkins</surname>
+            <given-names>Ted</given-names>
+          </name>
+          <xref ref-type="aff" rid="A92">32</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Eisenbruch</surname>
+            <given-names>Maurice</given-names>
+          </name>
+          <xref ref-type="aff" rid="A93">33</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Farshid</surname>
+            <given-names>Gelareh</given-names>
+          </name>
+          <xref ref-type="aff" rid="A94">34</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fawcett</surname>
+            <given-names>Susan</given-names>
+          </name>
+          <xref ref-type="aff" rid="A95">35</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Field</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref ref-type="aff" rid="A96">36</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Firgaira</surname>
+            <given-names>Frank</given-names>
+          </name>
+          <xref ref-type="aff" rid="A97">37</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fleming</surname>
+            <given-names>Jean</given-names>
+          </name>
+          <xref ref-type="aff" rid="A98">38</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Forbes</surname>
+            <given-names>John</given-names>
+          </name>
+          <xref ref-type="aff" rid="A99">39</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Friedlander</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref ref-type="aff" rid="A100">40</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gaff</surname>
+            <given-names>Clara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A101">41</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gardner</surname>
+            <given-names>Mac</given-names>
+          </name>
+          <xref ref-type="aff" rid="A101">41</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gattas</surname>
+            <given-names>Mike</given-names>
+          </name>
+          <xref ref-type="aff" rid="A102">42</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>George</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <xref ref-type="aff" rid="A103">43</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Giles</surname>
+            <given-names>Graham</given-names>
+          </name>
+          <xref ref-type="aff" rid="A104">44</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gill</surname>
+            <given-names>Grantley</given-names>
+          </name>
+          <xref ref-type="aff" rid="A105">45</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Goldblatt</surname>
+            <given-names>Jack</given-names>
+          </name>
+          <xref ref-type="aff" rid="A106">46</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Greening</surname>
+            <given-names>Sian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A107">47</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Grist</surname>
+            <given-names>Scott</given-names>
+          </name>
+          <xref ref-type="aff" rid="A97">37</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Haan</surname>
+            <given-names>Eric</given-names>
+          </name>
+          <xref ref-type="aff" rid="A108">48</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Harris</surname>
+            <given-names>Marion</given-names>
+          </name>
+          <xref ref-type="aff" rid="A109">49</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hart</surname>
+            <given-names>Stewart</given-names>
+          </name>
+          <xref ref-type="aff" rid="A110">50</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hayward</surname>
+            <given-names>Nick</given-names>
+          </name>
+          <xref ref-type="aff" rid="A82">22</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hopper</surname>
+            <given-names>John</given-names>
+          </name>
+          <xref ref-type="aff" rid="A111">51</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Humphrey</surname>
+            <given-names>Evelyn</given-names>
+          </name>
+          <xref ref-type="aff" rid="A77">17</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jenkins</surname>
+            <given-names>Mark</given-names>
+          </name>
+          <xref ref-type="aff" rid="A112">52</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jones</surname>
+            <given-names>Alison</given-names>
+          </name>
+          <xref ref-type="aff" rid="A67">7</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kefford</surname>
+            <given-names>Rick</given-names>
+          </name>
+          <xref ref-type="aff" rid="A113">53</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kirk</surname>
+            <given-names>Judy</given-names>
+          </name>
+          <xref ref-type="aff" rid="A114">54</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kollias</surname>
+            <given-names>James</given-names>
+          </name>
+          <xref ref-type="aff" rid="A115">55</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kovalenko</surname>
+            <given-names>Sergey</given-names>
+          </name>
+          <xref ref-type="aff" rid="A116">56</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lakhani</surname>
+            <given-names>Sunil</given-names>
+          </name>
+          <xref ref-type="aff" rid="A117">57</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Leary</surname>
+            <given-names>Jennifer</given-names>
+          </name>
+          <xref ref-type="aff" rid="A114">54</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lim</surname>
+            <given-names>Jacqueline</given-names>
+          </name>
+          <xref ref-type="aff" rid="A118">58</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lindeman</surname>
+            <given-names>Geoff</given-names>
+          </name>
+          <xref ref-type="aff" rid="A119">59</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lipton</surname>
+            <given-names>Lara</given-names>
+          </name>
+          <xref ref-type="aff" rid="A120">60</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lobb</surname>
+            <given-names>Liz</given-names>
+          </name>
+          <xref ref-type="aff" rid="A121">61</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Maclurcan</surname>
+            <given-names>Mariette</given-names>
+          </name>
+          <xref ref-type="aff" rid="A122">62</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mann</surname>
+            <given-names>Graham</given-names>
+          </name>
+          <xref ref-type="aff" rid="A23">23</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Marsh</surname>
+            <given-names>Deborah</given-names>
+          </name>
+          <xref ref-type="aff" rid="A123">63</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>McCredie</surname>
+            <given-names>Margaret</given-names>
+          </name>
+          <xref ref-type="aff" rid="A124">64</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>McKay</surname>
+            <given-names>Michael</given-names>
+          </name>
+          <xref ref-type="aff" rid="A109">49</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>McLachlan</surname>
+            <given-names>Sue Anne</given-names>
+          </name>
+          <xref ref-type="aff" rid="A125">65</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meiser</surname>
+            <given-names>Bettina</given-names>
+          </name>
+          <xref ref-type="aff" rid="A62">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Milne</surname>
+            <given-names>Roger</given-names>
+          </name>
+          <xref ref-type="aff" rid="A86">26</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mitchell</surname>
+            <given-names>Gillian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A109">49</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Newman</surname>
+            <given-names>Beth</given-names>
+          </name>
+          <xref ref-type="aff" rid="A126">66</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>O'Loughlin</surname>
+            <given-names>Imelda</given-names>
+          </name>
+          <xref ref-type="aff" rid="A127">67</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Osborne</surname>
+            <given-names>Richard</given-names>
+          </name>
+          <xref ref-type="aff" rid="A111">51</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Peters</surname>
+            <given-names>Lester</given-names>
+          </name>
+          <xref ref-type="aff" rid="A128">68</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Phillips</surname>
+            <given-names>Kelly</given-names>
+          </name>
+          <xref ref-type="aff" rid="A65">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Price</surname>
+            <given-names>Melanie</given-names>
+          </name>
+          <xref ref-type="aff" rid="A122">62</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Reeve</surname>
+            <given-names>Jeanne</given-names>
+          </name>
+          <xref ref-type="aff" rid="A129">69</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Reeve</surname>
+            <given-names>Tony</given-names>
+          </name>
+          <xref ref-type="aff" rid="A130">70</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Richards</surname>
+            <given-names>Robert</given-names>
+          </name>
+          <xref ref-type="aff" rid="A131">71</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rinehart</surname>
+            <given-names>Gina</given-names>
+          </name>
+          <xref ref-type="aff" rid="A132">72</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Robinson</surname>
+            <given-names>Bridget</given-names>
+          </name>
+          <xref ref-type="aff" rid="A133">73</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rudzki</surname>
+            <given-names>Barney</given-names>
+          </name>
+          <xref ref-type="aff" rid="A134">74</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Salisbury</surname>
+            <given-names>Elizabeth</given-names>
+          </name>
+          <xref ref-type="aff" rid="A135">75</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sambrook</surname>
+            <given-names>Joe</given-names>
+          </name>
+          <xref ref-type="aff" rid="A21">21</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Saunders</surname>
+            <given-names>Christobel</given-names>
+          </name>
+          <xref ref-type="aff" rid="A136">76</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Scott</surname>
+            <given-names>Clare</given-names>
+          </name>
+          <xref ref-type="aff" rid="A65">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Scott</surname>
+            <given-names>Elizabeth</given-names>
+          </name>
+          <xref ref-type="aff" rid="A137">77</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Scott</surname>
+            <given-names>Rodney</given-names>
+          </name>
+          <xref ref-type="aff" rid="A91">31</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Seshadri</surname>
+            <given-names>Ram</given-names>
+          </name>
+          <xref ref-type="aff" rid="A97">37</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shelling</surname>
+            <given-names>Andrew</given-names>
+          </name>
+          <xref ref-type="aff" rid="A138">78</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Southey</surname>
+            <given-names>Melissa</given-names>
+          </name>
+          <xref ref-type="aff" rid="A86">26</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Spurdle</surname>
+            <given-names>Amanda</given-names>
+          </name>
+          <xref ref-type="aff" rid="A82">22</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Suthers</surname>
+            <given-names>Graeme</given-names>
+          </name>
+          <xref ref-type="aff" rid="A108">48</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Taylor</surname>
+            <given-names>Donna</given-names>
+          </name>
+          <xref ref-type="aff" rid="A139">79</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tennant</surname>
+            <given-names>Christopher</given-names>
+          </name>
+          <xref ref-type="aff" rid="A118">58</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Thorne</surname>
+            <given-names>Heather</given-names>
+          </name>
+          <xref ref-type="aff" rid="A81">21</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Townshend</surname>
+            <given-names>Sharron</given-names>
+          </name>
+          <xref ref-type="aff" rid="A106">46</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tucker</surname>
+            <given-names>Kathy</given-names>
+          </name>
+          <xref ref-type="aff" rid="A62">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tyler</surname>
+            <given-names>Janet</given-names>
+          </name>
+          <xref ref-type="aff" rid="A62">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Venter</surname>
+            <given-names>Deon</given-names>
+          </name>
+          <xref ref-type="aff" rid="A140">80</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Visvader</surname>
+            <given-names>Jane</given-names>
+          </name>
+          <xref ref-type="aff" rid="A141">81</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Walpole</surname>
+            <given-names>Ian</given-names>
+          </name>
+          <xref ref-type="aff" rid="A106">46</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ward</surname>
+            <given-names>Robin</given-names>
+          </name>
+          <xref ref-type="aff" rid="A142">82</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Waring</surname>
+            <given-names>Paul</given-names>
+          </name>
+          <xref ref-type="aff" rid="A90">30</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Warner</surname>
+            <given-names>Bev</given-names>
+          </name>
+          <xref ref-type="aff" rid="A143">83</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Warren</surname>
+            <given-names>Graham</given-names>
+          </name>
+          <xref ref-type="aff" rid="A127">67</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Watson</surname>
+            <given-names>Elizabeth</given-names>
+          </name>
+          <xref ref-type="aff" rid="A127">67</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Williams</surname>
+            <given-names>Rachael</given-names>
+          </name>
+          <xref ref-type="aff" rid="A144">84</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wilson</surname>
+            <given-names>Judy</given-names>
+          </name>
+          <xref ref-type="aff" rid="A145">85</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Winship</surname>
+            <given-names>Ingrid</given-names>
+          </name>
+          <xref ref-type="aff" rid="A129">69</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Young</surname>
+            <given-names>Mary Ann</given-names>
+          </name>
+          <xref ref-type="aff" rid="A109">49</xref>
+        </contrib>
+        <on-behalf-of>kConFab</on-behalf-of>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bowtell</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref ref-type="aff" rid="A146">86</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Green</surname>
+            <given-names>Adele</given-names>
+          </name>
+          <xref ref-type="aff" rid="A82">22</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>deFazio</surname>
+            <given-names>Anna</given-names>
+          </name>
+          <xref ref-type="aff" rid="A147">87</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chenevix-Trench</surname>
+            <given-names>Georgia</given-names>
+          </name>
+          <xref ref-type="aff" rid="A82">22</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gertig</surname>
+            <given-names>Dorota</given-names>
+          </name>
+          <xref ref-type="aff" rid="A111">51</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Webb</surname>
+            <given-names>Penny</given-names>
+          </name>
+          <xref ref-type="aff" rid="A82">22</xref>
+        </contrib>
+        <on-behalf-of>AOCS Management Group</on-behalf-of>
+      </contrib-group>
+      <aff id="A61">
+        <label>Consortia affiliations: 1</label>Department of Oncology, University of Cambridge, Cambridge CB1 8RN, UK.
+      </aff>
+      <aff id="A62">
+        <label>2</label>Oncology Research Centre, Prince of Wales Hospital, Randwick, New South Wales 2031, Australia.
+      </aff>
+      <aff id="A63">
+        <label>3</label>Genetic Health Services Victoria, Royal Children's Hospital, Melbourne, Victoria 3050, Australia.
+      </aff>
+      <aff id="A64">
+        <label>4</label>Hereditary Cancer Clinic, Prince of Wales Hospital, Randwick, New South Wales 2031, Australia.
+      </aff>
+      <aff id="A65">
+        <label>5</label>Department of Haematology and Medical Oncology, Peter MacCallum Cancer Centre, St Andrews Place, East Melbourne, Victoria 3002, Australia.
+      </aff>
+      <aff id="A66">
+        <label>6</label>Anatomical Pathology, Royal Women's Hospital, Carlton, Victoria 3053, Australia.
+      </aff>
+      <aff id="A67">
+        <label>7</label>Molecular Genetics Laboratory, Royal Brisbane and Women's Hospital, Herston, Queensland 4029, Australia.
+      </aff>
+      <aff id="A68">
+        <label>8</label>Departments of Translational and Medical Oncology, Westmead Hospital, Westmead, New South Wales 2145, Australia.
+      </aff>
+      <aff id="A69">
+        <label>9</label>Cancer Biology Laboratory, TVW Institute for Child Health Research, Subiaco, Western Australia 6008, Australia.
+      </aff>
+      <aff id="A70">
+        <label>10</label>Pathology Centre, Queen Elizabeth Medical Centre, Nedlands, Western Australia 6009, Australia.
+      </aff>
+      <aff id="A71">
+        <label>11</label>Silverton Place, 101 Wickham Terrace, Brisbane, Queensland 4000, Australia.
+      </aff>
+      <aff id="A72">
+        <label>12</label>Department of Public Health and Community Medicine, University of Sydney, Sydney, New South Wales 2006, Australia.
+      </aff>
+      <aff id="A73">
+        <label>13</label>John Curtin School of Medical Research, Australian National University, PO Box 334, Canberra, Australian Capital Territory 2601, Australia.
+      </aff>
+      <aff id="A74">
+        <label>14</label>NSW Breast Cancer Institute, PO Box 143, Westmead, New South Wales 2145, Australia.
+      </aff>
+      <aff id="A75">
+        <label>15</label>Department of Biochemistry, University of Queensland, St. Lucia, Queensland 4072, USA.
+      </aff>
+      <aff id="A76">
+        <label>16</label>Molecular and Cytogenetics Unit, Prince of Wales Hospital, Randwick, New South Wales 2031, Australia.
+      </aff>
+      <aff id="A77">
+        <label>17</label>Royal Hobart Hospital, GPO Box 1061L, Hobart, Tasmania 7001, Australia.
+      </aff>
+      <aff id="A78">
+        <label>18</label>Medical Psychology Unit, Royal Prince Alfred Hospital, Camperdown, New South Wales 2204, Australia.
+      </aff>
+      <aff id="A79">
+        <label>19</label>Australian Genome Research Facility, Walter &#x00026; Eliza Hall Medical Research Institute, Royal Melbourne Hospital, Parkville, Victoria 3050, Australia.
+      </aff>
+      <aff id="A80">
+        <label>20</label>Dame Roma Mitchell Cancer Research Laboratories, University of Adelaide/Hanson Institute, PO Box 14, Rundle Mall, South Australia 5000, Australia.
+      </aff>
+      <aff id="A81">
+        <label>21</label>Peter MacCallum Cancer Centre, St Andrew's Place, East Melbourne, Victoria 3002, Australia.
+      </aff>
+      <aff id="A82">
+        <label>22</label>Queensland Institute of Medical Research, Herston, Queensland 4006, Australia.
+      </aff>
+      <aff id="A83">
+        <label>23</label>Westmead Institute for Cancer Research, University of Sydney, Westmead Hospital ,Westmead, New South Wales 2145, Australia.
+      </aff>
+      <aff id="A84">
+        <label>24</label>Department of Clinical Genetics, Liverpool Health Service, PO Box 103, Liverpool, New South Wales 2170, Australia.
+      </aff>
+      <aff id="A85">
+        <label>25</label>Mutation Research Centre, St Vincent's Hospital, Victoria Parade, Fitzroy, Victoria 3065, Australia.
+      </aff>
+      <aff id="A86">
+        <label>26</label>Centre for Genetic Epidemiology, The University of Melbourne, Level 2 723 Swanston Street, Carlton, Victoria 3053, Australia.
+      </aff>
+      <aff id="A87">
+        <label>27</label>Molecular and Clinical Genetics, Level 1 Building 65, Royal Prince Alfred Hospital, Camperdown, New South Wales 2050, Australia.
+      </aff>
+      <aff id="A88">
+        <label>28</label>Department of Pathology, University of Queensland Medical School, Herston, New South Wales 4006, Australia.
+      </aff>
+      <aff id="A89">
+        <label>29</label>Central Regional Genetic Services, Wellington Hospital, Private bag 7902, Wellington South 6039, New Zealand.
+      </aff>
+      <aff id="A90">
+        <label>30</label>Molecular Department of Pathology, Peter MacCallum Cancer Centre, St Andrew's Place, East Melbourne, Victoria 3002, Australia.
+      </aff>
+      <aff id="A91">
+        <label>31</label>Hunter Genetics, Hunter Area Health Service, Waratah, New South Wales 2310, Australia.
+      </aff>
+      <aff id="A92">
+        <label>32</label>Clinical Chemistry, Princess Margret Hospital for Children, Box D184, Perth, Western Australia 6001, Australia.
+      </aff>
+      <aff id="A93">
+        <label>33</label>Department of Multicultural Health, University of Sydney, New South Wales 2052, Australia.
+      </aff>
+      <aff id="A94">
+        <label>34</label>Tissue Pathology, Institute of Medical &#x00026; Veterinary Science, Adelaide, South Australia 5000, Australia.
+      </aff>
+      <aff id="A95">
+        <label>35</label>Family Cancer Clinic, Monash Medical Centre, Clayton, Victoria 3168, Australia.
+      </aff>
+      <aff id="A96">
+        <label>36</label>Faculty of Medicine, Royal North Shore Hospital, Vindin House, St Leonards, New South Wales 2065, Australia.
+      </aff>
+      <aff id="A97">
+        <label>37</label>Department of Haematology, Flinders Medical Centre, Bedford Park, South Australia 5042, Australia.
+      </aff>
+      <aff id="A98">
+        <label>38</label>Eskitis Institute of Cell &#x00026; Molecular Therapies, School of Biomolecular and Biomedical Sciences, Griffith University, Nathan, Queensland 4111, Australia.
+      </aff>
+      <aff id="A99">
+        <label>39</label>Surgical Oncology, University of Newcastle, Newcastle Mater Hospital, Waratah, New South Wales 2298, Australia.
+      </aff>
+      <aff id="A100">
+        <label>40</label>Department of Medical Oncology, Prince of Wales Hospital, Randwick, New South Wales 2031, Australia.
+      </aff>
+      <aff id="A101">
+        <label>41</label>Victorian Clinical Genetics Service, Royal Melbourne Hospital, Parkville, Victoria 3052, Australia.
+      </aff>
+      <aff id="A102">
+        <label>42</label>Queensland Clinical Genetic Service, Royal Children's Hospital, Bramston Terrace, Herston, Queensland 4020, Australia.
+      </aff>
+      <aff id="A103">
+        <label>43</label>Clinical Biochemistry Unit, Canterbury Health Labs, PO Box 151, Christchurch 8140, New Zealand.
+      </aff>
+      <aff id="A104">
+        <label>44</label>Cancer Epidemiology Centre, The Cancer Council Victoria, 1 Rathdowne Street, Carlton, Victoria 3053, Australia.
+      </aff>
+      <aff id="A105">
+        <label>45</label>Department of Surgery, Royal Adelaide Hospital, Adelaide, South Australia 5000, Australia.
+      </aff>
+      <aff id="A106">
+        <label>46</label>Genetic Services of WA, King Edward Memorial Hospital, 374 Bagot Road, Subiaco, Western Australia 6008, Australia.
+      </aff>
+      <aff id="A107">
+        <label>47</label>Wollongong Hereditary Cancer Clinic, Wollongong Public Hospital, Private Mail Bag 8808, South Coast Mail Centre, New South Wales 2521, Australia.
+      </aff>
+      <aff id="A108">
+        <label>48</label>Department of Medical Genetics, Women's and Children's Hospital, North Adelaide, South Australia 5006, Australia.
+      </aff>
+      <aff id="A109">
+        <label>49</label>Familial Cancer Clinic, Peter MacCallum Cancer Centre, St Andrew's Place, East Melbourne, Victoria 3002, Australia.
+      </aff>
+      <aff id="A110">
+        <label>50</label>Breast and Ovarian Cancer Genetics, Monash Medical Centre, 871 Centre Road, Bentleigh East, Victoria 3165, Australia.
+      </aff>
+      <aff id="A111">
+        <label>51</label>Centre for Molecular Environmental, Genetic &#x00026; Analytic Epidemiology, University of Melbourne, Melbourne, Victoria 3010, Australia.
+      </aff>
+      <aff id="A112">
+        <label>52</label>School of Population Health, The University of Melbourne, 723 Swanston Street, Carlton, Victoria 3053, Australia.
+      </aff>
+      <aff id="A113">
+        <label>53</label>Medical Oncology, Westmead Hospital, Westmead, New South Wales 2145, Australia.
+      </aff>
+      <aff id="A114">
+        <label>54</label>Familial Cancer Service, Department of Medicine, Westmead Hospital, Westmead, New South Wales 2145, Australia.
+      </aff>
+      <aff id="A115">
+        <label>55</label>Breast Endocrine and Surgical Unit, Royal Adelaide Hospital, North Terrace, South Australia 5000, Australia.
+      </aff>
+      <aff id="A116">
+        <label>56</label>Molecular Pathology Department, Southern Cross Pathology, Monash Medical Centre, Clayton, Victoria 3168, Australia.
+      </aff>
+      <aff id="A117">
+        <label>57</label>Molecular and Cellular Pathology, The University of Queensland, Herston, Queensland 4006, Australia.
+      </aff>
+      <aff id="A118">
+        <label>58</label>Department of Psychological Medicine, Royal North Shore Hospital, St Leonards, New South Wales 2065, Australia.
+      </aff>
+      <aff id="A119">
+        <label>59</label>Breast Cancer Laboratory, Walter and Eliza Hall Institute, PO Royal Melbourne Hospital, Parkville, Victoria 3050, Australia.
+      </aff>
+      <aff id="A120">
+        <label>60</label>Medical Oncology and Clinical Haematology Unit, Western Hospital, Footscray, Victoria 3011, Australia.
+      </aff>
+      <aff id="A121">
+        <label>61</label>WA Centre for Cancer, Edith Cowan University, Churchlands, Western Australia 6018, Australia.
+      </aff>
+      <aff id="A122">
+        <label>62</label>Department of Psychological Medicine, University of Sydney, New South Wales 2006, Australia.
+      </aff>
+      <aff id="A123">
+        <label>63</label>Kolling Institute of Medical Research, Royal North Shore Hospital, St Leonards, New South Wales 2065, Australia.
+      </aff>
+      <aff id="A124">
+        <label>64</label>Cancer Epidemiology Research Unit, NSW Cancer Council, 153 Dowling Street, Woolloomooloo, New South Wales 2011, Australia.
+      </aff>
+      <aff id="A125">
+        <label>65</label>Department of Oncology, St Vincent's Hospital, 41 Victoria Parade, Fitzroy, Victoria 3065, Australia.
+      </aff>
+      <aff id="A126">
+        <label>66</label>School of Public Health, Queensland University of Technology, Victoria Park, Kelvin Grove, Queensland 4059, Australia.
+      </aff>
+      <aff id="A127">
+        <label>67</label>St Vincent's Breast Clinic, PO Box 4751, Toowoomba, Queensland 4350, Australia.
+      </aff>
+      <aff id="A128">
+        <label>68</label>Radiation Oncology, Peter MacCallum Cancer Centre, St Andrew's Place, East Melbourne, Victoria 3002, Australia.
+      </aff>
+      <aff id="A129">
+        <label>69</label>Genetic Services, Auckland Hospital, Private Bag 92024, Auckland 1142, New Zealand.
+      </aff>
+      <aff id="A130">
+        <label>70</label>Cancer Genetics Laboratory, University of Otago, PO Box 56, Dunedin 9054, New Zealand.
+      </aff>
+      <aff id="A131">
+        <label>71</label>Department of Cytogenetics and Molecular Genetics, Women and Children's Hospital, Adelaide, South Australia 5006, Australia.
+      </aff>
+      <aff id="A132">
+        <label>72</label>Hancock Family Breast Cancer Foundation, PO Locked Bag 2, West Perth, Western Australia 6005, Australia.
+      </aff>
+      <aff id="A133">
+        <label>73</label>Oncology Service, Christchurch Hospital, Private Bag 4710, Christchurch 8140, New Zealand.
+      </aff>
+      <aff id="A134">
+        <label>74</label>Molecular Pathology Institute of Medical and Veterinary Science, Frome Road, Adelaide, South Australia 5000, Australia.
+      </aff>
+      <aff id="A135">
+        <label>75</label>Section of Cytology, Institute of Clinical Pathology and Medical Research, Westmead Hospital, Westmead, New South Wales 2145, Australia.
+      </aff>
+      <aff id="A136">
+        <label>76</label>School of Surgery and Pathology, QE11 Medical Centre, M block 2nd Floor, Nedlands, Western Australia 6907, Australia.
+      </aff>
+      <aff id="A137">
+        <label>77</label>South View Clinic, Suite 13, Level 3 South Street, Kogarah, New South Wales 2217, Australia.
+      </aff>
+      <aff id="A138">
+        <label>78</label>Department of Obstetrics and Gynaecology, University of Auckland, Private Bag 92019, Auckland 1142, New Zealand.
+      </aff>
+      <aff id="A139">
+        <label>79</label>Department of Radiology, Royal Perth Hospital, Box X2213, Perth 6011, Western Australia, Australia.
+      </aff>
+      <aff id="A140">
+        <label>80</label>Murdoch Institute, Royal Children's Hospital, Parkville, Victoria 3050, Australia.
+      </aff>
+      <aff id="A141">
+        <label>81</label>Molecular Genetics of Cancer Division, Walter &#x00026; Eliza Hall Medical Research Institute, Royal Melbourne Hospital, Parkville, Victoria 3050, Australia.
+      </aff>
+      <aff id="A142">
+        <label>82</label>Department of Medical Oncology, St Vincents Hospital, Darlinghurst, New South Wales 2010, Australia.
+      </aff>
+      <aff id="A143">
+        <label>83</label>Cabrini Hospital, 183 Wattletree Road, Malvern, Victoria 3144, Australia.
+      </aff>
+      <aff id="A144">
+        <label>84</label>Family Cancer Clinic, St Vincent's Hospital, Darlinghurst, New South Wales 2010, Australia.
+      </aff>
+      <aff id="A145">
+        <label>85</label>Medical Psychology Research Unit, Royal North Shore Hospital, St Leonards, New South Wales 2065, Australia.
+      </aff>
+      <aff id="A146">
+        <label>86</label>Cancer Genomics &#x00026; Biochemistry Laboratory, Peter MacCallum Cancer Centre, St Andrew's Place, East Melbourne, Victoria 3002, Australia.
+      </aff>
+      <aff id="A147">
+        <label>87</label>Obstetrics &#x00026; Gynaecology, Westmead Hospital, University of Sydney, New South Wales 2006, Australia.
+      </aff>
+      <author-notes>
+        <corresp id="CR1">Correspondence and requests for materials should be addressed to D.F.E. (<email>d.easton@srl.cam.ac.uk</email>).</corresp>
+        <fn id="FN4">
+          <p id="P2">
+            <bold>Author Contributions</bold> D.F.E., A.M.D., P.D.P.P., D.R.C. and B.A.J.P. designed the study and obtained financial support. D.G.B. and D.R.C. directed the genotyping of stages 1 and 2. D.F.E. and D.T. conducted the statistical analysis. K.A.P. and A.M.D. coordinated the genotyping for stage 3 and the fine-scale mapping of the <italic>FGFR2</italic> and <italic>TNRC9</italic> loci. J.P.S. and J.Z. performed resequencing and analysis of the <italic>FGFR2</italic> locus. K.A.P., S.A., C.S.H., R.B., C.A.H., L.K.K., B.E.H., L.L.M., P.B., S.S., V.G., F.O., C-Y. S., P-E.W. and H-C.W. conducted genotyping for the fine-scale mapping. R.L., J.M., H.F. and K.B.M. provided bioinformatics support. D.E., D.G.E., J.P., O.F., N.J., S.S., M.R.S. and N.R. coordinated the studies used in stage 1. N.W. and N.E.D. coordinated the EPIC study used in stages 1 and 2. The remaining authors coordinated the studies in stage 3 and undertook genotyping in those studies. D.F.E. drafted the manuscript, with substantial contributions from K.A.P., A.M.D., P.D.P.P. and B.A.J.P. All authors contributed to the final paper.
+          </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="nihms-submitted">
+        <day>13</day>
+        <month>7</month>
+        <year>2009</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <day>28</day>
+        <month>6</month>
+        <year>2007</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>24</day>
+        <month>7</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>447</volume>
+      <issue>7148</issue>
+      <fpage>1087</fpage>
+      <lpage>1093</lpage>
+      <permissions>
+        <copyright-statement>&#x000a9;2007 <bold>Nature Publishing Group</bold></copyright-statement>
+        <copyright-year>2007</copyright-year>
+      </permissions>
+      <abstract>
+        <p id="P3">Breast cancer exhibits familial aggregation, consistent with variation in genetic susceptibility to the disease. Known susceptibility genes account for less than 25% of the familial risk of breast cancer, and the residual genetic variance is likely to be due to variants conferring more moderate risks. To identify further susceptibility alleles, we conducted a two-stage genome-wide association study in 4,398 breast cancer cases and 4,316 controls, followed by a third stage in which 30 single nucleotide polymorphisms (SNPs) were tested for confirmation in 21,860 cases and 22,578 controls from 22 studies. We used 227,876 SNPs that were estimated to correlate with 77% of known common SNPs in Europeans at <italic>r</italic>
+          <sup>2</sup>&#x0003e;0.5. SNPs in five novel independent loci exhibited strong and consistent evidence of association with breast cancer (<italic>P</italic>&#x0003c;10<sup>&#x02212;7</sup>). Four of these contain plausible causative genes (<italic>FGFR2</italic>, <italic>TNRC9</italic>, <italic>MAP3K1</italic> and <italic>LSP1</italic>). At the second stage, 1,792 SNPs were significant at the <italic>P</italic>&#x0003c;0.05 level compared with an estimated 1,343 that would be expected by chance, indicating that many additional common susceptibility alleles may be identifiable by this approach.
+        </p>
+      </abstract>
+      <funding-group>
+        <award-group>
+          <funding-source country="United Kingdom">Cancer Research UK : </funding-source>
+          <award-id>A3353 || CRUK_</award-id>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <p id="P4">Breast cancer is about twice as common in the first-degree relatives of women with the disease as in the general population, consistent with variation in genetic susceptibility to the disease<xref ref-type="bibr" rid="R1">1</xref>. In the 1990s, two major susceptibility genes for breast cancer, <italic>BRCA1</italic> and <italic>BRCA2</italic>, were identified<xref ref-type="bibr" rid="R2">2</xref>,<xref ref-type="bibr" rid="R3">3</xref>. Inherited mutations in these genes lead to a high risk of breast and other cancers<xref ref-type="bibr" rid="R4">4</xref>. However, the majority of multiple case breast cancer families do not segregate mutations in these genes. Subsequent genetic linkage studies have failed to identify further major breast cancer genes<xref ref-type="bibr" rid="R5">5</xref>. These observations have led to the proposal that breast cancer susceptibility is largely &#x02018;polygenic&#x02019;: that is, susceptibility is conferred by a large number of loci, each with a small effect on breast cancer risk<xref ref-type="bibr" rid="R6">6</xref>. This model is consistent with the observed patterns of familial aggregation of breast cancer<xref ref-type="bibr" rid="R7">7</xref>. However, progress in identifying the relevant loci has been slow. As linkage studies lack power to detect alleles with moderate effects on risk, large case-control association studies are required. Such studies have identified variants in the DNA repair genes <italic>CHEK2</italic>&#x0200b;, <italic>ATM</italic>&#x0200b;, <italic>BRIP1</italic> and <italic>PALB2</italic> that confer an approximately twofold risk of breast cancer, but these variants are rare in the population<xref ref-type="bibr" rid="R8">8</xref>-<xref ref-type="bibr" rid="R14">14</xref>. A recent study has shown that a common coding variant in <italic>CASP8</italic> is associated with a moderate reduction in breast cancer risk<xref ref-type="bibr" rid="R15">15</xref>. After accounting for all the known breast cancer loci, more than 75% of the familial risk of the disease remains unexplained<xref ref-type="bibr" rid="R16">16</xref>.</p>
+    <p id="P5">Recent technological advances have provided platforms that allow hundreds of thousands of SNPs to be analysed in association studies, thus providing a basis for identifying moderate risk alleles without prior knowledge of position or function. It has been estimated that there are 7 million common SNPs in the human genome (with minor allele frequency, m.a.f., &#x0003e;5%)<xref ref-type="bibr" rid="R17">17</xref>. However, because recombination tends to occur at distinct &#x02018;hot-spots&#x02019;, neighbouring polymorphisms are often strongly correlated (in &#x02018;linkage disequilibrium&#x02019;, LD) with each other. The majority of common genetic variants can therefore be evaluated for association using a few hundred thousand SNPs as tags for all the other variants<xref ref-type="bibr" rid="R18">18</xref>. We aimed to identify further breast cancer susceptibility loci in a three-stage association study<xref ref-type="bibr" rid="R19">19</xref>. In the first stage, we used a panel of 266,722 SNPs, selected to tag known common variants across the entire genome<xref ref-type="bibr" rid="R18">18</xref>. These SNPs were genotyped in 408 breast cancer cases and 400 controls from the UK; data were analysed for 390 cases and 364 controls genotyped for &#x02265;80% of the SNPs. The cases were selected to have a strong family history of breast cancer, equivalent to at least two affected female first-degree relatives, because such cases are more likely to carry susceptibility alleles<xref ref-type="bibr" rid="R20">20</xref>. Initally, we analysed 227,876 SNPs (85%) with genotypes on at least 80% of the subjects. We estimate that these SNPs are correlated with 58% of common SNPs in the HapMap CEPH/CEU (Utah residents with ancestry from northern and western Europe) samples at <italic>r</italic>
+      <sup>2</sup>&#x0003e;0.8, and 77% at <italic>r</italic>
+      <sup>2</sup>&#x0003e;0.5 (mean <italic>r</italic>
+      <sup>2</sup>=0.75; see <xref ref-type="supplementary-material" rid="SD1">Supplementary Fig. 1</xref>) (<ext-link ext-link-type="uri" xlink:href="http://www.hapmap.org/">http://www.hapmap.org/</ext-link>)<xref ref-type="bibr" rid="R21">21</xref>. As expected, coverage was strongly related to m.a.f.: 70% of SNPs with m.a.f.&#x0003e;10% were tagged at <italic>r</italic>
+      <sup>2</sup>&#x0003e;0.8, compared with 23% of SNPs with m.a.f. 5&#x02013;10%. The main analyses were restricted to 205,586 SNPs that had a call rate of 90% and whose genotype distributions did not differ from Hardy&#x02013;Weinberg equilibrium in controls (at <italic>P</italic>&#x0003c;10<sup>&#x02212;5</sup>).
+    </p>
+    <p id="P6">For the second stage we selected 12,711 SNPs, approximately 5% of those typed in stage 1, on the basis of the significance of the difference in genotype frequency between cases and controls. These SNPs were then genotyped in a further 3,990 invasive breast cancer cases and 3,916 controls from the SEARCH study, using a custom-designed oligonucleotide array. In the main analyses, we considered 10,405 SNPs with call rate of &#x0003e;95% that did not deviate from Hardy&#x02013;Weinberg equilibrium in controls.</p>
+    <p id="P7">Comparison of the observed and expected distribution of test statistics showed some evidence for an inflation of the test statistics in both stage 1 (inflation factor <italic>&#x003bb;</italic>=1.03, 95% confidence interval (CI) 1.02&#x02013;1.04) and stage 2 (<italic>&#x003bb;</italic>=1.06, 95% CI 1.04&#x02013;1.12), based on the 90% least significant SNPs (<xref ref-type="fig" rid="F1">Fig. 1</xref>). Possible explanations for this inflation include population stratification, cryptic relatedness among subjects, and differential genotype calling between cases and controls. There was evidence for an excess of low call rate SNPs among the most significant SNPs (<italic>P</italic>&#x0003c;0.01) in stage 1, but not in stage 2, suggesting that some of this effect is a genotyping artefact (<xref ref-type="supplementary-material" rid="SD1">Supplementary Table 1</xref>). However, the inflation was still present among SNPs with call rate &#x0003e;99% in both cases and controls, possibly reflecting population sub-structure. We computed 1 degree of freedom (d.f.) association tests for each SNP, combining stages 1 and 2. After adjustment for this inflation by the genomic control method<xref ref-type="bibr" rid="R22">22</xref>, we observed more associations than would have been expected by chance at <italic>P</italic>&#x0003c;0.05 (<xref ref-type="table" rid="T1">Table 1</xref>). One SNP (dbSNP rs2981582) was significant at the <italic>P</italic>&#x0003c;10<sup>&#x02212;7</sup> level that has been proposed as appropriate for genome-wide studies<xref ref-type="bibr" rid="R23">23</xref>.</p>
+    <p id="P8">In the third stage, to establish whether any SNPs were definitely associated with risk, we tested 30 of the most significant SNPs in 22 additional case-control studies, comprising 21,860 cases of invasive breast cancer, 988 cases of carcinoma <italic>in situ</italic> (CIS) and 22,578 controls (<xref ref-type="supplementary-material" rid="SD1">Supplementary Table 2</xref>). Six SNPs showed associations in stage 3 that were significant at <italic>P</italic>&#x02264;10<sup>&#x02212;5</sup> with effects in the same direction as in stages 1 and 2 (<xref ref-type="table" rid="T2">Table 2</xref>, <xref ref-type="supplementary-material" rid="SD1">Supplementary Table 3</xref>, and <xref ref-type="fig" rid="F2">Fig. 2</xref>). All these SNPs reached a combined significance level of <italic>P</italic>&#x0003c;10<sup>&#x02212;7</sup> (ranging from 2&#x000d7;10<sup>&#x02212;76</sup> to 3&#x000d7;10<sup>&#x02212;9</sup>). Of these six SNPs, five were within genes or LD blocks containing genes. SNP rs2981582 lies in intron 2 of <italic>FGFR2</italic> (also known as <italic>CEK3</italic>), which encodes the fibroblast growth factor receptor 2. SNPs rs12443621 and rs8051542 are both located in an LD block containing the 5&#x02032; end of <italic>TNRC9</italic> (also known as <italic>TOX3</italic>), a gene of uncertain function containing a tri-nucleotide repeat motif, as well as the hypothetical gene, <italic>LOC643714</italic>. SNP rs889312 lies in an LD block of approximately 280 kb that contains <italic>MAP3K1</italic> (also known as <italic>MEKK</italic>), which encodes the signalling protein mitogen-activated protein kinase kinase kinase 1, in addition to two other genes: <italic>MGC33648</italic> and <italic>MIER3</italic>. SNP rs3817198 lies in intron 10 of <italic>LSP1</italic> (also known as <italic>WP43</italic>), encoding lymphocyte-specific protein 1, an F-actin bundling cytoskeletal protein expressed in haematopoietic and endothelial cells. A further SNP, rs2107425, located just 110 kilobases (kb) from rs3817198, was also identified (overall <italic>P</italic>=0.00002). rs2107425 is within the <italic>H19</italic> gene, an imprinted maternally expressed untranslated messenger RNA closely involved in regulation of the insulin growth factor gene, <italic>IGF2</italic>. In stage 3, however, rs2107425 was only weakly significant after adjustment for rs3817198 by logistic regression (<italic>P</italic>=0.06). This suggests that the association with breast cancer risk may be driven by variants in <italic>LSP1</italic> rather than in <italic>H19</italic>. The sixth SNP reaching a combined <italic>P</italic>&#x0003c;10<sup>&#x02212;7</sup> was rs13281615, which lies on 8q. It is correlated with SNPs in a 110 kb LD block that contains no known genes. The basis of this association therefore remains obscure. This SNP is approximately 130 kb proximal to rs1447295, 60 kb proximal to rs6983267 and 230 kb distal to rs16901979, recently shown to be associated with prostate cancer<xref ref-type="bibr" rid="R24">24</xref>-<xref ref-type="bibr" rid="R26">26</xref>.</p>
+    <p id="P9">In addition to the seven SNPs described above, there was evidence of association among the remaining 23 SNPs (global <italic>P</italic>=0.001 in stage 3). In particular, three SNPs showed some evidence of association in stage 3 (<italic>P</italic>&#x0003c;0.05, in each case in the same direction as in stages 1 and 2; <xref ref-type="table" rid="T2">Table 2</xref>). SNPs rs981782 and rs30099 both lie in the centromeric region of chromosome 5. rs4666451 lies on 2p, a region for which some evidence of linkage to breast cancer in families has been reported<xref ref-type="bibr" rid="R5">5</xref>. The 20 other SNPs showed no evidence of association in stage 3 (global <italic>P</italic>=0.11), suggesting that most of these associations from stages 1 and 2 were false positives.</p>
+    <sec id="S1">
+      <title>FGFR2</title>
+      <p id="P10">The most significantly associated SNP, rs2981582, lies within a 25 kb LD block almost entirely within intron 2 of <italic>FGFR2</italic>. We found no evidence of association with SNPs elsewhere in the gene (<xref ref-type="fig" rid="F3">Fig. 3a</xref>). In an attempt to identify a causal variant, we first identified the 19 common variants (m.a.f.&#x0003e;0.05) in this block from HapMap CEU data. These were tagged (<italic>r</italic>
+        <sup>2</sup>&#x0003e;0.8) by 7 SNPs including rs2981582. The additional tag SNPs were genotyped in the SEARCH study cases and controls. Multiple logistic regression analysis of these variants found no additional evidence for association after adjusting for rs2981582. Haplotype analysis of these 7 SNPs indicated that multiple haplotypes carrying the minor (<italic>a</italic>) allele of rs2981582 were associated with an increased risk of breast cancer, implying that the association was being driven by rs2981582 itself or a variant strongly correlated with it (<xref ref-type="supplementary-material" rid="SD1">Supplementary Table 4</xref>).
+      </p>
+      <p id="P11">Resequencing of this region in 45 subjects of European origin identified 29 variants that were strongly correlated with rs2981582 (<italic>r</italic>
+        <sup>2</sup>&#x0003e;0.6) (<ext-link ext-link-type="uri" xlink:href="http://cgwb.nci.nih.gov">http://cgwb.nci.nih.gov</ext-link>; <xref ref-type="fig" rid="F3">Fig. 3b</xref> and <xref ref-type="supplementary-material" rid="SD1">Supplementary Tables 5&#x02013;8</xref>). A subset of 14 variants tagged 27 of these in European (<italic>r</italic>
+        <sup>2</sup>&#x0003e;0.95) and Asian (Korean) samples (<italic>r</italic>
+        <sup>2</sup>&#x0003e;0.86). Two variants could not be genotyped reliably. This new tagging set was then genotyped in SEARCH and 3 studies from Asian populations; the Asian studies were included because the LD is weaker, providing greater power to resolve the causal variant (<xref ref-type="fig" rid="F3">Fig. 3b, left panel</xref>). The strongest association was found with rs7895676. On the assumption that there is a single disease-causing allele, we calculated a likelihood for each variant. 21 SNPs (including rs2981582) had a likelihood ratio of &#x0003c;1/100 relative to rs7895676, indicating that none of these are likely to be the causal variant (<xref ref-type="supplementary-material" rid="SD1">Supplementary Table 8</xref>). Six variants were too strongly correlated for their individual effects to be separated using a genetic epidemiological approach. Functional assays will be required to determine which is causally related to breast cancer risk.
+      </p>
+      <p id="P12">Intron 2 of <italic>FGFR2</italic> shows a high degree of conservation in mammals, and contains several putative transcription-factor binding sites (<ext-link ext-link-type="uri" xlink:href="http://genomequebec.mcgill.ca/PReMod">http://genomequebec.mcgill.ca/PReMod</ext-link>)<xref ref-type="bibr" rid="R27">27</xref>, some of which lie in close proximity to the relevant SNPs. We therefore speculate that the association with breast cancer risk is mediated through regulation of <italic>FGFR2</italic> expression. Of possible relevance is that only three of these variants (rs10736303, rs2981578 and rs35054928) are within sequences conserved across all placental mammals (<xref ref-type="fig" rid="F3">Fig. 3c</xref> and <xref ref-type="supplementary-material" rid="SD1">Supplementary Table 8</xref>). Of these, the disease associated allele of rs10736303 generates a putative oestrogen receptor (ER) binding site. rs35054928 lies immediately adjacent to a perfect POU domain protein octamer (Oct) binding site. However, multiple splice variants have been reported in <italic>FGFR2</italic>, and differential splicing might provide an alternative mechanism for the association. FGFR2 is a receptor tyrosine kinase that is amplified and overexpressed in 5&#x02013;10% of breast tumours<xref ref-type="bibr" rid="R28">28</xref>-<xref ref-type="bibr" rid="R30">30</xref>. Somatic missense mutations of <italic>FGFR2</italic> that are likely to be implicated in cancer development have also been demonstrated in primary tumours and cell lines of multiple tumour types (<ext-link ext-link-type="uri" xlink:href="http://www.sanger.ac.uk/genetics/CGP/cosmic/">http://www.sanger.ac.uk/genetics/CGP/cosmic/</ext-link>)<xref ref-type="bibr" rid="R30">30</xref>,<xref ref-type="bibr" rid="R31">31</xref>.</p>
+    </sec>
+    <sec id="S2">
+      <title>
+        <italic>TNRC9/LOC643714</italic> locus
+      </title>
+      <p id="P13">As two SNPs in the <italic>TNRC9/LOC643714</italic> locus, rs12443621 and rs8051542, both showed convincing evidence of association, we further evaluated this region by genotyping, in the SEARCH set, an additional 19 SNPs tagging 101 common variants within the entire <italic>TNRC9</italic> and <italic>LOC643714</italic> genes, based on the HapMap CEU data. SNPs tagging the coding region of <italic>TNRC9</italic> showed no evidence of association. The strongest association was observed with rs3803662, a synonymous coding SNP of <italic>LOC643714</italic> that lies 8 kb upstream of <italic>TNRC9</italic>. This SNP was therefore genotyped in the stage 3 set (<xref ref-type="table" rid="T2">Table 2</xref>). Logistic regression analysis indicated that rs3803662 exhibited a stronger association with disease than other SNPs, and the associations with other SNPs were non-significant after adjustment for rs3803662. These results suggest that the causal variant is closely correlated with rs3803662. Four SNPs in the HapMap CEU data (rs17271951, rs1362548, rs3095604 and rs4784227) that span <italic>LOC643714</italic> and the 5&#x02032; regulatory regions of <italic>TNRC9</italic> are strongly correlated with rs3803662, and it therefore remains unclear in which gene the causative variant lies. <italic>TNRC9</italic> contains a putative HMG (high mobility group) box motif, suggesting that it might act as a transcription factor.</p>
+    </sec>
+    <sec id="S3">
+      <title>Pattern of risks</title>
+      <p id="P14">We assessed in more detail, in the stage 3 data, the pattern of the risks associated with the five independent SNPs that reached an overall <italic>P</italic>&#x0003c;10<sup>&#x02212;7</sup>: rs2981582 (<italic>FGFR2</italic>), rs3803662 (<italic>TNRC9/LOC643714</italic>), rs889312 (<italic>MAP3K1</italic>), rs13281615 (8q) and rs3817198 (<italic>LSP1</italic>). For each of these five SNPs, the minor allele in Europeans was associated with an increased risk of breast cancer in a dose-dependent manner, with a higher risk of breast cancer in homozygous than in heterozygous carriers. Simple dominant and recessive models could be rejected for each SNP (all <italic>P</italic>=0.02 or less). There was a marked difference in allele frequencies between populations, with the risk-associated alleles of rs8051542, rs889312 and rs13281615 being the major allele in Asian populations. The per allele odds ratio associated with rs2981582 was significantly smaller, though still elevated, in the Asian versus European populations (<italic>P</italic>=0.04 for difference in odds ratio). This difference is consistent with the hypothesis that rs2981582 is not the functional variant at the <italic>FGFR2</italic> locus, and was not seen for SNPs exhibiting stronger evidence in the fine-scale mapping. No other evidence for heterogeneity in the per-allele odds ratio among studies was observed (<xref ref-type="fig" rid="F2">Fig. 2</xref>).</p>
+      <p id="P15">Three of the SNPs (rs2981582, rs3803662 and rs889312) also showed evidence of association with breast CIS (<xref ref-type="supplementary-material" rid="SD1">Supplementary Table 9</xref>). For rs2981582 and rs3803662, the estimated odds ratios were greater for a diagnosis of breast cancer before age 40 years, but the trends by age were not statistically significant (<xref ref-type="supplementary-material" rid="SD1">Supplementary Table 10</xref>). There was evidence of an association with family history of breast cancer for three SNPs: for rs2981582 (<italic>P</italic>=0.02), rs3803662 (<italic>P</italic>=0.03) and rs13281615 (<italic>P</italic>=0.05), the susceptibility allele was commoner in women with a first-degree relative with the disease than in those without (<xref ref-type="supplementary-material" rid="SD1">Supplementary Table 11</xref>). rs2981582 was also associated with bilaterality (<italic>P</italic>=0.02). The associations with family history and bilaterality are to be expected for susceptibility loci, and are similar to previous observations for alleles in <italic>CHEK2</italic> and <italic>ATM</italic> (refs <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R14">14</xref>).</p>
+    </sec>
+    <sec sec-type="discussion" id="S4">
+      <title>Discussion</title>
+      <p id="P16">This study has identified five novel breast cancer susceptibility loci, and demonstrated conclusively that some of the variation in breast cancer risk is due to common alleles. None of the loci we identified had been previously reported in association studies. Most previously identified breast cancer susceptibility genes are involved in DNA repair, and many association studies in breast cancer have concentrated on genes in DNA repair and sex hormone synthesis and metabolism pathways. None of the associations reported here appear to relate to genes in these pathways. It is notable that three of the five loci contain genes related to control of cell growth or to cell signalling, but only one (<italic>FGFR2</italic>) had a clear prior relevance to breast cancer. These results should, therefore, open up new avenues for basic research.</p>
+      <p id="P17">Our results emphasize the critical importance of study size in genetic association studies. It is notable that none of the confirmed associations reached genome-wide significance after stage 1 and only one reached this level after stage 2. As most common cancers have similar familial relative risks to breast cancer, it is likely that similarly large studies will be required to identify common alleles for other cancers. The fine-scale mapping of the <italic>FGFR2</italic> locus demonstrates that, even with a clear association, identification of the causative variant can be extremely problematic. However, the use of studies from multiple populations with different patterns of LD can substantially reduce the number of variants that need to be subjected to functional analysis.</p>
+      <p id="P18">As these susceptibility alleles are very common, a high proportion of the general population are carriers of at-risk genotypes. For example, approximately 14% of the UK population and 19% of UK breast cancer cases are homozygous for the rare allele at rs2981582. On the other hand, the increased risks associated with these alleles are relatively small&#x02014;on the basis of UK population rates, the estimated breast cancer risk by age 70 years for rare homozygotes at rs2981582 is 10.5%, compared to 6.7% in heterozygotes and 5.5% in common homozygotes. At this stage, it is unlikely that these SNPs will be appropriate for predictive genetic testing, either alone or in combination with each other. However, as further susceptibility alleles are identified, a combination of such alleles together with other breast cancer risk factors may become sufficiently predictive to be important clinically.</p>
+      <p id="P19">On the basis of the relative risk estimates from stage 3, and assuming that the five most significant loci interact multiplicatively on disease risk, these loci explain an estimated 3.6% of the excess familial risk of breast cancer. On the basis of our staged design and the estimated distribution of linkage disequilibrium between the typed SNPs and those in HapMap, we estimate that the power to identify the five most significant associations at <italic>P</italic>&#x0003c;10<sup>&#x02212;7</sup> (rs2981582, rs3803662, rs889312, rs13281615 and rs3817198) was 93%, 71%, 25%, 3% and 1% respectively. These estimates are uncertain, notably because the true coverage of HapMap SNPs is unknown. Nevertheless, these calculations indicate that the power to detect the two strongest associations was high, and suggest that there are likely to be few other common variants with a similar effect on variation in breast cancer risk to rs2981582. In contrast, the low power to detect rs13281615 and rs3817198 suggests that these variants may represent a much larger class of loci, each explaining of the order of 0.1% of the familial risk of breast cancer. An example of such a locus is provided by <italic>CASP8</italic> D302H, which showed strong evidence of association in a previous large study<xref ref-type="bibr" rid="R15">15</xref>. This SNP was tested in stage 1, but the association was missed because it did not reach the threshold for testing in stage 2. The excess of associations after stage 2 is also consistent with the existence of many such loci. In addition, because the coverage for SNPs with m.a.f.&#x0003c;10% was low, many low frequency alleles may have been missed. The detection of further susceptibility loci will require genome-wide studies with more complete coverage and using larger numbers of cases and controls, together with the combination of results across multiple studies. The present study demonstrates that common susceptibility loci can be reliably identified, and that they may together explain an appreciable fraction of the genetic variance in breast cancer risk.</p>
+    </sec>
+    <sec sec-type="methods" id="S5">
+      <title>METHODS SUMMARY</title>
+      <p id="P20">Cases for stage 1 were identified through clinical genetics centres in the UK and a national study of bilateral breast cancer. Cases in stage 2 were drawn from a population-based study of breast cancer (SEARCH)<xref ref-type="bibr" rid="R32">32</xref>. Controls for stages 2 and 3 were drawn from EPIC-Norfolk, a population-based study of diet and cancer<xref ref-type="bibr" rid="R33">33</xref>.</p>
+      <p id="P21">Cases and controls for stage 3 were identified through case-control studies in Europe, North America, South-East Asia and Australia participating in the Breast Cancer Association Consortium (<xref ref-type="supplementary-material" rid="SD1">Supplementary Table 2</xref>)<xref ref-type="bibr" rid="R34">34</xref>.</p>
+      <p id="P22">Genotyping for stages 1 and 2 was conducted using high-density oligonucleotide microarrays. For the main analyses, we excluded samples called on &#x02264;80% of SNPs in either stage. We also excluded SNPs that achieved a call rate of &#x02264;90% in stage 1 and &#x02264;95% in stage 2, and SNPs whose frequency deviated from Hardy&#x02013;Weinberg equilibrium in controls at <italic>P</italic>&#x0003c;0.00001. Genotyping for stage 3, and for the fine-scale mapping of the <italic>FGFR2</italic> locus, was conducted using either a 5&#x02032; nuclease assay (Taqman, Applied Biosystems) or MALDI-TOF mass spectrometry using the Sequenom iPLEX system. For each centre, we excluded any sample called on &#x02264;80% of SNPs, and any SNP with a call rate of &#x02264;95% or a deviation from Hardy&#x02013;Weinberg equilibrium in controls at <italic>P</italic>&#x0003c;0.00001. Tests of association were 1 d.f. Cochran-Armitage tests, stratified for stage, centre and ethnic group (European or Asian). Odds ratios for each SNP were estimated using stratified logistic regression, using the stage 3 data only.</p>
+    </sec>
+    <sec sec-type="methods" id="S6">
+      <title>METHODS</title>
+      <sec sec-type="subjects" id="S7">
+        <title>Subjects</title>
+        <p id="P23">Cases in stage 1 were identified through clinical genetics centres in Cambridge (<italic>n</italic> = 91), Manchester (96) and Southampton (136), and a national study of bilateral breast cancer (85). Cases were women diagnosed with invasive breast cancer under the age of 60 years who had a family history score of at least 2, where the score was computed as the total number of first-degree relatives plus half the number of second-degree relatives affected with breast cancer. The score for women with bilateral breast cancer was increased by 1, so that women were eligible if they were diagnosed with bilateral breast cancer and had one affected first-degree relative. Cases known to carry a <italic>BRCA1</italic> or <italic>BRCA2</italic> mutation were excluded. Controls were selected from the EPIC-Norfolk study, a population-based cohort study of diet and cancer based in Norfolk, East Anglia, UK<xref ref-type="bibr" rid="R33">33</xref>. Controls were chosen to be women aged over 50 years and free of cancer at the time of entry. Genotyping was attempted on 408 cases, plus 32 duplicate case samples, and 400 controls. For the analysis in <xref ref-type="table" rid="T1">Table 1</xref>, 54 samples with genotype call rates &#x0003c;80% were excluded, so the final analyses were based on 390 cases and 364 controls. The minimum genotype call rate for the remaining samples was 89%. The overall genotype discordance rate between duplicate samples in stage 1 was 0.01%.</p>
+        <p id="P24">For stage 2, invasive breast cancer cases were drawn from SEARCH, a population-based study of cancer in East Anglia<xref ref-type="bibr" rid="R32">32</xref>. Controls were women selected from the EPIC-Norfolk study, as previously described<xref ref-type="bibr" rid="R33">33</xref>. Eighty-eight subjects who were also genotyped in stage 1, and 35 controls who subsequently developed breast cancer and were also in the case series, were excluded from the analysis, leaving 3,990 breast cancer cases and 3,916 controls, plus five duplicates. The overall rate of discordance of genotypes between duplicate samples in stage 2 was 0.008%.</p>
+        <p id="P25">Twenty-one additional studies were included in stage 3 (see <xref ref-type="supplementary-material" rid="SD1">Supplementary Table 2</xref>). These studies participated through the Breast Cancer Association Consortium, an ongoing collaboration among investigators conducting case-control association studies in breast cancer<xref ref-type="bibr" rid="R15">15</xref>,<xref ref-type="bibr" rid="R33">33</xref>. All studies provided information on disease status (invasive breast cancer, carcinoma <italic>in situ</italic> or control), age at diagnosis/observation, ethnic group, first-degree family history of breast cancer and bilaterality of breast cancer. One further study (Breast Cancer Study of Taiwan) was included in the fine-scale mapping of the <italic>FGFR2</italic> locus.</p>
+      </sec>
+      <sec id="S8">
+        <title>Genotyping</title>
+        <p id="P26">For stage 1, genotyping was performed on 200 ng DNA that was first subjected to whole genome amplification using Multiple Displacement Amplification (MDA)<xref ref-type="bibr" rid="R36">36</xref>. Samples were then genotyped for a set of 266,732 SNPs using high-density oligonucleotide, photolithographic microarrays at Perlegen Sciences. For stage 2, genotyping was performed using 2.5 &#x003bc;g genomic DNA. These samples were genotyped for a set of 13,023 SNPs selected on the basis of the stage 1 results, using a custom designed oligonucleotide array. For both stages, each SNP was interrogated by 24 25-mer oligonucleotide probes synthesized by photolithography on a glass substrate. The 24 features comprise 4 sets of 6 features interrogating the neighbourhoods of SNP reference and alternative alleles on forward and reference strands. Each allele and strand is represented by five offsets: &#x02212;2, &#x02212;1, 0, 1 and 2 indicating the position of the SNP within the 25-mer, with zero being at the thirteenth base. At offset 0 a quartet was tiled, which included the perfect match to reference and alternative SNP alleles, and the two remaining nucleotides as mismatch probes. When possible, the mismatch features were selected as a purine nucleotide substitution for a purine perfect match nucleotide and a pyrimidine nucleotide substitution for a pyrimidine perfect match nucleotide. Thus, each strand and allele tiling consisted of 6 features comprising five perfect match probes and one mismatch.</p>
+        <p id="P27">Individual genotypes were determined by clustering all SNP scans in the two-dimensional space defined by reference and alternative trimmed mean intensities, corrected for background. Allele frequencies were approximated using the intensities collected from the high-density oligonucleotide arrays. An SNP's allele frequency, <italic>p</italic>, was estimated as the ratio of the relative amount of the DNA with reference allele to the total amount of DNA. The <inline-graphic xlink:href="ukmss-5232-ig0004.jpg"/> value was computed from the trimmed mean intensities of perfect match features, after subtracting a measure of background computed from trimmed means of intensities of mismatch features. The trimmed mean disregarded the highest and the lowest intensity from the five perfect match intensities before computing the arithmetic mean. For the mismatch features, the trimmed mean is the individual intensity of the specified mismatch feature.
+        </p>
+        <p id="P28">The genotype clustering procedure was an iterative algorithm developed as a combination of K-means and constrained multiple linear regressions. The K-means at each step re-evaluated the cluster membership representing distinct diploid genotypes. The multiple linear regressions minimized the variance in <inline-graphic xlink:href="ukmss-5232-ig0004.jpg"/> within each cluster while optimizing the regression lines' common intersect. The common intersect defined a measure of common background that was used to adjust the allele frequencies for the next step of K-means. The K-means and multiple linear regression steps were iterated until the cluster membership and background estimates converged. The best number of clusters was selected by maximizing the total likelihood over the possible cluster counts of 1, 2 and 3 (representing the combinations of the three possible diploid genotypes). The total likelihood was composed of data likelihood and model likelihood. The data likelihood was determined using a normal mixture model for the distribution of <inline-graphic xlink:href="ukmss-5232-ig0004.jpg"/> around the cluster means. The model likelihood was calculated using a prior distribution of expected cluster positions, resulting in optimal <inline-graphic xlink:href="ukmss-5232-ig0004.jpg"/> positions of 0.8 for the homozygous reference cluster, 0.5 for the heterozygous cluster and 0.2 for the homozygous alternative cluster.
+        </p>
+        <p id="P29">A genotyping quality metric was compiled for each genotype from 15 input metrics that described the quality of the SNP and the genotype. The genotyping quality metric correlated with a probability of having a discordant call between the Perlegen platform and outside genotyping platforms (that is, non-Perlegen HapMap project genotypes). A system of 10 bootstrap aggregated regression trees was trained using an independent data set of concordance data between Perlegen genotypes and HapMap project genotypes. The trained predictor was then used to predict the genotyping quality for each of the genotypes in this data set. Genotypes with quality scores of less than 7 were discarded. Data were analysed for 227,876 SNPs in stage 1 and 12,026 (of 13,023 selected) in stage 2, for which the call rate was &#x0003e;80%.</p>
+        <p id="P30">The 12,711 SNPs for stage 2 were primarily selected on the basis of a 1 d.f. Cochran-Armitage trend test (11,809, all with <italic>P</italic>&#x0003c;0.052). We also included 826 SNPs with <italic>P</italic>&#x0003c;0.01 testing for the difference in frequency of either homozygote between cases and controls (that is, assuming either a dominant or recessive model) and 76 SNPs that achieved <italic>P</italic>&#x0003c;0.01 on a Cochran-Armitage test, weighting individuals by their family history score as above.</p>
+        <p id="P31">For the main analyses, we discarded SNPs with a call rate &#x0003c;90% in stage 1 and 95% in stage 2, and SNPs with a deviation from Hardy&#x02013;Weinberg equilibrium significant at <italic>P</italic>&#x0003c;0.00001 in either stage, leaving 205,586 SNPs in stage 1 and 10,621 SNPs in stage 2.</p>
+        <p id="P32">The 30 SNPs included in the stage 3 analyses were initially selected on the basis of a combined analysis of stage 1 and stage 2. We included all SNPs achieving a combined <italic>P</italic>&#x0003c;0.00002 (based on either the Cochran-Armitage or 2 d.f. test, see below). Following re-evaluation of the stage 2 genotyping by 5&#x02032; nuclease assay (Taqman, Applied Biosystems) using the ABI PRISM 7900HT (Applied Biosystems), and exclusion of some samples, 16 of these SNPs were significant at <italic>P</italic>&#x0003c;0.00002 and 24 at <italic>P</italic>&#x0003c;0.0002 (<xref ref-type="supplementary-material" rid="SD1">Supplementary Table 3</xref>). One additional SNP, rs3803662, was added as a result of fine-scale mapping of the <italic>TNRC9/LOC643714</italic> locus.</p>
+        <p id="P33">The 31 stage 3 SNPs were genotyped in 22 studies (including cases and controls from SEARCH not used in stage 2, together with 21 other studies). For 18 of the studies, genotyping was performed by 5&#x02032; nuclease assay (Taqman) using the ABI PRISM 7900HT or 7500 Sequence Detection Systems according to manufacturer's instructions. Primers and probes were supplied directly by Applied Biosystems (<ext-link ext-link-type="uri" xlink:href="http://www.appliedbiosystems.com/">http://www.appliedbiosystems.com/</ext-link>) as Assays-by-Design. All assays were carried out in 384-well or 96-well format, with each plate including negative controls (with no DNA). Duplicate genotypes were provided for at least 2% of samples in each study. For three studies, SNPs were genotyped using matrix assisted laser desorption/ionization time of flight mass spectrometry (MALDI-TOF MS) for the determination of allele-specific primer extension products using Sequenom's MassARRAY system and iPLEX technology. The design of oligonucleotides was carried out according to the guidelines of Sequenom and performed using MassARRAY Assay Design software (version 1.0). Multiplex PCR amplification of amplicons containing SNPs of interest was performed using Qiagen HotStart Taq Polymerase on a Perkin Elmer GeneAmp 2400 thermal cycler (MJ Research) with 5 ng genomic DNA. Primer extension reactions were carried out according to manufacturer's instructions for iPLEX chemistry. Assay data were analysed using Sequenom TYPER software (version 3.0). One study used both the Taqman and MALDI-TOF MS approaches. The SNPs genotyped in stage 3 were also regenotyped in the stage 2 samples using Taqman; these genotype calls were used in the overall analyses (<xref ref-type="table" rid="T2">Table 2</xref>, <xref ref-type="supplementary-material" rid="SD1">Supplementary Table 3</xref>, and <xref ref-type="fig" rid="F2">Fig. 2</xref>).</p>
+        <p id="P34">We eliminated any sample that could not be scored on 20% of the SNPs attempted. We also removed data for any centre/SNP combination for which the call rate was less than 90%. In any instances where the call rate was 90&#x02013;95%, the clustering of genotype calls was re-evaluated by an independent observer to determine whether the clustering was sufficiently clear for inclusion. We also eliminated all the data for a given SNP/centre where the reproducibility in duplicate samples was &#x0003c;97%, or where there was marked deviation from Hardy&#x02013;Weinberg equilibrium in the controls (<italic>P</italic>&#x0003c;0.00001).</p>
+      </sec>
+      <sec id="S9">
+        <title>Fine-scale mapping of <italic>FGFR2</italic></title>
+        <p id="P35">Initial tagging of the associated region was done by identifying all SNPs with an m.a.f.&#x0003e;5% in the HapMap CEPH/CEU set (Utah residents with ancestry from northern and western Europe). We then selected 7 SNPs (in addition to rs2981582) that tagged these variants with a pairwise <italic>r</italic>
+          <sup>2</sup>&#x0003e;0.8, using the program Tagger (<ext-link ext-link-type="uri" xlink:href="http://www.broad.mit.edu/mpg/tagger/">http://www.broad.mit.edu/mpg/tagger/</ext-link>)<xref ref-type="bibr" rid="R37">37</xref>. To identify additional common variants within the 32.5 kb region of linkage around the associated SNP, we resequenced 45 lymphocyte DNA samples from a subset of European subjects also genotyped by HapMap and other publicly available data sets. Seventy overlapping PCR amplicons were designed from positions 123317613 to 123348192 of chromosome 10 (average amplicon size 650 bp, 160 bp overlap). M13-tagged PCR products were bidirectionally sequenced using Big Dye 3.0 (Applied Biosystems) and processed using automated trace analysis through the Cancer Genome Workbench (<ext-link ext-link-type="uri" xlink:href="http://cgwb.nci.nih.gov">cgwb.nci.nih.gov</ext-link>). Eighty-six per cent of the nucleotides across the region could be scored for polymorphisms in at least 80% of subjects. This set gave a &#x0003e;97% probability of detecting a variant with an m.a.f.&#x0003e;5%. One hundred and seventeen variants were identified, including 27 present in dbSNP but without individual genotype information in European subjects, and an additional 46 not in dbSNP. Individual genotype information was then compared and merged with publicly available genotypes from Caucasian subjects (HapMap release 21 for 60 CEU parents, 22 European subjects from the Environmental Genome Project (EGP) resequencing effort (<ext-link ext-link-type="uri" xlink:href="http://egp.gs.washington.edu/data/fgfr2/">http://egp.gs.washington.edu/data/fgfr2/</ext-link>), and 24 European subjects from Perlegen (retrieved through <ext-link ext-link-type="uri" xlink:href="http://gvs.gs.washington.edu/GVS">http://gvs.gs.washington.edu/GVS</ext-link>)). There were 2 discrepancies among 389 genotype calls among subjects in common between our resequencing effort and EGP or Perlegen data, and 10 out of 926 compared to HapMap genotypes.
+        </p>
+        <p id="P36">On the basis of these data, we identified 28 SNPs correlated with rs2981582 with <italic>r</italic>
+          <sup>2</sup>&#x0003e;0.6. We then attempted to genotype these 28 SNPs, plus rs2981582, in a subset of 80 controls from SEARCH and 84 controls from the Seoul Breast Cancer Study. Twenty-two of the variants were genotyped using Taqman. Four further variants (rs34032268, rs2912778, rs2912781 and rs7895676), which were not amenable to Taqman, were genotyped by Pyrosequencing (Biotage; <ext-link ext-link-type="uri" xlink:href="http://www.biotagebio.com/">http://www.biotagebio.com/</ext-link>). Assays were designed using Pyrosequencing Assay Design Software 1.0. The remaining 2 SNPs (rs35393331 and rs33971856) could not be genotyped using either technology and were excluded from further analyses. We cannot therefore comment on their likelihood of being the causal variant. Using these data, we selected tagging sets of 11 SNPs for UK subjects and 14 SNPs for Korean subjects (including rs2981582), such that each of the remaining variants was correlated with a tagging SNP with <italic>r</italic>
+          <sup>2</sup>&#x0003e;0.95 in the UK study or <italic>r</italic>
+          <sup>2</sup>&#x0003e;0.86 in the Korean study. After genotyping the 11 tag SNPs in SEARCH, two of these SNPs (rs4752569 and rs35012336) showed strong evidence against being the causative variant and were not considered further. The remaining 12 tag SNPs from the Korean subset were then genotyped in the samples from the IARC-Thai Breast Cancer Study, the Breast Cancer Study in Taiwan and the Multi-Ethnic Cohort (MEC), by Taqman.
+        </p>
+      </sec>
+      <sec sec-type="methods" id="S10">
+        <title>Statistical methods</title>
+        <p id="P37">The primary test used for each SNP was a Cochran-Armitage 1 d.f. score test for association between disease status and allele dose. In the combined analysis, we performed a stratified Cochran-Armitage test. Stage 1 was given a weight of 4 in this analysis (corresponding to a weight of 2 in the score statistic), to allow for the expected greater effect size given the inclusion of cases with a family history. In the stage 3 analyses, each study was treated as a separate stratum, except for the MEC, in which the European American and Japanese American subgroups were treated as separate strata. For all studies except the MEC, individuals from a minor ethnic group for that study were excluded. Per-allele and genotype-specific odds ratios, and confidence intervals, were estimated using logistic regression, adjusting for the same strata. The summary odds ratios in <xref ref-type="fig" rid="F2">Fig. 2</xref> are based on the data from the stage 3 studies only, to avoid the bias inherent in estimates from the stage 1 and 2 data for SNPs exhibiting an association (the so called &#x02018;winner's curse&#x02019;). The effects of genotype on family history of breast cancer (first degree yes/no) and bilaterality were examined by treating these variables as outcomes in a stratified Cochran-Armitage test.</p>
+        <p id="P38">To assess the global significance of the SNPs in stage 3, we computed the sum of the &#x003c7;<sup>2</sup> trend statistics (excluding the 6 SNPs reaching genome-wide significance, plus rs2107425 as it was in LD with rs3817198) over those SNPs (17 of 23) for which the estimated odds ratios in stage 3 were in the same direction as the combined stage 1/stage 2<xref ref-type="bibr" rid="R38">38</xref>. Under the null hypothesis of no association, the asymptotic distribution of this statistic is &#x003c7;<sup>2</sup> with <italic>n</italic> degrees of freedom, where <italic>n</italic> has a binomial distribution with parameters 23 and 1/2. The significance of this statistic was then assessed by computing a weighted sum of the tails of the relevant &#x003c7;<sup>2</sup> distributions.</p>
+        <p id="P39">For the fine-scale mapping of the <italic>FGFR2</italic> locus, we first derived haplotype frequencies using the haplo.stats package in S-plus<xref ref-type="bibr" rid="R39">39</xref>, separately for the European and Asian populations, using data from the case-control studies on whom the tag SNPs were typed plus the 164 control individuals on whom all SNPs were typed. These were used to impute genotype probabilities for each identified SNP in each individual. We then used an EM algorithm to fit a logistic regression model assuming that each SNP in turn was the causal variant, allowing for uncertainty in the genotypes of untyped SNPs, and hence to determine the likelihood that each SNP was the causal variant.</p>
+        <p id="P40">Coverage of the stage 1 tagging set was estimated using HapMap phase II as a reference. We based estimates on 2,116,183 SNPs with an m.a.f. of &#x0003e;5% in the CEU population. Of the SNPs successfully genotyped in stage 1, 187,663 were also on HapMap. For those SNPs not on HapMap, we identified &#x02018;surrogate&#x02019; SNPs that were in perfect LD based on genotyping of 24 Caucasians by Perlegen Sciences (269,203 SNPs)<xref ref-type="bibr" rid="R18">18</xref>. To estimate coverage, we determined the best pairwise <italic>r</italic>
+          <sup>2</sup> for each HapMap SNP and each tag SNP or a surrogate SNP, using the HapMap CEU data. This coverage was summarized in terms of the distribution of <italic>r</italic>
+          <sup>2</sup> by allele frequency in 10 categories.
+        </p>
+        <p id="P41">To estimate the power to detect each of the associations found, we computed the non-centrality parameter for the test statistic at each stage, based on the perallele relative risk, allele frequency and <italic>r</italic>
+          <sup>2</sup>. This was used to estimate the power for a given <italic>r</italic>
+          <sup>2</sup>, based on a simulated trivariate normal distribution for the score statistics after each stage to allow for the correlations in the test statistics. We assumed a cut-off of <italic>P</italic>&#x0003c;0.05 for stage 1, <italic>P</italic>&#x0003c;0.00002 for stage 2 and <italic>P</italic>&#x0003c;10<sup>&#x02212;7</sup> for stage 3 (the first is slightly conservative, as more SNPs than this were actually taken forward). The overall power was obtained by averaging the power estimates for each <italic>r</italic>
+          <sup>2</sup> over the distribution of <italic>r</italic>
+          <sup>2</sup> obtained from the HapMap data, applicable to a SNP of that frequency.
+        </p>
+        <p id="P42">The expected number of significant associations after stage 2 (<xref ref-type="table" rid="T1">Table 1</xref>) was calculated using a bivariate normal distribution for the joint distribution of the (weighted) Cochran-Armitage score statistics after stage 1 and after both stages, using a correlation of 0.525 between the two statistics (reflecting the weighted sizes of the two studies). These calculations were based on the 205,586 SNPs reaching the required quality control in stage 1. Of these, 11,313 reached a <italic>P</italic>&#x0003c;0.05, of which 7,405 (65.5%) were successfully genotyped to the required quality control in stage 2. Thus the expected number reaching a given significance level with good quality control was calculated from the total number expected to reach this level &#x000d7; 65.5%. We adjusted the variances of the test statistics, separately for stages 1 and 2, using the genomic control method<xref ref-type="bibr" rid="R22">22</xref>. The adjustment factor, <italic>&#x003bb;</italic>, was estimated from the median of the smallest 90% of the test statistics for SNPs typed in that stage, divided by the predicted median for the smallest 90% of a sample of &#x003c7;<sup>2</sup>
+          <sub>1</sub> distributions (that is, the 45% percentile of a &#x003c7;<sup>2</sup>
+          <sub>1</sub> distribution, 0.375).
+        </p>
+      </sec>
+    </sec>
+    <sec sec-type="supplementary-material" id="SM">
+      <title>Supplementary Material</title>
+      <supplementary-material content-type="local-data" id="SD1">
+        <label>suppl 1</label>
+        <media xlink:href="NIHMS5232-supplement-suppl_1.pdf" xlink:type="simple" id="d35e3521" position="anchor" mimetype="application" mime-subtype="pdf"/>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SD2">
+        <label>suppl 2</label>
+        <media xlink:href="NIHMS5232-supplement-suppl_2.xls" xlink:type="simple" id="d35e3525" position="anchor" mimetype="application" mime-subtype="vnd.ms-excel"/>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="SD3">
+        <label>suppl 3</label>
+        <media xlink:href="NIHMS5232-supplement-suppl_3.pdf" xlink:type="simple" id="d35e3529" position="anchor" mimetype="application" mime-subtype="pdf"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack id="S11">
+      <title>Acknowledgements</title>
+      <p>The authors thank the women who took part in this research, and all the funders and support staff who made this study possible. The principal funding for this study was provided by Cancer Research UK. Detailed acknowledgements are provided in <xref ref-type="supplementary-material" rid="SD3">Supplementary Information</xref>.</p>
+    </ack>
+    <fn-group>
+      <fn id="FN2">
+        <p id="P44">
+          <bold>Full Methods</bold> and any associated references are available in the online version of the paper at <ext-link ext-link-type="uri" xlink:href="http://www.nature.com/nature">www.nature.com/nature</ext-link>.
+        </p>
+      </fn>
+      <fn id="FN3">
+        <p id="P45">
+          <bold>Supplementary Information</bold> is linked to the online version of the paper at <ext-link ext-link-type="uri" xlink:href="http://www.nature.com/nature">www.nature.com/nature</ext-link>.
+        </p>
+      </fn>
+      <fn id="FN5">
+        <p id="P46">Reprints and permissions information is available at <ext-link ext-link-type="uri" xlink:href="http://www.nature.com/reprints">www.nature.com/reprints</ext-link>.</p>
+      </fn>
+      <fn id="FN6">
+        <p id="P47">The authors declare no competing financial interests.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <ref id="R1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>Collaborative Group on Hormonal Factors in Breast Cancer</collab>
+          </person-group>
+          <article-title>Familial breast cancer: Collaborative reanalysis of individual data from 52 epidemiological studies including 58 209 women with breast cancer and 101 986 women without the disease</article-title>
+          <source>Lancet</source>
+          <year>2001</year>
+          <volume>358</volume>
+          <fpage>1389</fpage>
+          <lpage>1399</lpage>
+          <pub-id pub-id-type="pmid">11705483</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miki</surname>
+              <given-names>Y</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A strong candidate for the breast and ovarian-cancer susceptibility gene BRCA1</article-title>
+          <source>Science</source>
+          <year>1994</year>
+          <volume>266</volume>
+          <fpage>66</fpage>
+          <lpage>71</lpage>
+          <pub-id pub-id-type="pmid">7545954</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wooster</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identification of the breast cancer susceptibility gene <italic>BRCA2</italic></article-title>
+          <source>Nature</source>
+          <year>1995</year>
+          <volume>378</volume>
+          <fpage>789</fpage>
+          <lpage>792</lpage>
+          <pub-id pub-id-type="pmid">8524414</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Antoniou</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Average risks of breast and ovarian cancer associated with mutations in <italic>BRCA1</italic> or <italic>BRCA2</italic> detected in case series unselected for family history: A combined analysis of 22 studies</article-title>
+          <source>Am. J. Hum. Genet</source>
+          <year>2003</year>
+          <volume>72</volume>
+          <fpage>1117</fpage>
+          <lpage>1130</lpage>
+          <pub-id pub-id-type="pmid">12677558</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A genome wide linkage search for breast cancer susceptibility genes</article-title>
+          <source>Genes Chromosom. Cancer</source>
+          <year>2006</year>
+          <volume>45</volume>
+          <fpage>646</fpage>
+          <lpage>655</lpage>
+          <pub-id pub-id-type="pmid">16575876</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pharoah</surname>
+              <given-names>PDP</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Polygenic susceptibility to breast cancer and implications for prevention</article-title>
+          <source>Nature Genet</source>
+          <year>2002</year>
+          <volume>31</volume>
+          <fpage>33</fpage>
+          <lpage>36</lpage>
+          <pub-id pub-id-type="pmid">11984562</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Antoniou</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Pharoah</surname>
+              <given-names>PDP</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Easton</surname>
+              <given-names>DF</given-names>
+            </name>
+          </person-group>
+          <article-title>The BOADICEA model of genetic susceptibility to breast and ovarian cancer</article-title>
+          <source>Br. J. Cancer</source>
+          <year>2004</year>
+          <volume>91</volume>
+          <fpage>1580</fpage>
+          <lpage>1590</lpage>
+          <pub-id pub-id-type="pmid">15381934</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rahman</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>
+            <italic>PALB2</italic>, which encodes a BRCA2-interacting protein, is a breast cancer susceptibility gene
+          </article-title>
+          <source>Nature Genet</source>
+          <year>2007</year>
+          <volume>39</volume>
+          <fpage>165</fpage>
+          <lpage>167</lpage>
+          <pub-id pub-id-type="pmid">17200668</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thompson</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cancer risks and mortality in heterozygous ATM mutation carriers</article-title>
+          <source>J. Natl Cancer Inst</source>
+          <year>2005</year>
+          <volume>97</volume>
+          <fpage>813</fpage>
+          <lpage>822</lpage>
+          <pub-id pub-id-type="pmid">15928302</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Meijers-Heijboer</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Low-penetrance susceptibility to breast cancer due to <italic>CHEK2</italic>*1100delC in noncarriers of <italic>BRCA1</italic> or <italic>BRCA2</italic> mutations</article-title>
+          <source>Nature Genet</source>
+          <year>2002</year>
+          <volume>31</volume>
+          <fpage>55</fpage>
+          <lpage>59</lpage>
+          <pub-id pub-id-type="pmid">11967536</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erkko</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A recurrent mutation in <italic>PALB2</italic> in Finnish cancer families</article-title>
+          <source>Nature</source>
+          <year>2007</year>
+          <volume>446</volume>
+          <fpage>316</fpage>
+          <lpage>319</lpage>
+          <pub-id pub-id-type="pmid">17287723</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Renwick</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>ATM mutations that cause ataxia-telangiectasia are breast cancer susceptibility alleles</article-title>
+          <source>Nature Genet</source>
+          <year>2006</year>
+          <volume>38</volume>
+          <fpage>873</fpage>
+          <lpage>875</lpage>
+          <pub-id pub-id-type="pmid">16832357</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seal</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Truncating mutations in the Fanconi anemia J gene BRIP1 are lowpenetrance breast cancer susceptibility alleles</article-title>
+          <source>Nature Genet</source>
+          <year>2006</year>
+          <volume>38</volume>
+          <fpage>1239</fpage>
+          <lpage>1241</lpage>
+          <pub-id pub-id-type="pmid">17033622</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>The CHEK2 Breast Cancer Case-Control Consortium</collab>
+          </person-group>
+          <article-title>CHEK2*1100delC and susceptibility to breast cancer: A collaborative analysis involving 10,860 breast cancer cases and 9,065 controls from ten studies</article-title>
+          <source>Am. J. Hum. Genet</source>
+          <year>2004</year>
+          <volume>74</volume>
+          <fpage>1175</fpage>
+          <lpage>1182</lpage>
+          <pub-id pub-id-type="pmid">15122511</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cox</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A common coding variant in <italic>CASP8</italic> is associated with breast cancer risk</article-title>
+          <source>Nature Genetics</source>
+          <year>2007</year>
+          <volume>39</volume>
+          <fpage>352</fpage>
+          <lpage>358</lpage>
+          <comment>corrigendum <bold>39</bold>, 688 (2007)</comment>
+          <pub-id pub-id-type="pmid">17293864</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Easton</surname>
+              <given-names>DF</given-names>
+            </name>
+          </person-group>
+          <article-title>How many more breast cancer predisposition genes are there?</article-title>
+          <source>Breast Cancer Res</source>
+          <year>1999</year>
+          <volume>1</volume>
+          <fpage>1</fpage>
+          <lpage>4</lpage>
+        </element-citation>
+      </ref>
+      <ref id="R17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kruglyak</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Nickerson</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title>Variation is the spice of life</article-title>
+          <source>Nature Genet</source>
+          <year>2001</year>
+          <volume>27</volume>
+          <fpage>234</fpage>
+          <lpage>236</lpage>
+          <pub-id pub-id-type="pmid">11242096</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hinds</surname>
+              <given-names>DA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Whole-genome patterns of common DNA variation in three human populations</article-title>
+          <source>Science</source>
+          <year>2005</year>
+          <volume>307</volume>
+          <fpage>1072</fpage>
+          <lpage>1079</lpage>
+          <pub-id pub-id-type="pmid">15718463</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Satagopan</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Verbel</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Venkatraman</surname>
+              <given-names>ES</given-names>
+            </name>
+            <name>
+              <surname>Offit</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Begg</surname>
+              <given-names>CB</given-names>
+            </name>
+          </person-group>
+          <article-title>Two-stage designs for gene-disease association studies</article-title>
+          <source>Biometrics</source>
+          <year>2002</year>
+          <volume>58</volume>
+          <fpage>163</fpage>
+          <lpage>170</lpage>
+          <pub-id pub-id-type="pmid">11890312</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Antoniou</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Easton</surname>
+              <given-names>DF</given-names>
+            </name>
+          </person-group>
+          <article-title>Polygenic inheritance of breast cancer: Implications for design of association studies</article-title>
+          <source>Genet. Epidemiol</source>
+          <year>2003</year>
+          <volume>25</volume>
+          <fpage>190</fpage>
+          <lpage>202</lpage>
+          <pub-id pub-id-type="pmid">14557987</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Altshuler</surname>
+              <given-names>D</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A haplotype map of the human genome</article-title>
+          <source>Nature</source>
+          <year>2005</year>
+          <volume>437</volume>
+          <fpage>1299</fpage>
+          <lpage>1320</lpage>
+          <pub-id pub-id-type="pmid">16255080</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Devlin</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Roeder</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Genomic control for association studies</article-title>
+          <source>Biometrics</source>
+          <year>1999</year>
+          <volume>55</volume>
+          <fpage>997</fpage>
+          <lpage>1004</lpage>
+          <pub-id pub-id-type="pmid">11315092</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thomas</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Haile</surname>
+              <given-names>RW</given-names>
+            </name>
+            <name>
+              <surname>Duggan</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent developments in genomewide association scans: A workshop summary and review</article-title>
+          <source>Am. J. Hum. Genet</source>
+          <year>2005</year>
+          <volume>77</volume>
+          <fpage>337</fpage>
+          <lpage>345</lpage>
+          <pub-id pub-id-type="pmid">16080110</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Amundadottir</surname>
+              <given-names>LT</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A common variant associated with prostate cancer in European and African populations</article-title>
+          <source>Nature Genet</source>
+          <year>2006</year>
+          <volume>38</volume>
+          <fpage>652</fpage>
+          <lpage>658</lpage>
+          <pub-id pub-id-type="pmid">16682969</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yeager</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genome-wide association study of prostate cancer identifies a second risk locus at 8q24</article-title>
+          <source>Nature Genet</source>
+          <year>2007</year>
+          <volume>39</volume>
+          <fpage>645</fpage>
+          <lpage>649</lpage>
+          <pub-id pub-id-type="pmid">17401363</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gudmundsson</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genome-wide association study identifies a second prostate cancer susceptibility variant at 8q24</article-title>
+          <source>Nature Genet</source>
+          <year>2007</year>
+          <volume>39</volume>
+          <fpage>631</fpage>
+          <lpage>637</lpage>
+          <pub-id pub-id-type="pmid">17401366</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferretti</surname>
+              <given-names>V</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>PReMod: a database of genome-wide mammalian cis-regulatory module predictions</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2007</year>
+          <volume>35</volume>
+          <fpage>D122</fpage>
+          <lpage>D126</lpage>
+          <pub-id pub-id-type="pmid">17148480</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moffa</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Tannheimer</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Ethier</surname>
+              <given-names>SP</given-names>
+            </name>
+          </person-group>
+          <article-title>Transforming potential of alternatively spliced variants of fibroblast growth factor receptor 2 in human mammary epithelial cells</article-title>
+          <source>Mol. Cancer Res</source>
+          <year>2004</year>
+          <volume>2</volume>
+          <fpage>643</fpage>
+          <lpage>652</lpage>
+          <pub-id pub-id-type="pmid">15561780</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adnane</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Bek and Flg, 2 receptors to members of the Fgf family, are amplified in subsets of human breast cancers</article-title>
+          <source>Oncogene</source>
+          <year>1991</year>
+          <volume>6</volume>
+          <fpage>659</fpage>
+          <lpage>663</lpage>
+          <pub-id pub-id-type="pmid">1851551</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jang</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Shin</surname>
+              <given-names>KH</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>JG</given-names>
+            </name>
+          </person-group>
+          <article-title>Mutations in fibroblast growth factor receptor 2 and fibroblast growth factor receptor 3 genes associated with human gastric and colorectal cancers</article-title>
+          <source>Cancer Res</source>
+          <year>2001</year>
+          <volume>61</volume>
+          <fpage>3541</fpage>
+          <lpage>3543</lpage>
+          <pub-id pub-id-type="pmid">11325814</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Greenman</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Patterns of somatic mutation in human cancer genomes</article-title>
+          <source>Nature</source>
+          <year>2007</year>
+          <volume>446</volume>
+          <fpage>153</fpage>
+          <lpage>158</lpage>
+          <pub-id pub-id-type="pmid">17344846</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lesueur</surname>
+              <given-names>F</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Allelic association of the human homologue of the mouse modifier <italic>Ptprj</italic> with breast cancer</article-title>
+          <source>Hum. Mol. Genet</source>
+          <year>2005</year>
+          <volume>14</volume>
+          <fpage>2349</fpage>
+          <lpage>2356</lpage>
+          <pub-id pub-id-type="pmid">16000320</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Day</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>EPIC-Norfolk: Study design and characteristics of the cohort</article-title>
+          <source>Br. J. Cancer</source>
+          <year>1999</year>
+          <volume>80</volume>
+          <fpage>95</fpage>
+          <lpage>103</lpage>
+          <pub-id pub-id-type="pmid">10466767</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R34">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>Breast Cancer Association Consortium</collab>
+          </person-group>
+          <article-title>Commonly studied SNPs and breast cancer: Negative results from 12,000 &#x02013; 32,000 cases and controls from the Breast Cancer Association Consortium</article-title>
+          <source>J. Natl Cancer Inst</source>
+          <year>2006</year>
+          <volume>98</volume>
+          <fpage>1382</fpage>
+          <lpage>1396</lpage>
+          <pub-id pub-id-type="pmid">17018785</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R35">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hubbard</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The Ensembl genome database project</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2002</year>
+          <volume>30</volume>
+          <fpage>38</fpage>
+          <lpage>41</lpage>
+          <pub-id pub-id-type="pmid">11752248</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R36">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dean</surname>
+              <given-names>FB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Comprehensive human genome amplification using multiple displacement amplification</article-title>
+          <source>Proc. Natl Acad. Sci. USA</source>
+          <year>2002</year>
+          <volume>99</volume>
+          <fpage>5261</fpage>
+          <lpage>5266</lpage>
+          <pub-id pub-id-type="pmid">11959976</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R37">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>de Bakker</surname>
+              <given-names>PIW</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Efficiency and power in genetic association studies</article-title>
+          <source>Nature Genet</source>
+          <year>2005</year>
+          <volume>37</volume>
+          <fpage>1217</fpage>
+          <lpage>1223</lpage>
+          <pub-id pub-id-type="pmid">16244653</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R38">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tyrer</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Pharoah</surname>
+              <given-names>PDP</given-names>
+            </name>
+            <name>
+              <surname>Easton</surname>
+              <given-names>DF</given-names>
+            </name>
+          </person-group>
+          <article-title>The admixture maximum likelihood test: A novel experiment-wise test of association between disease and multiple SNPs</article-title>
+          <source>Genet. Epidemiol</source>
+          <year>2006</year>
+          <volume>30</volume>
+          <fpage>636</fpage>
+          <lpage>643</lpage>
+          <pub-id pub-id-type="pmid">16986161</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R39">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schaid</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Rowland</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Tines</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Jacobson</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Poland</surname>
+              <given-names>GA</given-names>
+            </name>
+          </person-group>
+          <article-title>Score tests for association between traits and haplotypes when linkage phase is ambiguous</article-title>
+          <source>Am. J. Hum. Genet</source>
+          <year>2002</year>
+          <volume>70</volume>
+          <fpage>425</fpage>
+          <lpage>434</lpage>
+          <pub-id pub-id-type="pmid">11791212</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <fig id="F1" position="float">
+      <label>Figure 1</label>
+      <caption>
+        <title>Quantile&#x02013;quantile plots for the test statistics (Cochran-Armitage 1 d.f. <italic>&#x003c7;</italic>
+          <sup>2</sup> trend tests) for stages 1 and 2
+        </title>
+        <p>
+          <bold>a</bold>, Stage 1; <bold>b</bold>, stage 2. Black dots are the uncorrected test statistics. Red dots are the statistics corrected by the genomic control method (<italic>&#x003bb;</italic>=1.03 for stage 1, <italic>&#x003bb;</italic>=1.06 for stage 2). Under the null hypothesis of no association at any locus, the points would be expected to follow the black line.
+        </p>
+      </caption>
+      <graphic xlink:href="ukmss-5232-f0001"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Figure 2</label>
+      <caption>
+        <title>Forest plots of the per-allele odds ratios for each of the five SNPs reaching genome-wide significance</title>
+        <p>
+          <bold>a</bold>, rs2981582; <bold>b</bold>, rs3803662; <bold>c</bold>, rs889312; <bold>d</bold>, rs13281615; and <bold>e</bold>, rs3817198. The <italic>x</italic>-axis gives the per-allele odds ratio. Each row represents one study (see <xref ref-type="supplementary-material" rid="SD1">Supplementary Table 2</xref>), with summary odds ratios for all European and all Asian studies, and all studies combined. The area of the square for each study is proportional to the inverse of the variance of the estimate. Horizontal lines represent 95% confidence intervals. Diamonds represent the summary odds ratios, with 95% confidence intervals, based on the stage 3 studies only.
+        </p>
+      </caption>
+      <graphic xlink:href="ukmss-5232-f0002"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Figure 3</label>
+      <caption>
+        <title>The <italic>FGFR2</italic> locus</title>
+        <p>
+          <bold>a</bold>, Map of the whole <italic>FGFR2</italic> gene, viewed relative to common SNPs on HapMap. The gene is 126 kb long and in reverse 3&#x02032;&#x02013;5&#x02032; orientation on chromosome 10. Exon positions are illustrated with respect to the 67 SNPs with m.a.f.&#x0003e;5% in HapMap CEU (therefore the map is not to physical scale). Numbered SNPs are those tested in the genomewide study. SNPs in black were not significant in stage 1. Those in red were significant at <italic>P</italic>&#x0003c;0.0001 after stage 2. rs10510097 (orange) was significant in stage 1, but failed quality control in stage 2 owing to deviation from Hardy&#x02013;Weinberg equilibrium. Squares indicate pairwise <italic>r</italic>
+          <sup>2</sup> on a greyscale (black=1, white=0). Red circle indicates rs2981582. <bold>b</bold>, Resequenced 32 kb region, shown relative to SNPs in CEU with m.a.f.&#x0003e;5%, showing pairwise LD for SNPs in HapMap CEU (left panel) and JPT/CHB (right panel). Red circle indicates rs2981582, shown in bold black. <bold>c</bold>, Sequence conservation of 32 kb region in five species, relative to human sequence (<ext-link ext-link-type="uri" xlink:href="http://pipeline.lbl.gov/methods.shtml">http://pipeline.lbl.gov/methods.shtml</ext-link>)<xref ref-type="bibr" rid="R35">35</xref>. Red circle indicates rs2981582. SNPs in grey are those used in the initial tagging of known common HapMap SNPs within the block. SNPs in black are correlated with rs2981582 with <italic>r</italic>
+          <sup>2</sup>&#x0003e;0.6 in European samples. Six SNPs in red were those consistent with being the causative variant on the basis of the genetic data (not excluded at odds of 100:1 relative to the SNP with the strongest association, rs7895676).
+        </p>
+      </caption>
+      <graphic xlink:href="ukmss-5232-f0003"/>
+    </fig>
+    <table-wrap id="T1" position="float">
+      <label>Table 1</label>
+      <caption>
+        <title>Number of significant associations after stage 2</title>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th align="left" valign="top" rowspan="1" colspan="1">Level of significance</th>
+            <th align="right" valign="top" rowspan="1" colspan="1">Observed</th>
+            <th align="right" valign="top" rowspan="1" colspan="1">Observed<break/> adjusted<xref ref-type="table-fn" rid="TFN1">*</xref>
+            </th>
+            <th align="right" valign="top" rowspan="1" colspan="1">Expected</th>
+            <th align="right" valign="top" rowspan="1" colspan="1">Ratio</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.01&#x02013;0.05</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1,239</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1,162</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">934.3</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.24</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.001&#x02013;0.01</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">574</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">517</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">347.6</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.49</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.0001&#x02013;0.001</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">112</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">88</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">53.3</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.65</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.00001&#x02013;0.0001</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">16</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">12</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">7.0</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.71</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.00001</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">15</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">13</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">0.96</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">13.5</td>
+          </tr>
+          <tr>
+            <td colspan="5" align="left" valign="top" rowspan="1">
+              <hr/>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">All <italic>P</italic>&#x0003c;0.05</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1,956</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1,792</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1,343.2</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.33</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <p>Observed numbers of SNPs associated with breast cancer after stage 2, by level of significance, before and after adjustment for population stratification, and expected numbers under the null hypothesis of no association.</p>
+        <fn id="TFN1">
+          <label>*</label>
+          <p id="P48">Adjusted for inflation of the test statistic by the genomic control method.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap id="T2" position="float" orientation="landscape">
+      <label>Table 2</label>
+      <caption>
+        <title>Summary of results for eleven SNPs selected for stage 3 that showed evidence of an association with breast cancer</title>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th rowspan="2" align="left" valign="top" colspan="1">rs Number</th>
+            <th rowspan="2" align="left" valign="top" colspan="1">Gene</th>
+            <th rowspan="2" align="left" valign="top" colspan="1">Position<xref ref-type="table-fn" rid="TFN2">*</xref></th>
+            <th rowspan="2" align="left" valign="top" colspan="1">m.a.f.<xref ref-type="table-fn" rid="TFN3">&#x02020;</xref></th>
+            <th rowspan="2" align="center" valign="top" colspan="1">Per allele OR<break/> (95% CI)
+            </th>
+            <th rowspan="2" align="center" valign="top" colspan="1">HetOR<break/> (95% CI)
+            </th>
+            <th rowspan="2" align="center" valign="top" colspan="1">HomOR<break/> (95% CI)
+            </th>
+            <th colspan="3" align="center" valign="top" rowspan="1">
+              <italic>P</italic>-trend<hr/>
+            </th>
+          </tr>
+          <tr>
+            <th align="left" valign="top" rowspan="1" colspan="1">Stages<break/> 1 and 2
+            </th>
+            <th align="left" valign="top" rowspan="1" colspan="1">Stage3</th>
+            <th align="left" valign="top" rowspan="1" colspan="1">Combined</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">rs2981582</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">
+              <italic>FGFR2</italic>
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">10q<break/> 123342307
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.38<break/>
+              <italic>(0.30)</italic>
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.26<break/> (1.23&#x02013;1.30)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.23<break/> (1.18&#x02013;1.28)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.63<break/> (1.53&#x02013;1.72)
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">4&#x000d7;10<sup>&#x02212;16</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">5&#x000d7;10<sup>&#x02212;62</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">2&#x000d7;10<sup>&#x02212;76</sup></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">rs12443621</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">
+              <italic>TNRC9</italic>/<break/>
+              <italic>LOC643714</italic>
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">16q<break/> 51105538
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.46<break/>
+              <italic>(0.60)</italic>
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.11<break/> (1.08&#x02013;1.14)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.14<break/> (1.09&#x02013;1.20)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.23<break/> (1.17&#x02013;1.30)
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">10<sup>&#x02212;7</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">9&#x000d7;10<sup>&#x02212;14</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">2&#x000d7;10<sup>&#x02212;19</sup></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">rs8051542</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">
+              <italic>TNRC9</italic>/<break/>
+              <italic>LOC643714</italic>
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">16q<break/> 51091668
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.44<break/>
+              <italic>(0.20)</italic>
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.09<break/> (1.06&#x02013;1.13)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.10<break/> (1.05&#x02013;1.16)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.19<break/> (1.12&#x02013;1.27)
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">4&#x000d7;10<sup>&#x02212;6</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">4&#x000d7;10<sup>&#x02212;8</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">10<sup>&#x02212;12</sup></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">rs889312</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">
+              <italic>MAP3K1</italic>
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">5q<break/> 56067641
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.28<break/>
+              <italic>(0.54)</italic>
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.13<break/> (1.10&#x02013;1.16)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.13<break/> (1.09&#x02013;1.18)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.27<break/> (1.19&#x02013;1.36)
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">4&#x000d7;10<sup>&#x02212;6</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">3&#x000d7;10<sup>&#x02212;15</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">7&#x000d7;10<sup>&#x02212;20</sup></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">rs3817198</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">
+              <italic>LSP1</italic>
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">11p<break/> 1865582
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.30<break/>
+              <italic>(0.14)</italic>
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.07<break/> (1.04&#x02013;1.11)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.06<break/> (1.02&#x02013;1.11)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.17<break/> (1.08&#x02013;1.25)
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">8&#x000d7;10<sup>&#x02212;6</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">10<sup>&#x02212;5</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">3&#x000d7;10<sup>&#x02212;9</sup></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">rs2107425</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">
+              <italic>H19</italic>
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">11p<break/> 1977651
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.31<break/>
+              <italic>(0.44)</italic>
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.96<break/> (0.93&#x02013;0.99)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.94<break/> (0.90&#x02013;0.98)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.95<break/> (0.89&#x02013;1.01)
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">7&#x000d7;10<sup>&#x02212;6</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.01</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">2&#x000d7;10<sup>&#x02212;5</sup></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">rs13281615</td>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">8q<break/> 128424800
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.40<break/>
+              <italic>(0.56)</italic>
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.08<break/> (1.05&#x02013;1.11)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.06<break/> (1.01&#x02013;1.11)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.18<break/> (1.10&#x02013;1.25)
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">2&#x000d7;10<sup>&#x02212;7</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">6&#x000d7;10<sup>&#x02212;7</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">5&#x000d7;10<sup>&#x02212;12</sup></td>
+          </tr>
+          <tr>
+            <td colspan="10" align="left" valign="top" rowspan="1">
+              <hr/>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">rs981782</td>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">5p<break/> 45321475
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.47<break/>
+              <italic>(0.37)</italic>
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.96<break/> (0.93&#x02013;0.99)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.96<break/> (0.92&#x02013;1.01)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.92<break/> (0.87&#x02013;0.97)
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">8&#x000d7;10<sup>&#x02212;5</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.003</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">9&#x000d7;10<sup>&#x02212;6</sup></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">rs30099</td>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">5q<break/> 52454339
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.08<break/>
+              <italic>(0.39)</italic>
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.05<break/> (1.01&#x02013;1.10)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.06<break/> (1.00&#x02013;1.11)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.09<break/> (0.96&#x02013;1.24)
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.003</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.02</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">rs4666451</td>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">2p<break/> 19150424
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.41<break/>
+              <italic>(0.04)</italic>
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.97<break/> (0.94&#x02013;1.00)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.98<break/> (0.93&#x02013;1.02)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.93<break/> (0.87&#x02013;0.99)
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">5&#x000d7;10<sup>&#x02212;6</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.04</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">6&#x000d7;10<sup>&#x02212;5</sup></td>
+          </tr>
+          <tr>
+            <td colspan="10" align="left" valign="top" rowspan="1">
+              <hr/>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">rs3803662<xref ref-type="table-fn" rid="TFN4">&#x02021;</xref></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">
+              <italic>TNRC9</italic>/<break/>
+              <italic>LOC643714</italic>
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">16q<break/> 51143842
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.25<break/>
+              <italic>(0.60)</italic>
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.20<break/> (1.16&#x02013;1.24)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.23<break/> (1.18&#x02013;1.29)
+            </td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.39<break/> (1.26&#x02013;1.45)
+            </td>
+            <td align="left" valign="top" rowspan="1" colspan="1">3&#x000d7;10<sup>&#x02212;12</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">10<sup>&#x02212;26</sup></td>
+            <td align="left" valign="top" rowspan="1" colspan="1">10<sup>&#x02212;36</sup></td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <p>OR, odds ratio; HetOR, odds ratio in heterozygotes; HomOR, odds ratio in rare homozygotes (relative to common homozygotes); CI, confidence interval.</p>
+        <fn id="TFN2">
+          <label>*</label>
+          <p id="P49">Build 36.2 position.</p>
+        </fn>
+        <fn id="TFN3">
+          <label>&#x02020;</label>
+          <p id="P50">Minor allele frequency in SEARCH (UK) study. Combined allele frequency from three Asian studies in italics.</p>
+        </fn>
+        <fn id="TFN4">
+          <label>&#x02021;</label>
+          <p id="P51">rs3803662 was not part of the initial tag SNP set but identified as a result of fine-scale mapping of the <italic>TNRC9</italic>/<italic>LOC643714</italic> locus and typed in the stage 2 and stage 3 sets (but not the stage 1 set).</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+  </floats-group>
+</article>
+
+

@@ -1,0 +1,1507 @@
+<!-- ArticleInstanceId : 2587024, Path: nihpa/4-2008/330/nihpa73462/preload/nxml/, Name : nihms-73462.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN">
+  <?properties manuscript?>
+  <?origin nihpa?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-journal-id">9203131</journal-id>
+      <journal-id journal-id-type="pubmed-jr-id">1999</journal-id>
+      <journal-id journal-id-type="nlm-ta">Ann Pharmacother</journal-id>
+      <journal-title>The Annals of pharmacotherapy</journal-title>
+      <issn pub-type="ppub">1060-0280</issn>
+      <issn pub-type="epub">1542-6270</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">18628443</article-id>
+      <article-id pub-id-type="doi">10.1345/aph.1L111</article-id>
+      <article-id pub-id-type="manuscript">nihpa73462</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Racial Differences in Sleep Medication Use</article-title>
+        <subtitle>A Cross-Sectional Study of the Johnston County Osteoarthritis Project</subtitle>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Allen</surname>
+            <given-names>Kelli D</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <aff id="A1">Assistant Research Professor, Health Services Research and Development Service, Durham Veterans Affairs Medical Center and Department of Medicine, Duke University Medical Center, Durham, NC</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Renner</surname>
+            <given-names>Jordan B</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <aff id="A2">Professor, Radiology and Allied Health Sciences, Thurston Arthritis Research Center, University of North Carolina at Chapel Hill, NC</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>DeVellis</surname>
+            <given-names>Brenda</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <aff id="A3">Professor, Departments of Health Behavior and Health Education and Psychology, University of North Carolina at Chapel Hill</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Helmick</surname>
+            <given-names>Charles G</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <aff id="A4">Medical Epidemiologist, Centers for Disease Control and Prevention, Atlanta, GA</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jordan</surname>
+            <given-names>Joanne M</given-names>
+          </name>
+          <degrees>MD MPH</degrees>
+          <aff id="A5">Director, Thurston Arthritis Research Center; Associate Professor, Departments of Medicine and Orthopedaedics, University of North Carolina at Chapel Hill</aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn id="FN1">
+          <p id="P1">
+            <bold>Reprints:</bold> Dr. Allen, HSR&#x00026;D (152), VAMC, 508 Fulton St., Durham, NC 27705, fax 919/416-5836, <email>Kelli.Allen@duke.edu</email>
+          </p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="nihms-submitted">
+        <day>23</day>
+        <month>10</month>
+        <year>2008</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>15</day>
+        <month>7</month>
+        <year>2008</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>9</month>
+        <year>2008</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>1</day>
+        <month>9</month>
+        <year>2009</year>
+      </pub-date>
+      <volume>42</volume>
+      <issue>9</issue>
+      <fpage>1239</fpage>
+      <lpage>1246</lpage>
+      <abstract>
+        <sec id="S1">
+          <title>BACKGROUND</title>
+          <p id="P2">Little is known about racial differences in the use of sleep medications.</p>
+        </sec>
+        <sec id="S2">
+          <title>OBJECTIVES</title>
+          <p id="P3">To compare sleep medication use among African Americans and whites with self-reported current sleep problems.</p>
+        </sec>
+        <sec sec-type="methods" id="S3">
+          <title>METHODS</title>
+          <p id="P4">Participants were 1910 individuals (69% female, 34% African American, 66% white) from the Johnston County Osteoarthritis Project. We examined racial differences in self-reported current use of prescription, nonprescription, herbal, and other medications for sleep. Multivariable logistic regression models controlled for age, sex, education, health insurance, symptomatic hip or knee osteoarthritis, depressive symptoms, obesity, fair or poor general health, and self-reported annual days of sleep problems. Models were conducted separately for the whole sample and for men and women.</p>
+        </sec>
+        <sec id="S4">
+          <title>RESULTS</title>
+          <p id="P5">Among participants with current sleep problems, 31% were using one or more types of sleep medication: 17% prescription, 12% nonprescription, 1% herbal, and 3% other products. African Americans were less likely than whites to be using any sleep medication (25% vs 35%; p &#x0003c; 0.001), prescription sleep medication (14% vs 19%; p = 0.003), and nonprescription sleep medication (10% vs 13%; p = 0.048). These racial differences persisted in multivariable models. In sex-stratified analyses, there were significant racial differences in sleep medication use only among women.</p>
+        </sec>
+        <sec id="S5">
+          <title>CONCLUSIONS</title>
+          <p id="P6">African Americans were less likely than whites to report current use of prescription and nonprescription sleep medications; these results appeared to be largely driven by racial differences among women. Additional research should study possible underlying factors and determine whether these racial differences impact clinical outcomes.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>race</kwd>
+        <kwd>sex</kwd>
+        <kwd>sleep medication</kwd>
+      </kwd-group>
+      <contract-num rid="AR1">P60 AR049465-010001</contract-num>
+      <contract-sponsor id="AR1">National Institute of Arthritis and Musculoskeletal and Skin Diseases : NIAMS</contract-sponsor>
+    </article-meta>
+  </front>
+  <body>
+    <p id="P7">Sleep disturbances are increasingly common among adults, with a national survey showing that 54% of US adults report at least one symptom of insomnia a few nights a week or more and 33% report at least one symptom almost every night.<xref ref-type="bibr" rid="R1">1</xref> Difficulties with sleep can have a major impact on pain, quality of life, vocational performance, personal relationships, morbidity, and healthcare use.<xref ref-type="bibr" rid="R1">1</xref>-<xref ref-type="bibr" rid="R4">4</xref> Both prescription and nonprescription drugs are available to treat sleep problems, but relatively little has been reported regarding patient characteristics associated with use of sleep medications. Prior research indicates that there are sex- and age-related differences in physician prescribing practices and/or patient preferences for use of some types of sleep medications, but very little is known about racial differences.<xref ref-type="bibr" rid="R5">5</xref>-<xref ref-type="bibr" rid="R8">8</xref> Among patients with sleep difficulties in the National Ambulatory Medical Care Survey (1996&#x02013;2001), healthcare visits by whites were more likely to be associated with prescriptions for sleep medications than visits by nonwhites, but that study included only individuals who were seeking care for sleep difficulty and may not necessarily reflect patterns in the general population.<xref ref-type="bibr" rid="R7">7</xref> Another study of adults in a metropolitan statistical area sample, not restricted to those with current sleep problems, reported that African Americans had lower use of prescription and nonprescription sleep medications than whites.<xref ref-type="bibr" rid="R9">9</xref> Because prior research has shown racial differences in drug use in general, further examination of racial differences in sleep medication use is warranted.<xref ref-type="bibr" rid="R10">10</xref>-<xref ref-type="bibr" rid="R12">12</xref> Our primary objective was to compare the use of prescription and nonprescription sleep medications among African Americans and whites with self-reported current sleep problems.</p>
+    <sec sec-type="methods" id="S6">
+      <title>Methods</title>
+      <p id="P8">This study was conducted in compliance with the institutional review boards of the University of North Carolina, Chapel Hill; and the Durham Veterans Affairs Medical Center.</p>
+      <sec sec-type="subjects" id="S7">
+        <title>SUBJECTS</title>
+        <p id="P9">A cross-sectional sample was composed of individuals enrolled in the Johnston County Osteoarthritis Project, an ongoing study of the occurrence of knee and hip osteoarthritis in a rural, biracial population of North Carolina. Details of this study have been reported.<xref ref-type="bibr" rid="R13">13</xref> Briefly, this study involved civilian, noninstitutionalized adults aged 45 years and older who resided in 6 townships in Johnston County. Participants were recruited by probability sampling, with oversampling of African Americans. The sample for this analysis included individuals who had participated in either the first follow-up of the study conducted between 1999 and 2004 (n = 1733) or had been newly enrolled in 2003 or 2004 (n = 1015). New individuals were enrolled to enrich the sample for African Americans and younger individuals who were deliberately targeted for inclusion. As such, the newly enrolled participants were younger (mean age 65.8 y and 59.3 y in first follow-up and newly enrolled subsample, respectively) and more likely to be African American (28% vs 40%). For these analyses, 49 participants did not complete the sleep problem and sleep medication questions and were excluded, leaving 2699 (98% of the total sample of 2748: 1703 participants from the first follow-up and 996 from the newly enrolled group).</p>
+      </sec>
+      <sec id="S8">
+        <title>SLEEP PROBLEM QUESTIONS</title>
+        <p id="P10">We examined the use of sleep medications among the subsample of participants who reported having a current sleep problem. Questions about sleep problems were adapted from the Medical Outcomes Study sleep questionnaire.<xref ref-type="bibr" rid="R14">14</xref> The validity and reliability of the Medical Outcomes Study sleep items have been established in a nationally representative sample of US adults.<xref ref-type="bibr" rid="R15">15</xref> Participants were asked, &#x0201c;Have you ever been troubled by any of the following problems?&#x0201d; These included trouble falling asleep, waking up during the night, waking up early and not being able to fall asleep again, falling asleep during the day, not getting enough sleep, and not feeling rested upon awakening in the morning. If participants indicated that they had ever been troubled by any of these 6 sleep problems, they were further asked whether they &#x0201c;currently have&#x0201d; that sleep problem. We considered participants to have a current sleep problem if they indicated that they reported one or more of these sleep problems at the time of the survey. Additional details regarding the prevalence of specific sleep problems have been reported.<xref ref-type="bibr" rid="R16">16</xref></p>
+        <p id="P11">We were also interested in assessing the frequency of participants&#x02019; current sleep problems as an indicator of severity, since this may be associated with the use of sleep medications. Participants were asked the frequency (number of times per week) of each of the 6 sleep problems. If they had the sleep problem less than once per week, they were asked how many times per month; if less than once per month, they were asked how many times per year. From these data, we computed the annual frequency (total number of days per year) that participants reported being troubled by each of the sleep problems. Because of the similarity among some of the sleep questions, leading to possible problems with multicollinearity in multivariable models, we combined these items into 2 broader categories: insomnia (comprising trouble falling asleep, waking during the night, waking early) and insufficient sleep (comprising falling asleep during the day, not getting enough sleep, not feeling rested). The insomnia and insufficient sleep categories and their component questions were based on previous definitions of sleep disturbances.<xref ref-type="bibr" rid="R17">17</xref> For each participant, we calculated the mean annual days of sleep problems in these 2 categories.</p>
+      </sec>
+      <sec id="S9">
+        <title>SLEEP MEDICATION QUESTIONS</title>
+        <p id="P12">Participants were asked whether they were currently taking each of the following to help them sleep: prescription any, nonprescription (over-the-counter) medications, herbal medications, and other medications. (No specific examples of other sleep medications were provided to participants, but participants were permitted to report any drug they were taking to help them sleep.) We examined each of these categories separately and also created a composite variable indicating whether participants were taking any of these types of medication.</p>
+      </sec>
+      <sec id="S10">
+        <title>DEMOGRAPHIC AND CLINICAL CHARACTERISTICS</title>
+        <p id="P13">In addition to self-reported race (African American vs white), we also examined the following 10 participant characteristics as covariates because they have been associated with race, sleep problems, and/or medication use in some previous research: age, sex, education (&#x02265;12 vs &#x0003c;12 y), having any type of health insurance (yes or no), obesity (defined as body mass index [BMI] &#x02265;30), depressive symptoms (defined as a Center for Epidemiologic Studies Depression Scale score &#x02265;16), self-rated health compared with other people the same age (&#x0201c;Compared to other people of your age, how would you say your health is?&#x0201d;; categorized as excellent or good vs fair or poor), symptomatic hip or knee osteoarthritis, mean annual days of insomnia, and mean annual days of insufficient sleep (as described above).<xref ref-type="bibr" rid="R17">17</xref>-<xref ref-type="bibr" rid="R23">23</xref> Height without shoes was measured in centimeters and weight was measured in kilograms using a balance beam scale; BMI was calculated as kilograms per square meter. All participants underwent posteroanterior radiography of both knees with weight-bearing, using the SynaFlex positioning frame (Synarc Inc., San Francisco, CA). Supine anterior&#x02014;posterior pelvis films were obtained for all men and women 50 years of age and older. All radiographs were read for Kellgren&#x02014;Lawrence (K-L) score by a single bone and joint radiologist (JBR), without regard to a participant&#x02019;s clinical status. Previous assessment showed interrater and intrarater reliability of the radiologist to be high (weighted &#x003ba; = 0.9).<xref ref-type="bibr" rid="R24">24</xref> Radio-graphic knee or hip osteoarthritis was defined as a K-L grade 2 or greater in at least one knee or hip. Participants were asked, &#x0201c;On most days, do you have pain, aching, or stiffness in your&#x02026; right/left hip/knee?&#x0201d; We defined symptomatic hip or knee osteoarthritis as the presence of both radiographic osteoarthritis and joint symptoms in the same joint.</p>
+      </sec>
+      <sec id="S11">
+        <title>ANALYSES</title>
+        <p id="P14">Because few participants reported using herbal and other sleep medications, we did not analyze these categories separately. &#x003c7;<sup>2</sup> Tests were used to examine bivariate associations of participant race with the use of any type of sleep medication, prescription sleep medication, or nonprescription sleep medication. Next, we conducted multiple logistic regression models examining the association of race with use of any type of sleep medication, prescription sleep medication, and nonprescription sleep medication, controlling for the 10 covariates described above. Because prior research has shown that there are differences in medication use in general according to sex, we examined whether racial differences in sleep medication use varied according to sex.<xref ref-type="bibr" rid="R25">25</xref> While a cross-product term of the interaction of race and sex was not statistically significant in multivariable logistic models (p values = 0.12&#x02013;0.25), there can be still meaningful additive interactions between variables.<xref ref-type="bibr" rid="R26">26</xref> We therefore conducted the analyses described above separately for men and women. To further explore the nature of potential interactions of race and sex, we examined associations between sex and sleep medication use among African American and white participants separately. All statistical analyses were performed using SAS PC, Version 9 (SAS Inc., Cary, NC). Any cases with missing data for variable(s) in a statistical model were deleted from that analysis. Missing data were minimal (<xref ref-type="table" rid="T1">Table 1</xref> footnote).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="S12">
+      <title>Results</title>
+      <p id="P15">Among the sample of 2699 participants, 1910 (71%) reported having current sleep problems and were included in these analyses. Of those reporting current problems, 58% reported symptoms of both insomnia and insufficient sleep, 21% reported symptoms of insomnia only, and 21% reported symptoms of insufficient sleep only. Demographic and clinical characteristics of the study sample are presented in <xref ref-type="table" rid="T1">Table 1</xref>. Among this sample, 31% (n = 597) were using any type of sleep medication, 17% (n = 332) were using prescription sleep medications, 12% (n = 236) were using nonprescription sleep medications, 1% (n = 28) were using herbal sleep medications, and 3% (n = 56) were using other sleep medications. Some participants (n = 50) indicated using more than one category of sleep medication. Among those using other sleep medications, the most commonly reported were pain and arthritis drugs (n = 21), antidepressants (n = 6), antianxiety medications (n = 5), and muscle relaxants (n = 4).</p>
+      <p id="P16">African Americans in our study were significantly older, had a higher proportion of females, had a lower proportion of high school graduates and individuals with health insurance, and were more likely to be obese and to report depressive symptoms and fair or poor general health (<xref ref-type="table" rid="T1">Table 1</xref>). African Americans on average reported fewer days of insomnia symptoms and more days of insufficient sleep symptoms compared with whites, but neither of these differences was statistically significant. African Americans were less likely than whites to be using any type of sleep medication (p &#x0003c; 0.001), prescription sleep medication (p = 0.003), and nonprescription sleep medication (p = 0.048).</p>
+      <p id="P17">In a multivariable model including the 10 covariates (<xref ref-type="table" rid="T2">Table 2</xref>), African Americans were significantly less likely to report current use of any type of sleep medication. The following groups were significantly more likely to report current use of any sleep medication: females, those with health insurance, those with greater mean annual days of insomnia, and those with symptomatic hip or knee osteoarthritis, more depressive symptoms, and fair or poor general health.</p>
+      <p id="P18">African Americans were significantly less likely to report using prescription sleep medications when all other covariates were controlled for (<xref ref-type="table" rid="T2">Table 2</xref>). The following were significantly more likely to report using prescription sleep medications: females, those with health insurance, those with greater mean annual days of insomnia and insufficient sleep, and those with symptomatic hip or knee osteoarthritis, depressive symptoms, and fair or poor health; participants 55&#x02013;64 years of age were less likely than those 45&#x02013;54 years of age to report using prescription sleep medication.</p>
+      <p id="P19">African Americans were also significantly less likely to report using nonprescription sleep medications in the multivariable model (<xref ref-type="table" rid="T2">Table 2</xref>). The only other factor significantly associated with use of nonprescription sleep medication was greater number of days of insomnia; depression was of borderline significance (p = 0.052).</p>
+      <p id="P20">Among women in the sample, significantly lower proportions of African Americans than whites reported using any type of sleep medication (26% vs 38%, respectively; p &#x0003c; 0.001), prescription sleep medication (14% vs 21%, respectively; p = 0.002), and nonprescription sleep medication (11% vs 15%, respectively; p = 0.031). In multivariable models controlling for the 9 other covariates (<xref ref-type="table" rid="T3">Table 3</xref>), African American women were significantly less likely than white women to report using any type of sleep medication, prescription sleep medication, and nonprescription sleep medication Among men there were no significant racial differences in use of any type of sleep medication (African American 22%, white 27%), prescription sleep medication (African American 12%, white 15%), or non-prescription sleep medication (African American 10%, white 11%). In multivariable models controlling for the 9 other covariates (<xref ref-type="table" rid="T4">Table 4</xref>), African American men had lower odds compared with white men of reporting use of any type of sleep medication, prescription sleep medication, and nonprescription sleep medication, but none of these racial differences was statistically significant.</p>
+      <p id="P21">Among African Americans in the sample, there were no significant differences by sex in use of any type of sleep medication (males 22%, females 26%), prescription sleep medication (males 12%, females 14%), or nonprescription sleep medication (males 10%, females 11%). There were also no significant differences by sex in sleep medication use among African Americans in multivariable models controlling for other covariates. Among whites in the sample, significantly lower proportions of males than females reported using any type of sleep medication (27% vs 38%, respectively; p &#x0003c; 0.001), prescription sleep medication (15% vs 21%, respectively; p = 0.005), and nonprescription sleep medication (11% vs 15%, respectively; p = 0.036). In multivariable models controlling for the 9 other covariates, white women were significantly more likely than white men to report using any type of sleep medication (OR 1.68, 95% CI 1.29 to 2.21), prescription sleep medication (OR 1.55, 95% CI 1.11 to 2.17), and nonprescription sleep medication (OR 1.53, 95% CI 1.05 to 2.23).</p>
+    </sec>
+    <sec sec-type="discussion" id="S13">
+      <title>Discussion</title>
+      <p id="P22">This study examined the association of race with the use of sleep medications among individuals in a community sample. Of the total sample, a relatively high proportion (71%) reported having some type of current sleep problem. Among those with self-reported sleep problems, 31% reported current use of some type of sleep medication. African Americans were less likely than whites to be taking any type of sleep medication, including prescription or nonprescription, even when controlling for important demographic and clinical characteristics and annual frequency of sleep problems. These racial differences are consistent with findings from previous studies among patients seeking treatment for sleep problems and a general sample of adults not selected for having sleep problems.<xref ref-type="bibr" rid="R7">7</xref>,<xref ref-type="bibr" rid="R9">9</xref> However, we also found that these racial differences were significant among women but not among men.</p>
+      <p id="P23">There are many possible factors that could underlie racial differences in sleep medication use. First, prior research has shown that African Americans use fewer medications in general than whites<xref ref-type="bibr" rid="R12">12</xref>; other research indicates that even when studies include patients who are diagnosed with specific conditions, African Americans are less likely than whites to take or be prescribed drugs for that illness.<xref ref-type="bibr" rid="R27">27</xref>,<xref ref-type="bibr" rid="R28">28</xref> Second, there may be racial differences in prescription drug insurance, which could influence the availability or out-of-pocket cost of medications used for treating sleep problems. However, previous research has shown that some racial differences in medication use persist when adjusting for prescription drug insurance, and income appears to be a more important contributing factor.<xref ref-type="bibr" rid="R29">29</xref> Third, patient preferences may contribute to these racial differences. While racial differences in the perception of sleep medications have not been previously examined, racial differences in the willingness to use other treatments have. For example, one study found that African Americans were less likely than whites to perceive use of antidepressants as acceptable.<xref ref-type="bibr" rid="R30">30</xref></p>
+      <p id="P24">Stratified analyses also showed that racial differences in sleep medication use were significant for women but not for men. The larger sample size among women may have made it more likely to observe a statistically significant racial difference in this group compared with men. However, the magnitude of the racial difference in sleep medication use was clearly larger for women than for men. Specifically, white women had greater use of sleep medication (38%) than any of the other race/sex groups (22&#x02013;27%). Further, there were significant differences by sex in sleep medication use among whites but not among African Americans. These results suggest that the observed overall differences by race and sex in sleep medication use were strongly driven by use in white women.</p>
+      <p id="P25">Symptomatic hip or knee osteoarthritis, depressive symptoms, fair/poor self-reported health, and female sex were also associated in multivariable models with greater likelihood of using sleep medications. These results extend the findings of prior research, in which each of these variables has been associated with the presence of sleep problems and/or greater odds of sleep medication use.<xref ref-type="bibr" rid="R5">5</xref>,<xref ref-type="bibr" rid="R9">9</xref>,<xref ref-type="bibr" rid="R17">17</xref>,<xref ref-type="bibr" rid="R18">18</xref>,<xref ref-type="bibr" rid="R20">20</xref>,<xref ref-type="bibr" rid="R21">21</xref> These factors may be associated with greater severity of sleep problems, leading to greater likelihood of medication use. Although we controlled for mean annual days of sleep insomnia and insufficient sleep, there may be other aspects of severity that we did not capture. In these models, insomnia symptoms (ie, trouble with falling or staying asleep) had a slightly stronger association with use of sleep medications than did symptoms of insufficient sleep (ie, feeling sleepy or unrefreshed during the day).</p>
+      <p id="P26">This study is one of the few to report the prevalence of sleep medication use among individuals with current sleep problems. The prevalence of prescription drug use in this study was much lower than in the National Ambulatory Medical Care Survey (17% vs 63%), probably because the ambulatory care survey included only patients who were currently seeking physician care for sleep problems, whereas our study involved a more general community sample that may have included individuals with less severe sleep problems.<xref ref-type="bibr" rid="R7">7</xref></p>
+      <p id="P27">Strengths of this research include the large, community sample, use of multiple sleep questions, and inclusion of key covariates that have been associated with sleep problems and/or medication use in previous studies. There are some limitations related to data on sleep problems. First, there is generally a lack of consensus on how to define and identify sleep problems, particularly in large-scale epidemiologic studies. Second, we did not measure all aspects of sleep problem severity, such as how long it takes individuals to fall asleep or how many times they wake up at night. Third, participants were asked whether they had any current sleep problems, but we did not specify a time-frame, and participants may have differed in their interpretation of the term <italic>current</italic>. Fourth, since we assessed the use of sleep medications only among participants who reported having current sleep problems, we may have excluded individuals who had sleep problems that were well controlled by current medication use (and therefore did not report current sleep problems). However, there were only 84 individuals (3% of total sample) who reported using sleep medications but did not report current sleep problems. We chose to focus only on those who reported current sleep problems because this approach includes a cleaner sample of individuals for whom there is a clear indication to consider the use of sleep medications. Inclusion of individuals who did not report current sleep problems but did report taking sleep medications would likely have supported (or even strengthened) the observed racial differences, since among those who did not report current sleep problems, the proportion of those who reported taking sleep medications was higher among whites than African Americans (13% vs 4%, respectively). Fifth, sleep medication use was assessed by participant self-report, and pharmacy records were not available. However, our analyses were restricted to current (not historical) medication use, which should minimize inaccuracies in self-reporting. This study was also limited to white and African American participants and those over age 45 years (including a sample enriched for younger individuals in this age range). This may limit the generalizability of the findings, and additional study is needed among other racial and ethnic groups as well as other age groups.</p>
+    </sec>
+    <sec sec-type="conclusions" id="S14">
+      <title>Conclusions</title>
+      <p id="P28">In summary, among this sample of individuals with self-reported sleep problems, African Americans were less likely than their white counterparts to be using prescription and nonprescription sleep medications, even when we controlled for other important demographic and clinical covariates. However, these results appeared to be largely driven by racial differences among women. Additional research should examine possible reasons for these differences in sleep medication use, including racial differences in sleep patterns and perceptions of sleep problem severity, physician prescribing patterns, patient preferences for nonpharmacologic therapies, acceptability of using sleep medications, and willingness to pay for sleep medications. Research should also examine whether racial differences in sleep medication use have any impact on short- or long-term clinical outcomes of sleep problems.</p>
+    </sec>
+  </body>
+  <back>
+    <ack id="S15">
+      <p>This research was supported by the Centers for Disease Control and Prevention/Association of Schools of Public Health cooperative agreements S1734 and S3486 (JMJ, JBR), the NIAMS Multipurpose Arthritis and Musculoskeletal Disease Center grant 5-P60-AR30701 (JMJ, JBR), and the NIAMS Multidisciplinary Clinical Research Center grant 5 P60 AR49465-03 (JMJ, JBR).</p>
+      <p>The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention or the Department of Veterans Affairs.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="R1">
+        <label>1</label>
+        <citation citation-type="book">
+          <article-title>2005 Sleep in America Poll</article-title>
+          <year>2005</year>
+          <publisher-name>National Sleep Foundation</publisher-name>
+          <publisher-loc>Washington, DC</publisher-loc>
+        </citation>
+      </ref>
+      <ref id="R2">
+        <label>2</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stoller</surname>
+              <given-names>MK</given-names>
+            </name>
+          </person-group>
+          <article-title>Economic effects of insomnia</article-title>
+          <source>Clin Ther</source>
+          <year>1994</year>
+          <volume>16</volume>
+          <fpage>873</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="pmid">7859246</pub-id>
+        </citation>
+      </ref>
+      <ref id="R3">
+        <label>3</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jordan</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Bernard</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Callahan</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Kincade</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Konrad</surname>
+              <given-names>TR</given-names>
+            </name>
+            <name>
+              <surname>DeFriese</surname>
+              <given-names>GH</given-names>
+            </name>
+          </person-group>
+          <article-title>Self-reported arthritis-related disruptions in sleep and daily life and the use of medical, complementary, and self-care strategies for arthritis</article-title>
+          <source>Arch Fam Med</source>
+          <year>2000</year>
+          <volume>9</volume>
+          <fpage>143</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">10693731</pub-id>
+        </citation>
+      </ref>
+      <ref id="R4">
+        <label>4</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dominick</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Ahern</surname>
+              <given-names>FM</given-names>
+            </name>
+            <name>
+              <surname>Gold</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Heller</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title>Health-related quality of life and health service utilization among older adults with osteoarthritis</article-title>
+          <source>Arthritis Care Res</source>
+          <year>2004</year>
+          <volume>51</volume>
+          <fpage>326</fpage>
+          <lpage>31</lpage>
+        </citation>
+      </ref>
+      <ref id="R5">
+        <label>5</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rasu</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Shenolikar</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Nahata</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Balkrishnan</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Physician and patient factors associated with prescribing of medications for sleep difficulties that are associated with high abuse potential or are expensive: an analysis of data from the National Ambulatory Care Survey for 1996&#x02013;2001</article-title>
+          <source>Clin Ther</source>
+          <year>2005</year>
+          <volume>27</volume>
+          <fpage>1970</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">16507384</pub-id>
+        </citation>
+      </ref>
+      <ref id="R6">
+        <label>6</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morlock</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Tan</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>DY</given-names>
+            </name>
+          </person-group>
+          <article-title>Patient characteristics and patterns of drug use for sleep complaints in the United States: analysis of National Ambulatory Medical Survey Data, 1997&#x02013;2002</article-title>
+          <source>Clin Ther</source>
+          <year>2006</year>
+          <volume>28</volume>
+          <fpage>1044</fpage>
+          <lpage>53</lpage>
+          <pub-id pub-id-type="pmid">16990083</pub-id>
+        </citation>
+      </ref>
+      <ref id="R7">
+        <label>7</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Balkrishnan</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Rasu</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Rajagopalan</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Physician and patient determinants of pharmacologic treatment of sleep difficulties in outpatient settings in the United States</article-title>
+          <source>Sleep</source>
+          <year>2005</year>
+          <volume>28</volume>
+          <fpage>715</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">16477958</pub-id>
+        </citation>
+      </ref>
+      <ref id="R8">
+        <label>8</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stewart</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Besset</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Bebbington</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Insomnia comorbidity and impact and hypnotic use by age group in a national survey population aged 16 to 74 years</article-title>
+          <source>Sleep</source>
+          <year>2006</year>
+          <volume>29</volume>
+          <fpage>1391</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">17162985</pub-id>
+        </citation>
+      </ref>
+      <ref id="R9">
+        <label>9</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>EO</given-names>
+            </name>
+            <name>
+              <surname>Roehrs</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Roth</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Breslau</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiology of alcohol and medication as aids to sleep in early adulthood</article-title>
+          <source>Sleep</source>
+          <year>1998</year>
+          <volume>21</volume>
+          <fpage>178</fpage>
+          <lpage>86</lpage>
+          <pub-id pub-id-type="pmid">9542801</pub-id>
+        </citation>
+      </ref>
+      <ref id="R10">
+        <label>10</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stamatakis</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Kaplan</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>RE</given-names>
+            </name>
+          </person-group>
+          <article-title>Short sleep duration across income, education, and race/ethnic groups: population prevalence and growing disparities during 34 years of follow-up</article-title>
+          <source>Ann Epidemiol</source>
+          <year>2007</year>
+          <volume>17</volume>
+          <fpage>948</fpage>
+          <lpage>55</lpage>
+          <pub-id pub-id-type="pmid">17855122</pub-id>
+        </citation>
+      </ref>
+      <ref id="R11">
+        <label>11</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hale</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Do</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <article-title>Racial differences in self-reports of sleep duration in a population-based study</article-title>
+          <source>Sleep</source>
+          <year>2007</year>
+          <volume>30</volume>
+          <fpage>1096</fpage>
+          <lpage>103</lpage>
+          <pub-id pub-id-type="pmid">17910381</pub-id>
+        </citation>
+      </ref>
+      <ref id="R12">
+        <label>12</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hanlon</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Fillenbaum</surname>
+              <given-names>GG</given-names>
+            </name>
+            <name>
+              <surname>Burchett</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Drug-use patterns among black and nonblack community-dwelling elderly</article-title>
+          <source>Ann Pharmacother</source>
+          <year>1992</year>
+          <volume>26</volume>
+          <fpage>679</fpage>
+          <lpage>85</lpage>
+          <pub-id pub-id-type="pmid">1591430</pub-id>
+        </citation>
+      </ref>
+      <ref id="R13">
+        <label>13</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jordan</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Helmick</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Renner</surname>
+              <given-names>JB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Prevalence of knee symptoms and radiographic and symptomatic knee osteoarthritis in African Americans and Caucasians: the Johnston County Osteoarthritis Project</article-title>
+          <source>J Rheumatol</source>
+          <year>2007</year>
+          <volume>31</volume>
+          <fpage>172</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="pmid">17216685</pub-id>
+        </citation>
+      </ref>
+      <ref id="R14">
+        <label>14</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hays</surname>
+              <given-names>RD</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>AL</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Stewart</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>Ware</surname>
+              <given-names>JE</given-names>
+            </name>
+          </person-group>
+          <article-title>Sleep measures</article-title>
+          <source>Measuring functioning and well-being: the Medical Outcomes Study approach</source>
+          <year>1992</year>
+          <fpage>235</fpage>
+          <lpage>59</lpage>
+          <publisher-name>Duke University Press</publisher-name>
+          <publisher-loc>Durham, NC</publisher-loc>
+        </citation>
+      </ref>
+      <ref id="R15">
+        <label>15</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hays</surname>
+              <given-names>RD</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Sesti</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Spritzer</surname>
+              <given-names>KL</given-names>
+            </name>
+          </person-group>
+          <article-title>Psychometric properties of the Medical Outcomes Study sleep measure</article-title>
+          <source>Sleep Med</source>
+          <year>2005</year>
+          <volume>6</volume>
+          <fpage>41</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="pmid">15680294</pub-id>
+        </citation>
+      </ref>
+      <ref id="R16">
+        <label>16</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Allen</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Renner</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>DeVellis</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Helmick</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Jordan</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>Osteoarthritis and sleep: the Johnston County Osteoarthritis Project</article-title>
+          <source>J Rheumatol</source>
+          <year>2008</year>
+          <volume>35</volume>
+          <fpage>1102</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">18484690</pub-id>
+        </citation>
+      </ref>
+      <ref id="R17">
+        <label>17</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Power</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Perruccio</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Badley</surname>
+              <given-names>EM</given-names>
+            </name>
+          </person-group>
+          <article-title>Pain as a mediator of sleep problems in arthritis and other chronic conditions</article-title>
+          <source>Arthritis Care Res</source>
+          <year>2005</year>
+          <volume>53</volume>
+          <fpage>911</fpage>
+          <lpage>9</lpage>
+        </citation>
+      </ref>
+      <ref id="R18">
+        <label>18</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Strine</surname>
+              <given-names>TW</given-names>
+            </name>
+            <name>
+              <surname>Chapman</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <article-title>Associations of frequent sleep insufficiency with health-related quality of life and health behaviors</article-title>
+          <source>Sleep Med</source>
+          <year>2005</year>
+          <volume>6</volume>
+          <fpage>23</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">15680291</pub-id>
+        </citation>
+      </ref>
+      <ref id="R19">
+        <label>19</label>
+        <note>
+          <p>
+            <citation citation-type="journal" id="N0x1d2a730N0x2a644f0">
+              <person-group person-group-type="author">
+                <name>
+                  <surname>Jean-Louis</surname>
+                  <given-names>G</given-names>
+                </name>
+                <name>
+                  <surname>Magai</surname>
+                  <given-names>C</given-names>
+                </name>
+                <name>
+                  <surname>Consedine</surname>
+                  <given-names>NS</given-names>
+                </name>
+                <etal/>
+              </person-group>
+              <article-title>Insomnia symptoms and repressive coping in a sample of older Black and White women</article-title>
+              <source>BMC Womens Health</source>
+              <year>2007</year>
+              <volume>7</volume> DOI 10.1186/1472-6874-7-1
+            </citation>
+          </p>
+        </note>
+      </ref>
+      <ref id="R20">
+        <label>20</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katz</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>McHorney</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>Clinical correlates of insomnia in patients with chronic illness</article-title>
+          <source>Arch Intern Med</source>
+          <year>1998</year>
+          <volume>158</volume>
+          <fpage>1099</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="pmid">9605781</pub-id>
+        </citation>
+      </ref>
+      <ref id="R21">
+        <label>21</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilcox</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Brenes</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Levine</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sevick</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Shumaker</surname>
+              <given-names>SA</given-names>
+            </name>
+            <name>
+              <surname>Craven</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Factors related to sleep disturbance in older adults experiencing knee pain or knee pain with radiographic evidence of knee osteoarthritis</article-title>
+          <source>J Am Geriatr Soc</source>
+          <year>2000</year>
+          <volume>48</volume>
+          <fpage>1241</fpage>
+          <lpage>51</lpage>
+          <pub-id pub-id-type="pmid">11037011</pub-id>
+        </citation>
+      </ref>
+      <ref id="R22">
+        <label>22</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sutton</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Moldofsky</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Badley</surname>
+              <given-names>EM</given-names>
+            </name>
+          </person-group>
+          <article-title>Insomnia and other health problems in Canadians</article-title>
+          <source>Sleep</source>
+          <year>2001</year>
+          <volume>24</volume>
+          <fpage>665</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="pmid">11560179</pub-id>
+        </citation>
+      </ref>
+      <ref id="R23">
+        <label>23</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Radloff</surname>
+              <given-names>LS</given-names>
+            </name>
+          </person-group>
+          <article-title>The CES-D Scale: a self-report depression scale for research in the general population</article-title>
+          <source>Appl Psychol Measurement</source>
+          <year>1977</year>
+          <volume>1</volume>
+          <fpage>385</fpage>
+          <lpage>401</lpage>
+        </citation>
+      </ref>
+      <ref id="R24">
+        <label>24</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jordan</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Linder</surname>
+              <given-names>GF</given-names>
+            </name>
+            <name>
+              <surname>Renner</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Fryer</surname>
+              <given-names>JG</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of arthritis in rural populations</article-title>
+          <source>Arthritis Care Res</source>
+          <year>1995</year>
+          <volume>8</volume>
+          <fpage>242</fpage>
+          <lpage>50</lpage>
+          <pub-id pub-id-type="pmid">8605262</pub-id>
+        </citation>
+      </ref>
+      <ref id="R25">
+        <label>25</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kaufman</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Rosenberg</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Anderson</surname>
+              <given-names>TE</given-names>
+            </name>
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>AA</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent patterns of medication use in the ambulatory adult population of the United States: the Slone Survey</article-title>
+          <source>JAMA</source>
+          <year>2002</year>
+          <volume>287</volume>
+          <fpage>337</fpage>
+          <lpage>44</lpage>
+          <pub-id pub-id-type="pmid">11790213</pub-id>
+        </citation>
+      </ref>
+      <ref id="R26">
+        <label>26</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kleinbaum</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Kupper</surname>
+              <given-names>LL</given-names>
+            </name>
+            <name>
+              <surname>Morgenstern</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiological research: principles and quantitative methods</article-title>
+          <year>1982</year>
+          <publisher-name>Van Nostrand Reinhold</publisher-name>
+          <publisher-loc>New York</publisher-loc>
+        </citation>
+      </ref>
+      <ref id="R27">
+        <label>27</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Briesacher</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Limcangco</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Gaskin</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Racial and ethnic disparities in prescription coverage and medication use</article-title>
+          <source>Health Care Financ Rev</source>
+          <year>2003</year>
+          <volume>25</volume>
+          <fpage>63</fpage>
+          <lpage>76</lpage>
+          <pub-id pub-id-type="pmid">15124378</pub-id>
+        </citation>
+      </ref>
+      <ref id="R28">
+        <label>28</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Melfi</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Croghan</surname>
+              <given-names>TW</given-names>
+            </name>
+            <name>
+              <surname>Hanna</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>RL</given-names>
+            </name>
+          </person-group>
+          <article-title>Racial variation in antidepressant treatment in a Medicaid population</article-title>
+          <source>J Clin Psychiatry</source>
+          <year>2000</year>
+          <volume>61</volume>
+          <fpage>16</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="pmid">10695640</pub-id>
+        </citation>
+      </ref>
+      <ref id="R29">
+        <label>29</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gellad</surname>
+              <given-names>WF</given-names>
+            </name>
+            <name>
+              <surname>Haas</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Safran</surname>
+              <given-names>DG</given-names>
+            </name>
+          </person-group>
+          <article-title>Race/ethnicity and nonadherence to prescription medications among seniors: results of a national study</article-title>
+          <source>J Gen Intern Med</source>
+          <year>2007</year>
+          <volume>22</volume>
+          <fpage>1572</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">17882499</pub-id>
+        </citation>
+      </ref>
+      <ref id="R30">
+        <label>30</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cooper</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Gonzales</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Gallo</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The acceptability of treatment for depression among African-American, Hispanic, and white primary care patients</article-title>
+          <source>Medical Care</source>
+          <year>2003</year>
+          <volume>41</volume>
+          <fpage>479</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="pmid">12665712</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec id="S16" sec-type="display-objects">
+      <title>Tables</title>
+      <table-wrap id="T1" position="float">
+        <label>Table 1</label>
+        <caption>
+          <p>Selected Characteristics of Participants</p>
+        </caption>
+        <table frame="box" rules="groups">
+          <thead>
+            <tr>
+              <th align="center" valign="bottom" rowspan="1" colspan="1">Characteristic</th>
+              <th align="center" valign="bottom" rowspan="1" colspan="1">Total Sample<break/>(N = 1910)
+              </th>
+              <th align="center" valign="bottom" rowspan="1" colspan="1">African<break/>American<break/>(n = 652)
+              </th>
+              <th align="center" valign="bottom" rowspan="1" colspan="1">White<break/>(n = 1258)
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Age, %<xref ref-type="table-fn" rid="TFN1">a</xref></td>
+              <td align="center" valign="top" rowspan="1" colspan="1"/>
+              <td align="center" valign="top" rowspan="1" colspan="1"/>
+              <td align="center" valign="top" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;45&#x02013;54 y</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">43</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">36</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">47</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">&#x02003;55&#x02013;64 y</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">33</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">35</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">32</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x02265;65 y</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">24</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">29</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">21</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Female, %<xref ref-type="table-fn" rid="TFN1">a</xref></td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">69</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">72</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">68</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">High school graduate, %<xref ref-type="table-fn" rid="TFN1">a</xref></td>
+              <td align="center" valign="top" rowspan="1" colspan="1">69</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">62</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">73</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Health insurance, %<xref ref-type="table-fn" rid="TFN1">a</xref></td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">93</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">89</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">94</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Days of insomnia,<break/>&#x02003;mean &#x000b1;SD
+              </td>
+              <td align="center" valign="top" rowspan="1" colspan="1">165 &#x000b1; 139</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">158 &#x000b1; 139</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">169 &#x000b1; 139</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Days of insufficent<break/>&#x02003;sleep, mean &#x000b1;SD
+              </td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">172 &#x000b1; 136</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">178 &#x000b1; 132</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">169 &#x000b1; 138</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Symptomatic hip or<break/>&#x02003;knee osteoarthritis, %
+              </td>
+              <td align="center" valign="top" rowspan="1" colspan="1">30</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">33</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">29</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Obese, %<xref ref-type="table-fn" rid="TFN1">a</xref>,<xref ref-type="table-fn" rid="TFN2">b</xref></td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">48</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">58</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">43</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Depressive symptoms,<break/>&#x02003;%<xref ref-type="table-fn" rid="TFN1">a</xref>,<xref ref-type="table-fn" rid="TFN3">c</xref>
+              </td>
+              <td align="center" valign="top" rowspan="1" colspan="1">16</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">21</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">14</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Fair or poor general<break/>&#x02003;health, %<xref ref-type="table-fn" rid="TFN1">a</xref>
+              </td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">32</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">39</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">29</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Any type of sleep<break/>&#x02003;medication use, %<xref ref-type="table-fn" rid="TFN1">a</xref>
+              </td>
+              <td align="center" valign="top" rowspan="1" colspan="1">31</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">25</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">35</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Prescription sleep<break/>&#x02003;medication use, %<xref ref-type="table-fn" rid="TFN1">a</xref>
+              </td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">17</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">14</td>
+              <td align="center" valign="top" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">19</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top" rowspan="1" colspan="1">Nonprescription sleep<break/>&#x02003;medication use, %<xref ref-type="table-fn" rid="TFN1">a</xref>
+              </td>
+              <td align="center" valign="top" rowspan="1" colspan="1">12</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">10</td>
+              <td align="center" valign="top" rowspan="1" colspan="1">13</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="TFN1">
+            <label>a</label>
+            <p id="P29">Significantly different according to race (p &#x0003c; 0.05).</p>
+          </fn>
+          <fn id="TFN2">
+            <label>b</label>
+            <p id="P30">Body mass index &#x02265;30.</p>
+          </fn>
+          <fn id="TFN3">
+            <label>c</label>
+            <p id="P31">Center for Epidemiologic Studies Depression Scale &#x02265;16.</p>
+          </fn>
+          <p>Missing data: 15 for age, 1 for sex and general health, 7 for prescription or nonprescription medication use, 10 for annual days of sleep problems.</p>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="T2" position="float">
+        <?landscape?>
+        <label>Table 2</label>
+        <caption>
+          <p>Overall Modeled Associations of Race and Other Participant Characteristics</p>
+        </caption>
+        <table frame="box" rules="groups">
+          <thead>
+            <tr>
+              <th align="center" valign="middle" rowspan="1" colspan="1"/>
+              <th colspan="3" align="center" valign="middle" rowspan="1">Sleep Medication, OR (95% CI)<hr/>
+              </th>
+            </tr>
+            <tr>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Characteristic</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Any Type</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Prescription</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Nonprescription</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">African American</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.56 (0.44 to 0.70)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.60 (0.45 to 0.79)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.69 (0.51 to 0.95)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Age, y</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1"/>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1"/>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">&#x02003;45&#x02013;54</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;55&#x02013;64</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.83 (0.63 to 1.10)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.65 (0.46 to 0.91)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.88 (0.60 to 1.29)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">&#x02003;&#x02265;65</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.04 (0.78 to 1.38)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">0.76 (0.54 to 1.07)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.21 (0.82 to 1.78)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Female</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.50 (1.20 to 1.90)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.42 (1.07 to 1.89)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.36 (0.99 to 1.86)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">High school graduate</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.09 (0.86 to 1.38)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">0.88 (0.66 to 1.16)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.10 (0.80 to 1.52)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Health insurance</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.55 (1.01 to 2.40)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">2.79 (1.49 to 5.20)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.84 (0.49 to 1.42)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Mean annual days of insomnia<xref ref-type="table-fn" rid="TFN5">b</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.02 (1.01 to 1.03)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.02 (1.01 to 1.03)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.01 (1.00 to 1.02)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Mean annual days of insufficient sleep<xref ref-type="table-fn" rid="TFN5">b</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.00 (0.99 to 1.01)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.01 (1.00 to 1.02)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.99 (0.98 to 1.00)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Symptomatic hip or knee osteoarthritis</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.39 (1.11 to 1.74)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.35 (1.03 to 1.78)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.15 (0.85 to 1.56)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Obese<xref ref-type="table-fn" rid="TFN6">c</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.01 (0.81 to 1.25)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.79 (0.61 to 1.03)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.25 (0.94 to 1.68)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Depressive symptoms<xref ref-type="table-fn" rid="TFN7">d</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">2.23 (1.68 to 2.96)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">2.17 (1.58 to 2.97)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.43 (0.98 to 2.10)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Fair or poor general health</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.50 (1.18 to 1.89)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.75 (1.32 to 2.32)<xref ref-type="table-fn" rid="TFN4">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.04 (0.75 to 1.44)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="TFN4">
+            <label>a</label>
+            <p id="P32">Statistically significant difference (p &#x0003c; 0.05) compared with referent category (for categorical variables) or per unit increase (for continuous variables).</p>
+          </fn>
+          <fn id="TFN5">
+            <label>b</label>
+            <p id="P33">Change in odds of medication use per each 10-day increase.</p>
+          </fn>
+          <fn id="TFN6">
+            <label>c</label>
+            <p id="P34">Body mass index &#x02265;30.</p>
+          </fn>
+          <fn id="TFN7">
+            <label>d</label>
+            <p id="P35">Center for Epidemiologic Studies Depression Scale &#x02265;16.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="T3" position="float">
+        <?landscape?>
+        <label>Table 3</label>
+        <caption>
+          <p>Modeled Associations of Race and Other Participant Characteristics in Females</p>
+        </caption>
+        <table frame="box" rules="groups">
+          <thead>
+            <tr>
+              <th align="center" valign="middle" rowspan="1" colspan="1"/>
+              <th colspan="3" align="center" valign="middle" rowspan="1">Sleep Medication, OR (95% CI)<hr/>
+              </th>
+            </tr>
+            <tr>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Characteristic</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Any Type</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Prescription</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Nonprescription</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">African American</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.51 (0.39 to 0.66)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.55 (0.40 to 0.77)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.63 (0.43 to 0.90)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Age, y</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1"/>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1"/>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">&#x02003;45&#x02013;54</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;55&#x02013;64</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.86 (0.62 to 1.19)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.66 (0.45 to 0.98)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.86 (0.55 to 1.34)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">&#x02003;&#x02265;65</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.05 (0.76 to 1.47)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">0.76 (0.51 to 1.12)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.29 (0.83 to 2.01)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">High school graduate</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.95 (0.72 to 1.25)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.75 (0.54 to 1.05)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.06 (0.73 to 1.55)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Health insurance</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.60 (0.96 to 2.65)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">3.65 (1.68 to 7.96)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">0.75 (0.41 to 1.38)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Mean annual days of insomnia<xref ref-type="table-fn" rid="TFN9">b</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.02 (1.01 to 1.03)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.02 (1.01 to 1.03)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.01 (1.00 to 1.02)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Mean annual days of insufficient sleep<xref ref-type="table-fn" rid="TFN9">b</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00 (0.99 to 1.01)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.01 (1.00 to 1.02)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">0.99 (0.98 to 1.00)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Symptomatic hip or knee osteoarthritis</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.32 (1.01 to 1.73)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.31 (0.95 to 1.81)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.05 (0.73 to 1.51)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Obese<xref ref-type="table-fn" rid="TFN10">c</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.11 (0.86 to 1.43)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">0.90 (0.66 to 1.22)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.36 (0.97 to 1.91)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Depressive symptoms<xref ref-type="table-fn" rid="TFN11">d</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">2.18 (1.57 to 3.03)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.95 (1.35 to 2.83)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.58 (1.02 to 2.46)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Fair or poor general health</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.37 (1.04 to 1.80)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.74 (1.26 to 2.42)<xref ref-type="table-fn" rid="TFN8">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">0.85 (0.58 to 1.24)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="TFN8">
+            <label>a</label>
+            <p id="P36">Statistically significant difference (p &#x0003c; 0.05) compared with referent category (for categorical variables) or per unit increase (for continuous variables).</p>
+          </fn>
+          <fn id="TFN9">
+            <label>b</label>
+            <p id="P37">Change in odds of medication use per each 10-day increase.</p>
+          </fn>
+          <fn id="TFN10">
+            <label>c</label>
+            <p id="P38">Body mass index &#x02265;30.</p>
+          </fn>
+          <fn id="TFN11">
+            <label>d</label>
+            <p id="P39">Center for Epidemiologic Studies Depression Scale &#x02265;16.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="T4" position="float">
+        <?landscape?>
+        <label>Table 4</label>
+        <caption>
+          <p>Modeled Associations of Race and Other Participant Characteristics in Males</p>
+        </caption>
+        <table frame="box" rules="groups">
+          <thead>
+            <tr>
+              <th align="center" valign="middle" rowspan="1" colspan="1"/>
+              <th colspan="3" align="center" valign="middle" rowspan="1">Sleep Medication, OR (95% CI)<hr/>
+              </th>
+            </tr>
+            <tr>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Characteristic</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Any Type</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Prescription</th>
+              <th align="center" valign="middle" rowspan="1" colspan="1">Nonprescription</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">African American</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.71 (0.44 to 1.13)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.73 (0.41 to 1.31)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.88 (0.47 to 1.66)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Age, y</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1"/>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1"/>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">&#x02003;45&#x02013;54</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">&#x02003;55&#x02013;64</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.79 (0.58 to 1.80)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">0.63 (0.32 to 1.24)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.00 (0.47 to 2.15)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">&#x02003;&#x02265;65</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.02 (0.78 to 1.38)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">0.77 (0.94 to 1.53)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.14 (0.51 to 2.51)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">High school graduate</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.71 (1.07 to 2.74)<xref ref-type="table-fn" rid="TFN12">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.44 (0.81 to 2.55)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.42 (0.75 to 2.67)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Health insurance</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.36 (0.58 to 3.15)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.51 (0.52 to 4.41)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">0.95 (0.31 to 2.94)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Mean annual days of insomnia<xref ref-type="table-fn" rid="TFN13">b</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.03 (1.01 to 1.04)<xref ref-type="table-fn" rid="TFN12">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.02 (1.01 to 1.04)<xref ref-type="table-fn" rid="TFN12">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.02 (1.00 to 1.04)<xref ref-type="table-fn" rid="TFN12">a</xref></td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Mean annual days of insufficient sleep<xref ref-type="table-fn" rid="TFN13">b</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.01 (0.99 to 1.02)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00 (0.99 to 1.03)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.00 (0.98 to 1.02)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Symptomatic hip or knee osteoarthritis</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.63 (1.06 to 2.52)<xref ref-type="table-fn" rid="TFN12">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.53 (0.88 to 2.64)</td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.55 (0.87 to 2.78)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Obese<xref ref-type="table-fn" rid="TFN14">c</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">0.81 (0.53 to 1.24)</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">0.56 (0.32 to 0.96)<xref ref-type="table-fn" rid="TFN12">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.08 (0.61 to 1.91)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" rowspan="1" colspan="1">Depressive symptoms<xref ref-type="table-fn" rid="TFN15">d</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">2.50 (1.43 to 4.36)<xref ref-type="table-fn" rid="TFN12">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">2.84 (1.52 to 5.26)<xref ref-type="table-fn" rid="TFN12">a</xref></td>
+              <td align="left" valign="middle" rowspan="1" colspan="1">1.25 (0.58 to 2.69)</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">Fair or poor general health</td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.96 (1.24 to 3.10)<xref ref-type="table-fn" rid="TFN12">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.91 (1.09 to 3.35)<xref ref-type="table-fn" rid="TFN12">a</xref></td>
+              <td align="left" valign="middle" content-type="background-color:#DEDEDE" rowspan="1" colspan="1">1.84 (0.99 to 3.41)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="TFN12">
+            <label>a</label>
+            <p id="P40">Statistically significant difference (p &#x0003c; 0.05) compared with referent category (for categorical variables) or per unit increase (for continuous variables).</p>
+          </fn>
+          <fn id="TFN13">
+            <label>b</label>
+            <p id="P41">Change in odds of medication use per each 10-day increase.</p>
+          </fn>
+          <fn id="TFN14">
+            <label>c</label>
+            <p id="P42">Body mass index &#x02265;30.</p>
+          </fn>
+          <fn id="TFN15">
+            <label>d</label>
+            <p id="P43">Center for Epidemiologic StudiesDepression Scale &#x02265;16.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+  </back>
+</article>
+
+

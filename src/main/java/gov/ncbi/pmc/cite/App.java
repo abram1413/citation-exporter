@@ -1,6 +1,7 @@
 package gov.ncbi.pmc.cite;
 
 import java.io.IOException;
+import java.net.URL;
 import java.util.Map;
 import java.util.Properties;
 
@@ -62,13 +63,14 @@ public class App {
         String itemSourceProp = System.getProperty("item_source");
         String itemSourceStr = itemSourceProp != null ? itemSourceProp : "test";
         log.info("Using item source '" + itemSourceStr + "'");
-        if (itemSourceStr.equals("test")) {
-            itemSource = new TestItemSource(
-                App.class.getClassLoader().getResource("samples/"));
-        }
 
-        // Create a new item source by class name
+        if (itemSourceStr.equals("test")) {
+            URL samples = App.class.getClassLoader().getResource("samples/");
+            String wantsIdType = System.getProperty("item_source_id_type", "aiid");
+            itemSource = new TestItemSource(samples, wantsIdType);
+        }
         else {
+            // Create a new item source by class name
             itemSource = (ItemSource) Class.forName(itemSourceStr)
                 .getConstructor().newInstance();
         }
@@ -90,7 +92,7 @@ public class App {
     /**
      * @return the version number, from the pom.xml file.
      */
-    public static String getCtxp_version() {
+    public static String getCtxpVersion() {
         return ctxp_version;
     }
 
@@ -98,7 +100,7 @@ public class App {
      * @return the Git SHA of this version of the citation-exporter repo, if
      *   available; otherwise, "unknown".
      */
-    public static String getCtxp_sha() {
+    public static String getCtxpSha() {
         return ctxp_sha;
     }
 
@@ -106,7 +108,7 @@ public class App {
      * @return the ctxp_config_sha the Git SHA of this version of the
      *   citation-exporter-config repo, if available; otherwise, "unknown".
      */
-    public static String getCtxp_config_sha() {
+    public static String getCtxpConfigSha() {
         return ctxp_config_sha;
     }
 

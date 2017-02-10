@@ -26,7 +26,7 @@ import gov.ncbi.pmc.ids.RequestId;
  */
 public abstract class ItemSource {
     protected Logger log;
-    
+
     // Implement a small-lightweight cache for the retrieved JSON items, to
     // support requests for multiple styles of the same id (for example)
     private KittyCache<String, JsonNode> jsonCache;
@@ -37,6 +37,15 @@ public abstract class ItemSource {
     {
         log = LoggerFactory.getLogger(this.getClass());
         jsonCache = new KittyCache<String, JsonNode>(jsonCacheSize);
+    }
+
+    /**
+     * Every ItemSource prefers IDs of a particular type. This defaults to `aiid` (PMC
+     * article instance id).
+     * @return String - specifies the preferred ID for this item source.
+     */
+    public String wantsIdType() {
+        return "aiid";
     }
 
     /**
@@ -76,7 +85,7 @@ public abstract class ItemSource {
     public JsonNode retrieveItemJson(RequestId requestId)
         throws BadParamException, NotFoundException, IOException
     {
-        String curie = requestId.getIdByType("aiid").getCurie();
+        String curie = requestId.getIdByType(this.wantsIdType()).getCurie();
         JsonNode cached = jsonCache.get(curie);
         if (cached != null) {
             log.debug("JSON for " + curie + ": kitty-cache hit");
@@ -101,6 +110,7 @@ public abstract class ItemSource {
         jsonCache.put(curie, json, jsonCacheTtl);
         return json;
     }
+
 
     public ObjectMapper getMapper() {
         return App.getMapper();

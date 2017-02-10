@@ -16,21 +16,24 @@ import gov.ncbi.pmc.ids.RequestId;
 public class ConvAppNxmlItemSource  extends ItemSource {
     private URL convAppUrl;
 
-    public ConvAppNxmlItemSource() throws Exception
+    public ConvAppNxmlItemSource(URL url) throws Exception
     {
         super();
+        convAppUrl = url;
+      /*
         convAppUrl = new URL(System.getProperty("item_source_loc"));
         if (convAppUrl == null) throw new IOException(
             "Need a value for the item_source_loc system property");
         log.info("Item source location (nxml converter app URL) = '" +
             convAppUrl + "'");
+      */
     }
 
     @Override
     public Document retrieveItemNxml(RequestId requestId)
         throws BadParamException, NotFoundException, IOException
     {
-        Identifier id = requestId.getIdByType("aiid");
+        Identifier id = requestId.getIdByType(this.wantsIdType());
         if (id == null)
             throw new BadParamException("No id of type aiid in " + requestId);
 

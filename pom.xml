@@ -56,14 +56,16 @@
     <dependency>
     <!--
       I put pub-one on GitHub, and tagged it. It is being served back to
-      us through jitpack.io. 
+      us through jitpack.io.
+    -->
       <groupId>gov.ncbi.pmc</groupId>
       <artifactId>pub-one</artifactId>
-      <version>1.0.3</version>
-    -->
+      <version>1.0.4-SNAPSHOT</version>
+    <!--
       <groupId>com.github.Klortho</groupId>
       <artifactId>pub-one</artifactId>
       <version>1.0.3</version>
+    -->
     </dependency>
 
     <dependency>
@@ -222,7 +224,7 @@
 
   <build>
     <resources>
-      <!-- 
+      <!--
         Being conservative: only filtering where we know we need it
       -->
       <resource>
@@ -438,6 +440,54 @@
       </plugin>
     </plugins>
 
+    <pluginManagement>
+      <plugins>
+        <!--
+          This was inserted by a "quick fix" for an M2Eclipse plugin issue.
+          See https://www.eclipse.org/m2e/documentation/m2e-execution-not-covered.html.
+
+          This plugin's configuration is used to store Eclipse m2e settings
+          only. It has no influence on the Maven build itself.
+        -->
+        <plugin>
+          <groupId>org.eclipse.m2e</groupId>
+          <artifactId>lifecycle-mapping</artifactId>
+          <version>1.0.0</version>
+          <configuration>
+            <lifecycleMappingMetadata>
+              <pluginExecutions>
+                <pluginExecution>
+                  <pluginExecutionFilter>
+                    <groupId>org.codehaus.mojo</groupId>
+                    <artifactId>exec-maven-plugin</artifactId>
+                    <versionRange>[1.4.0,)</versionRange>
+                    <goals>
+                      <goal>exec</goal>
+                    </goals>
+                  </pluginExecutionFilter>
+                  <action>
+                    <ignore></ignore>
+                  </action>
+                </pluginExecution>
+                <pluginExecution>
+                  <pluginExecutionFilter>
+                    <groupId>org.codehaus.mojo</groupId>
+                    <artifactId>build-helper-maven-plugin</artifactId>
+                    <versionRange>[1.5,)</versionRange>
+                    <goals>
+                      <goal>add-resource</goal>
+                    </goals>
+                  </pluginExecutionFilter>
+                  <action>
+                    <ignore></ignore>
+                  </action>
+                </pluginExecution>
+              </pluginExecutions>
+            </lifecycleMappingMetadata>
+          </configuration>
+        </plugin>
+      </plugins>
+    </pluginManagement>
   </build>
 
   <reporting>
@@ -452,6 +502,16 @@
         <configuration>
           <additionalparam>-Xdoclint:none</additionalparam>
         </configuration>
+      </plugin>
+
+      <!--
+        Generate pretty HTML reports for the tests, when `mvn site` is executed.
+        See http://maven.apache.org/surefire/maven-surefire-report-plugin/usage.html
+      -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-report-plugin</artifactId>
+        <version>2.19.1</version>
       </plugin>
 
       <!--

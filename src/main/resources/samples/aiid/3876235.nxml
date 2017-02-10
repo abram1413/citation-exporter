@@ -1,0 +1,1432 @@
+<!-- ArticleInstanceId : 3876235, Path: pnas/110-2013/52/preload/nxml/, Name : pnas.201308450.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>
+  <?DTDIdentifier.IdentifierType public?>
+  <?SourceDTD.DTDName journalpublishing.dtd?>
+  <?SourceDTD.Version 2.3?>
+  <?ConverterInfo.XSLTName jp2nlmx2.xsl?>
+  <?ConverterInfo.Version 2?>
+  <front>
+    <?epub November-11-2013?>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Proc Natl Acad Sci U S A</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Proc. Natl. Acad. Sci. U.S.A</journal-id>
+      <journal-id journal-id-type="hwp">pnas</journal-id>
+      <journal-id journal-id-type="pmc">pnas</journal-id>
+      <journal-id journal-id-type="publisher-id">PNAS</journal-id>
+      <journal-title-group>
+        <journal-title>Proceedings of the National Academy of Sciences of the United States of America</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0027-8424</issn>
+      <issn pub-type="epub">1091-6490</issn>
+      <publisher>
+        <publisher-name>National Academy of Sciences</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">24218579</article-id>
+      <article-id pub-id-type="publisher-id">201308450</article-id>
+      <article-id pub-id-type="doi">10.1073/pnas.1308450110</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Physical Sciences</subject>
+          <subj-group>
+            <subject>Applied Mathematics</subject>
+          </subj-group>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Biological Sciences</subject>
+          <subj-group>
+            <subject>Biochemistry</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>FtsK-dependent XerCD-<italic>dif</italic> recombination unlinks replication catenanes in a stepwise manner</article-title>
+        <alt-title alt-title-type="short">Stepwise DNA unlinking by XerCD&#x02013;FtsK</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shimokawa</surname>
+            <given-names>Koya</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>a</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ishihara</surname>
+            <given-names>Kai</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">
+            <sup>b</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Grainge</surname>
+            <given-names>Ian</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">
+            <sup>c</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sherratt</surname>
+            <given-names>David J.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">
+            <sup>d</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vazquez</surname>
+            <given-names>Mariel</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5">
+            <sup>e</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">
+            <sup>1</sup>
+          </xref>
+        </contrib>
+        <aff id="aff1">
+          <sup>a</sup>Department of Mathematics, <institution>Saitama University</institution>, Saitama 380-8570, <country>Japan</country>;
+        </aff>
+        <aff id="aff2">
+          <sup>b</sup>Faculty of Education, Yamaguchi University, Yamaguchi 753-8512, Japan;
+        </aff>
+        <aff id="aff3">
+          <sup>c</sup>School of Environmental and Life Sciences, <institution>University of Newcastle</institution>, Callaghan, NSW 2308, <country>Australia</country>;
+        </aff>
+        <aff id="aff4">
+          <sup>d</sup>Department of Biochemistry, <institution>University of Oxford</institution>, Oxford OX1 3QU, <country>United Kingdom</country>; and
+        </aff>
+        <aff id="aff5">
+          <sup>e</sup>Department of Mathematics, <institution>San Francisco State University</institution>, San Francisco, <addr-line>CA</addr-line> 94132
+        </aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor1">
+          <sup>1</sup>To whom correspondence should be addressed. E-mail: <email>mariel@sfsu.edu</email>.
+        </corresp>
+        <fn fn-type="edited-by">
+          <p>Edited by De Witt Sumners, Florida State University, Tallahassee, FL, and accepted by the Editorial Board October 17, 2013 (received for review May 10, 2013)</p>
+        </fn>
+        <fn fn-type="con">
+          <p>Author contributions: K.S., D.J.S., and M.V. designed research; K.S., K.I., and M.V. performed research; K.S., K.I., I.G., D.J.S., and M.V. contributed new reagents/analytic tools; K.S., K.I., I.G., D.J.S., and M.V. analyzed data; and K.S., I.G., D.J.S., and M.V. wrote the paper.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <day>24</day>
+        <month>12</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>11</month>
+        <year>2013</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>11</day>
+        <month>11</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>110</volume>
+      <issue>52</issue>
+      <fpage>20906</fpage>
+      <lpage>20911</lpage>
+      <permissions>
+        <license license-type="open-access">
+          <license-p>Freely available online through the PNAS open access option.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:title="pdf" xlink:type="simple" xlink:href="pnas.201308450.pdf"/>
+      <abstract abstract-type="executive-summary">
+        <title>Significance</title>
+        <p>Newly replicated circular chromosomes are topologically linked. XerC/XerD-<italic>dif</italic> (XerCD-<italic>dif</italic>)&#x02013;FtsK recombination acts in the replication termination region of the <italic>Escherichia coli</italic> chromosome to remove links introduced during homologous recombination and replication, whereas Topoisomerase IV removes replication links only. Based on gel mobility patterns of the products of recombination, a stepwise unlinking pathway has been proposed. Here, we present a rigorous mathematical validation of this model, a significant advance over prior biological approaches. We show definitively that there is a unique shortest pathway of unlinking by XerCD-<italic>dif</italic>&#x02013;FtsK that strictly reduces the complexity of the links at every step. We delineate the mechanism of action of the enzymes at each step along this pathway and provide a 3D interpretation of the results.</p>
+      </abstract>
+      <abstract>
+        <p>In <italic>Escherichia coli</italic>, complete unlinking of newly replicated sister chromosomes is required to ensure their proper segregation at cell division. Whereas replication links are removed primarily by topoisomerase IV, XerC/XerD-<italic>dif</italic> site-specific recombination can mediate sister chromosome unlinking in Topoisomerase IV-deficient cells. This reaction is activated at the division septum by the DNA translocase FtsK, which coordinates the last stages of chromosome segregation with cell division. It has been proposed that, after being activated by FtsK, XerC/XerD-<italic>dif</italic> recombination removes DNA links in a stepwise manner. Here, we provide a mathematically rigorous characterization of this topological mechanism of DNA unlinking. We show that stepwise unlinking is the only possible pathway that strictly reduces the complexity of the substrates at each step. Finally, we propose a topological mechanism for this unlinking reaction.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>DNA topology</kwd>
+        <kwd>tangle method</kwd>
+        <kwd>Xer recombination</kwd>
+        <kwd>band surgery</kwd>
+        <kwd>topology simplification</kwd>
+      </kwd-group>
+      <counts>
+        <page-count count="6"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <p content-type="flushleft">The <italic>Escherichia coli</italic> chromosome is a 4.6-Mbp circular double-stranded (ds) DNA duplex, in which the two DNA strands are wrapped around each other &#x0223c;420,000 times. During replication, DNA gyrase acts to remove the majority of these strand crossings, but those that remain result in two circular sister molecules that are nontrivially linked. This creates the topological problem of separating the two linked sister chromosomes to ensure proper segregation at the time of cell division. Unlinking of replication links in <italic>E. coli</italic> is largely achieved by Topoisomerase IV (TopoIV), a type II topoisomerase (<xref ref-type="bibr" rid="r1">1</xref>, <xref ref-type="bibr" rid="r2">2</xref>). However, Ip et al. demonstrated that XerC/XerD-dif (XerCD-<italic>dif</italic>) site-specific recombination, coupled with action of the translocase FtsK, could resolve linked plasmid substrates in vitro and hypothesized that this system could work alongside, yet independently of, TopoIV during in vivo unlinking of replicative catenanes in the bacterial chromosome (<xref ref-type="bibr" rid="r3">3</xref>). Grainge et al. then demonstrated that increased site-specific recombination could indeed compensate for a loss of TopoIV activity in unlinking chromosomes in vivo (<xref ref-type="bibr" rid="r4">4</xref>). When the activity of TopoIV is blocked, the result is cell lethality. We here propose a mathematically rigorous analysis to describe the pathway and mechanisms of unlinking of replication links by XerCD&#x02013;FtsK. This work places a fundamental biological process within a mathematical context.</p>
+    <p>Site-specific recombination is a process of breakage and reunion at two specific dsDNA duplexes (the recombination sites). When the DNA substrate consists of circular DNA molecules, the recombination sites may occur in a single DNA circle or in separate circles. Two sites are in direct repeat if they are in the same orientation on one DNA circle (<xref ref-type="fig" rid="fig01">Fig. 1</xref>). The relative orientation of the sites is harder to characterize when the two sites are on separate DNA circles. In the case of simple torus links with 2m crossings (also called 2m-catenanes, or 2m-cats) for an integer <italic>m &#x0003e; 1</italic>, the sites are said to be in parallel or antiparallel orientation with respect to each other (<xref ref-type="fig" rid="fig01">Fig. 1</xref>). Site-specific recombination occurs in two steps (<xref ref-type="bibr" rid="r5">5</xref>, <xref ref-type="bibr" rid="r6">6</xref>): first, the recombination sites are brought together (synapsis); second, each site is cleaved and the DNA ends are exchanged, then rejoined.</p>
+    <fig id="fig01" fig-type="featured" position="float">
+      <label>Fig. 1.</label>
+      <caption>
+        <p>Proposed stepwise unlinking by XerCD-<italic>dif</italic>&#x02013;FtsK recombination: Parallel RH 2m-cats [e.g., T(2,6)p] are converted to RH torus knots [e.g., T(2,5)] with directly repeated sites; such knots are converted to RH cats, and so on, iteratively, until the reaction stops at two open circles. (In ref. <xref ref-type="bibr" rid="r4">4</xref>, RH torus links with parallel sites and up to 14 crossings, also called parallel 2m-cats and denoted by T(2,2m)<sub>p</sub>, were used as substrates of Xer recombination.)</p>
+      </caption>
+      <graphic id="gra1" xlink:href="pnas.1308450110fig01"/>
+    </fig>
+    <p>In <italic>E. coli</italic>, XerCD-<italic>dif</italic> recombination plays an essential role in chromosome dimer resolution (reviewed in ref. <xref ref-type="bibr" rid="r7">7</xref>). Furthermore, when coupled with FtsK, XerCD recombination at <italic>dif</italic> sites can unlink 2m-cats produced in vitro by &#x003bb;-Integrase (<xref ref-type="bibr" rid="r3">3</xref>). These results suggested a potential in vivo role for XerCD&#x02013;FtsK recombination, which was then hypothesized to work with TopoIV to unlink DNA links produced by DNA replication. To test this hypothesis, a pair of supercoiled linked plasmids, each with one <italic>dif</italic> site, was produced in vivo by replication in TopoIV-deficient cells, and these were then incubated in vitro with XerCD&#x02013;FtsK<sub>50C</sub> (<xref ref-type="bibr" rid="r4">4</xref>). The ATP-dependent reaction efficiently produced unlinked circles. The ATP dependence of the reaction is likely twofold: firstly the DNA translocase activity of FtsK relies upon ATP hydrolysis for movement, and in the absence of translocation there is no stimulation of recombination. Secondly, the energy from ATP hydrolysis is also used to align the two recombining <italic>dif</italic> sites so that subsequent recombination produces the observed stepwise reduction in complexity. In addition to right-handed (RH) torus links with parallel sites and with 2&#x02013;14 crossings, unknotted dimers and a few dimeric knots were also observed. The experimental data suggested a stepwise reaction where crossings are removed one at a time, iteratively converting links into knots, into links, until two free circles are obtained (<xref ref-type="fig" rid="fig01">Fig. 1</xref>). A control experiment demonstrated that XerCD&#x02013;FtsK<sub>50C</sub> recombination could convert knotted dimers (RH torus knots with two directly repeated <italic>dif</italic> sites) to free circles. Separate experiments showed that chromosome unlinking in <italic>E. coli</italic> can be accomplished in vivo by multiple rounds of XerCD-<italic>dif</italic> or Cre-<italic>loxP</italic> site-specific recombination. The reactions required DNA translocation by FtsK. Overexpression of FtsK<sub>50C</sub> in TopoIV-deficient cells was sufficient to drive the topology simplification. Furthermore, in vivo XerCD activation by actively translocating FtsK is essential to effectively unlink replication links (<xref ref-type="bibr" rid="r4">4</xref>). In the absence of FtsK, an active XerCD complex may produce complicated DNA knots and links, with a small yield of unlinks (<xref ref-type="bibr" rid="r8">8</xref>). Whereas Xer site-specific recombination on DNA plasmids in vitro has been well-characterized at a local biochemical level, the mechanism of Xer-mediated DNA unlinking in vivo remains unclear, and is extremely technically difficult to address experimentally. Mathematical analysis using tangle calculus provided evidence that the stepwise unlinking mechanism (<xref ref-type="fig" rid="fig01">Fig. 1</xref>) was most consistent with the experimental data (<xref ref-type="bibr" rid="r4">4</xref>). However, this work relied on a number of assumptions. Here, we present an expanded mathematical analysis with a minimum number of assumptions. We characterize the topology of the recombination products and show that there is a unique shortest unlinking pathway that strictly reduces the complexity of the substrates at each step. This unique mathematical analysis significantly advances previous biological approaches.</p>
+    <sec id="s1">
+      <title>Tangle Method and Xer Recombination</title>
+      <p content-type="flushleft">The tangle method uses tangles to model changes in topology of the synaptic complex before and after site-specific recombination (<xref ref-type="bibr" rid="r9">9</xref>
+        <xref ref-type="bibr" rid="r10"/>
+        <xref ref-type="bibr" rid="r11"/>&#x02013;<xref ref-type="bibr" rid="r12">12</xref>). For the purposes of this paper, a tangle is a ball with two strings inside. In a DNA&#x02013;protein complex, the strings of a tangle can represent two dsDNA duplexes bound to the enzyme(s) (the ball) thus forming a local synapse (<xref ref-type="fig" rid="fig02">Fig. 2<italic>A</italic></xref>). The tangle method relies on a few justified assumptions and on knowledge of the topology of substrate and products. One round of recombination is translated into a system of two tangle equations, each of which corresponds to the enzyme-bound DNA substrate and product. When substrate and product are in a specific family of knots and links, and when the tangles involved are assumed to be rational, possible topological mechanisms for the enzymatic action can be computed using tangle calculus (<xref ref-type="bibr" rid="r9">9</xref>, <xref ref-type="bibr" rid="r10">10</xref>, <xref ref-type="bibr" rid="r13">13</xref>). A rational tangle is one wherein a sequence of rotations of one pair of string ends relative to the other will lead to a trivial tangle, i.e., a tangle which admits a planar projection with no crossings (<xref ref-type="fig" rid="fig02">Fig. 2<italic>B</italic></xref>). The strings of a rational tangle can always be depicted as winding around the ball&#x02019;s surface without crossing themselves, much like DNA winding around the protein surface during synapsis. The tangle method has been used extensively to model the topological mechanism of site-specific recombination enzymes, and specifically Xer recombination (<xref ref-type="bibr" rid="r4">4</xref>, <xref ref-type="bibr" rid="r12">12</xref>, <xref ref-type="bibr" rid="r14">14</xref>
+        <xref ref-type="bibr" rid="r15"/>&#x02013;<xref ref-type="bibr" rid="r16">16</xref>). Tangle theory and tangle calculus are introduced in <xref ref-type="sec" rid="s24">
+          <italic>Mathematical Methods</italic>
+        </xref>.
+      </p>
+      <fig id="fig02" fig-type="figure" position="float">
+        <label>Fig. 2.</label>
+        <caption>
+          <p>(<italic>A</italic>) XerCD&#x02013;FtsK-<italic>dif</italic> complex before recombination is modeled by the sum of tangles <italic>O<sub>b</sub></italic> + <italic>P</italic>. There, <italic>P</italic> encloses the core regions of the recombination sites and therefore can be seen as a ball with two very short DNA strings. Site-specific recombination occurs inside <italic>P</italic>. The action of cleavage and strand exchange is modeled by converting <italic>P</italic> into a tangle <italic>R</italic>. In the case of unknotted substrates, the two DNA strings outside the enzymatic complex have been observed to be supercoiled but not intertwined. However, in the case of knotted or linked substrates one would expect the DNA outside XerCD&#x02013;FtsK not to be topologically trivial. For simplicity, we push any such topological complexity into the shaded area of the tangle in the figure, which we then refer to as the outside tangle <italic>O</italic>. We define <italic>O</italic> = <italic>O<sub>f</sub></italic> + <italic>O<sub>b</sub></italic>, where <italic>O<sub>f</sub></italic> includes the DNA outside XerCD-<italic>dif</italic>-FtsK. The recombination event is represented as a system of equations <italic>N</italic>(<italic>O</italic> + <italic>P</italic>) = substrate and <italic>N</italic>(<italic>O</italic> + <italic>R</italic>) = product, and the tangle <italic>O</italic> is not changed during the recombination. (<italic>B</italic>) Orientations of the recombination sites induce orientations to the strings inside <italic>P</italic> and <italic>R</italic>. When the two sites are inside <italic>P</italic> = (<italic>0</italic>) in parallel alignment, then <italic>R</italic> = (<italic>&#x02212;1</italic>) or (<italic>1</italic>). When the sites are in <italic>P</italic> = (<italic>0</italic>) in antiparallel alignment, then <italic>R</italic> = (<italic>0</italic>,<italic>0</italic>). Tangles (<italic>0</italic>), (<italic>0</italic>,<italic>0</italic>), (<italic>&#x02212;1</italic>), and (<italic>1</italic>) are the trivial tangles.</p>
+        </caption>
+        <graphic id="gra2" xlink:href="pnas.1308450110fig02"/>
+      </fig>
+      <p>Colloms et al. (<xref ref-type="bibr" rid="r17">17</xref>) showed that, when acting on unknotted DNA circles with two <italic>psi</italic> sites in direct repeat, XerCD yielded products of unique topology: a RH 4-cat with antiparallel sites. Experimental data support a view where the sites wrap around accessory proteins &#x0223c;3 times before recombination (<xref ref-type="bibr" rid="r18">18</xref>
+        <xref ref-type="bibr" rid="r19"/>&#x02013;<xref ref-type="bibr" rid="r20">20</xref>). This reaction can be written as a system of tangle equations. Under biologically reasonable assumptions and using results from low-dimensional topology, one can show that the tangles involved are all rational (<xref ref-type="bibr" rid="r14">14</xref>, <xref ref-type="bibr" rid="r15">15</xref>, <xref ref-type="bibr" rid="r21">21</xref>). Therefore, all solutions to the XerCD&#x02013;<italic>psi</italic> system of equations can be computed using tangle calculus. There are only three solutions consistent with the experimental data (<xref ref-type="bibr" rid="r15">15</xref>). It was further shown that these solutions can be seen as different projections of the same three-dimensional (3D) object, and a unique topological mechanism for XerCD at <italic>psi</italic> was proposed that incorporated all three solutions (<xref ref-type="bibr" rid="r15">15</xref>).
+      </p>
+      <p>In Grainge et al. (<xref ref-type="bibr" rid="r4">4</xref>), several systems of tangle equations were proposed for the pathway taking replication links to two open circles (the unlink). Tangle calculus was used to solve each system. For example, all possible systems of two equations converting a RH 6-cat with parallel sites into a knotted product with five or fewer crossings were considered. Using tangle calculus, only three biologically meaningful solutions were found, all of which produced the RH 5-crossing torus knot with directly repeated sites. The authors proposed that the three solutions are equivalent by 3D rigid motion (i.e., the three solutions reflect different views of the same 3D shape). This study concluded that the stepwise unlinking pathway of <xref ref-type="fig" rid="fig01">Fig. 1</xref> is the most likely pathway of XerCD&#x02013;FtsK recombination when acting on 2m-cats, and posited a stepwise mechanism of action.</p>
+      <p>The mathematical study in ref. <xref ref-type="bibr" rid="r4">4</xref> assumed that solutions to the tangle equations were rational, sums of rational tangles, or closely related to these, because tangle calculus is not helpful in finding solutions outside these families (<xref ref-type="bibr" rid="r9">9</xref>, <xref ref-type="bibr" rid="r13">13</xref>). Here, we extend the methods from refs. <xref ref-type="bibr" rid="r4">4</xref> and <xref ref-type="bibr" rid="r15">15</xref> with the following two objectives: 1. Completely characterize the shortest unlinking pathways by XerCD&#x02013;FtsK; 2. Determine rationality of the tangles involved and compute the exact mechanism of action at each step of the process. We first determine that any shortest pathway to unlink a 2m-cat has at least 2m steps (<ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+          <italic>Theorem 1</italic>, <italic>SI Text</italic> S1 and S2
+        </ext-link>, and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF1" xlink:show="new">Figs. S1</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF2" xlink:show="new">S2</ext-link>). If we further assume that topological complexity of the substrate, as measured by its crossing number, declines after each step, then the enzymes unlink in exactly 2m steps and all of the intermediates are torus knots/links (<ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+          <italic>Theorem 2</italic>; <italic>SI Text</italic> S3
+        </ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF3" xlink:show="new">Figs. S3</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF4" xlink:show="new">S4</ext-link>). We then proceed to fully characterize the mechanisms of unlinking from trefoil to 2-cat, to unknot, to unlink (<ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+          <italic>Propositions 1&#x02013;3</italic>; <italic>SI Text</italic> S4
+        </ext-link>). For other transitions we assume that the solutions are rational or sums of rational tangles and revert to using tangle calculus (<ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+          <italic>Propositions 4 and 5</italic>; <italic>SI Text</italic> S4
+        </ext-link>). In <xref ref-type="sec" rid="s19">
+          <italic>Discussion</italic>
+        </xref>, we propose a mechanism that unifies all solutions (<ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+          <italic>SI Text</italic> S5
+        </ext-link>; <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF5" xlink:show="new">Fig. S5</ext-link>) and consider the case where the assumption on the stepwise decline in topological complexity is removed. Support for this assumption is shown in <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+          <italic>SI Text</italic> S6
+        </ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF6" xlink:show="new">Figs. S6</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF7" xlink:show="new">S7</ext-link>.
+      </p>
+    </sec>
+    <sec sec-type="results" id="s2">
+      <title>Results</title>
+      <sec id="s3">
+        <title>The Shortest Pathway of Unlinking of 2m-Cats by XerCD&#x02013;FtsK Has Exactly 2m Steps.</title>
+        <p>Here, dsDNA is modeled as the curve drawn by the axis of the double helix. XerCD&#x02013;FtsK-<italic>dif</italic> is represented by a tangle: a ball (the enzymes) with two strings (the dsDNA) inside that intersect the boundary of the ball at four points. These strings may be intertwined in nontrivial ways. We partition this tangle into the sum of two tangles <italic>O</italic>
+          <sub>
+            <italic>b</italic>
+          </sub>
+          <italic>+ P</italic>. The tangle <italic>P</italic> (parental) encloses only the core regions of the recombination sites, whereas the tangle <italic>O</italic>
+          <sub>
+            <italic>b</italic>
+          </sub> encloses any geometrical information captured within the enzymatic complex before recombination (i.e., all other DNA crossings held in place by the protein complex outside the core sites). Let <italic>O</italic>
+          <sub>
+            <italic>f</italic>
+          </sub> be the tangle outside XerCD&#x02013;FtsK-<italic>dif</italic>. <italic>O</italic>
+          <sub>
+            <italic>f</italic>
+          </sub> includes all DNA outside the complex. For simplicity, let <italic>O = O</italic>
+          <sub>
+            <italic>f</italic>
+          </sub>
+          <italic>+ O</italic>
+          <sub>
+            <italic>b</italic>
+          </sub>. Cleavage and strand exchange occur inside the tangle <italic>P</italic>, converting it into a tangle <italic>R</italic> while keeping <italic>O</italic> fixed. The recombination event is then represented as a system of two tangle equations: <italic>N</italic>(<italic>O + P</italic>) = substrate and <italic>N</italic>(<italic>O + R</italic>) = product (<xref ref-type="fig" rid="fig02">Fig. 2<italic>A</italic></xref>).
+        </p>
+        <p>In this model, <italic>P</italic> and <italic>R</italic> enclose only the core regions of the <italic>dif</italic> recombination sites, each of which is 28 base pairs long. The relatively short length of the core sites, combined with the fact that XerCD are tyrosine recombinases (i.e., go through a Holliday Junction Intermediate), implies that <italic>P</italic> and <italic>R</italic> are trivial tangles. Without loss of generality we assume that the sites come together as <italic>P =</italic> (<italic>0</italic>) with parallel or antiparallel orientation, and <italic>R =</italic> (<italic>0,0</italic>) or (<italic>&#x000b1;1</italic>) (<xref ref-type="fig" rid="fig02">Fig. 2<italic>B</italic></xref>).</p>
+        <p>
+          <italic>Theorem 1</italic> below considers the minimum number of recombination events needed to convert the RH <italic>2</italic>m-cat to the unlink. Note that the proof of this theorem does not preclude the <italic>R</italic> tangle from changing from one event to the next.
+        </p>
+      </sec>
+      <sec id="s4">
+        <title>Theorem 1.</title>
+        <p>
+          <italic>Assume each action of XerCD&#x02013;FtsK is modeled as a system of equations N</italic>(<italic>O + P</italic>) <italic>= substrate and N</italic>(<italic>O + R</italic>) <italic>= product where P =</italic> (<italic>0</italic>) <italic>and R =</italic>(<italic>0,0</italic>)<italic>,</italic> (<italic>&#x02212;1</italic>)<italic>, or</italic> (<italic>1</italic>)<italic>. Then at least 2m recombination events are needed to convert the RH 2m-cat with parallel dif sites to the unlink.</italic>
+        </p>
+        <sec>
+          <title/>
+          <sec id="s6">
+            <title>Proof:</title>
+            <p>Detailed background needed for this proof is provided in <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+                <italic>SI Text</italic> S1 and S2
+              </ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF1" xlink:show="new">Figs. S1</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF2" xlink:show="new">S2</ext-link>. The proof uses the signature of a link, a link invariant denoted by <italic>&#x003c3;.</italic> If <italic>L</italic> is a RH 2m-cat with parallel <italic>dif</italic> sites, then <inline-formula>
+                <inline-graphic xlink:href="pnas.1308450110i1.jpg" id="gra3"/>
+              </inline-formula>. A result of Murasugi (<xref ref-type="bibr" rid="r22">22</xref>) implies that the difference of the signatures of the substrate and the product of recombination by XerCD&#x02013;FtsK is at most 1 (<ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+                <italic>SI Text</italic>, <italic>Lemma S1</italic>
+              </ext-link>). Because the signature of the unlink is 0, we need at least (2m&#x02212;1) recombination events to go from the 2m-cat to the unlink. As each recombination changes a link into a knot and vice versa, the total number of recombination events must be even. Hence at least 2m recombination events are needed to convert the 2m-cat to the unlink.
+            </p>
+            <p>
+              <xref ref-type="fig" rid="fig01">Figs. 1</xref> and <xref ref-type="fig" rid="fig03">3</xref> illustrate shortest pathways of unlinking starting with the 6-cat and with the 2m-cat, respectively.
+            </p>
+            <fig id="fig03" fig-type="figure" position="float">
+              <label>Fig. 3.</label>
+              <caption>
+                <p>Unlinking pathway of RH 2m-cat: RH 2m-cat, RH (2m &#x02212; 1)-torus knot, RH (2m &#x02212; 2)-cat,&#x02026;, RH trefoil, 2-cat, the unknot, trivial link.</p>
+              </caption>
+              <graphic id="gra4" xlink:href="pnas.1308450110fig03"/>
+            </fig>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="s7">
+        <title>The Shortest DNA Unlinking Pathway by XerCD&#x02013;FtsK Is Unique.</title>
+        <p>
+          <italic>Theorem 1</italic> provides formal proof that to unlink a replication catenane with 2m crossings, the XerCD&#x02013;FtsK complex must perform at least 2m single recombination events. The pathway proposed in ref. <xref ref-type="bibr" rid="r4">4</xref> is one such shortest pathway (<xref ref-type="fig" rid="fig01">Figs. 1</xref> and <xref ref-type="fig" rid="fig03">3</xref>). In <italic>Theorem 2</italic> we ask whether there are other possible pathways, assuming a stepwise decrease in topological complexity.
+        </p>
+        <p>We assume that each product of XerCD&#x02013;FtsK recombination has a smaller number of crossings than its substrate, except perhaps for the last product of recombination (i.e., the unlink). The assumption that each recombination step reduces the topological complexity of its substrates is supported by the experimental data described below and by its quantification (<ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+            <italic>SI Text</italic> S6
+          </ext-link>; <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF6" xlink:show="new">Figs. S6</ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF7" xlink:show="new">S7</ext-link>). In ref. <xref ref-type="bibr" rid="r4">4</xref>, supercoiled replication catenanes produced in vivo in TopoIV-deficient cells were incubated in vitro with XerCD&#x02013;FtsK<sub>50C</sub>. The reaction yielded a spectrum of knotted and linked DNA plasmids. A time-course analysis showed that, over time, the substrate catenanes were efficiently converted to unlinked circles. It was proposed that knotted dimers appeared as recombination intermediates. In a separate reaction the authors confirmed that the XerCD&#x02013;FtsK complex could also efficiently unknot knotted DNA with two directly repeated <italic>dif</italic> sites. Decatenation data suggest that unlinking and unknotting occur gradually, with a steady decrease in topological complexity (<xref ref-type="bibr" rid="r4">4</xref>).
+        </p>
+      </sec>
+      <sec id="s8">
+        <title>Theorem 2.</title>
+        <p>
+          <italic>Consider unlinking pathways for the 2m-cat. Assume that each recombination event, other than the final one, reduces the number of crossings. Then every intermediate is a RH 2k-cat, a RH</italic> (<italic>2k + 1</italic>)<italic>-torus knot, or the unknot. Furthermore, the pathway is unique:</italic>
+          <disp-formula id="uneq1">
+            <graphic id="gra5" xlink:href="pnas.1308450110uneq1"/>
+          </disp-formula>The proof of <italic>Theorem 2</italic> is based on <italic>Theorem 3</italic> below, which relies on properties of the Euler characteristic of a Seifert surface for a knot/link, and the signature.
+        </p>
+      </sec>
+      <sec id="s9">
+        <title>Theorem 3.</title>
+        <p>
+          <italic>Let O, P, and R be tangles such that:</italic>
+          <disp-formula id="uneq2">
+            <graphic id="gra6" xlink:href="pnas.1308450110uneq2"/>
+          </disp-formula>
+          <disp-formula id="uneq3">
+            <graphic id="gra7" xlink:href="pnas.1308450110uneq3"/>
+          </disp-formula>
+        </p>
+        <p>
+          <italic>If P is assumed to be</italic> (<italic>0</italic>) <italic>and R is assumed to be</italic> (<italic>w,0</italic>) <italic>for some integer w, and the orientations of K</italic>
+          <sub>
+            <italic>1</italic>
+          </sub>
+          <italic>and K</italic>
+          <sub>
+            <italic>2</italic>
+          </sub>
+          <italic>agree outside P and R, then the following is true:</italic>
+        </p>
+        <list list-type="simple">
+          <list-item>
+            <label>
+              <italic>a</italic>.
+            </label>
+            <p>
+              <italic>If K</italic>
+              <sub>
+                <italic>1</italic>
+              </sub>
+              <italic>= RH 2k-cat T</italic>(<italic>2,2k</italic>) <italic>with parallel sites</italic>
+              <inline-formula>
+                <inline-graphic xlink:href="pnas.1308450110i2.jpg" id="gra8"/>
+              </inline-formula>
+              <italic>, and K</italic>
+              <sub>
+                <italic>2</italic>
+              </sub>
+              <italic>is a knot with at most 2k &#x02212; 1 crossings, then K</italic>
+              <sub>
+                <italic>2</italic>
+              </sub>
+              <italic>is the RH torus knot T</italic>(<italic>2,2k &#x02212; 1</italic>) <italic>with directly repeated sites;</italic>
+            </p>
+          </list-item>
+          <list-item>
+            <label>
+              <italic>b</italic>.
+            </label>
+            <p>
+              <italic>If K</italic>
+              <sub>
+                <italic>1</italic>
+              </sub>
+              <italic>= RH torus knot T</italic>(<italic>2,2k + 1</italic>) <italic>with directly repeated sites</italic>
+              <inline-formula>
+                <inline-graphic xlink:href="pnas.1308450110i3.jpg" id="gra9"/>
+              </inline-formula>
+              <italic>, and K</italic>
+              <sub>
+                <italic>2</italic>
+              </sub>
+              <italic>is a link with at most 2k crossings then K</italic>
+              <sub>
+                <italic>2</italic>
+              </sub>
+              <italic>is the RH 2k-cat T</italic>(<italic>2,2k</italic>) <italic>with parallel sites.</italic>
+            </p>
+          </list-item>
+        </list>
+        <p>Proof of <italic>Theorem 3</italic> is given in <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+            <italic>SI Text</italic> S3
+          </ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF3" xlink:show="new">Fig. S3</ext-link>.
+        </p>
+        <sec>
+          <title/>
+          <sec id="s11">
+            <title>Proof of Theorem 2:</title>
+            <p>
+              <italic>Theorem 3</italic> implies that the product of XerCD&#x02013;FtsK recombination on a RH 6-cat with parallel sites is the RH 5-crossing torus knot with sites in direct repeat, and that the product of recombination on the 5-noded knot is the RH 4-cat with parallel sites. Repeated application of <italic>Theorem 3</italic> confirms that the pathway in <xref ref-type="fig" rid="fig01">Fig. 1</xref> is the only shortest pathway of unlinking for the parallel RH 6-cat if we assume that recombination reduces the topological complexity at every step but the last. This same argument can be applied to XerCD&#x02013;FtsK unlinking of any parallel RH 2m-cat, thus completing the proof (<xref ref-type="fig" rid="fig03">Fig. 3</xref>).
+            </p>
+            <p>The condition of <italic>Theorem 2</italic> can be relaxed by allowing the crossing number to remain constant or to be reduced. This assumption gives rise to other more complicated pathways.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="s12">
+        <title>Full Characterization of the Last Three Steps of DNA Unlinking by XerCD&#x02013;FtsK.</title>
+        <p>By <italic>Theorem 2</italic>, each shortest unlinking pathway starting with a RH 2m-cat ends with a sequence of RH trefoil, Hopf link, unknot, and unlink (<xref ref-type="fig" rid="fig01">Fig. 1</xref>). Here we show that, under biologically reasonable assumptions, each of the last three recombination steps admits a very specific topological mechanism. As in ref. <xref ref-type="bibr" rid="r15">15</xref>, assumptions for <italic>P</italic> and <italic>R</italic> are based on the length of the core region of the recombination sites, and restrict the number of meaningful solutions to a small finite number.</p>
+        <p>Recombination converting a RH trefoil with directly repeated sites into a 2-cat was characterized in ref. <xref ref-type="bibr" rid="r16">16</xref>. Based on this, <italic>Proposition 1</italic> shows that if a trefoil substrate is acted upon by XerCD&#x02013;FtsK, then there are exactly three possible topological mechanisms of action.</p>
+      </sec>
+      <sec id="s13">
+        <title>Proposition 1 (adapted from ref. <xref ref-type="bibr" rid="r16">16</xref>).</title>
+        <p>
+          <italic>Suppose N</italic>(<italic>O + P</italic>) <italic>= RH trefoil</italic>, <italic>N</italic>(<italic>O + R</italic>) <italic>= 2-cat. Then we show the following</italic>:<list list-type="simple">
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>parallel and R =</italic> (<italic>&#x02212;1</italic>), <italic>then O =</italic> (<italic>3</italic>);
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>antiparallel and R =</italic> (<italic>0,0</italic>), <italic>then O =</italic> (<italic>3,&#x02212;1,0</italic>);
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>parallel</italic> and <italic>R =</italic> (<italic>1</italic>), <italic>then O =</italic> (<italic>3,&#x02212;2,0</italic>).
+              </p>
+            </list-item>
+          </list>
+        </p>
+        <p>By an argument similar to that in ref. <xref ref-type="bibr" rid="r11">11</xref>, <italic>Proposition 2</italic> shows that if the substrate of recombination is the 2-cat with parallel sites and the product is the unknot, and if <italic>R</italic> is rational, then the geometry in the synapse is uniquely determined for each choice of <italic>R</italic>.</p>
+      </sec>
+      <sec id="s14">
+        <title>Proposition 2.</title>
+        <p>
+          <italic>Suppose N</italic>(<italic>O + P</italic>) = <italic>2-cat</italic>, <italic>N</italic>(<italic>O + R</italic>) = <italic>unknot. Then we show the following:</italic>
+          <list list-type="simple">
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>parallel and R =</italic> (<italic>&#x02212;1</italic>), <italic>then O =</italic> (<italic>2</italic>);
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>antiparallel and R =</italic> (<italic>0,0</italic>), <italic>then O =</italic> (<italic>2,&#x02212;1,0</italic>);
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>parallel and R =</italic> (<italic>1</italic>), <italic>then O =</italic> (<italic>2,&#x02212;2,0</italic>).
+              </p>
+            </list-item>
+          </list>
+        </p>
+        <p>Finally <italic>Proposition 3</italic> states that, if the substrate of recombination is the unknot with two sites in direct repeat and the product is the unlink, then the geometry in the synapse is uniquely determined for each choice of <italic>R</italic>. The proof is based on a result included in <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+            <italic>SI Text</italic> S4
+          </ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF4" xlink:show="new">Fig. S4</ext-link>.
+        </p>
+      </sec>
+      <sec id="s15">
+        <title>Proposition 3.</title>
+        <p>
+          <italic>Suppose N</italic>(<italic>O + P</italic>) = <italic>unknot, and N</italic>(<italic>O + R</italic>) = <italic>unlink. Then we show the following:</italic>
+          <list list-type="simple">
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>parallel and R =</italic> (<italic>&#x02212;1</italic>), <italic>then O =</italic> (<italic>1</italic>);
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>antiparallel and R =</italic> (<italic>0,0</italic>), <italic>then O =</italic> (<italic>0,0</italic>);
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>parallel and R =</italic> (<italic>1</italic>), <italic>then O =</italic> (<italic>&#x02212;1</italic>).
+              </p>
+            </list-item>
+          </list>
+        </p>
+        <p>In summary, the shortest unlinking pathway takes the trefoil to the 2-cat, the 2-cat to the unknot, and the unknot to the unlink (<italic>Theorems 1</italic> and <italic>2</italic>). There are exactly three topological mechanisms of action to account for each of these unlinking steps by XerCD&#x02013;FtsK (<italic>Propositions 1&#x02013;3</italic>).</p>
+      </sec>
+      <sec id="s16">
+        <title>Unlinking of 2m-Cats and (2m&#x02212;1) Torus Knots.</title>
+        <p>We have proposed a shortest pathway to account for XerCD&#x02013;FtsK unlinking of replication catenanes and have proved that this pathway is unique. We have fully characterized the unlinking mechanisms taking trefoil to 2-cat, 2-cat to unknot, and unknot to unlink. With the current mathematical machinery we can provide full characterization only for the last three recombination events along the pathway. In the general case where a 2k-cat is converted into a (2k&#x02212;1)-torus knot (<italic>Proposition 4</italic>) and a (2k&#x02212;1)-torus knot is converted into a (2k&#x02212;2)-cat (<italic>Proposition 5</italic>), we can propose topological mechanisms by assuming that <italic>O</italic> is equivalent to a rational tangle or sum of rational tangles. In this way, we use tangle calculus to propose the most likely mechanisms; however, there is no guarantee that these are the only ones. The proofs for the following two propositions are analogous, and are given in <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+            <italic>SI Text</italic> S4
+          </ext-link>.
+        </p>
+      </sec>
+      <sec id="s17">
+        <title>Proposition 4.</title>
+        <p>
+          <italic>Suppose N</italic>(<italic>O + P</italic>) = <italic>RH 2k</italic>-<italic>cat</italic>, <italic>N</italic>(<italic>O + R</italic>) = <italic>RH</italic> (<italic>2k &#x02212; 1)</italic>-<italic>torus knot. Suppose that O is equivalent to rational or the sum of rational tangles. Then we show the following:</italic>
+          <list list-type="simple">
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>and R =</italic> (<italic>&#x02212;1</italic>), <italic>then O =</italic> (<italic>2k</italic>);
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>and R =</italic> (<italic>0,0</italic>), then <italic>O =</italic> (<italic>2k,&#x02212;1,0</italic>);
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>and R =</italic> (<italic>1</italic>), <italic>then O =</italic> (<italic>2k,&#x02212;2,0</italic>).
+              </p>
+            </list-item>
+          </list>
+        </p>
+      </sec>
+      <sec id="s18">
+        <title>Proposition 5.</title>
+        <p>
+          <italic>Suppose N</italic>(<italic>O + P</italic>) = <italic>RH (2k &#x02212; 1)</italic>-<italic>torus knot</italic>, <italic>N</italic>(<italic>O + R</italic>) = <italic>RH</italic> (<italic>2k &#x02212; 2)</italic>-<italic>cat</italic>. <italic>Suppose that O is equivalent to rational or sum of rational tangles. Then we show the following:</italic>
+          <list list-type="simple">
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>and R =</italic> (<italic>&#x02212;1</italic>), <italic>then O =</italic> (<italic>2k &#x02212; 1</italic>);
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <italic>if P =</italic> (<italic>0</italic>) <italic>and R =</italic> (<italic>0,0</italic>), <italic>then O =</italic> (<italic>2k &#x02212; 1,&#x02212;1,0</italic>);
+              </p>
+            </list-item>
+            <list-item>
+              <p>
+                <italic>if P = (0) and R =</italic> (<italic>1</italic>), <italic>then O = (2k &#x02212; 1,&#x02212;2,0).</italic>
+              </p>
+            </list-item>
+          </list>
+        </p>
+        <p>The results of <italic>Propositions 4</italic> and <italic>5</italic> are consistent with those of <italic>Propositions 1&#x02013;3</italic>. In the general case, the shortest unlinking pathway takes a RH 2k-cat with parallel sites into a RH (2k &#x02212; 1)-knot with sites in direct repeats, and then takes that knot into a RH (2k &#x02212; 2)-cat with parallel sites (<italic>Theorems 1</italic> and <italic>2</italic>). Using <italic>Propositions 4</italic> and <italic>5</italic>, each of the recombination events above admits three possible topological mechanisms of action.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="s19">
+      <title>Discussion</title>
+      <sec id="s20">
+        <title>Unification of the Individual Stepwise Unlinking Pathways.</title>
+        <p>We have shown that for each recombination step in the unlinking pathway there are three corresponding topological mechanisms of action for the enzyme. These mechanisms can be interpreted as three views of the same 3D object (<xref ref-type="fig" rid="fig04">Figs. 4</xref> and <xref ref-type="fig" rid="fig05">5</xref>). The mechanisms computed for each recombination step can be clustered together to propose three stepwise unlinking mechanisms (<xref ref-type="fig" rid="fig04">Fig. 4</xref>). Notice that each row in <xref ref-type="fig" rid="fig04">Fig. 4</xref> illustrates the topological mechanism for the last three steps of XerCD&#x02013;FtsK DNA unlinking. In refs. <xref ref-type="bibr" rid="r15">15</xref> and <xref ref-type="bibr" rid="r17">17</xref> it was proposed that the topological mechanism with <italic>P</italic> = (<italic>0</italic>) with sites in parallel alignment and <italic>R</italic> = (<italic>&#x02212;1</italic>) was the most consistent with the experimental data. The mechanism proposed in ref. <xref ref-type="bibr" rid="r17">17</xref> corresponds to the pathway in <xref ref-type="fig" rid="fig04">Fig. 4</xref>, row 1 (and is revisited in <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=STXT" xlink:show="new">
+            <italic>SI Text</italic> S5
+          </ext-link> and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/pnas.201308450SI.pdf?targetid=nameddest=SF5" xlink:show="new">Fig. S5</ext-link>). The other two pathways (rows 2 and 3) are obtained by rigid rotation of the pathway in row 1, and correspond to <italic>P</italic> = (<italic>0</italic>) antiparallel and <italic>R</italic> = (<italic>0,0</italic>), and to <italic>P</italic> = (<italic>0</italic>) parallel and <italic>R</italic> = (<italic>1</italic>), respectively.
+        </p>
+        <fig id="fig04" fig-type="figure" position="float">
+          <label>Fig. 4.</label>
+          <caption>
+            <p>Last three steps of DNA unlinking by XerCD&#x02013;FtsK. At the top are the last three steps in the DNA unlinking pathway. Each of the three rows below shows one of the three possible topological mechanisms by which a trefoil is converted to a 2-cat, a 2-cat to an unknot, and an unknot to an unlink. Locally, the first mechanism, where <italic>P</italic> = (0) parallel and <italic>R</italic> = (<italic>&#x02212;1</italic>), is consistent with the mechanism proposed for XerCD at <italic>psi</italic> (<xref ref-type="bibr" rid="r17">17</xref>). The other two pathways (rows 2 and 3) can be obtained by rigid rotation of the pathway in row 1, and correspond to <italic>P</italic> = (0) antiparallel and <italic>R</italic> = (<italic>0</italic>,<italic>0</italic>), and to <italic>P</italic> = (0) parallel and <italic>R</italic> = (<italic>1</italic>), respectively. The rotation axes are m<sub>1</sub> and m<sub>2,</sub> as in <xref ref-type="fig" rid="fig05">Fig. 5</xref>. These mechanisms are consistent with the three proposed for Xer at <italic>psi</italic> (<xref ref-type="bibr" rid="r15">15</xref>).</p>
+          </caption>
+          <graphic id="gra10" xlink:href="pnas.1308450110fig04"/>
+        </fig>
+        <fig id="fig05" fig-type="figure" position="float">
+          <label>Fig. 5.</label>
+          <caption>
+            <p>Local site alignment. Due to a high level of sequence homology, we here assume that the XerCD&#x02013;DNA synapse can be modeled using the data for Cre&#x02013;DNA. This diagram is based on the crystal structure of Cre&#x02013;DNA from ref. <xref ref-type="bibr" rid="r23">23</xref>, in which the recombinase core complex is slightly off-planar, so that the cores appear either parallel or antiparallel in different projections. To improve clarity, the angles are doubled in this diagram. Let m<sub>2</sub> be the horizontal axis (dashed line), and let m<sub>1</sub> be the vertical axis (solid line). When looking down m<sub>2</sub>, the two sites appear in antiparallel alignment, whereas when seen from the reader&#x02019;s perspective, the sites are in parallel. A rigid left-hand rotation of the DNA conformation around the axis m<sub>1</sub> will result in string IV crossing over string I (<xref ref-type="bibr" rid="r15">15</xref>). Then the sites appear in antiparallel alignment and one crossing is added to the domain. Further left-hand rotation around the m<sub>2</sub> axis results in III crossing over II and the sites returning to a parallel alignment.</p>
+          </caption>
+          <graphic id="gra11" xlink:href="pnas.1308450110fig05"/>
+        </fig>
+      </sec>
+      <sec id="s21">
+        <title>Tangle Analysis of Iterative Recombination.</title>
+        <p>Because the recombination event involves two separate pairs of strand exchanges and proceeds through a Holliday Junction (HJ) Intermediate, there must be a step resetting the synapse between recombination events to maintain the same recombination mechanism at each event (i.e., if XerD is always to exchange the first pair of strands to form the HJ which is resolved by XerC, as shown in ref. <xref ref-type="bibr" rid="r8">8</xref>). There is little evidence of the ability of XerCD and other tyrosine recombinases to act processively (i.e., bind and recombine a single pair of recombination sites multiple times before dissociating). However, in refs. <xref ref-type="bibr" rid="r3">3</xref>, <xref ref-type="bibr" rid="r4">4</xref>, and <xref ref-type="bibr" rid="r24">24</xref> the authors report an action of XerCD recombination consistent with iterative cleavage and strand exchange. If the recombination reaction is assumed to be iterative, and is modeled as processive (<xref ref-type="bibr" rid="r9">9</xref>, <xref ref-type="bibr" rid="r25">25</xref>), then it can be proven that the tangle <italic>O</italic> is rational, and therefore all solutions are computable.</p>
+      </sec>
+      <sec id="s22">
+        <title>3D Interpretation of the Tangle Solutions.</title>
+        <p>In the tangle method, <italic>P</italic> is defined as a very small ball containing the cleavage core regions of the recombination sites. In this case, the orientation of the recombination sites is inherited into the tangle <italic>P</italic>. Two sites in <italic>P =</italic> (<italic>0</italic>) are in parallel alignment if both arrows point in the same direction in the tangle diagram; otherwise they are in antiparallel alignment. However, the concept of parallel and antiparallel alignment represents a local geometric property of the sites and is well-defined only in the tangle diagram (a planar projection of the 3D tangle). For the same 3D tangle, one can always obtain a planar projection with parallel sites and another with antiparallel sites. The only exception to this statement is when two sites are coplanar, in a strict mathematical sense. In ref. <xref ref-type="bibr" rid="r15">15</xref> the authors proposed a unique 3D topological mechanism for XerCD at <italic>psi</italic> that incorporated all three solutions to the tangle equations. Given a solution where <italic>O</italic> is rational, <italic>P =</italic> (<italic>0</italic>) and <italic>R=</italic> (<italic>1</italic>) or <italic>R =</italic> (<italic>&#x02212;1</italic>), one can obtain a solution <italic>S&#x02032;</italic> equivalent to <italic>S</italic> by rotating the synapse <italic>P =</italic> (<italic>0</italic>) to <italic>P =</italic> (<italic>0,0</italic>). In the case of XerCD at <italic>psi</italic>, performing this simple transformation on the two solutions for <italic>P</italic> parallel yields the unique solution for <italic>P</italic> antiparallel. Similar arguments have been proposed for the recombinase TnP1-IRS (<xref ref-type="bibr" rid="r11">11</xref>) and for XerCD&#x02013;FtsK-<italic>dif</italic> (<xref ref-type="bibr" rid="r4">4</xref>). Here, we extend these arguments and apply them to each recombination step in the XerCD&#x02013;FtsK-<italic>dif</italic> unlinking pathway (<xref ref-type="fig" rid="fig04">Figs. 4</xref> and <xref ref-type="fig" rid="fig05">5</xref>). The observed geometrical equivalence, obtained by rigid motion, between the three solutions for one of the recombination steps suggests that a unique 3D representation of the synaptic complex and topological mechanism of the enzymes can be interpreted as three different tangle solutions when viewed from different spatial directions. Computer visualization methods, combined with molecular modeling software such as PyMol and with X-ray crystallographic data, can be applied to realize these spatial equivalences and to propose a 3D molecular model for the enzymatic action, as was done in ref. <xref ref-type="bibr" rid="r15">15</xref>. An animation generated with Knotplot (<ext-link ext-link-type="uri" xlink:href="http://www.knotplot.com">www.knotplot.com</ext-link>) is presented in <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/sm01.mp4" xlink:show="new">Movie S1</ext-link> to illustrate the transition from the 6-cat to the 5-torus knot. These studies indicate a limitation of the tangle model and suggest the need to consider equivalence classes of planar tangle diagrams related by 3D rigid motion (rotations and translations).</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="s23">
+      <title>Conclusions</title>
+      <p content-type="flushleft">We have presented a thorough mathematical analysis of the process of DNA unlinking by XerCD&#x02013;FtsK. Based on the experimental data of ref. <xref ref-type="bibr" rid="r4">4</xref>, we first prove that the shortest pathway of unlinking a substrate consisting of 2m-cats with sites in parallel orientation has exactly 2m steps. We then show that if we assume that recombination reduces the complexity of the substrate at each step, as suggested by the experimental data, then the shortest pathway is unique and every recombination intermediate is a torus knot or link. We analyze each recombination step and find three topological mechanisms at each step. The mechanisms can be unified in two different ways: (1) At each recombination step, the obtained mechanisms can be interpreted as different projections of the same 3D object, as illustrated in <xref ref-type="fig" rid="fig04">Figs. 4</xref> and <xref ref-type="fig" rid="fig05">5</xref> and in the animation in <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/sm01.mp4" xlink:show="new">Movie S1</ext-link>; or (2) The obtained mechanisms can be sorted by the local action of the enzyme (specified by <italic>P, R</italic>, and the relative orientation of the sites). This unification produces three separate mechanisms of stepwise unlinking consistent with the unique, shortest pathway previously reported.</p>
+    </sec>
+    <sec id="s24">
+      <title>Mathematical Methods</title>
+      <p content-type="flushleft">Knot theory is the study of non&#x02013;self-intersecting curves in 3D space, and of the spaces defined by these curves. A knot is defined as a non&#x02013;self-intersecting circular path in space. A link (or catenane) is composed of two or more such curves, which can be intertwined. If the path can be laid flat without any over- or undercrossings, then <italic>K</italic> is the unknot or the trivial knot. Likewise, the unlink, or trivial link, is the disjoint union of two unknotted circles. Knots and links can be studied through their diagrams, i.e., planar projections that distinguish between under- and overcrossings. Two knots or links <italic>K</italic>
+        <sub>
+          <italic>1</italic>
+        </sub> and <italic>K</italic>
+        <sub>
+          <italic>2</italic>
+        </sub> are equivalent if <italic>K</italic>
+        <sub>
+          <italic>1</italic>
+        </sub> can be smoothly deformed into <italic>K</italic>
+        <sub>
+          <italic>2</italic>
+        </sub> without breaking the chain. We indistinguishably denote the knot/link, or its equivalence class, by <italic>K</italic>. Knots and links are classified according to their crossing numbers. The crossing number of <italic>K</italic> is the minimum number of crossings taken over all projections of all elements in the equivalence class <italic>K</italic>. Although finer classifications are attempted, it is generally difficult to determine when two knots/links are topologically identical (<xref ref-type="bibr" rid="r26">26</xref>).
+      </p>
+      <p>A tangle is a pair consisting of a ball and two strings in it. <xref ref-type="fig" rid="fig02">Fig. 2<italic>B</italic></xref> illustrates the four simplest tangles, called trivial tangles. Rational tangles are obtained by intertwining the two strings in a trivial tangle. All tangles in <xref ref-type="fig" rid="fig06">Fig. 6</xref> are rational. Rational tangles most often appear in the mathematical analysis of site-specific recombination. There is a one-to-one correspondence between the set of rational tangles and the set of extended rational numbers (i.e., the union of the set of rational numbers and the infinity 1/0) (<xref ref-type="bibr" rid="r27">27</xref>). A rational tangle can be expressed using a vector representation, called the Conway vector. Conway vectors are illustrated in <xref ref-type="fig" rid="fig06">Fig. 6</xref>. Notice that the same rational tangle can admit different vector representations. The tangle method uses two operations: tangle addition <italic>A + B;</italic> and numerator <italic>N</italic>(<italic>A</italic>) (<xref ref-type="fig" rid="fig06">Fig. 6<italic>C</italic></xref>). <italic>A + B</italic> is a tangle, whereas <italic>N</italic>(<italic>A</italic>) is a knot or a link. If <italic>A</italic> is rational then <italic>N</italic>(<italic>A</italic>) belongs to the well-studied family of 4-plat knots or links (<xref ref-type="bibr" rid="r28">28</xref>).</p>
+      <fig id="fig06" fig-type="figure" position="float">
+        <label>Fig. 6.</label>
+        <caption>
+          <p>(<italic>A</italic>) Two rational tangles and their Conway vectors. (<italic>B</italic>) Tangle addition of rational tangles <italic>A</italic> = (<italic>&#x02212;5</italic>,<italic>0</italic>) and <italic>B</italic> = (<italic>&#x02212;1</italic>). <italic>A</italic> + <italic>B</italic> is equivalent to the tangles ((<italic>\x{2212}5</italic>,<italic>\x{2212}1</italic>) and (<italic>6</italic>,<italic>\x{2212}1</italic>,<italic>0</italic>)). (<italic>C</italic>) <italic>N</italic>(<italic>A</italic> + <italic>B</italic>) is a 6-crossing RH torus link (RH 6-cat).</p>
+        </caption>
+        <graphic id="gra12" xlink:href="pnas.1308450110fig06"/>
+      </fig>
+      <p>The tangle method uses biologically reasonable assumptions to model a site-specific recombination event as a system of two or more tangle equations on three unknowns <italic>O</italic>, <italic>P,</italic> and <italic>R</italic>. If <italic>P =</italic> (<italic>0</italic>), <italic>R =</italic> (<italic>w</italic>) or (<italic>w,0</italic>) for some integer <italic>w</italic>, then the system can be solved for <italic>O</italic> rational, sums of rational tangles (<xref ref-type="bibr" rid="r9">9</xref>, <xref ref-type="bibr" rid="r13">13</xref>). The solution set can be very large. To obtain the most biologically relevant solutions we often resort to assumptions where <italic>P =</italic> (<italic>0</italic>) and <italic>R =</italic> (<italic>k</italic>) or (<italic>k,0</italic>)<italic>.</italic> These assumptions are backed by biological data as detailed in ref. <xref ref-type="bibr" rid="r15">15</xref>. Computing the solutions is not mathematically challenging but can be very tedious. Mathematical software is available to make the method more accessible to the scientific community (<xref ref-type="bibr" rid="r29">29</xref>, <xref ref-type="bibr" rid="r30">30</xref>). TangleSolve (<ext-link ext-link-type="uri" xlink:href="http://ewok.sfsu.edu/TangleSolve">http://ewok.sfsu.edu/TangleSolve</ext-link>) is a stand-alone Java program and web-based applet with a user-friendly interface for analyzing and visualizing site-specific recombination mechanisms using the tangle method (<xref ref-type="bibr" rid="r29">29</xref>).</p>
+      <p>Using arguments from low-dimensional topology, <italic>O</italic>, <italic>P,</italic> and <italic>R</italic> can sometimes be shown to be equivalent to rational or sums of two rational tangles (<xref ref-type="bibr" rid="r9">9</xref>, <xref ref-type="bibr" rid="r11">11</xref>, <xref ref-type="bibr" rid="r13">13</xref>
+        <xref ref-type="bibr" rid="r14"/>
+        <xref ref-type="bibr" rid="r15"/>&#x02013;<xref ref-type="bibr" rid="r16">16</xref>, <xref ref-type="bibr" rid="r25">25</xref>). In these cases one concludes that, under the assumptions of the tangle method, the solutions computed are the only possible solutions to a given system of equations. Biologically this implies that the tangle method computes all possible topological mechanisms of action for the enzyme. In some cases reasonable assumptions can be made about <italic>P</italic> and <italic>R</italic> to limit the number of solutions to a small finite number (<xref ref-type="bibr" rid="r14">14</xref>, <xref ref-type="bibr" rid="r15">15</xref>). Mathematical analyses are often useful to characterize topological mechanisms of recombination (<xref ref-type="bibr" rid="r4">4</xref>, <xref ref-type="bibr" rid="r10">10</xref>, <xref ref-type="bibr" rid="r11">11</xref>, <xref ref-type="bibr" rid="r13">13</xref>
+        <xref ref-type="bibr" rid="r14"/>
+        <xref ref-type="bibr" rid="r15"/>&#x02013;<xref ref-type="bibr" rid="r16">16</xref>, <xref ref-type="bibr" rid="r25">25</xref>, <xref ref-type="bibr" rid="r31">31</xref>
+        <xref ref-type="bibr" rid="r32"/>
+        <xref ref-type="bibr" rid="r33"/>&#x02013;<xref ref-type="bibr" rid="r34">34</xref>). A preliminary tangle analysis of Xer unlinking is given in ref. <xref ref-type="bibr" rid="r4">4</xref>.
+      </p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Material</title>
+      <supplementary-material id="PMC_1" content-type="local-data">
+        <caption>
+          <title>Supporting Information</title>
+        </caption>
+        <media mimetype="text" mime-subtype="html" xlink:href="supp_110_52_20906__index.html"/>
+        <media xlink:role="associated-file" mimetype="application" mime-subtype="pdf" xlink:href="1308450110_pnas.201308450SI.pdf"/>
+        <media xlink:role="associated-file" mimetype="text" mime-subtype="plain" xlink:href="1308450110_sm01.mp4"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The authors thank Rob Scharein for help with some of the figures and <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental/sm01.mp4" xlink:show="new">Movie S1</ext-link>, which were generated using Knotplot (<ext-link ext-link-type="uri" xlink:href="http://www.knotplot.com">www.knotplot.com</ext-link>), and Barbara Ustanko for editorial assistance with this manuscript. The authors also thank the referees for their careful review of the manuscript. M.V., K.S., and K.I. thank the Institute of Mathematics and Its Applications for its hospitality and support. This research was supported by the following: Japan Society for the Promotion of Science KAKENHI 22540066 and 25400080 (to K.S.); National Science Foundation DMS0920887 and CAREER Grant DMS1057284 (to M.V.); UK Engineering and Physical Sciences Research Council EP/H031367 (to K.I.); Australian Research Council FT120100153 and NHMRC APP1005697 (to I.G.); and Wellcome Trust WT099204AIA (to D.J.S.).</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="conflict">
+        <p>The authors declare no conflict of interest.</p>
+      </fn>
+      <fn fn-type="other">
+        <p>This article is a PNAS Direct Submission. D.W.S. is a guest editor invited by the Editorial Board.</p>
+      </fn>
+      <fn fn-type="other">
+        <p>See Commentary on page <related-article id="d35e2324" related-article-type="companion" ext-link-type="doi" xlink:href="10.1073/pnas.1321214111">20854</related-article>.</p>
+      </fn>
+      <fn fn-type="supplementary-material">
+        <p>This article contains supporting information online at <ext-link ext-link-type="uri" xlink:href="http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental" xlink:show="new">www.pnas.org/lookup/suppl/doi:10.1073/pnas.1308450110/-/DCSupplemental</ext-link>.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <ref id="r1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Espeli</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Levine</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hassing</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Marians</surname>
+              <given-names>KJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Temporal regulation of topoisomerase IV activity in E. coli</article-title>
+          <source>Mol Cell</source>
+          <year>2003</year>
+          <volume>11</volume>
+          <issue>1</issue>
+          <fpage>189</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="pmid">12535532</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schvartzman</surname>
+              <given-names>JB</given-names>
+            </name>
+            <name>
+              <surname>Stasiak</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>A topological view of the replicon</article-title>
+          <source>EMBO Rep</source>
+          <year>2004</year>
+          <volume>5</volume>
+          <issue>3</issue>
+          <fpage>256</fpage>
+          <lpage>261</lpage>
+          <pub-id pub-id-type="pmid">14993926</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ip</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Bregu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Barre</surname>
+              <given-names>FX</given-names>
+            </name>
+            <name>
+              <surname>Sherratt</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Decatenation of DNA circles by FtsK-dependent Xer site-specific recombination</article-title>
+          <source>EMBO J</source>
+          <year>2003</year>
+          <volume>22</volume>
+          <issue>23</issue>
+          <fpage>6399</fpage>
+          <lpage>6407</lpage>
+          <pub-id pub-id-type="pmid">14633998</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grainge</surname>
+              <given-names>I</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Unlinking chromosomes catenanes in vivo by site-specific recombination</article-title>
+          <source>EMBO J</source>
+          <year>2007</year>
+          <volume>26</volume>
+          <issue>19</issue>
+          <fpage>4228</fpage>
+          <lpage>4238</lpage>
+          <pub-id pub-id-type="pmid">17805344</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sadowski</surname>
+              <given-names>PD</given-names>
+            </name>
+          </person-group>
+          <article-title>Site-specific genetic recombination: Hops, flips, and flops</article-title>
+          <source>FASEB J</source>
+          <year>1993</year>
+          <volume>7</volume>
+          <issue>9</issue>
+          <fpage>760</fpage>
+          <lpage>767</lpage>
+          <pub-id pub-id-type="pmid">8392474</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hallet</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sherratt</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Transposition and site-specific recombination: Adapting DNA cut-and-paste mechanisms to a variety of genetic rearrangements</article-title>
+          <source>FEMS Microbiol Rev</source>
+          <year>1997</year>
+          <volume>21</volume>
+          <issue>2</issue>
+          <fpage>157</fpage>
+          <lpage>178</lpage>
+          <pub-id pub-id-type="pmid">9348666</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r7">
+        <label>7</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barre</surname>
+              <given-names>FX</given-names>
+            </name>
+            <name>
+              <surname>Sherratt</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Higgins</surname>
+              <given-names>PN</given-names>
+            </name>
+          </person-group>
+          <article-title>Chromosome dimer resolution</article-title>
+          <source>The Bacterial Chromosome</source>
+          <year>2005</year>
+          <publisher-loc>Washington</publisher-loc>
+          <publisher-name>ASM</publisher-name>
+          <fpage>513</fpage>
+          <lpage>524</lpage>
+        </element-citation>
+      </ref>
+      <ref id="r8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grainge</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Lesterlin</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sherratt</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Activation of XerCD-<italic>dif</italic> recombination by the FtsK DNA translocase</article-title>
+          <source>Nucleic Acids Res</source>
+          <year>2011</year>
+          <volume>39</volume>
+          <issue>12</issue>
+          <fpage>5140</fpage>
+          <lpage>5148</lpage>
+          <pub-id pub-id-type="pmid">21371996</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ernst</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sumners</surname>
+              <given-names>DW</given-names>
+            </name>
+          </person-group>
+          <article-title>A calculus for rational tangles: Applications to DNA recombination</article-title>
+          <source>Math Proc Camb Philos Soc</source>
+          <year>1990</year>
+          <volume>108</volume>
+          <issue>3</issue>
+          <fpage>489</fpage>
+          <lpage>515</lpage>
+        </element-citation>
+      </ref>
+      <ref id="r10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sumners</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Ernst</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Spengler</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Cozzarelli</surname>
+              <given-names>NR</given-names>
+            </name>
+          </person-group>
+          <article-title>Analysis of the mechanism of DNA recombination using tangles</article-title>
+          <source>Q Rev Biophys</source>
+          <year>1995</year>
+          <volume>28</volume>
+          <issue>3</issue>
+          <fpage>253</fpage>
+          <lpage>313</lpage>
+          <pub-id pub-id-type="pmid">7480623</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r11">
+        <label>11</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zheng</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Galloy</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hallet</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Vazquez</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Kawauchi</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>The tangle model for site-specific recombination: A computer interface and the TnpI-IRS recombination system</article-title>
+          <source>Knot Theory for Specific Objects, <italic>OCAMI Studies</italic></source>
+          <year>2007</year>
+          <volume>Vol 1</volume>
+          <publisher-loc>Sakai, Japan</publisher-loc>
+          <publisher-name>Osaka Municipal Universities Press</publisher-name>
+          <fpage>251</fpage>
+          <lpage>271</lpage>
+        </element-citation>
+      </ref>
+      <ref id="r12">
+        <label>12</label>
+        <element-citation publication-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arsuaga</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Diao</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Vazquez</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <year>2007</year>
+          <comment>DNA topology in recombination and chromosome organization. <italic>Mathematics of DNA Structure, Function and Interactions</italic>, The IMA Volumes in Mathematics and its Applications 150, eds CJ Benham et al. (Springer Science + Business Media, New York), pp 7&#x02013;36</comment>
+        </element-citation>
+      </ref>
+      <ref id="r13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ernst</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sumners</surname>
+              <given-names>DW</given-names>
+            </name>
+          </person-group>
+          <article-title>Solving tangle equations arising in a DNA recombination model</article-title>
+          <source>Math Proc Camb Philos Soc</source>
+          <year>1999</year>
+          <volume>126</volume>
+          <issue>1</issue>
+          <fpage>23</fpage>
+          <lpage>36</lpage>
+        </element-citation>
+      </ref>
+      <ref id="r14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Darcy</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>Biological distances on DNA knots and links: applications to Xer recombination</article-title>
+          <source>J. Knot Theory Ramifications</source>
+          <year>2001</year>
+          <volume>10</volume>
+          <issue>2</issue>
+          <fpage>269</fpage>
+          <lpage>294</lpage>
+        </element-citation>
+      </ref>
+      <ref id="r15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vazquez</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Colloms</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Sumners</surname>
+              <given-names>DW</given-names>
+            </name>
+          </person-group>
+          <article-title>Tangle analysis of Xer recombination reveals only three solutions, all consistent with a single three-dimensional topological pathway</article-title>
+          <source>J Mol Biol</source>
+          <year>2005</year>
+          <volume>346</volume>
+          <issue>2</issue>
+          <fpage>493</fpage>
+          <lpage>504</lpage>
+          <pub-id pub-id-type="pmid">15670599</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Darcy</surname>
+              <given-names>IK</given-names>
+            </name>
+            <name>
+              <surname>Ishihara</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Medikonduri</surname>
+              <given-names>RK</given-names>
+            </name>
+            <name>
+              <surname>Shimokawa</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Rational tangle surgery and Xer recombination on catenanes</article-title>
+          <source>Algebr. Geom. Topol.</source>
+          <year>2012</year>
+          <volume>12</volume>
+          <fpage>1183</fpage>
+          <lpage>1210</lpage>
+        </element-citation>
+      </ref>
+      <ref id="r17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colloms</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Bath</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Sherratt</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Topological selectivity in Xer site-specific recombination</article-title>
+          <source>Cell</source>
+          <year>1997</year>
+          <volume>88</volume>
+          <issue>6</issue>
+          <fpage>855</fpage>
+          <lpage>864</lpage>
+          <pub-id pub-id-type="pmid">9118228</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Al&#x000e9;n</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sherratt</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Colloms</surname>
+              <given-names>SD</given-names>
+            </name>
+          </person-group>
+          <article-title>Direct interaction of aminopeptidase A with recombination site DNA in Xer site-specific recombination</article-title>
+          <source>EMBO J</source>
+          <year>1997</year>
+          <volume>16</volume>
+          <issue>17</issue>
+          <fpage>5188</fpage>
+          <lpage>5197</lpage>
+          <pub-id pub-id-type="pmid">9311979</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colloms</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Al&#x000e9;n</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sherratt</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <article-title>The ArcA/ArcB two-component regulatory system of Escherichia coli is essential for Xer site-specific recombination at <italic>psi</italic></article-title>
+          <source>Mol Microbiol</source>
+          <year>1998</year>
+          <volume>28</volume>
+          <issue>3</issue>
+          <fpage>521</fpage>
+          <lpage>530</lpage>
+          <pub-id pub-id-type="pmid">9632255</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Colloms</surname>
+              <given-names>SD</given-names>
+            </name>
+          </person-group>
+          <article-title>The topology of plasmid-monomerizing Xer site-specific recombination</article-title>
+          <source>Biochem Soc Trans</source>
+          <year>2013</year>
+          <volume>41</volume>
+          <issue>2</issue>
+          <fpage>589</fpage>
+          <lpage>594</lpage>
+          <pub-id pub-id-type="pmid">23514159</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hirasawa</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Shimokawa</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Dehn surgeries on strongly invertible knots which yield lens spaces</article-title>
+          <source>Proc Am Math Soc</source>
+          <year>2000</year>
+          <volume>128</volume>
+          <issue>11</issue>
+          <fpage>3445</fpage>
+          <lpage>3451</lpage>
+        </element-citation>
+      </ref>
+      <ref id="r22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murasugi</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>On a certain numerical invariant of link types</article-title>
+          <source>Trans Am Math Soc</source>
+          <year>1965</year>
+          <volume>117</volume>
+          <fpage>387</fpage>
+          <lpage>422</lpage>
+        </element-citation>
+      </ref>
+      <ref id="r23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Van Duyne</surname>
+              <given-names>GD</given-names>
+            </name>
+          </person-group>
+          <article-title>A structural view of Cre-<italic>loxP</italic> site-specific recombination</article-title>
+          <source>Annu Rev Biophys Biomol Struct</source>
+          <year>2001</year>
+          <volume>30</volume>
+          <fpage>87</fpage>
+          <lpage>104</lpage>
+          <pub-id pub-id-type="pmid">11340053</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gourlay</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Colloms</surname>
+              <given-names>SD</given-names>
+            </name>
+          </person-group>
+          <article-title>Control of Cre recombination by regulatory elements from Xer recombination systems</article-title>
+          <source>Mol Microbiol</source>
+          <year>2004</year>
+          <volume>52</volume>
+          <issue>1</issue>
+          <fpage>53</fpage>
+          <lpage>65</lpage>
+          <pub-id pub-id-type="pmid">15049810</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vazquez</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sumners</surname>
+              <given-names>DW</given-names>
+            </name>
+          </person-group>
+          <article-title>Tangle analysis of Gin recombination</article-title>
+          <source>Math Proc Camb Philos Soc</source>
+          <year>2004</year>
+          <volume>136</volume>
+          <issue>3</issue>
+          <fpage>565</fpage>
+          <lpage>582</lpage>
+        </element-citation>
+      </ref>
+      <ref id="r26">
+        <label>26</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murasugi</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <source>Knot Theory and Its Applications</source>
+          <year>2008</year>
+          <publisher-loc>Boston</publisher-loc>
+          <publisher-name>Birkh&#x000e4;user</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="r27">
+        <label>27</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Conway</surname>
+              <given-names>JH</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Leech</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>An enumeration of knots and links, and some of their algebraic properties</article-title>
+          <source>Computational Problems in Abstract Algebra</source>
+          <year>1970</year>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>Pergamon</publisher-name>
+          <fpage>329</fpage>
+          <lpage>358</lpage>
+        </element-citation>
+      </ref>
+      <ref id="r28">
+        <label>28</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Burde</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Zieschang</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <source>Knots</source>
+          <year>2003</year>
+          <publisher-loc>Berlin</publisher-loc>
+          <publisher-name>de Gruyter</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="r29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saka</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>V&#x000e1;zquez</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>TangleSolve: Topological analysis of site-specific recombination</article-title>
+          <source>Bioinformatics</source>
+          <year>2002</year>
+          <volume>18</volume>
+          <issue>7</issue>
+          <fpage>1011</fpage>
+          <lpage>1012</lpage>
+          <pub-id pub-id-type="pmid">12117800</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Darcy</surname>
+              <given-names>IK</given-names>
+            </name>
+            <name>
+              <surname>Scharein</surname>
+              <given-names>RG</given-names>
+            </name>
+          </person-group>
+          <article-title>TopoICE-R: 3D visualization modeling the topology of DNA recombination</article-title>
+          <source>Bioinformatics</source>
+          <year>2006</year>
+          <volume>22</volume>
+          <issue>14</issue>
+          <fpage>1790</fpage>
+          <lpage>1791</lpage>
+          <pub-id pub-id-type="pmid">16672259</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Buck</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Flapan</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Predicting knot or catenane type of site-specific recombination products</article-title>
+          <source>J Mol Biol</source>
+          <year>2007</year>
+          <volume>374</volume>
+          <issue>5</issue>
+          <fpage>1186</fpage>
+          <lpage>1199</lpage>
+          <pub-id pub-id-type="pmid">17996894</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Darcy</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Luecke</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Vazquez</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Tangle analysis of difference topology experiments: Applications to a Mu protein-DNA complex</article-title>
+          <source>Algebr. Geom. Topol.</source>
+          <year>2009</year>
+          <volume>9</volume>
+          <fpage>2247</fpage>
+          <lpage>2309</lpage>
+        </element-citation>
+      </ref>
+      <ref id="r33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Valencia</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Buck</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Predicting knot and catenane type of products of site-specific recombination on twist knot substrates</article-title>
+          <source>J Mol Biol</source>
+          <year>2011</year>
+          <volume>411</volume>
+          <issue>2</issue>
+          <fpage>350</fpage>
+          <lpage>367</lpage>
+          <pub-id pub-id-type="pmid">21679716</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="r34">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Darcy</surname>
+              <given-names>IK</given-names>
+            </name>
+            <name>
+              <surname>Vazquez</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Determining the topology of stable protein-DNA complexes</article-title>
+          <source>Biochem Soc Trans</source>
+          <year>2013</year>
+          <volume>41</volume>
+          <issue>2</issue>
+          <fpage>601</fpage>
+          <lpage>605</lpage>
+          <pub-id pub-id-type="pmid">23514161</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+

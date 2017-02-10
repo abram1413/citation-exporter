@@ -1,0 +1,60 @@
+<!-- ArticleInstanceId : 2281396, Path: canfamphys/15-1969/7/preload/nxml/, Name : canfamphys00400-0028.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.2 20060430//EN" "archivearticle.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+  <?scanned_data?>
+  <?properties scanned_data?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Can Fam Physician</journal-id>
+      <journal-title>Canadian Family Physician</journal-title>
+      <issn pub-type="ppub">0008-350X</issn>
+      <issn pub-type="epub">1715-5258</issn>
+    </journal-meta>
+    <article-meta>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Technical Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>An Effective Therapeutic Approach to Managing Chronic Asthmatics</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Epstein</surname>
+            <given-names>Norman</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <month>07</month>
+        <year>1969</year>
+      </pub-date>
+      <volume>15</volume>
+      <issue>7</issue>
+      <fpage>29</fpage>
+      <lpage>34</lpage>
+      <page-range>29-31, 34</page-range>
+      <abstract abstract-type="scanned-figures">
+        <sec sec-type="scanned-figures">
+          <title>Images</title>
+          <fig id="F1">
+            <label>p29-a</label>
+            <graphic xlink:href="canfamphys00400-0028-a" xlink:role="29"/>
+          </fig>
+        </sec>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <supplementary-material content-type="scanned-pages">
+      <graphic xlink:href="canfamphys00400-0028.tif" xlink:title="scanned-page" xlink:role="29" mimetype="image" mime-subtype="tiff"/>
+      <graphic xlink:href="canfamphys00400-0029.tif" xlink:title="scanned-page" xlink:role="30" mimetype="image" mime-subtype="tiff"/>
+      <graphic xlink:href="canfamphys00400-0030.tif" xlink:title="scanned-page" xlink:role="31" mimetype="image" mime-subtype="tiff"/>
+      <graphic xlink:href="canfamphys00400-0033.tif" xlink:title="scanned-page" xlink:role="34" mimetype="image" mime-subtype="tiff"/>
+    </supplementary-material>
+  </body>
+</article>
+
+

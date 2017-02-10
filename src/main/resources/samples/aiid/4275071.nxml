@@ -1,15 +1,15 @@
 <!-- ArticleInstanceId : 4275071, Path: hmg/24-2015/2/preload/nxml/, Name : ddu455.nxml -->
-<!DOCTYPE article 
-  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d1 20130915//EN" 
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1d1 20130915//EN"
   "JATS-archivearticle1.dtd">
-  
-<!-- 
+
+<!--
   This is a simplified, stripped-down version of the actual article, used for testing the
   Citation Exporter.
 -->
 
-<article xmlns:xlink="http://www.w3.org/1999/xlink" 
-         xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
          article-type="research-article">
   <front>
     <journal-meta>
@@ -94,7 +94,7 @@
           <xref ref-type="aff" rid="af4">4</xref>
           <xref ref-type="aff" rid="af11">11</xref>
         </contrib>
-        
+
         <!-- ... lots of authors elided here ... -->
 
         <contrib contrib-type="author">
@@ -110,7 +110,7 @@
         </contrib>
 
         <!-- ... lots of authors elided here ... -->
-        
+
         <!-- last two authors -->
         <contrib contrib-type="author">
           <name>
@@ -130,7 +130,7 @@
           <xref ref-type="aff" rid="af3">3</xref>
           <xref ref-type="author-notes" rid="AN1">&#x02020;</xref>
         </contrib>
-        
+
         <aff id="af1">
           <label>1</label>
           <addr-line>Division of Rheumatology, Center for Autoimmune Genomics and Etiology</addr-line> and

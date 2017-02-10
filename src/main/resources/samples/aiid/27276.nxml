@@ -1,0 +1,715 @@
+<!-- ArticleInstanceId : 27276, Path: bmj/320-2000/7230/preload/nxml/, Name : 284.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <?inline-response N0x1c581a0N0x35fd328?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">BMJ</journal-id>
+      <journal-title>BMJ : British Medical Journal</journal-title>
+      <issn pub-type="ppub">0959-8138</issn>
+      <issn pub-type="epub">1468-5833</issn>
+      <publisher>
+        <publisher-name>BMJ Group</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">10650026</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>General Practice</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Derivation of a needs based capitation formula for allocating prescribing budgets to health authorities and primary care groups in England: regression analysis</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rice</surname>
+            <given-names>Nigel</given-names>
+          </name>
+          <role>senior research fellow</role>
+          <xref ref-type="aff" rid="N0x1c581a0N0x1dbf198">
+            <italic>a</italic>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dixon</surname>
+            <given-names>Paul</given-names>
+          </name>
+          <role>senior research fellow</role>
+          <xref ref-type="aff" rid="N0x1c581a0N0x1dbf198">
+            <italic>a</italic>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lloyd</surname>
+            <given-names>David C E F</given-names>
+          </name>
+          <role>applied statistician</role>
+          <xref ref-type="aff" rid="N0x1c581a0N0x1dbf198">
+            <italic>b</italic>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Roberts</surname>
+            <given-names>David</given-names>
+          </name>
+          <role>unit manager</role>
+          <xref ref-type="aff" rid="N0x1c581a0N0x1dbf198">
+            <italic>b</italic>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <aff id="N0x1c581a0N0x1dbf198">
+        <label>
+          <italic>a</italic>
+        </label>Centre for Health Economics, University of York, York Y01 5DD, <label>
+          <italic>b</italic>
+        </label>Prescribing Support Unit, Leeds LS2 7RJ
+      </aff>
+      <author-notes>
+        <fn fn-type="con">
+          <p>Contributors: NR was responsible for the methodology, statistical analysis, and writing of the paper; he will act as guarantor for the paper. PD collated the data and was responsible for data attribution. DCEFL and DR provided data on practice ASTRO(97)-PUs, liaised with the Prescription Pricing Authority, advised on statistical methodology, discussed core ideas, and participated in the writing of the paper.</p>
+        </fn>
+        <fn>
+          <p>Correspondence to: N Rice <email>nr5@york.ac.uk</email></p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <day>29</day>
+        <month>1</month>
+        <year>2000</year>
+      </pub-date>
+      <volume>320</volume>
+      <issue>7230</issue>
+      <fpage>284</fpage>
+      <lpage>288</lpage>
+      <history>
+        <date date-type="accepted">
+          <day>1</day>
+          <month>11</month>
+          <year>1999</year>
+        </date>
+      </history>
+      <copyright-statement>Copyright &#x000a9; 2000, British Medical Journal</copyright-statement>
+      <copyright-year>2000</copyright-year>
+      <abstract>
+        <sec>
+          <title>Objective</title>
+          <p>To develop a weighted capitation formula for setting target allocations for prescribing expenditures for health authorities and primary care groups in England.</p>
+        </sec>
+        <sec>
+          <title>Design</title>
+          <p>Regression analysis relating prescribing costs to the demographic, morbidity, and mortality composition of practice lists.</p>
+        </sec>
+        <sec>
+          <title>Setting</title>
+          <p>8500 general practices in England.</p>
+        </sec>
+        <sec>
+          <title>Subjects</title>
+          <p>Data from the 1991 census were attributed to practice lists on the basis of the place of residence of the practice population.</p>
+        </sec>
+        <sec>
+          <title>Main outcome measures</title>
+          <p>Variation in age, sex, and temporary resident originated prescribing units (ASTRO(97)-PUs) adjusted net ingredient cost of general practices in England for 1997-8 modelled for the impact of health and social needs after controlling for differences in supply.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>A needs gradient based on the four variables: permanent sickness, percentage of dependants in no carer households, percentage of students, and percentage of births on practice lists. These, together with supply characteristics, explained 41&#x00025; of variation in prescribing costs per ASTRO(97)-PU adjusted capita across practices. The latter alone explained about 35&#x00025; of variation in total costs per head across practices.</p>
+        </sec>
+        <sec>
+          <title>Conclusions</title>
+          <p>The model has good statistical specification and contains intuitively plausible needs drivers of prescribing expenditure. Together with adjustments made for differences in ASTRO(97)-PUs the model is capable of explaining 62&#x00025; (35&#x00025;&#x0002b;0.65&#x00025; (41&#x00025;)) of variation in prescribing expenditure at practice level. The results of the study have formed the basis for setting target budgets for 1999-2000 allocations for prescribing expenditure for health authorities and primary care groups.</p>
+        </sec>
+      </abstract>
+    </article-meta>
+    <notes>
+      <p>Editorial by Majeed<italic>General Practice</italic> p&#x02009;<related-article related-article-type="article-reference" vol="320" page="288" id="N0x1c581a0N0x1db9860" ext-link-type="pmc">288</related-article></p>
+    </notes>
+  </front>
+  <body>
+    <sec>
+      <title>Introduction</title>
+      <p>The publication of the white paper <italic>The New NHS, Modern, Dependable</italic>
+        <xref ref-type="bibr" rid="B1">1</xref> proposing the creation of primary care groups with responsibilities to meet the healthcare needs of their populations within an annual budget, together with the government's commitment to provide healthcare services on an equitable basis,<xref ref-type="bibr" rid="B2">2</xref> has highlighted the need to define practice budgets on a rational basis and to link expenditure to population healthcare needs. For hospital and community health services expenditure, mechanisms already exist for allocating monies from central government to health authorities, and thence to general practice,<xref ref-type="bibr" rid="B3">3</xref> on the basis of population need. For prescribing expenditure, allocations have only recently moved towards a weighted capitation system to allocate monies to health authorities, and in 1996-7, for the first time, a proportion of the prescribing budget was based on a needs weighting. After appropriate adjustments for the age, sex, and temporary resident characteristics of practices using what are termed age, sex, and temporary resident originating prescribing units (ASTRO-PUs)<xref ref-type="bibr" rid="B4">4</xref>, a weighting for the proportion of people in the 1991 census declaring themselves as unable to work owing to permanent sickness or disability was applied to calculate health authority allocations.<xref ref-type="bibr" rid="B5">5</xref>
+      </p>
+      <p>The methodology for devolving health authority prescribing budgets to individual general practices on the basis of population need is much less advanced. Primary care prescribing budgets have largely been based on previous years' spending, with adjustments for an uplift plus growth factor for practices whose budget share, adjusted for the demographics of practice lists and other (unspecified) need factors, was below the local average.<xref ref-type="bibr" rid="B6">6</xref> Little regard has been given to differences in population need.</p>
+      <p>We report on the results of a study commissioned by the NHS Executive to examine the determinants of NHS prescribing expenditures at practice level by relating costs to population needs, with the explicit purpose of developing a needs based capitation formula capable of allocating annually about &#x000a3;4.5 billion of NHS revenues to health authorities and primary care groups. At the time this study was commissioned the composition of primary care groups was unknown and in their absence general practice, which represents the lowest unit of analysis possible using current data, was used as the focus of the work. Target allocations to primary care groups and health authorities can be seen as aggregates of allocations for individual practices for which they are responsible. The results of this study have informed target allocations for prescribing budgets for the year 1999-2000. Full details of the study can be found in Rice et al.<xref ref-type="bibr" rid="B7">7</xref></p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <p>The demand for health care is a complex process, but in order to proceed the following were assumed to be of relevance for prescribing. Demand was measured as expressed demand for prescriptions using utilisation in the form of total practice net ingredient costs for 1997-8. We consider two types of determinants of this demand to be important: the health needs of registered list populations and the supply characteristics of general practices. It is assumed that underlying socioeconomic and demographic characteristics of populations give rise to healthcare needs, in terms of morbidity. This in turn gives rise to the demand for healthcare services including prescriptions. It is also assumed that other socioeconomic characteristics, such as social needs and expectations, independently influence demand over and above those operating through health needs.</p>
+      <p>The adopted style of general practice can be assumed to have a significant impact on the costs of prescribing. For example, more innovative and better informed practices actively encouraging cost effective prescribing may be cheaper per capita for a given level of need. As well as influencing utilisation, supply may itself be influenced by past use and needs, creating, over time, a feedback loop between supply and utilisation. This renders the use of conventional statistical methods, such as ordinary least squares, inappropriate; instead methods akin to two stage least square, which explicitly aim to take account of the potential simultaneous determination of utilisation and supply, are required. Therefore, an important feature of the work presented here is the attempt to separate out the independent effects of needs and supply on utilisation.<xref ref-type="bibr" rid="B3">3</xref></p>
+      <sec>
+        <title>Data</title>
+        <p>Total prescription costs were made available for all practices for 1997-8 and were measured as net ingredient costs. Practice population demographics were measured in ASTRO(97)-PUs.<xref ref-type="bibr" rid="B8">8</xref> These reflect both the size of the practice list and its age, sex, and temporary resident structure and were used to standardise costs. A further demographic variable representing the percentage of births per year per practice (pbirths) was constructed.</p>
+        <p>Mortality and morbidity data available to the study comprised standarised mortality ratios (ages 0-74 years)<xref ref-type="bibr" rid="B3">3</xref> and limiting long term illness, the latter defined from the self report questionnaire in the 1991 census of populations. Three variants of the limiting long term illness were considered: the proportion of the total population of an area that self reported such illness; the proportion of children in an area that report such illness, and the standardised illness ratio (ages 0-74 years). We also used as a further morbidity measure the percentage of the adult population who reported permanent sickness.</p>
+        <p>The Jarman score<xref ref-type="bibr" rid="B9">9</xref> was used as a measure of area deprivation. We also considered separately the component variables used to construct the Jarman score. Other socioeconomic characteristics covering such aspects as home circumstances, availability of amenities, social class, and educational and economic status were also included.</p>
+        <p>Practice supply characteristics available to the study were fundholding status (and wave of fundholding), training status, dispensing status, whether the practice was single handed, number of full time equivalent general practitioners, and practice list size.</p>
+        <p>In an attempt to control for differential list inflation in the subsequent regression analysis, an estimate of practice list inflation was derived. This was calculated by attributing health authority list inflation for five year age and sex groups to practice populations within their respective health authorities. Health authority list inflation was calculated as the ratio of the sum of general practice registrations in all the enumeration districts of a health authority to the Office of National Statistics estimates of the health authority population.</p>
+        <p>We considered the use of low income scheme data, which have been shown elsewhere to be an important measure of deprivation linked to prescribing,<xref ref-type="bibr" rid="B10">10</xref>but rejected it on the grounds of limited coverage of the practices used in this study.</p>
+      </sec>
+      <sec>
+        <title>Attributing small area statistics to general practices</title>
+        <p>Most of the data made available for this study were derived from routine data sources such as census data, which are measured at the area level (electoral wards). To construct a database at practice level these were attributed to practices on the basis of place of residence of the practice population. The place of residence of the practice populations were obtained from data for all patient registrations in England and Wales. By aggregating the raw registration data it was possible to compute the proportion of each practice population in each of the wards. Census variables were then computed for each ward and combined with the proportions of a practice population in each ward to give a weighted average for the practice.</p>
+      </sec>
+      <sec>
+        <title>Statistical methods</title>
+        <p>The analysis took the form of a multivariate regression model using as the dependent variable net ingredient cost per ASTRO(97)-PU, with need and supply variables forming the set of potential explanatory variables. Tests to determine whether simultaneity between supply and utilisation were carried out, and where present adjustments using the method of control function to the regression model were made.<xref ref-type="bibr" rid="B11">11</xref></p>
+        <p>Additive versus multiplicative model specifications were tested, and additive models proved to have greater statistical specification when applying the general reset test proposed by Ramsey.<xref ref-type="bibr" rid="B12">12</xref> The data consisted of general practices located with health authorities, and to account for health authority effects fixed versus random effect specifications were tested using the Hausman test.<xref ref-type="bibr" rid="B13">13</xref>Health authority effects are assumed to represent differences in supply configurations, which impact equally on all individuals registered with practices within the health authority. Fixed effects proved superior and accordingly dummy variables were included in the regression to represent health authority effects.</p>
+        <p>We were interested in finding as parsimonious and transparent a model as possible&#x02014;that is, a model with the least number of variables, which sensibly capture variations in supply adjusted utilisation, but one that is also intuitively plausible. Initially all potential needs variables (set of morbidity and socioeconomic variables) were entered into the regression equation. This model was then progressively restricted by omitting needs variables in order of the following criteria: remove if counterintuitive sign and coefficient is significant, remove if counterintuitive sign and coefficient is not significant, and remove if not significant. Throughout this process all supply variables, the estimate of list inflation, and health authority fixed effects were forced into the regression. This process was continued until all remaining needs variables were statistically significantly different from zero. Tests were then made to ensure that this selected model was statistically well specified using Ramsey's reset method.<xref ref-type="bibr" rid="B12">12</xref> Plots of standardised residuals against normal scores were also used to check that the residuals conformed to assumptions of normality. All regressions were weighted by practice list size.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <p>Table <xref ref-type="table" rid="T1">1</xref> presents the model selected adopting the above procedures. Health authority effects and the list inflation variable are not shown. Four needs variables were selected: percentage of adults in households permanently sick (psick), percentage of dependants in no carer households (pnocare), percentage of working age population who are students (pstudents), and percentage of births on practice lists (pbirths). Table <xref ref-type="table" rid="T2">2</xref> provides full definitions of these needs variables together with descriptive statistics. Positive coefficients indicate that higher percentages of these variables were associated with greater cost per ASTRO(97)-PU; the converse was true for negative coefficients. The needs and supply variables together explained 41&#x00025; of variation in cost per ASTRO(97)-PU. A separate regression of net ingredient cost per capita on ASTRO(97)-PUs and supply resulted in an R<sup>2</sup> of 0.35. Inspection of standardised residuals against normal scores showed no serious signs of departure from normality, and the reset test indicated no evidence to reject the null hypothesis of adequate model specification, F(3, 8392)=0.24; P=0.86. </p>
+      <p>The four variables selected are intuitively plausible as needs drivers of prescribing expenditure, and exhibited the expected signs of association with costs. Permanent sickness played a dominant role in the modelling, and although there are some doubts over its interpretation (self reported morbidity which limits activity, rather than an objective measure of morbidity), it was found to be a stronger predictor than standardised mortality or illness ratios or self reported limiting long term illness. It is also in line with the current formula used to allocate prescribing monies to health authorities.<xref ref-type="bibr" rid="B5">5</xref> The percentage of dependants with no carers is likely to be reflective of wider socioeconomic circumstances, whereas the inclusion of the percentage of births on practice lists is likely to capture both an effect of women of childbearing age and the increased demands of young children. The percentage of students is likely to reflect several factors including those associated with young mobile healthy populations and a lack of permanent residence.</p>
+      <p>It should be emphasised that for allocation purposes only the coefficients attached to the needs (and constant) variables are of relevance. Supply variables were included in the modelling procedure to condition upon to ensure that we were able to control for any correlation that may have existed between needs and supply. However, it is only the needs coefficients that determine the gradient upon which actual target allocations are intended to be based. In no way is it intended that, for example, dispensing and non-dispensing practices should be treated differently when deriving needs based allocations; it is only the needs composition of their respective lists that are of importance.</p>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>We derived a robust needs based capitation formula capable of setting target budgets for health authority and primary care group prescribing allocations. The resulting model contains four intuitively plausible needs drivers, has good statistical specification, and is capable of explaining up to 62&#x00025; (35&#x00025;&#x0002b;0.65&#x00025; (41&#x00025;)) of variation in prescribing expenditure at practice level. The formula has been implemented by the NHS Executive to set target allocations for health authorities and primary care groups for 1999-2000.<xref ref-type="bibr" rid="B14">14</xref></p>
+      <p>The possibility for further refinements to the model seems limited using current data sources. In future, enhancements to the model would be gained through the use of income related data and data on nursing home patients should these become readily available. Income related data may take several forms, but the inclusion of data provided through the low income scheme and income support is likely to prove most valuable. It was not possible to include data on nursing home residents in this study owing to a lack of comprehensive and reliable data, but in recognition of the need for local flexibility health authorities will be allowed to make adjustments to target shares for primary care groups to reflect the extra costs of prescribing to nursing home residents.<xref ref-type="bibr" rid="B14">14</xref></p>
+      <p>Further advances in understanding the needs based mechanisms of prescribing may best be achieved through moving to data measured at the individual patient level. Although, for the foreseeable future, it seems unlikely that such data will be collected on a routine basis, much could be gained from a survey of individual patients and their practices. This may form the basis of a future research agenda not only in the area of prescribing but also to inform resource allocation methodology in other areas of the NHS budget. <boxed-text>
+          <sec>
+            <title>What is already known on this topic</title>
+            <p>Primary care groups are required to meet the healthcare needs of the populations they serve within an annual budget. This, coupled with the government's commitment to provide healthcare services on an equitable basis, has highlighted the need to define budgets on a rational basis linked to population needs</p>
+            <p>One component of the unified budget is prescribing expenditure</p>
+          </sec>
+          <sec>
+            <title>What this paper adds</title>
+            <p>This study derives for the first time a needs based capitation formula capable of defining primary care group target expenditures for prescribing</p>
+            <p>Year 1999-2000 target budgets for primary care group prescribing have been allocated on the basis of the four needs variables identified in this study: permanent sickness, dependants with no carers, students, and births </p>
+          </sec>
+        </boxed-text>
+      </p>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="display-objects">
+      <title>Figures and Tables</title>
+      <table-wrap position="float" id="T1">
+        <label>Table 1</label>
+        <caption>
+          <p>Final model (costs in &#x000a3; sterling) </p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th colspan="1" rowspan="2">Variables</th>
+              <th colspan="2" align="center" rowspan="1">Dependent cost/ASTRO(97)-PU<sup>*</sup>
+                <hr/>
+              </th>
+            </tr>
+            <tr>
+              <th align="center">
+                <bold>Coefficient</bold>
+              </th>
+              <th align="center">
+                <bold>t value</bold>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Constant</td>
+              <td align="center">24.99</td>
+              <td align="center">23.11</td>
+            </tr>
+            <tr>
+              <td>Need<sup>&#x02020;</sup>:</td>
+              <td align="left"/>
+              <td align="left"/>
+            </tr>
+            <tr>
+              <td>&#x02003;psick</td>
+              <td align="center">0.59</td>
+              <td align="center">11.40</td>
+            </tr>
+            <tr>
+              <td>&#x02003;pnocare</td>
+              <td align="center">0.03</td>
+              <td align="center">2.17</td>
+            </tr>
+            <tr>
+              <td>&#x02003;pstudent</td>
+              <td align="center">&#x02212;0.23</td>
+              <td align="center">&#x02212;9.24</td>
+            </tr>
+            <tr>
+              <td>&#x02003;pbirths</td>
+              <td align="center">1.88</td>
+              <td align="center">17.57</td>
+            </tr>
+            <tr>
+              <td>Supply:</td>
+              <td align="left"/>
+              <td align="left"/>
+            </tr>
+            <tr>
+              <td>&#x02003;Dispensing practice</td>
+              <td align="center">0.68</td>
+              <td align="center">6.81</td>
+            </tr>
+            <tr>
+              <td>&#x02003;Not training status</td>
+              <td align="center">0.32</td>
+              <td align="center">4.02</td>
+            </tr>
+            <tr>
+              <td>&#x02003;No of general practitioners per patient</td>
+              <td align="center">909.6</td>
+              <td align="center">4.02</td>
+            </tr>
+            <tr>
+              <td>&#x02003;Single handed practice</td>
+              <td align="center">&#x02212;0.50</td>
+              <td align="center">&#x02212;4.59</td>
+            </tr>
+            <tr>
+              <td>&#x02003;General practice fundholding status</td>
+              <td align="center">&#x02212;1.15</td>
+              <td align="center">&#x02212;17.28</td>
+            </tr>
+            <tr>
+              <td>R<sup>2</sup></td>
+              <td align="center">0.41</td>
+              <td align="left"/>
+            </tr>
+            <tr>
+              <td>Reset F(3, 8392)</td>
+              <td align="center">0.24</td>
+              <td align="center">P=0.86</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="TF1-150">
+            <label>&#x0002a;</label>
+            <p>Age, sex, and temporary resident originated prescribing units.&#x000a0;</p>
+          </fn>
+          <fn id="TF1-151">
+            <label>&#x02020;</label>
+            <p>For definitions see table <xref ref-type="table" rid="T2">2</xref>.&#x000a0;</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap position="float" id="T2">
+        <label>Table 2</label>
+        <caption>
+          <p>Variable definitions and summary statistics </p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th>
+                <bold>Variable name</bold>
+              </th>
+              <th align="left">
+                <bold>Variable definition</bold>
+              </th>
+              <th align="center">
+                <bold>Mean (SD)</bold>
+              </th>
+              <th align="center">
+                <bold>Range</bold>
+              </th>
+              <th align="left">
+                <bold>Data source</bold>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Cost</td>
+              <td align="left">Net ingredient costs per capita</td>
+              <td align="center">83.34 (20.39)</td>
+              <td align="center">9.36-219.28</td>
+              <td align="left">Prescription Pricing Authority</td>
+            </tr>
+            <tr>
+              <td>ASTRO(97)-PU<sup>*</sup></td>
+              <td align="left">ASTRO(97)-PUs per capita</td>
+              <td align="center">4.24 (0.62)</td>
+              <td align="center">1.63-8.51</td>
+              <td align="left">Prescribing Support Unit, Leeds</td>
+            </tr>
+            <tr>
+              <td>psick</td>
+              <td align="left">&#x00025; of adult population in households permanently sick</td>
+              <td align="center">3.66 (1.76)</td>
+              <td align="center">0.77-14.51</td>
+              <td align="left">Small area statistics</td>
+            </tr>
+            <tr>
+              <td>pnocare</td>
+              <td align="left">&#x00025; of dependants in no carer households</td>
+              <td align="center">15.06 (3.89)</td>
+              <td align="center">3.58-38.06</td>
+              <td align="left">Small area statistics</td>
+            </tr>
+            <tr>
+              <td>pstudent</td>
+              <td align="left">&#x00025; of working age population who are students</td>
+              <td align="center">5.12 (1.74)</td>
+              <td align="center">2.16-21.03</td>
+              <td align="left">Local base statistics</td>
+            </tr>
+            <tr>
+              <td>pbirths<sup>&#x02020;</sup></td>
+              <td align="left">&#x00025; of births on practice lists</td>
+              <td align="center">1.3 (0.4)</td>
+              <td align="center">0-6.7</td>
+              <td align="left">Prescription Pricing Authority and Office of National Statistics</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="TF3-150">
+            <label>&#x0002a;</label>
+            <p>Age, sex, and temporary resident originated prescribing units.&#x000a0;</p>
+          </fn>
+          <fn id="TF3-151">
+            <label>&#x02020;</label>
+            <p>Estimated as product of proportion of 0-4 year olds on practice list and weighted average of ratios of Office of National Statistics estimate of births to Office of National Statistics estimate of 0-4 year olds for health authorities in which practice has registrations&#x000a0;</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+    <ack>
+      <p>This work was commissioned by the NHS Executive and reported to the advisory committee on resource allocation and its technical advisory subgroup. We thank both these for comments and suggestions of further work, and Keith Derbyshire (NHS Executive), Roy Carr-Hill, and Peter Smith (University of York) for constructive comments.</p>
+    </ack>
+    <ref-list>
+      <ref id="B1">
+        <label>1</label>
+        <citation citation-type="book">
+          <collab>UK Government</collab>
+          <source>The new NHS, modern, dependable.</source>
+          <year>1997</year>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>The Stationery Office</publisher-name>
+        </citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <citation citation-type="book">
+          <collab>Department of Health and Social Security</collab>
+          <source>Sharing resources for health in England; report of the Resource Allocations Working Party.</source>
+          <year>1976</year>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>HMSO</publisher-name>
+        </citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carr-Hill</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Sheldon</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Peacock</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hardman</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Allocating resources to health authorities: development of method for small area analysis of inpatient services</article-title>
+          <source>BMJ</source>
+          <year>1994</year>
+          <volume>309</volume>
+          <fpage>1046</fpage>
+          <lpage>1049</lpage>
+          <pub-id pub-id-type="pmid">7950737</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roberts</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>Age, sex, and temporary resident originated prescribing units (ASTRO-PUs): new weightings for analysing prescribing of general practice in England</article-title>
+          <source>BMJ</source>
+          <year>1993</year>
+          <volume>307</volume>
+          <fpage>485</fpage>
+          <lpage>488</lpage>
+          <pub-id pub-id-type="pmid">8305014</pub-id>
+        </citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rice</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Carr-Hill</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Lloyd</surname>
+              <given-names>DCEF</given-names>
+            </name>
+          </person-group>
+          <article-title>Informing prescribing allocations at district level in England</article-title>
+          <source>J Health Serv Res Policy</source>
+          <year>1997</year>
+          <volume>3</volume>
+          <fpage>154</fpage>
+          <lpage>159</lpage>
+          <pub-id pub-id-type="pmid">10180376</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Executive</surname>
+              <given-names>NHS</given-names>
+            </name>
+          </person-group>
+          <source>Local budget-setting and financial management.</source>
+          <year>1997</year>
+          <publisher-loc>Leeds</publisher-loc>
+          <publisher-name>NHS Executive</publisher-name>
+        </citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rice</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Dixon</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Lloyd</surname>
+              <given-names>DECF</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <source>Derivation of a needs based capitation formula for allocating prescribing budgets.</source>
+          <year>1999</year>
+          <publisher-loc>Occasional paper series. York</publisher-loc>
+          <publisher-name>Centre for Health Economics, University of York</publisher-name>
+        </citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lloyd</surname>
+              <given-names>DCEF</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sleator</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Revision of the weights for the age sex temporary resident originated prescribing unit</article-title>
+          <source>Br J Med Econ</source>
+          <year>1997</year>
+          <volume>11</volume>
+          <fpage>81</fpage>
+          <lpage>85</lpage>
+        </citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jarman</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of under-privileged areas</article-title>
+          <source>BMJ</source>
+          <year>1983</year>
+          <volume>286</volume>
+          <fpage>705</fpage>
+          <lpage>709</lpage>
+        </citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lloyd</surname>
+              <given-names>DCEF</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Clucas</surname>
+              <given-names>DW</given-names>
+            </name>
+          </person-group>
+          <article-title>Low income scheme index: a new deprivation scale based on prescribing in general practice</article-title>
+          <source>BMJ</source>
+          <year>1995</year>
+          <volume>310</volume>
+          <fpage>165</fpage>
+          <lpage>169</lpage>
+          <pub-id pub-id-type="pmid">7833758</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heckman</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Sample selection bias as a specification error</article-title>
+          <source>Econometrica</source>
+          <year>1979</year>
+          <volume>47</volume>
+          <fpage>153</fpage>
+          <lpage>161</lpage>
+        </citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramsey</surname>
+              <given-names>JB</given-names>
+            </name>
+          </person-group>
+          <article-title>Tests for specification errors in classical linear least squares regression analysis</article-title>
+          <source>J R Stat Soc, Series B</source>
+          <year>1969</year>
+          <volume>31</volume>
+          <fpage>350</fpage>
+          <lpage>371</lpage>
+        </citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hausman</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Specification tests in econometrics</article-title>
+          <source>Econometrica</source>
+          <year>1978</year>
+          <volume>46</volume>
+          <fpage>1251</fpage>
+          <lpage>1272</lpage>
+        </citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <citation citation-type="book">
+          <collab>NHS Executive</collab>
+          <source>Resource allocation: weighted capitation formulas.</source>
+          <year>1999</year>
+          <publisher-loc>Resource Allocation and Funding Team. Leeds</publisher-loc>
+          <publisher-name>NHS Executive</publisher-name>
+          <comment>. (Catalogue No 15995.)</comment>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p>Funding: NR received funding through the Department of Health's funded research programme at the Centre for Health Economics, and PD was funded by the NHS Executive.</p>
+      </fn>
+      <fn>
+        <p>Competing interests: None declared.</p>
+      </fn>
+    </fn-group>
+  </back>
+  <response response-type="reply" id="N0x1c581a0N0x35fd328">
+    <front-stub>
+      <title-group>
+        <article-title>Commentary: The emphasis on transparency weakens the formula</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cole</surname>
+            <given-names>T J</given-names>
+          </name>
+          <role>professor of medical statistics</role>
+        </contrib>
+      </contrib-group>
+      <aff id="N0x1c581a0N0x35fd568">Department of Epidemiology and Public Health, Institute of Child Health, London WC1N 1EH</aff>
+    </front-stub>
+    <body>
+      <p>The regression model developed here represents an advance on what has gone before. By simultaneously adjusting for supply variables, it identifies the underlying relation between prescribing costs and need. This approach breaks, or at least weakens, the vicious circle that has operated in the past whereby authorities spending the most money are predicted to need the most in the future.</p>
+      <p>The paper provides an interesting demonstration of the tension that underlies regression analyses where the fitted model is to be used to allocate large sums of money. The statistical imperative of a model that predicts the outcome optimally has to be traded off against the political need for transparency, which translates as a model that is both parsimonious and intuitively plausible.</p>
+      <p>It is evident that these two aims are to some extent contradictory. The dataset consists of a large number of need and supply variables for 8500 general practices, so there is ample opportunity to build a model of sufficient complexity to capture, as well as it can, the subtleties of prescribing behaviour in terms of need and supply. Yet the model also has to be sufficiently simple for those most affected by it to understand how it works.</p>
+      <p>The NHS Executive recognised this when commissioning the study, and it specified that the variables in the model should be intuitively appealing. That is why Rice et al removed significant variables with counterintuitive sign (see the statistical methods). But as a strategy it is not without risk.</p>
+      <p>Significant variables are informative even though their contributions to the model may not be obvious. They often seem to have a regression coefficient of the &#x0201c;wrong&#x0201d; sign, but the variable seems counterintuitive only if considered in isolation. Consideration of other variables in the model makes the reason clear. Variables with counterintuitive sign compensate for the excess effects of other variables in the model, so that excluding them removes this opportunity for negative feedback. The result is a model that is both less subtle and less predictive&#x02014;in short, the downside of transparency.</p>
+      <p>Another illustration of the tension between statistics and politics is the inclusion of the need variable defined as the percentage of dependants in no carer households. It is only marginally significant (t=2.17, table 1) and explains just 0.06&#x00025; of the variance&#x02014;far less than the other variables in the model and probably less than the variables excluded as counterintuitive. So it is irrelevant in terms of improving the fit and increases the complexity of the need model by a third. Yet it is included because it is intuitively appealing.</p>
+      <p>So the good news for practitioners is that the need model is both simple and plausible. The bad news is that the model fails to explain three eighths of the variation in prescription costs, and this fraction could be reduced if the model were allowed to be less transparent.</p>
+    </body>
+    <back>
+      <fn-group>
+        <fn>
+          <p>&#x02003; Competing interests: None declared.</p>
+        </fn>
+      </fn-group>
+    </back>
+  </response>
+</article>
+
+

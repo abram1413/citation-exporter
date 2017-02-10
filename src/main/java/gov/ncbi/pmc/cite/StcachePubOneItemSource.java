@@ -24,14 +24,17 @@ public class StcachePubOneItemSource extends ItemSource {
     // non-default settings
     private DocumentBuilderFactory dbf;
 
-    public StcachePubOneItemSource() throws Exception
+    public StcachePubOneItemSource(String imageLoc) throws Exception
     {
         super();
+        pubOneImage = imageLoc;
+      /*
         pubOneImage = System.getProperty("item_source_loc");
         if (pubOneImage == null) throw new IOException(
             "Need a value for the item_source_loc system property");
         log.info("Item source location (pub-one stcache image) = '" +
             pubOneImage + "'");
+      */
         pubOneStcache = new Pmfu(pubOneImage);
 
         dbf = DocumentBuilderFactory.newInstance();
@@ -58,7 +61,7 @@ public class StcachePubOneItemSource extends ItemSource {
     public Document retrieveItemPubOne(RequestId requestId)
         throws NotFoundException, IOException
     {
-        Identifier id = requestId.getIdByType("aiid");
+        Identifier id = requestId.getIdByType(this.wantsIdType());
         if (id == null) {
             throw new NotFoundException("Only supporting aiid's at this time");
         }

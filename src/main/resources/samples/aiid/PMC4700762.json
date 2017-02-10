@@ -1,0 +1,42 @@
+{
+  "source": "PMC",
+  "accessed": {
+    "date-parts": [
+      [
+        2017,
+        2,
+        10
+      ]
+    ]
+  },
+  "id": "pmid:26728406",
+  "title": "Cat scratches, not bites, are associated with unipolar depression--cross-sectional study.",
+  "author": [
+    {
+      "family": "Flegr",
+      "given": "Jaroslav"
+    },
+    {
+      "family": "Hodný",
+      "given": "Zdeněk"
+    }
+  ],
+  "container-title-short": "Parasit Vectors",
+  "container-title": "Parasites & vectors",
+  "ISSN": "1756-3305",
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        1,
+        5
+      ]
+    ]
+  },
+  "page": "8",
+  "volume": "9",
+  "PMID": "26728406",
+  "PMCID": "PMC4700762",
+  "DOI": "10.1186/s13071-015-1290-7",
+  "type": "article-journal"
+}

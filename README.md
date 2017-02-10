@@ -1,3 +1,5 @@
+# citation-exporter
+
 This is a citation exporting web service, based on the following excellent
 open-source tools:
 
@@ -7,128 +9,37 @@ open-source tools:
 
 ## Quick start
 
-Clone this repository:
+To run this service, identify the jar file with its version number, and run:
 
 ```
-git clone https://github.com/ncbi/citation-exporter.git
+java -jar pmc-citation-exporter-<version>.jar
 ```
 
-Then build and run this web service:
+This starts the server with the test item source, which reads article citation
+data from the samples directory. To run with real data, you will have to
+configure an item source to use.
+
+
+
+## Configuration - system properties
+
+Configuration is controlled with system properties, which you can set on the
+command line. For example, when running via the jetty maven plugin:
 
 ```
-mvn test
-mvn jetty:run
+mvn jetty:run -Djetty.port=9876 -Did_cache=true -Did_cache_ttl=8
 ```
 
-Point your browser to
-[http://localhost:11999/samples](http://localhost:11999/samples).
-
-
-## Testing
-
-Run unit tests as follows:
+Or, when running the executable jar (note that property settings must come before
+the `-jar` option):
 
 ```
-mvn test
+java -Djetty.port=9876 -Did_cache=true \
+  -jar pmc-citation-exporter-<version>.jar
 ```
 
-To run just one specific set of tests:
+The properties that control the behavior of the service are:
 
-```
-mvn -Dtest=AppTest test
-```
-
-You can use wildcards; for example:
-
-```
-mvn '-Dtest=*Test' test
-```
-
-See documentation on the [Maven Surefire
-plugin](http://maven.apache.org/surefire/maven-surefire-plugin/examples/single-test.html)
-for more options.
-
-
-### Test samples
-
-A good set of samples is listed in the application's [samples
-page](https://www.ncbi.nlm.nih.gov/pmc/utils/ctxp/samples).
-
-
-### Data-driven validation unit tests
-
-Among the unit tests that `mvn test` will run are two sets that use data files
-to verify the output of transformations, and the responses to requests:
-TestTransforms.java and TestRequests.java.
-
-***TestTransforms.java***
-
-This provides data-driven schematron and regular-expression matching tests
-of the XSLT transforms. The individual test cases are defined in the
-[transform-tests.json](src/test/resources/transform-tests.json) file, which
-is read into a List of TransformTestCase objects.
-
-You can use the `test_cases` system property to select which specific test
-case to run:
-
-- If omitted, or empty, all tests are run
-- Otherwise, it's matched against the description, as a regular expression
-
-So, for example, to test all the cases that have "PubOne" in the description,
-run:
-
-```
-mvn -Dtest=TestTransforms -Dtest_cases=PubOne test
-```
-
-The format of the transform-tests.json file is defined in comments there.
-
-When checking XML output, Schematron files are used, that are also in
-the src/test/resources directory.
-
-***TestRequests.java***
-
-This provides unit tests for the Request class, which handles HTTP requests.
-It uses Mockito to mock HttpServletRequest and HttpServletResponse objects.
-It reads test cases from the
-[request-tests.json](src/test/resources/request-tests.json) file into a List
-of RequestTestCase objects.
-
-As with TestTransforms, you can use the `test_cases` property to
-select which tests to run.
-
-For example, to test all the cases that have "style" in the description,
-run:
-
-```
-mvn -Dtest=TestRequests -Dtest_cases=style test
-```
-
-
-## Running as executable jar with embedded Jetty
-
-```
-mvn package
-java -jar target/pmc-citation-exporter-*.jar
-```
-
-As before, go to
-[http://localhost:11999/samples](http://localhost:11999/samples) in
-your browser to see the results.
-
-
-## Configuration
-
-Configuration is controlled with system properties.
-Set these on the run command line, for example:
-
-```
-mvn jetty:run -Djetty.port=9876 -Dcache_ids=true -Did_cache_ttl=8
-```
-
-Here are some of the parameters that can be used:
-
-* `cache_ids` - either "true" or "false".  Default is "false".
 * `com.sun.management.jmxremote.authenticate` - Set this to "false" to turn on
   turn on the [JMX monitor
   console](http://docs.oracle.com/javase/8/docs/technotes/guides/management/agent.html),
@@ -137,6 +48,8 @@ Here are some of the parameters that can be used:
 * `com.sun.management.jmxremote.port` - Set this to a port number, if you
   want to use the [JMX monitor
   console](http://docs.oracle.com/javase/8/docs/technotes/guides/management/agent.html).
+* `id_cache` - either "true" or "false".  Default is "false".
+* `id_cache_size` - specify the size of the cache for IDs. Default is 50000.
 * `id_cache_ttl` - time-to-live for each of the IDs in the ID cache, in
   seconds. Default is 86400.
 * `id_converter_params` - Query string parameters to send to the the PMC ID
@@ -154,25 +67,33 @@ Here are some of the parameters that can be used:
       also be set
     * gov.ncbi.pmc.cite.ConvAppNxmlItemSource - Get NXML from an HTTP web
       service. Requires item_source_loc to also be set
-* `item_source_loc` - When item_source is one of the Stcache options, this
-  needs to be the full pathname of the stcache image file.  When item_source
-  is ConvAppNxmlItemSource, then this should be the URL of the converter app
-  service.
+* `item_source_loc` - When `item_source` is:
+    * An Stcache: this needs to be the full pathname of the stcache image file.
+    * ConvAppNxmlItemSource: this should be the URL of the converter app.
+    * PubmedPubOneItemSource: this should be a URL template, with `${id}` in the
+      place where the numerical PubMed ID should be inserted.
+* `item_source_id_type` - Used only with the test item_source; this specifies
+  which ID type that item_source prefers. Default is "aiid".
 * `java.io.tmpdir` - used when running as an "uber jar"; this is where the
   application is unpacked.
-* `jetty.port` - the IP port number that the service will listen on
-* `log` - location of the log files.  Defaults to the *log* subdirectory of
-  the directory from which the app is run.
+* `jetty.port` - the IP port number that the service will listen on. The default
+  for this is set in the pom.xml files, as 11999.
+* `log` - location of the log files.  Defaults to a subdirectory named "log" of
+  the directory from which the app is run. The default for this is set in the
+  pom.xml file.
 * `log_level` - sets the logging level for the root logger, as one of the
   [log4j levels](https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/Level.html);
-  e.g. "DEBUG", "INFO". By default, this is `DEBUG` when running from the
-  jetty maven plugin, and `INFO` when running as an "uber jar".
+  e.g. "DEBUG", "INFO". The defaults for this are specified in the pom.xml file,
+  and is `DEBUG` when running from the jetty maven plugin, and `INFO` when
+  running as an "uber jar".
 * `xml.catalog.files` - used by the Apache commons CatalogResolver; this is
   the pathname of the OASIS catalog file to use when parsing XML files. See
   below for more info. Default value is "catalog.xml"
+* `proxy` - In the form "host:port". This is for use with the
+  PubmedPubOneItemSource. If set, then the service will access the item source
+  backend through the indicated HTTP proxy.
 
-
-### DTDs and XML catalog files
+## DTDs and XML catalog files
 
 The repository comes with an OASIS catalog file, [catalog.xml](catalog.xml),
 that is used, by default, to find DTDs. This contains:
@@ -401,10 +322,98 @@ this (request ""):
 ```
 
 
-# Monitoring the application
+## Testing
+
+Run unit tests as follows:
+
+```
+mvn test
+```
+
+To run just one specific set of tests (all the tests defined in the TestRequests
+class):
+
+```
+mvn -Dtest=TestRequests test
+```
+
+To run a single method of a test class:
+
+```
+mvn -Dtest=TestCitationProcessor#testBiblFromPubMedPubOne test
+```
+
+You can use wildcards; for example:
+
+```
+mvn '-Dtest=Test*' test
+mvn -Dtest='*Transform*' test
+```
+
+See documentation on the [Maven Surefire
+plugin](http://maven.apache.org/surefire/maven-surefire-plugin/)
+for more options.
 
 
-## Logging
+### Test samples
+
+A good set of samples is listed in the application's [samples
+page](https://www.ncbi.nlm.nih.gov/pmc/utils/ctxp/samples). The source files for
+these are in src/main/resources/samples, and the
+
+
+### Data-driven validation unit tests
+
+Among the unit tests that `mvn test` will run are two sets that use data files
+to verify the output of transformations, and the responses to requests:
+TestTransforms.java and TestRequests.java.
+
+***TestTransforms.java***
+
+This provides data-driven schematron and regular-expression matching tests
+of the XSLT transforms. The individual test cases are defined in the
+[transform-tests.json](src/test/resources/transform-tests.json) file, which
+is read into a List of TransformTestCase objects.
+
+You can use the `test_cases` system property to select which specific test
+case to run:
+
+- If omitted, or empty, all tests are run
+- Otherwise, it's matched against the description, as a regular expression
+
+So, for example, to test all the cases that have "PubOne" in the description,
+run:
+
+```
+mvn -Dtest=TestTransforms -Dtest_cases=PubOne test
+```
+
+The format of the transform-tests.json file is defined in comments there.
+
+When checking XML output, Schematron files are used, that are also in
+the src/test/resources directory.
+
+***TestRequests.java***
+
+This provides unit tests for the Request class, which handles HTTP requests.
+It uses Mockito to mock HttpServletRequest and HttpServletResponse objects.
+It reads test cases from the
+[request-tests.json](src/test/resources/request-tests.json) file into a List
+of RequestTestCase objects.
+
+As with TestTransforms, you can use the `test_cases` property to
+select which tests to run.
+
+For example, to test all the cases that have "style" in the description,
+run:
+
+```
+mvn -Dtest=TestRequests -Dtest_cases=style test
+```
+
+## Monitoring
+
+### Logs
 
 The location of log files is controlled by the system parameter `log`, which
 is usually set to the value "log" using `-Dlog=log` command-line switch.
@@ -415,7 +424,7 @@ the `log4j.rootLogger` property, and can be set to one of TRACE, DEBUG, INFO,
 WARN, ERROR or FATAL.
 
 
-## JMX Monitor Console
+### JMX Monitor Console
 
 You can use [JMX
 monitoring](http://docs.oracle.com/javase/8/docs/technotes/guides/management/agent.html),
@@ -446,56 +455,10 @@ jconsole localhost:11997
 
 ## Development
 
-### Build environments
 
-This repository has been configured such that, *by default*, it can run
-stand-alone, without any dependencies on NCBI-internal libraries or services.
+### Runtime environments
 
-In the production environment, however, we require access to a Java library
-which has not been released openly (groupId=gov.ncbi.pmc,
-artifactId=pmc-lib). References to that library exist in two class files,
-StcachePubOneItemSource and StcacheNxmlItemSource; so, *by default*, those
-are excluded from compilation.  This is accomplished by making the default
-build profile is
-"dev", which explicitly excludes those two class files, and doesn't include
-the dependency on the pmc-lib library.
-
-Building for production is done with the use of the "prod" Maven profile
-(`mvn -Pprod`). That profile doesn't exclude those class files for
-compilation, and does declares the dependency on the pmc-lib library.
-
-
-### Test item provider
-
-When the value of *item_source" is "test", the citation data is mock data
-from the *src/main/webapp/test* directory.
-
-### Eclipse setup
-
-To work in Eclipse, import this project into your workspace.
-
-***Turn off validation of some subdirectories.***
-
-Turn off validation of the DTD subdirectories of *jats*
-by right-clicking on them, selecting
-"Properties", and then check "derived". This will cause all of the files
-under these directories to be excluded from validation. You might have
-to select "Project" -> "Clean" to get rid of existing errors.
-
-It might help even more, to speed up builds, to turn off all validation in the
-project. Right click on the project, then select Properties, then Validation,
-and check "Suspend all validators".
-
-***Set up some file types***
-
-In Preferences → General → Content Types, select "Text", then "XML". Then
-add two new types: "*.nxml" (JATS PMC NXML format) and "*.sch" (Schematron
-files).
-
-
-### Jetty configuration
-
-There are two ways to run the server under Jetty:
+There are two ways to run the server:
 
 * Using the [Jetty Maven
   plugin](http://www.eclipse.org/jetty/documentation/current/jetty-maven-plugin.html),
@@ -505,7 +468,7 @@ There are two ways to run the server under Jetty:
   `mvn package; java -jar target/pmc-citation-exporter...jar`.
 
 
-### Run with Jetty Maven plugin
+#### Running with Jetty Maven plugin
 
 To use the Jetty Maven plugin, run with, for example:
 
@@ -513,10 +476,11 @@ To use the Jetty Maven plugin, run with, for example:
 mvn clean jetty:run
 ```
 
-This *does not use* the src/main/webapp/jetty.xml configuration file.
+The main entry point to the app is in MainServlet.java. This environment *does
+not use*:
 
-In this case, the main entry point to the app is in MainServlet.java;
-the code in WebServer.java does not get executed.
+* the src/main/webapp/jetty.xml configuration file, or
+* The code in WebServer.java
 
 Some options are set in the pom.xml so that, when running with `jetty:run`,
 it scans for changes to
@@ -560,22 +524,23 @@ For example:
 </plugin>
 ```
 
-But note that there seems to be a bug in the "hot redeploy" feature
-of the Jetty Maven plugin. When changes are made to sample files under
-src/main/resources/samples, the application is restarted, but for some reason,
-those changed files are not copied into the target/classes/samples directory
-as they should be. Those sample files *are* copied, however, when the
-application restarts as a result of a Java source file changing.
+> ***Bug***
+>
+> But note that there seems to be a bug in the "hot redeploy" feature
+> of the Jetty Maven plugin. When changes are made to sample files under
+> src/main/resources/samples, the application is restarted, but for some reason,
+> those changed files are not copied into the target/classes/samples directory
+> as they should be. Those sample files *are* copied, however, when the
+> application restarts as a result of a Java source file changing.
 
 
-### Jetty shaded uber-jar
+#### Running the Jetty shaded uber-jar
 
-This is used when you run the `mvn package` command, and causes the creation
-of an executable jar file in the target subdirectory (currently
-target/pmc-citation-exporter-\<version>.jar), that includes
-all of the dependencies, including Jetty itself.
+An executable jar is created with the `mvn package` command, and put into the
+target subdirectory (target/pmc-citation-exporter-\<version>.jar). This one
+"uber jar" includes all of the dependencies, including Jetty itself.
 
-This is controlled by the [Apache Maven Shade
+This process is controlled by the [Apache Maven Shade
 plugin](http://maven.apache.org/plugins/maven-shade-plugin/),
 which is configured by a \<plugin> section of the pom.xml.
 
@@ -593,9 +558,96 @@ Note that system properties must be set on the command line *before* the
 `-jar` option.
 
 When running this way, Jetty is configured by the src/main/webapp/jetty.xml
-file. (Note that this is *not used* when running with `mvn jetty:run`).
-The main entry point to the application is in WebServer.java.
+file. The main entry point to the application is in WebServer.java.
 
+
+### System properties
+
+By convention, in the source code, we try to encapsulate the handling of System
+properties in the App class. All other classes should use plain Java APIs for
+controlling options.
+
+Property values are set in a number of ways:
+
+* src/main/resources/ctxp.properties - This is a template, and values for these
+  properties are computed and set at build time. The result is then written
+  to the root directory of the project (./ctxp.properties). Properties set in
+  this file are:
+    * ctxp.version
+    * ctxp.sha
+    * ctxp.config.sha
+
+* pom.xml - These properties are applied when running with the jetty maven
+  plugin (`mvn jetty:run`). Currently, the ones specified in the
+  pom.xml file are:
+    * jetty.port
+    * log
+    * log_level
+
+* WebServer.java - These are applied when running the executable jar.
+
+* App.java - In a few cases, defaults are specified in this class.
+
+* On the command line. For example:
+
+    ```
+    mvn jetty:run -Djetty.port=9876 -Did_cache=true -Did_cache_ttl=8
+    ```
+
+
+
+### Build environments
+
+This repository has been configured such that, *by default*, it can run
+stand-alone, without any dependencies on NCBI-internal libraries or services.
+
+In the production environment, however, we require access to a Java library
+which has not been released openly (groupId=gov.ncbi.pmc,
+artifactId=pmc-lib). References to that library exist in two class files,
+StcachePubOneItemSource and StcacheNxmlItemSource; so, *by default*, those
+are excluded from compilation.  This is accomplished by making the default
+build profile is "dev", which explicitly excludes those two class files, and
+doesn't include the dependency on the pmc-lib library.
+
+Building for production is done with the use of the "prod" Maven profile
+(`mvn -Pprod`). That profile doesn't exclude those class files for
+compilation, and does declares the dependency on the pmc-lib library.
+
+
+### Eclipse setup
+
+To work in Eclipse, import this project into your workspace.
+
+***Turn off validation of some subdirectories.***
+
+Turn off validation of the DTD subdirectories of *jats*
+by right-clicking on them, selecting
+"Properties", and then check "derived". This will cause all of the files
+under these directories to be excluded from validation. You might have
+to select "Project" -> "Clean" to get rid of existing errors.
+
+It might help even more, to speed up builds, to turn off all validation in the
+project. Right click on the project, then select Properties, then Validation,
+and check "Suspend all validators".
+
+***Set up some file types***
+
+In Preferences → General → Content Types, select "Text", then "XML". Then
+add two new types: "*.nxml" (JATS PMC NXML format) and "*.sch" (Schematron
+files).
+
+
+### Test item provider
+
+When the value of *item_source" is "test", the citation data is mock data
+from the *src/main/webapp/test* directory.
+
+
+### Javadocs
+
+When you run `mvn package`, Javadocs are generated from the sources, and
+written to target/apidocs, as well as to their own Jar file
+target/pmc-citation-exporter-<version>-javadoc.jar
 
 ### Exception handling
 
@@ -866,7 +918,7 @@ For example,
 ```
 
 
-# Public Domain notice
+## Public Domain notice
 
 National Center for Biotechnology Information.
 
@@ -886,5 +938,3 @@ warranties of performance, merchantability or fitness for any
 particular purpose.
 
 Please cite NCBI in any work or product based on this material.
-
-

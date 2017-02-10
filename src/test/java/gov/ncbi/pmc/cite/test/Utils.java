@@ -21,12 +21,6 @@ import gov.ncbi.pmc.cite.App;
  */
 public class Utils {
 
-    public static void setProperties()
-    {
-        setDefaultSystemProperty("log", "testlog");
-        setDefaultSystemProperty("log_level", "TRACE");
-    }
-
     /**
      * Call this first from your test method, and it will log the test name
      * first, and then initialize the App. Use it to set the test's log
@@ -43,25 +37,45 @@ public class Utils {
      *     }
      * }</code></pre>
      */
-    public static Logger setup(TestName name)
+    public static Logger setup(TestName name, String[][] props)
         throws Exception
     {
-        setProperties();
+        // First set default system properties for a few important ones.
+        setSystemProperties(new String[][] {
+            {"log", "testlog"},
+            {"log_level", "TRACE"},
+            {"item_source", "test"},
+            {"item_source_id_type", "aiid"}
+        });
+
+        // Then set "overrides"
+        setSystemProperties(props);
+
         Logger log = LoggerFactory.getLogger(name.getClass());
+        log.info("=====================================================================");
         log.info("Starting test " + name.getMethodName());
-        System.setProperty("item_source", "test");
         App.init();
         return log;
     }
 
     /**
-     * Helper function - this sets the system property to its default, only if
-     * it wasn't already set.
+     * A convenience form of setup, for use when no default system properties need
+     * to be overridden.
      */
-    public static void setDefaultSystemProperty(String name, String def) {
-        String p = System.getProperty(name);
-        if (p == null) {
-            System.setProperty(name, def);
+    public static Logger setup(TestName name)
+        throws Exception
+    {
+        return setup(name, null);
+    }
+
+    /**
+     * Helper function - this sets a list of system properties.
+     */
+    public static void setSystemProperties(String[][] pairs) {
+        if (pairs != null) {
+            for (String[] pair : pairs) {
+                System.setProperty(pair[0], pair[1]);
+            }
         }
     }
 

@@ -5,7 +5,8 @@ import org.antlr.v4.runtime.misc.NotNull;
 import gov.ncbi.pmc.cite.BadParamException;
 
 /**
- * This stores a canonicalized ID.
+ * This stores a canonicalized ID, that can be instantiated in a number of
+ * ways.
  */
 public class Identifier {
     private final String type;
@@ -35,9 +36,9 @@ public class Identifier {
     }
 
     /**
-     * This method checks the id string to see what type it is, by attempting
-     * to match it against the regular expressions listed above.  It throws
-     * an exception if it can't find a match.
+     * This method checks the id value string, attempting
+     * to match it against the regular expressions listed above, to determine
+     * its type. It throws an exception if it can't find a match.
      */
     public static String matchIdType(String idStr)
         throws BadParamException
@@ -66,36 +67,50 @@ public class Identifier {
     }
 
     /**
-     * Create a new Identifier object.  This validates and canonicalizes
-     * the value given.
+     * Create a new Identifier object from a value string, which might or
+     * might not be a curie. If not, then this attempts to determine the type
+     * by matching it to the patterns above. If it matches more than one, and
+     * one of them is the default type "aiid", then it uses that.
      */
-    public Identifier(@NotNull String type, @NotNull String value)
+    public Identifier(@NotNull String _value)
         throws BadParamException
     {
-        if (!idTypeValid(type)) {
+        this(_value, "aiid");
+    }
+
+    /**
+     * Create a new Identifier object.  This validates and canonicalizes
+     * the value given.
+     *
+     * FIXME: Why not a constructor that takes a CURIE (e.g. "pmid:123456")?
+     */
+    public Identifier(@NotNull String _value, @NotNull String defaultType)
+        throws BadParamException
+    {
+        if (!idTypeValid(defaultType)) {
             throw new BadParamException("Id type not recognized.");
         }
-        if (!idTypeMatches(value, type)) {
+        if (!idTypeMatches(_value, defaultType)) {
             throw new BadParamException("This doesn't look like a valid " +
                 "id for this type.");
         }
         String cvalue = null;
-        if (type.equals("pmcid")) {
-            if (value.matches("\\d+")) {
-                cvalue = "PMC" + value;
+        if (defaultType.equals("pmcid")) {
+            if (_value.matches("\\d+")) {
+                cvalue = "PMC" + _value;
             }
             else {
-                cvalue = value.toUpperCase();
+                cvalue = _value.toUpperCase();
             }
         }
-        else if (type.equals("mid")) {
-            cvalue = value.toUpperCase();
+        else if (defaultType.equals("mid")) {
+            cvalue = _value.toUpperCase();
         }
         else {
-            cvalue = value;
+            cvalue = _value;
         }
 
-        this.type = type;
+        this.type = defaultType;
         this.value = cvalue;
     }
 
@@ -118,12 +133,14 @@ public class Identifier {
     @Override
     public int hashCode() {
         final int prime = 31;
-        int result = 1;
-        result = prime * result + ((type == null) ? 0 : type.hashCode());
-        result = prime * result + ((value == null) ? 0 : value.hashCode());
+        int result = prime * ((type == null) ? 0 : type.hashCode()) +
+                ((value == null) ? 0 : value.hashCode());
         return result;
     }
 
+    /**
+     * Strict equals - the identifers must exactly match type and value.
+     */
     @Override
     public boolean equals(Object obj) {
         if (this == obj) return true;

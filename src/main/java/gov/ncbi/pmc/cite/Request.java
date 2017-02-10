@@ -709,6 +709,7 @@ public class Request {
 
             // Parse the output entries, and stick them into the output document
             String entryIds[] = bibl.getEntryIds();
+            log.debug("entryIds: " + String.join(", ", entryIds));
             String entries[] = bibl.getEntries();
 
 
@@ -719,16 +720,25 @@ public class Request {
             for (int i = 0; i < numRequestIds; ++i) {
                 RequestId requestId = idList.get(i);
                 //IdGlob idg = requestId.getIdGlob();
-                if (requestId != null && requestId.isGood())
-                    goodIds.add(requestId);
+                if (requestId != null) goodIds.add(requestId);
             }
 
             int numGoodIds = goodIds.size();
+            log.debug("numRequestIds = " + numRequestIds + ", numGoodIds = " + numGoodIds);
+            String wantedType = App.getItemSource().wantsIdType();
+
+            // FIXME: This is really ugly. I need to add a method to either Identifier or
+            // IdGlob that compares it against any other Identifier or IdGlob. That method
+            // should be able to recognize that IDs of two different types are equal.
             for (int idnum = 0; idnum < numGoodIds; ++idnum) {
                 RequestId requestId = goodIds.get(idnum);
-                Identifier aiid = requestId.getIdByType("aiid");
-                if (aiid == null) continue;
-                String curie = aiid.getCurie();
+                log.debug("requestId = " + requestId);
+
+                Identifier wid = requestId.getIdByType(wantedType);
+                log.debug("wid = " + wid);
+                if (wid == null) continue;
+                String curie = wid.getCurie();
+                log.debug("curie = " + curie);
                 int entryNum = ArrayUtils.indexOf(entryIds, curie);
                 String entry = entries[entryNum];
 
@@ -748,8 +758,8 @@ public class Request {
                 entryDiv.setAttribute("data-style", style);
                 Identifier rid = requestId.getCanonical();
                 entryDiv.setAttribute("data-id", rid.getCurie());
-                if (!rid.equals(aiid)) {
-                    entryDiv.setAttribute("data-resolved-id", aiid.getCurie());
+                if (!rid.equals(wid)) {
+                    entryDiv.setAttribute("data-resolved-id", wid.getCurie());
                 }
 
                 // Remove the <div class='csl-left-margin'>, if it exists

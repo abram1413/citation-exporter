@@ -1,0 +1,350 @@
+<!-- ArticleInstanceId : 3155426, Path: canfamphys/57-2011/8/preload/nxml/, Name : 0570864.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="editorial">
+  <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>
+  <?DTDIdentifier.IdentifierType public?>
+  <?SourceDTD.DTDName journalpublishing.dtd?>
+  <?SourceDTD.Version 2.3?>
+  <?ConverterInfo.XSLTName jp2nlmx2.xsl?>
+  <?ConverterInfo.Version 2?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Can Fam Physician</journal-id>
+      <journal-id journal-id-type="hwp">cfp</journal-id>
+      <journal-id journal-id-type="publisher-id">CFP</journal-id>
+      <journal-title-group>
+        <journal-title>Canadian Family Physician</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0008-350X</issn>
+      <issn pub-type="epub">1715-5258</issn>
+      <publisher>
+        <publisher-name>College of Family Physicians of Canada</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">864</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Editorial</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Should we prescribe opioids for chronic noncancer pain?</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ladouceur</surname>
+            <given-names>Roger</given-names>
+          </name>
+          <degrees>MD MSc CCMF FCMF</degrees>
+          <role>ASSOCIATE SCIENTIFIC EDITOR</role>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <month>8</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>57</volume>
+      <issue>8</issue>
+      <fpage>864</fpage>
+      <lpage>864</lpage>
+      <permissions>
+        <copyright-statement>Copyright&#x000a9; the College of Family Physicians of Canada</copyright-statement>
+        <copyright-year>2011</copyright-year>
+      </permissions>
+      <self-uri xlink:title="pdf" xlink:type="simple" xlink:href="864.pdf"/>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="f1-0570864" position="anchor">
+      <graphic xlink:href="864fig1"/>
+    </fig>
+    <p>These days, prescribing opioids for treating chronic noncancer pain (CNCP) is a common and generally accepted practice. Such treatment is in line with the recommendations of the American Pain Society and the American Academy of Pain Medicine published in 2009, which stipulated the following: &#x0201c;Chronic opioid therapy can be an effective therapy for carefully selected and monitored patients with chronic noncancer pain.&#x0201d;<sup>
+        <xref rid="b1-0570864" ref-type="bibr">1</xref>
+      </sup> Such treatment is also in accordance with recommendations released in Canada in 2010 by the National Opioid Use Guideline Group, which stated, &#x0201c;In patients with chronic noncancer pain, opioids may be effective and should be considered.&#x0201d;<sup>
+        <xref rid="b2-0570864" ref-type="bibr">2</xref>
+      </sup>
+    </p>
+    <p>However, this month&#x02019;s RxFiles article (<bold>page <related-article related-article-type="article-reference" id="d32e77" vol="57" page="907" ext-link-type="pmc">907</related-article></bold>) raises some doubt about these recommendations. Karras and colleagues explain the following: &#x0201c;Evidence from randomized controlled trials suggests opioids have a small to moderate effect on pain and function in OA when compared to placebo.&#x0201d; They also state, &#x0201c;A recent observational trial of healthy older adults with arthritis found that compared with NSAIDs, opioids were associated with a much higher risk of composite fracture.&#x0201d;<sup>
+        <xref rid="b3-0570864" ref-type="bibr">3</xref>
+      </sup>
+    </p>
+    <p>These cautions are troubling, but apply only to elderly patients with osteoarthritis. A meta-analysis published in 2006 raised more concerns, however, since it focused on patients with CNCP. The results revealed that opioids did not improve patients&#x02019; functioning: &#x0201c;Other drugs produced better functional outcomes than opioids, whereas for pain relief they were outperformed only by strong opioids.&#x0201d; About a third of the patients abandoned their treatment.<sup>
+        <xref rid="b4-0570864" ref-type="bibr">4</xref>
+      </sup>
+    </p>
+    <p>Now as if that were not enough, the National Opioid Use Guideline Group&#x02019;s recommendations<sup>
+        <xref rid="b2-0570864" ref-type="bibr">2</xref>
+      </sup> has raised various reactions from many, including Dr Roger Chou, the lead author of the American guidelines.<sup>
+        <xref rid="b1-0570864" ref-type="bibr">1</xref>
+      </sup> He wrote, in the same issue in which the recommendations saw the light of day, &#x0201c;In the Canadian guideline, just 3 of 24 recommendations were classified as based on randomized controlled trials. Nineteen recommendations were based solely or partially on consensus opinion.&#x0201d; He added, &#x0201c;[T]he developers of the guidelines found that what we know about opioids is dwarfed by what we don&#x02019;t know.&#x0201d;<sup>
+        <xref rid="b5-0570864" ref-type="bibr">5</xref>
+      </sup> Could he have said anything harsher?
+    </p>
+    <p>So, according to these divergent opinions, not only are opioids of little or just moderate use in easing pain, but also they do not improve quality of life for the patients who take them, and they could even cause serious adverse effects. What more is there to be said: the recommendations encouraging us to prescribe opioids are not founded on evidence-based data. These are criticisms for a treatment so commonly used!</p>
+    <p>It&#x02019;s important to understand the real value of opioids for treating CNCP for 2 main reasons. First, chronic pain is such a widespread phenomenon. It is estimated that a quarter or even a third of Canadians suffer from chronic pain.<sup>
+        <xref rid="b6-0570864" ref-type="bibr">6</xref>,<xref rid="b7-0570864" ref-type="bibr">7</xref>
+      </sup> That means a few million people in Canada are in pain, incidently that includes 38% of elderly institutionalized people and 27% of those who stay at home suffering such pain.<sup>
+        <xref rid="b8-0570864" ref-type="bibr">8</xref>
+      </sup> Second, by its own definition, it&#x02019;s a pain that persists. It is estimated that chronic pain lasts on average about 10 years.<sup>
+        <xref rid="b7-0570864" ref-type="bibr">7</xref>
+      </sup> There is every reason to believe that during this time other therapeutic modalities have been prescribed for long periods and have not been found effective. Minor analgesics like acetaminophen and nonsteroidal anti-inflammatory drugs, co-analgesics, all the topical treatments, and physical care and alternative therapies have no doubt been recommended and have all been ineffective, otherwise CNCP would no longer exist! It is highly probable that we will prescribe opioids to all patients with CNCP, and it is hardly surprising that we have observed, during the last few years, a drastic rise in the consumption of these medications in Canada.
+    </p>
+    <p>It is important to establish the evidence base for the effectiveness of opioids in the treatment of CNCP and not to base our practice only on the consensus of experts, no matter how learned they be.</p>
+  </body>
+  <back>
+    <fn-group>
+      <fn xml:lang="fr">
+        <p>Cet article se trouve aussi en fran&#x000e7;ais &#x000e0; la <bold>page <related-article related-article-type="alt-language" id="d32e130" vol="57" page="865" ext-link-type="pmc">865</related-article></bold>.</p>
+      </fn>
+      <fn>
+        <p>
+          <bold>Competing interests</bold>
+        </p>
+        <p>None declared</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="b1-0570864">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chou</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Fanciullo</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Fine</surname>
+              <given-names>PG</given-names>
+            </name>
+            <name>
+              <surname>Adler</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Ballantyne</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Davies</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Clinical guidelines for the use of chronic opioid therapy in chronic noncancer pain</article-title>
+          <source>J Pain</source>
+          <year>2009</year>
+          <volume>10</volume>
+          <issue>2</issue>
+          <fpage>113</fpage>
+          <lpage>30</lpage>
+          <pub-id pub-id-type="pmid">19187889</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b2-0570864">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Furlan</surname>
+              <given-names>AD</given-names>
+            </name>
+            <name>
+              <surname>Reardon</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Weppler</surname>
+              <given-names>C</given-names>
+            </name>
+            <collab>National Opioid Use Guideline Group</collab>
+          </person-group>
+          <article-title>Opioids for chronic noncancer pain: a new Canadian practice guideline</article-title>
+          <source>CMAJ</source>
+          <year>2010</year>
+          <volume>182</volume>
+          <issue>9</issue>
+          <fpage>923</fpage>
+          <lpage>30</lpage>
+          <comment>Epub 2010 May 3.</comment>
+          <pub-id pub-id-type="pmid">20439443</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b3-0570864">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Karras</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>McKee</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Regier</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Stone</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Opioids for chronic noncancer pain in the elderly. An osteoarthritis case</article-title>
+          <source>Can Fam Physician</source>
+          <year>2011</year>
+          <volume>57</volume>
+          <fpage>907</fpage>
+          <lpage>11</lpage>
+        </element-citation>
+      </ref>
+      <ref id="b4-0570864">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Furlan</surname>
+              <given-names>AD</given-names>
+            </name>
+            <name>
+              <surname>Sandoval</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Mailis-Gagnon</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Tunks</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Opioids for chronic noncancer pain: a meta-analysis of effectiveness and side effects</article-title>
+          <source>CMAJ</source>
+          <year>2006</year>
+          <month>5</month>
+          <day>23</day>
+          <volume>174</volume>
+          <issue>11</issue>
+          <fpage>1589</fpage>
+          <lpage>94</lpage>
+          <pub-id pub-id-type="pmid">16717269</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b5-0570864">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chou</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>What we still don&#x02019;t know about treating chronic noncancer pain with opioids</article-title>
+          <source>CMAJ</source>
+          <year>2010</year>
+          <volume>182</volume>
+          <issue>9</issue>
+          <fpage>881</fpage>
+          <lpage>2</lpage>
+          <comment>Epub 2010 May 3.</comment>
+          <pub-id pub-id-type="pmid">20439440</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b6-0570864">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boulanger</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Clark</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Squire</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Horbay</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <article-title>Chronic pain in Canada: have we improved our management of chronic noncancer pain?</article-title>
+          <source>Pain Res Manag</source>
+          <year>2007</year>
+          <volume>12</volume>
+          <issue>1</issue>
+          <fpage>39</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="pmid">17372633</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b7-0570864">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moulin</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Clark</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Speechley</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Morley-Foster</surname>
+              <given-names>PK</given-names>
+            </name>
+          </person-group>
+          <article-title>Chronic pain in Canada&#x02014;prevalence, treatment, impact and the role of opioid analgesia</article-title>
+          <source>Pain Res Manag</source>
+          <year>2002</year>
+          <volume>7</volume>
+          <issue>4</issue>
+          <fpage>179</fpage>
+          <lpage>84</lpage>
+          <pub-id pub-id-type="pmid">12518174</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b8-0570864">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramage-Morin</surname>
+              <given-names>PL</given-names>
+            </name>
+          </person-group>
+          <article-title>Medication use among senior Canadians</article-title>
+          <source>Health Rep</source>
+          <year>2009</year>
+          <volume>20</volume>
+          <issue>1</issue>
+          <fpage>37</fpage>
+          <lpage>44</lpage>
+          <pub-id pub-id-type="pmid">19388367</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+

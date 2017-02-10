@@ -50,7 +50,7 @@ public class TestTransformSimple {
         ItemSource itemSource = App.getItemSource();
 
         Document nxml_31 = null;
-        RequestId requestId = new RequestId("31", new Identifier("aiid", "31"));
+        RequestId requestId = new RequestId("31", new Identifier("31", "aiid"));
         nxml_31 = itemSource.retrieveItemNxml(requestId);
         assertEquals(nxml_31.getDocumentElement().getTagName(), "article");
     }

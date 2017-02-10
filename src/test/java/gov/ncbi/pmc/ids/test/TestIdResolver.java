@@ -7,7 +7,10 @@ import static org.junit.Assert.assertNull;
 import static org.junit.Assert.fail;
 
 import org.junit.Before;
+import org.junit.Rule;
 import org.junit.Test;
+import org.junit.rules.TestName;
+import org.slf4j.Logger;
 
 import gov.ncbi.pmc.cite.BadParamException;
 import gov.ncbi.pmc.ids.IdGlob;
@@ -16,8 +19,15 @@ import gov.ncbi.pmc.ids.Identifier;
 import gov.ncbi.pmc.ids.RequestId;
 import gov.ncbi.pmc.ids.RequestIdList;
 
-public class IdResolverTest
+import org.slf4j.Logger;
+
+public class TestIdResolver
 {
+    private Logger log;
+
+    @Rule
+    public TestName name = new TestName();
+
     /**
      * Set up the testing environment
      */
@@ -37,7 +47,7 @@ public class IdResolverTest
         boolean exceptionThrown;
 
         try {
-            id0 = new Identifier("pmid", "12345");
+            id0 = new Identifier("12345", "pmid");
         }
         catch (BadParamException e) {
             fail("Got BadParamException: " + e.getMessage());
@@ -49,7 +59,7 @@ public class IdResolverTest
         // Test bad type
         exceptionThrown = false;
         try {
-            id0 = new Identifier("foo", "1234");
+            id0 = new Identifier("1234", "foo");
         }
         catch (BadParamException e) {
             exceptionThrown = true;
@@ -59,7 +69,7 @@ public class IdResolverTest
         // Test a bad pattern
         exceptionThrown = false;
         try {
-            id0 = new Identifier("pmcid", "1234x");
+            id0 = new Identifier("1234x", "pmcid");
         }
         catch (BadParamException e) {
             exceptionThrown = true;
@@ -68,8 +78,8 @@ public class IdResolverTest
 
         // Test canonicalization
         try {
-            id0 = new Identifier("pmcid", "pmc12345");
-            id1 = new Identifier("pmcid", "2345");
+            id0 = new Identifier("pmc12345", "pmcid");
+            id1 = new Identifier("2345", "pmcid");
         }
         catch (BadParamException e) {
             fail("Got BadParamException: " + e.getMessage());
@@ -86,16 +96,13 @@ public class IdResolverTest
         IdGlob idg = null;
 
         idg = new IdGlob();
-        assert(idg.isGood());
-        idg.setGood(false);
-        assertFalse(idg.isGood());
         assertFalse(idg.isVersioned());
 
         // Add some Identifiers
         try {
-            idg.addId(new Identifier("pmid", "1234"));
-            idg.addId(new Identifier("pmcid", "2345"));
-            idg.addId(new Identifier("doi", "10.12/23/45"));
+            idg.addId(new Identifier("1234", "pmid"));
+            idg.addId(new Identifier("2345", "pmcid"));
+            idg.addId(new Identifier("10.12/23/45", "doi"));
         }
         catch (BadParamException e) {
             fail("Got BadParamException: " + e.getMessage());
@@ -112,8 +119,8 @@ public class IdResolverTest
         IdGlob kid0, kid1;
         kid0 = new IdGlob();
         try {
-            kid0.addId(new Identifier("mid", "NIHMS444"));
-            kid0.addId(new Identifier("pmcid", "2345.1"));
+            kid0.addId(new Identifier("NIHMS444", "mid"));
+            kid0.addId(new Identifier("2345.1", "pmcid"));
         }
         catch (BadParamException e) {
             fail("Got BadParamException: " + e.getMessage());
@@ -122,8 +129,8 @@ public class IdResolverTest
 
         kid1 = new IdGlob();
         try {
-            kid1.addId(new Identifier("mid", "NIHMS445"));
-            kid1.addId(new Identifier("pmcid", "2345.2"));
+            kid1.addId(new Identifier("NIHMS445", "mid"));
+            kid1.addId(new Identifier("2345.2", "pmcid"));
         }
         catch (BadParamException e) {
             fail("Got BadParamException: " + e.getMessage());
@@ -153,21 +160,28 @@ public class IdResolverTest
         boolean exceptionThrown;
 
         try {
-            origId = new Identifier(origType, origString);
+            origId = new Identifier(origString, origType);
             rid = new RequestId(origString, origId);
         }
         catch (BadParamException e) {
             fail("Got BadParamException: " + e.getMessage());
         }
         assertEquals(origType, rid.getType());
-        assertEquals(origString, rid.getOriginalValue());
+        assertEquals(origString, rid.getRequestedValue());
         assertEquals("pmcid:PMC1234", rid.getCanonical().toString());
         assertNotNull(rid.getIdGlob());
+        assert(rid.getData() == null);
+        rid.setData(false);
+        assertFalse((Boolean) rid.getData());
+
+
+
+
         IdGlob idg = new IdGlob();
         try {
-            idg.addId(new Identifier("pmid", "1234"));
+            idg.addId(new Identifier("1234", "pmid"));
             idg.addId(origId);
-            idg.addId(new Identifier("doi", "10.12/23/45"));
+            idg.addId(new Identifier("10.12/23/45", "doi"));
             rid.setIdGlob(idg);
         }
         catch (Exception e) {
@@ -181,7 +195,7 @@ public class IdResolverTest
         RequestId rid1 = new RequestId(origString, origId);
         IdGlob idg1 = new IdGlob();
         try {
-            idg1.addId(new Identifier("pmid", "1234"));
+            idg1.addId(new Identifier("1234", "pmid"));
             rid1.setIdGlob(idg1);
         }
         catch (BadParamException e) {
@@ -215,7 +229,7 @@ public class IdResolverTest
         assertEquals("pmcid:PMC0222", idList.get(2).getCanonical().toString());
 
         try {
-            int i = idList.lookup(new Identifier("pmcid", "pmc0111"));
+            int i = idList.lookup(new Identifier("pmc0111", "pmcid"));
             assertEquals(1, i);
         }
         catch (BadParamException e) {
@@ -249,7 +263,7 @@ public class IdResolverTest
     public static RequestId buildRequestId(String origType, String origString)
         throws BadParamException
     {
-        Identifier origId = new Identifier(origType, origString);
+        Identifier origId = new Identifier(origString, origType);
         return new RequestId(origString, origId);
     }
 
@@ -258,7 +272,7 @@ public class IdResolverTest
     {
         IdGlob idg = new IdGlob();
         for (int i = 0; i < tv.length; i += 2) {
-            idg.addId(new Identifier(tv[i], tv[i+1]));
+            idg.addId(new Identifier(tv[i+1], tv[i]));
         }
         return idg;
     }
@@ -288,12 +302,12 @@ public class IdResolverTest
         // Check the first ID
         rid0 = idList.get(0);
         assertEquals("pmcid", rid0.getType());
-        assertEquals("PMC3362639", rid0.getOriginalValue());
+        assertEquals("PMC3362639", rid0.getRequestedValue());
         assertEquals("pmcid:PMC3362639", rid0.getCanonical().toString());
+
         idg0 = rid0.getIdGlob();
         assertNotNull(idg0);
         assertFalse(idg0.isVersioned());
-        assert(idg0.isGood());
         assertEquals("aiid:3362639", idg0.getIdByType("aiid").toString());
         assertEquals("doi:10.1371/journal.pmed.1001226", idg0.getIdByType("doi").toString());
         assertNull(idg0.getIdByType("pmid"));
@@ -301,12 +315,11 @@ public class IdResolverTest
         // Check the second ID
         rid1 = idList.get(1);
         assertEquals("pmcid", rid1.getType());
-        assertEquals("Pmc3159421", rid1.getOriginalValue());
+        assertEquals("Pmc3159421", rid1.getRequestedValue());
         assertEquals("pmcid:PMC3159421", rid1.getCanonical().toString());
         idg1 = rid1.getIdGlob();
         assertNotNull(idg1);
         assertFalse(idg1.isVersioned());
-        assert(idg1.isGood());
         assertEquals("aiid:3159421", idg1.getIdByType("aiid").toString());
         assertEquals("doi:10.4242/BalisageVol7.Maloney01", idg1.getIdByType("doi").toString());
         assertEquals("pmid:21866248", idg1.getIdByType("pmid").toString());

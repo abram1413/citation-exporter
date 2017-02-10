@@ -1,0 +1,2976 @@
+<!-- ArticleInstanceId : 3179987, Path: hal/5-2011/9/halms519717/preload/nxml/, Name : halms519717.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>
+  <?DTDIdentifier.IdentifierType public?>
+  <?SourceDTD.DTDName journalpublishing.dtd?>
+  <?SourceDTD.Version 2.3?>
+  <?ConverterInfo.XSLTName jp2nlmx2.xsl?>
+  <?ConverterInfo.Version 2?>
+  <?properties manuscript?>
+  <?origin hal?>
+  <?release-date 09-26-2011?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Am J Geriatr Psychiatry</journal-id>
+      <journal-title-group>
+        <journal-title>The American Journal of Geriatric Psychiatry</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1064-7481</issn>
+      <issn pub-type="epub">1545-7214</issn>
+      <publisher>
+        <publisher-name>American Psychiatry Press</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="manuscript">halms519717</article-id>
+      <article-id pub-id-type="pmid">20808113</article-id>
+      <article-id pub-id-type="doi">10.1097/JGP.0b013e3181e049b6</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+          <subj-group subj-group-type="subrepository">
+            <subject>INSERM Subrepository</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Insomnia symptoms in older adults: associated factors and gender differences</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jaussent</surname>
+            <given-names>Isabelle</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dauvilliers</surname>
+            <given-names>Yves</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ancelin</surname>
+            <given-names>Marie-Laure</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dartigues</surname>
+            <given-names>Jean-Fran&#x000e7;ois</given-names>
+          </name>
+          <xref ref-type="aff" rid="A2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tavernier</surname>
+            <given-names>B&#x000e9;atrice</given-names>
+          </name>
+          <xref ref-type="aff" rid="A3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Touchon</surname>
+            <given-names>Jacques</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ritchie</surname>
+            <given-names>Karen</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Besset</surname>
+            <given-names>Alain</given-names>
+          </name>
+          <xref ref-type="aff" rid="A1">1</xref>
+          <xref rid="FN1" ref-type="author-notes">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1">
+        <label>1</label>Pathologies du syst&#x000e8;me nerveux : recherche &#x000e9;pid&#x000e9;miologique et clinique <institution>INSERM : U888</institution>
+        <institution>IFR76</institution>
+        <institution>Universit&#x000e9; Montpellier I</institution>
+        <addr-line>H&#x000f4;pital la colombiere 39, avenue charles flahault BP 34493 -pav 42 calixte cavalier 34093 MONTPELLIER CEDEX 5,FR</addr-line>
+      </aff>
+      <aff id="A2">
+        <label>2</label>Centre &#x000e9;pid&#x000e9;miologie et biostatistique <institution>INSERM : U897</institution>
+        <institution>Universit&#x000e9; Victor Segalen - Bordeaux II</institution>
+        <addr-line>FR</addr-line>
+      </aff>
+      <aff id="A3">
+        <label>3</label>Service de m&#x000e9;decine interne g&#x000e9;riatrie <institution>CHU Dijon</institution>
+        <addr-line>Centre de Champmaillot,FR</addr-line>
+      </aff>
+      <author-notes>
+        <corresp id="FN1">* Correspondence should be adressed to: Alain Besset <email>alain.besset@inserm.fr</email></corresp>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>26</day>
+        <month>9</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>19</volume>
+      <issue>1</issue>
+      <fpage>88</fpage>
+      <lpage>97</lpage>
+      <abstract>
+        <sec id="S1">
+          <title>Objectives</title>
+          <p id="P1">The aim of this study was to examine the factors associated with insomnia in community-dwelling elderly as a function of the nature and number of insomnia symptoms (IS) <italic>e.g</italic>. difficulty with initiating sleep (DIS), difficulty with maintaining sleep (DMS) and early morning awakening (EMA).</p>
+        </sec>
+        <sec id="S2">
+          <title>Methods</title>
+          <p id="P2">IS were assessed in a sample of 2673 men and 3213 women aged 65 years and over. The participants were administered standardized questionnaires regarding the frequency of IS and other sleep characteristics (snoring, nightmares, sleeping medication, sleepiness) as well as various socio-demographic, behavioral and clinical variables, and measures of physical and mental health.</p>
+        </sec>
+        <sec id="S3">
+          <title>Results</title>
+          <p id="P3">More than 70% of men and women reported at least one IS, DMS being the most prevalent symptom in both men and women. Women reported more frequently two or three IS whereas men reported more often only one IS. Multivariate regression analyses stratified by gender showed that men and women shared numerous factors associated with IS, sleeping medication, nightmares, sleepiness, chronic diseases, and depression being independently associated with two or three IS. For both sexes, age was associated with only one IS in all age categories. Loud snoring was strongly associated with increased DMS in men only. High body mass index increased the risk for DIS in men but tended to decrease it in women. In women, hormonal replacement therapy, Mediterranean diet, caffeine and alcohol intake had a protective effect.</p>
+        </sec>
+        <sec id="S4">
+          <title>Conclusion</title>
+          <p id="P4">Our data suggest that women may have specific predisposition factors of multiple IS which may involve both behavioral and hormonal factors. Identification and treatment of these risk factors may form the basis of an intervention program for reduction of insomnia symptoms in the elderly..</p>
+        </sec>
+      </abstract>
+      <kwd-group kwd-group-type="MESH">
+        <kwd>Age Factors</kwd>
+        <kwd>Aged</kwd>
+        <kwd>Aged, 80 and over</kwd>
+        <kwd>Female</kwd>
+        <kwd>France</kwd>
+        <kwd>epidemiology</kwd>
+        <kwd>Humans</kwd>
+        <kwd>Male</kwd>
+        <kwd>Prevalence</kwd>
+        <kwd>Risk Factors</kwd>
+        <kwd>Self Report</kwd>
+        <kwd>Sex Characteristics</kwd>
+        <kwd>Sex Factors</kwd>
+        <kwd>Sleep Initiation and Maintenance Disorders</kwd>
+        <kwd>diagnosis</kwd>
+        <kwd>epidemiology</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="S5">
+      <title>INTRODUCTION</title>
+      <p id="P5">Insomnia is very common among older persons with prevalence estimates varying from 20 to 48 % (<xref rid="R1" ref-type="bibr">1</xref>&#x02013;<xref rid="R4" ref-type="bibr">4</xref>). Insomnia is a clinically heterogeneous disorder diagnosed by reference to subjective evaluation of sleep quality. The principal insomnia symptoms (IS) are difficulty in initiating sleep (DIS), difficulty in maintaining sleep (DMS) and early morning awakening (EMA). IS are frequently associated with sleepiness, daytime fatigue and psychotropic medication use and can have deleterious consequences on health and everyday functioning. However, little is known about which IS risk factors operate in elderly subjects and which symptoms should be the principal target of intervention strategies, as the rare studies already performed mainly focused on global IS without considering symptom profiles.</p>
+      <p id="P6">Previous epidemiological studies have suggested that the aging process <italic>per se</italic> is not responsible for higher prevalence of insomnia in the elderly although this has not been evaluated in the oldest old (<xref rid="R5" ref-type="bibr">5</xref>, <xref rid="R6" ref-type="bibr">6</xref>). In addition, whereas a higher prevalence rate has been reported in women (<xref ref-type="bibr" rid="R15">Ganguli <italic>et al.</italic>, 1996</xref>; <xref ref-type="bibr" rid="R19">Su <italic>et al.</italic>, 2004</xref>), the reasons for gender differences in insomnia prevalence have not been examined in detail especially in the elderly. The main hypotheses which have been explored up to now have focused on socio-demographic differences (notably separation, widowhood and occupation (<xref ref-type="bibr" rid="R10">Li <italic>et al.</italic>, 2002</xref>)), higher rate of depression (<xref rid="R7" ref-type="bibr">7</xref>, <xref rid="R8" ref-type="bibr">8</xref>) or bias of declaration (<xref rid="R9" ref-type="bibr">9</xref>&#x02013;<xref rid="R11" ref-type="bibr">11</xref>) and classification (<xref rid="R12" ref-type="bibr">12</xref>).</p>
+      <p id="P7">Moreover, given that insomnia is a heterogeneous condition composed of several symptoms it can be assumed that the number of symptoms, <italic>i.e</italic>. the number of types of insomnia complaints expressed, is higher among women than men which could partly explain the higher prevalence reported among women. We thus performed both types of analyses considering on one hand the number of symptoms and on the other hand isolated symptoms, when subjects presented with only one insomnia complaint.</p>
+      <p id="P8">Distinct behavioural characteristics and physiological differences have rarely been investigated. Polysomnographic studies have reported sex differences in sleep physiology in clinical populations, with men showing less conserved slow wave sleep than women (<xref rid="R13" ref-type="bibr">13</xref>&#x02013;<xref rid="R20" ref-type="bibr">20</xref>). At the present time only one study has been performed in an elderly population which also reported sex differences (<xref ref-type="bibr" rid="R18">Redline <italic>et al.</italic>, 2004</xref>). However, it did not take into account the hormonal status of post-menopausal women whose estrogen levels are even lower than elderly men of the same age when not treated with hormonal replacement therapy (HRT). Given that HRT is an effective treatment for sleep complaints in menopausal women even in the absence of vasomotor symptoms (<xref ref-type="bibr" rid="R49">Polo-Kantola <italic>et al.</italic>, 1998</xref>), it seems likely that estrogen levels play a role in IS or at least modulate their expression.</p>
+      <p id="P9">Hence, at the present time the main characteristics and risk factors for insomnia in the elderly remain largely unknown notably due to heterogeneity in study design and sampling (notably in age, sex ratio, co-morbidity, community vs. clinical samples), small sample size, and limited sleep characteristics and other covariate adjustment. Lastly, whereas several previous studies have controlled for sex, few studies have performed gender stratified analyses.</p>
+      <p id="P10">The present study aimed to examine the frequency of IS in the elderly and the factors associated with IS in a large community-based elderly population, which permitted the examination of a range of sleep profiles and extensive adjustment for confounding factors, <italic>e.g.</italic> socio-demographic, clinical, and behavioral variables which may contribute to insomnia. Analysis of gender-differences was also considered.</p>
+    </sec>
+    <sec sec-type="methods" id="S6">
+      <title>METHODS</title>
+      <sec id="S7" sec-type="subjects">
+        <title>Participants</title>
+        <p id="P11">Subjects were recruited as part of a multi-site cohort study of community-dwelling persons aged 65 years and over randomly selected from the electoral rolls of three French cities (Bordeaux, Dijon and Montpellier) between 1999 and 2001 (3C Study). The study design has been described elsewhere (<xref rid="R21" ref-type="bibr">21</xref>). The study protocol was approved by the Ethics Committee of the University-Hospital of Bic&#x000ea;tre (France) and written informed consent was obtained from each participant. A total of 9294 subjects, 3650 men and 5644 women were included in the study. Data were collected during a face to face interview using a standardized questionnaire by trained psychologists or nurses. Diagnoses of dementia and other neurological disorders were made by 3C study clinical investigators according to DSM-IV criteria (<xref rid="R22" ref-type="bibr">22</xref>) and were further validated by a national panel of neurologists independently of the 3C investigators.</p>
+      </sec>
+      <sec id="S8">
+        <title>Sleep complaint measures</title>
+        <p id="P12">Sleep complaints were assessed by a self-report questionnaire which evaluates the frequency (never, rarely, regularly or frequently) of (<xref rid="R1" ref-type="bibr">1</xref>) having difficulty in initiating sleep (DIS), (<xref rid="R2" ref-type="bibr">2</xref>) waking up several times during the night (DMS), (<xref rid="R3" ref-type="bibr">3</xref>) waking up too early in the morning without being able to fall asleep again (EMA). IS was defined as reporting regularly or frequently at least one symptom (DIS, DMS, or EMA). Other information related to sleep was also recorded including taking medication for sleep problems and duration of use (in years), or reporting regularly or frequently being excessively sleepy during the day, having nightmares, or snoring loudly.</p>
+      </sec>
+      <sec id="S9">
+        <title>Socio-demographic and clinical variables</title>
+        <p id="P13">A standardized health interview covered socio-demographic factors and current state of health, including gender, age, marital status, education, and body mass index (BMI). Detailed medical questionnaires (with additional information where necessary from general practitioners) were used to obtain information on history of vascular disease including angina pectoris, arrhythmia, lower limb arteritis, heart failure, myocardial infarction, coronary surgery, stroke, and hypertension (resting blood pressure &#x02265;160/95 mm Hg or treated); if subjects presented with at least one of these symptoms they were considered as having history of vascular disease. Other illnesses including asthma, diabetes (fasting glucose &#x02265;7.0 mmol/l or reported treatment), hypercholesterolemia (total cholesterol &#x02265; 6.2 mmol/l or reported treatment) and thyroid problems were also considered. Participants were classified as having chronic disease if they suffered from one, or two or more, of these illnesses. Depressive symptomatology was assessed with the Center for Epidemiological Studies-Depression Scale (CES-D) with a 16 cut-off point (<xref rid="R23" ref-type="bibr">23</xref>). For women, information was also obtained regarding the type of menopause (<italic>i.e.</italic>, natural, surgical or following treatment such as chemotherapy) as well as use of HRT.</p>
+        <p id="P14">A life-style questionnaire was used to obtain information on current smoking status, alcohol intake, consumption of coffee and tea. Dietary intake was assessed by a questionnaire covering the following foods: dairy products, meat (and poultry), fish, eggs, cereals (including bread and starches), raw fruit, raw and dried vegetables, classified as low intake: never or less than once a week; moderate intake: once to 3 times a week, and high intake: 4 to 7 times a week. Mediterranean diet is characterized by high intake of vegetables, legumes, fruits and cereals; high intake of unsaturated fatty acids mostly in the form of olive oil, but low intake of saturated fatty acids; a moderately high intake of fish; a low to moderate intake of dairy products (mostly cheese or yogurt); a low intake of meat and poultry; and a regular but moderate amount of alcohol primarily in the form of wine and generally during a meal (<xref rid="R24" ref-type="bibr">24</xref>). A value of 0 or 1 in relation to frequency was assigned to the 11 components of the Mediterranean diet. Subjects reporting more than seven components (highest quartile) were considered has having Mediterranean diet.</p>
+      </sec>
+      <sec id="S10">
+        <title>Statistical analysis</title>
+        <p id="P15">Men and women were found to differ on most exposure variables. In order to examine separate patterns of risk, gender stratified analyses were undertaken. Univariate logistic regressions were used to determine differences in socio-demographic and clinical characteristics between men and women. Associations between the outcome variable, <italic>i.e.</italic>, number of IS (0, 1, 2 or 3) and socio-demographic and clinical variables were tested using a multinomial logistic regression model adjusting for all significant associations between socio-demographic, clinical variables at the univariate level with a p-value &#x0003c; 0.10. Results were presented as odds-ratios (OR) and their 95 % confidence intervals (CI). In the subgroup of subjects reporting only one IS (isolated IS), multivariate logistic regressions were used for each IS to model the relationship between IS and associated variables at p &#x0003c;0.10. Significance level was set at p&#x0003c;0.05. The statistical analysis was carried out using SAS software (version 9.1).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="S11">
+      <title>RESULTS</title>
+      <sec id="S12" sec-type="intro">
+        <title>Participant characteristics</title>
+        <p id="P16">Of the 9294 participants initially recruited in the 3C Study, 217 diagnosed with dementia were excluded, 2308 had not fully completed the sleep questionnaire, and 883 had missing data for confounding variables. The remaining 5886 participants (54.59 % of women) were included in the analysis. Compared with the analyzed sample, the subjects not included were significantly (p&#x0003c;0.0001) more often women, older, widowed or separated, depressed, with low education level, more likely to have more than one chronic disease, drank less frequently alcohol and coffee, adhered less often to a Mediterranean diet, and for women were less likely to use or to have used HRT.</p>
+      </sec>
+      <sec id="S13" sec-type="intro">
+        <title>Gender differences and sleep characteristics</title>
+        <p id="P17">Men and women were found to differ on most socio-demographic, behavioral, clinical, and sleep characteristics (<xref rid="T1" ref-type="table">Table 1</xref>). Compared to men, women were younger and more often widowed or divorced, with a lower education level, drank less alcohol and coffee, and adhered less often to a Mediterranean diet. Women also were less often overweight, had less chronic diseases, and were more likely to be depressed.</p>
+        <p id="P18">Regarding sleep characteristics, women reported more frequently use of sleep medication and for longer periods (median [IQR] was 8 years [2&#x02013;16] versus 5 years [2&#x02013;15] in men, Mann-Whitney Test z=&#x02212;4.23, p&#x0003c;0.0001). Benzodiazepine was most frequently reported among the users (by 51.62 % of men and 60.58 % of women), followed by &#x02018;Z-drug&#x02019; hypnotic use (24.86 % of men and 24.97 % of women), antidepressant (7.84 % of men and 7.75 % of women), antihistaminic compound (6.49 % of men and 7.63 % of women), and 8.38 % of men and 9.48 % of women reported herbals/botanicals use. In addition, women more frequently experienced nightmares, and had less often loud snoring and daytime sleepiness.</p>
+        <p id="P19">Women reported more IS than men (75% vs. 70%, p=0.0001) with additional gender differences in patterns of complaint distribution. Women reported significantly more frequently two or three IS while men reported more often only one. Globally, DMS (isolated or associated with DIS and EMA) was reported with similar frequency in men (62.86%) and women (62.25%) while women reported more often overall DIS (42.42% <italic>vs</italic>. 21.33% in men) or EMA (38.77 <italic>vs</italic>. 30.01% in men). DIS associated with DMS or with EMA was reported more frequently by women, and DMS associated with EMA was reported more often by men. More specifically, examining the subgroup of subjects presenting with only one IS, DMS was the most frequently reported by both sexes but more often in men than in women whereas DIS was more frequent in women than in men. EMA was equally reported by both men and women.</p>
+      </sec>
+      <sec id="S14">
+        <title>Risk factors associated with the number of IS</title>
+        <p id="P20">We evaluated the risks of reporting one, two, or three IS using multivariate multinomial logistic regression models stratified by gender and adjusted for socio-demographic, behavioral, clinical and sleep variables described above (<xref rid="T2" ref-type="table">Table 2</xref>). For men and women, depressive symptomatology, sleepiness and nightmares were significantly associated with one, two, or three IS, whereas sleep medication and having two or more chronic diseases were associated with two or three IS. For both sexes, age was associated with one IS in all age categories whereas no significant association was observed with three IS. Comparable strength of association (in terms of OR values) was observed for men and women. In women only, high BMI, high alcohol intake and HRT were protective for two or three IS and Mediterranean diet for one, two or these IS. In men only, loud snoring was associated with only one IS and no protective factors were observed. For both sexes, marital status, coffee intake or type of menopause for women was not significantly associated with IS (data not shown).</p>
+      </sec>
+      <sec id="S15">
+        <title>Factors associated with one IS complaint</title>
+        <p id="P21">In order to specify each IS complaint, we evaluated the risks of reporting only one IS using multivariate logistic regression models stratified on gender and adjusted for socio-demographic, clinical and sleep variables (<xref rid="T3" ref-type="table">Table 3</xref>). For both men and women, age, sleepiness and nightmares were significantly associated with increased risk of DMS whereas sleep medication was independently associated with increased risk of DIS. Depression scores and BMI showed different associations in men and women: higher depression scores were associated with higher risk of EMA in men and with higher risk of DIS in women. An opposite association was observed for high BMI, which was associated with a higher risk of DIS in men and marginally protective in women. Loud snoring was associated with risk of DMS in men only. In women only, coffee drinking and Mediterranean diet were marginally protective for DMS and no variables were significantly associated with EMA.</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="S16">
+      <title>DISCUSSION</title>
+      <sec id="S17">
+        <title>Distribution of IS in the elderly general population</title>
+        <p id="P22">In our study, IS were found to be highly prevalent, more than 70 % of elderly reporting at least one IS. Similar result was reported in another study with 69% of subjects reporting at least one IS (<xref rid="R25" ref-type="bibr">25</xref>). In our study the prevalence was higher in women than in men (75% vs. 70%, &#x003c7;<sup>2</sup> test=18.48, df=1, p&#x0003c;0.0001). As already reported, DMS was the most frequent IS (<xref rid="R1" ref-type="bibr">1</xref>, <xref rid="R4" ref-type="bibr">4</xref>, <xref rid="R26" ref-type="bibr">26</xref>&#x02013;<xref rid="R30" ref-type="bibr">30</xref>) and we further observed a comparable prevalence in men and women. As an isolated symptom it was independently associated with age in both men and women. With aging, sleep fragmentation is the main component of insomnia. Numerous factors are involved in sleep fragmentation and responsible for neurobiological and behavioral sleep pattern changes with aging, such as hormonal changes (<xref rid="R20" ref-type="bibr">20</xref>, <xref rid="R31" ref-type="bibr">31</xref>), alteration of homeostatic process (<xref rid="R32" ref-type="bibr">32</xref>, <xref rid="R33" ref-type="bibr">33</xref>), circadian rhythmicity (<xref rid="R34" ref-type="bibr">34</xref>), low physical activity and less light exposure(<xref rid="R35" ref-type="bibr">35</xref>), sleep apnea (<xref rid="R36" ref-type="bibr">36</xref>). All of them could result in an increased brain vulnerability to various arousal stimuli explaining that in elderly DMS is the most prevalent IS whatever the gender.</p>
+      </sec>
+      <sec id="S18">
+        <title>Factors associated with IS and gender differences</title>
+        <p id="P23">Most factors, <italic>e.g.</italic>, age, sleep medication, nightmares, sleepiness, chronic diseases, and depression were independently associated with the presence of IS (<xref rid="R1" ref-type="bibr">1</xref>, <xref rid="R4" ref-type="bibr">4</xref>, <xref rid="R6" ref-type="bibr">6</xref>). We did not observe significant gender differences regarding the strength of these associations. Interestingly, DIS is more prevalent in women than in men and isolated DIS is principally associated with sleep medication; it might be suggested that long sleep latency is less tolerated than other IS in older persons thus leading to higher treatment rates. This may explain the higher prevalence of DIS in women, already reported in other studies (<xref rid="R29" ref-type="bibr">29</xref>, <xref rid="R37" ref-type="bibr">37</xref>&#x02013;<xref rid="R40" ref-type="bibr">40</xref>) and also the longer duration of sleep medication intake in older women.</p>
+        <p id="P24">Women more frequently reported two or three IS compared to men who tend to commonly experience a single symptom. To our knowledge, this is the first time that gender differences with regard to the number of IS are reported in the elderly general population. These gender variations could be the consequence of differences in the nature or intensity of exposure to risk factors, or in the susceptibility to the same risk factors. They could result from cultural, social, behavioral or adaptive differences. In our study, depression is independently associated with isolated IS, with differences in symptom expression, DIS in women and EMA in men. Some depressive symptoms are different in men and in women: women are more prone to ruminate than men (<xref rid="R41" ref-type="bibr">41</xref>). It is known that poor sleepers are more prone than good sleepers to ruminate about daytime symptoms and their consequences of their chronic sleep difficulties (<xref rid="R42" ref-type="bibr">42</xref>, <xref rid="R43" ref-type="bibr">43</xref>). Ruminative thoughts, worries and anxiety are responsible for difficulties in falling asleep especially in women (<xref rid="R4" ref-type="bibr">4</xref>, <xref rid="R42" ref-type="bibr">42</xref>&#x02013;<xref rid="R44" ref-type="bibr">44</xref>). Otherwise it has been shown (<xref rid="R45" ref-type="bibr">45</xref>) that the symptoms of terminal insomnia are strongly associated with polysomnographic features (reduced REM, sleep latency) of endogenous depression. It might be possible that in elderly men, depression and sleepiness, associated with terminal insomnia, are the expression of endogenous depression. Polysomnographic recordings will be required to test this hypothesis.</p>
+        <p id="P25">In our study we found opposite effects of high BMI; increasing the risk for isolated DIS in men but marginally decreasing it in women. Biological differences, especially hormonal factors, could be involved in this gender difference. Obesity during the climacteric is a key factor associated with an increase in estrogen exposure. After the menopause, mesenchymal cells of adipose tissue become the main source of estrogen via testosterone aromatization. Therefore, in the post-reproductive years, the extent of female estrogenization is mainly determined by adiposity(<xref rid="R46" ref-type="bibr">46</xref>). Interestingly, we found that current long-term HRT use (mean duration was 10 years) was also independently protective for IS in women confirming the beneficial effect of HRT on IS in women (<xref rid="R47" ref-type="bibr">47</xref>&#x02013;<xref rid="R49" ref-type="bibr">49</xref>).</p>
+        <p id="P26">In women some lifestyle factors (moderate alcohol, and coffee intake and adherence to a Mediterranean diet) have a protective effect for having two or three IS or isolated DMS. Caffeine and alcohol intake have been related to a common sensation-seeking or behavioral or socialization component in healthy adults. Elderly women might also be more aware than men of the deleterious effect of alcohol or coffee on IS (<xref rid="R50" ref-type="bibr">50</xref>, <xref rid="R51" ref-type="bibr">51</xref>), and thus reduce their intake in an attempt to reduce their symptoms.</p>
+        <p id="P27">The protective role of the Mediterranean diet could be related to a reduction in cardiovascular disease which are also risk factors for insomnia (<xref rid="R52" ref-type="bibr">52</xref>), however, the effect still persisted when adjusting for vascular disease. To our knowledge the protective role of the Mediterranean diet on IS has not been reported elsewhere.</p>
+        <p id="P28">In men specifically, snoring was associated with isolated DMS. A male predominance of snoring is observed in all epidemiological studies. Associated with obesity, snoring is a marker of sleep apnea (<xref rid="R53" ref-type="bibr">53</xref>, <xref rid="R54" ref-type="bibr">54</xref>). It has been shown that a quarter of adults over 65 have sleep apnea and 40 to 50 % of patients with sleep apnea have IS (<xref rid="R36" ref-type="bibr">36</xref>). It thus appears that sleep breathing disorders might be associated with IS more frequently in older than in younger subjects.</p>
+        <p id="P29">Finally, no factors were independently associated with isolated EMA in women. However, considering the low number of subjects reporting this IS, this may result from a lack of statistical power.</p>
+      </sec>
+      <sec id="S19">
+        <title>Limitations and strengths</title>
+        <p id="P30">This study has several limitations. The data relating to some of the covariates were self-reported and may thus be subject to recall bias with participants with sleep disorders responding more negatively to questions about health. However, associations remained even in adjusted analyses, thus suggesting that any bias did not have a substantial influence on the results. There is also the potential for bias in this analysis due to the fact that excluded persons potentially appeared at higher risk for IS so that the associations could be underestimated.</p>
+        <p id="P31">Our study has a number of strengths. The analysis was based on a large multi-centre population study of people aged 65 years and over and therefore the results may be relevant to the broader community of older persons. We could also specify each IS to evaluate risk factors related to isolated or combined IS. The size of our sample also enabled evaluating gender differences while controlling for a large number of covariates, particularly measures of physical health, sleep disorders (sleep treatment, snoring, sleepiness and nightmares), socio-demographic factors, behavioral habits, and depressive components.</p>
+      </sec>
+    </sec>
+    <sec sec-type="conclusions" id="S20">
+      <title>CONCLUSION</title>
+      <p id="P32">Complaints of IS are common in the elderly general population, with more than 70% of men and women in our study reporting IS with a significantly higher prevalence in women than in men. Women more frequently experience two or three symptoms whereas men more frequently complain of only one symptom. As insomnia is frequently determined by a cut-off point on a scale, this could explain why the prevalence rates are often reported to be higher in women. Factors associated with IS are very similar for men and women, including sleep medication, nightmares, sleepiness, chronic disease and depression. In women, however, we observed that life style factors (adherence to a Mediterranean diet and moderate coffee and/or alcohol intake) may have a protective effect, suggesting possible behavioral modulation. The protective effects of HRT use and of high BMI also suggest a specific female predisposition which may involve hormonal factors. The results of this study suggest possible intervention strategies for improving sleep quality in elderly persons with insomnia through intervention at the level of specific symptoms.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The 3C Study is conducted under a partnership agreement between Inserm, the Victor Segalen &#x02013; Bordeaux II University and Sanofi-Synth&#x000e9;labo. The Fondation pour la Recherche M&#x000e9;dicale funded the preparation and first phase of the study. The 3C Study is also supported by the Caisse Nationale Maladie des Travailleurs Salari&#x000e9;s, Direction G&#x000e9;n&#x000e9;rale de la Sant&#x000e9;, MGEN, Institut de la Long&#x000e9;vit&#x000e9;, Agence Fran&#x000e7;aise de S&#x000e9;curit&#x000e9; Sanitaire des Produits de Sant&#x000e9;, the Regional Governments of Aquitaine, Bourgogne and Languedoc-Roussillon and, the Fondation de France, the Ministry of Research-Inserm Programme &#x0201c;Cohorts and collection of biological material&#x0201d;. The Lille G&#x000e9;nop&#x000f4;le received an unconditional grant from Eisai. Part of this project is financed by a grant from the Agence Nationale de la Recherche (ANR project 07 LVIE 004).</p>
+      <p>The funding organizations played no role in the design or conduct of the study or in the collection, management, analysis, or interpretation of the data and did not participate in preparation, review, or approval of the manuscript.</p>
+    </ack>
+    <fn-group>
+      <fn id="FN2">
+        <p>No Disclosures to Report</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <ref id="R1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Foley</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Monjan</surname>
+              <given-names>AA</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>SL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Sleep complaints among elderly persons: an epidemiologic study of three communities</article-title>
+          <source>Sleep</source>
+          <year>1995</year>
+          <volume>18</volume>
+          <fpage>425</fpage>
+          <lpage>432</lpage>
+          <pub-id pub-id-type="pmid">7481413</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vitiello</surname>
+              <given-names>MV</given-names>
+            </name>
+          </person-group>
+          <article-title>Sleep disorders and aging: understanding the causes</article-title>
+          <source>J Gerontol A Biol Sci Med Sci</source>
+          <year>1997</year>
+          <volume>52</volume>
+          <fpage>M189</fpage>
+          <lpage>191</lpage>
+          <pub-id pub-id-type="pmid">9224429</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Newman</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Enright</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Manolio</surname>
+              <given-names>TA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Sleep disturbance, psychosocial correlates, and cardiovascular disease in 5201 older adults: the Cardiovascular Health Study</article-title>
+          <source>J Am Geriatr Soc</source>
+          <year>1997</year>
+          <volume>45</volume>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">8994480</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maggi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Langlois</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Minicuci</surname>
+              <given-names>N</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Sleep complaints in community-dwelling older persons: prevalence, associated factors, and reported causes</article-title>
+          <source>J Am Geriatr Soc</source>
+          <year>1998</year>
+          <volume>46</volume>
+          <fpage>161</fpage>
+          <lpage>168</lpage>
+          <pub-id pub-id-type="pmid">9475443</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ohayon</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Zulley</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Guilleminault</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>How age and daytime activities are related to insomnia in the general population: consequences for older people</article-title>
+          <source>J Am Geriatr Soc</source>
+          <year>2001</year>
+          <volume>49</volume>
+          <fpage>360</fpage>
+          <lpage>366</lpage>
+          <pub-id pub-id-type="pmid">11347777</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stewart</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Besset</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bebbington</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Insomnia comorbidity and impact and hypnotic use by age group in a national survey population aged 16 to 74 years</article-title>
+          <source>Sleep</source>
+          <year>2006</year>
+          <volume>29</volume>
+          <fpage>1391</fpage>
+          <lpage>1397</lpage>
+          <pub-id pub-id-type="pmid">17162985</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lindberg</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Janson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Gislason</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Sleep disturbances in a young adult population: can gender differences be explained by differences in psychological status?</article-title>
+          <source>Sleep</source>
+          <year>1997</year>
+          <volume>20</volume>
+          <fpage>381</fpage>
+          <lpage>387</lpage>
+          <pub-id pub-id-type="pmid">9302720</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Piccinelli</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Gender differences in depression</article-title>
+          <source>Critical review Br J Psychiatry</source>
+          <year>2000</year>
+          <volume>177</volume>
+          <fpage>486</fpage>
+          <lpage>492</lpage>
+        </element-citation>
+      </ref>
+      <ref id="R9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ford</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Kamerow</surname>
+              <given-names>DB</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiologic study of sleep disturbances and psychiatric disorders. An opportunity for prevention?</article-title>
+          <source>JAMA</source>
+          <year>1989</year>
+          <volume>262</volume>
+          <fpage>1479</fpage>
+          <lpage>1484</lpage>
+          <pub-id pub-id-type="pmid">2769898</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Wing</surname>
+              <given-names>YK</given-names>
+            </name>
+            <name>
+              <surname>Ho</surname>
+              <given-names>SC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Gender differences in insomnia&#x02014;a study in the Hong Kong Chinese population</article-title>
+          <source>Journal Psychosom Res</source>
+          <year>2002</year>
+          <volume>53</volume>
+          <fpage>601</fpage>
+          <lpage>609</lpage>
+          <pub-id pub-id-type="pmid">12127178</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wing</surname>
+              <given-names>Y-K</given-names>
+            </name>
+          </person-group>
+          <article-title>Sex differences in insomnia: a meta-analysis</article-title>
+          <source>Sleep</source>
+          <year>2006</year>
+          <volume>29</volume>
+          <fpage>85</fpage>
+          <lpage>93</lpage>
+          <pub-id pub-id-type="pmid">16453985</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reyner</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Horne</surname>
+              <given-names>JA</given-names>
+            </name>
+          </person-group>
+          <article-title>Gender- and age-related differences in sleep determined by home- recorded sleep logs and actimetry from 400 adults</article-title>
+          <source>Sleep</source>
+          <year>1995</year>
+          <volume>18</volume>
+          <fpage>127</fpage>
+          <lpage>134</lpage>
+          <pub-id pub-id-type="pmid">7792492</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Buysse</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Reynolds</surname>
+              <given-names>CF</given-names>
+              <suffix>3rd</suffix>
+            </name>
+            <name>
+              <surname>Monk</surname>
+              <given-names>TH</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Quantification of subjective sleep quality in healthy elderly men and women using the Pittsburgh Sleep Quality Index (PSQI)</article-title>
+          <source>Sleep</source>
+          <year>1991</year>
+          <volume>14</volume>
+          <fpage>331</fpage>
+          <lpage>338</lpage>
+          <pub-id pub-id-type="pmid">1947597</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fukuda</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Honma</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kohsaka</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Gender difference of slow wave sleep in middle aged and elderly subjects</article-title>
+          <source>Psychiatry Clin Neurosci</source>
+          <year>1999</year>
+          <volume>53</volume>
+          <fpage>151</fpage>
+          <lpage>153</lpage>
+          <pub-id pub-id-type="pmid">10459675</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ganguli</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Reynolds</surname>
+              <given-names>CF</given-names>
+            </name>
+            <name>
+              <surname>Gilby</surname>
+              <given-names>JE</given-names>
+            </name>
+          </person-group>
+          <article-title>Prevalence and persistence of sleep complaints in a rural older community sample: the MoVIES project</article-title>
+          <source>J Am Geriatr Soc</source>
+          <year>1996</year>
+          <volume>44</volume>
+          <fpage>778</fpage>
+          <lpage>784</lpage>
+          <pub-id pub-id-type="pmid">8675924</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hume</surname>
+              <given-names>KI</given-names>
+            </name>
+            <name>
+              <surname>Van</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Watson</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>A field study of age and gender differences in habitual adult sleep</article-title>
+          <source>J Sleep Res</source>
+          <year>1998</year>
+          <volume>7</volume>
+          <fpage>85</fpage>
+          <lpage>94</lpage>
+          <pub-id pub-id-type="pmid">9682179</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Monk</surname>
+              <given-names>TH</given-names>
+            </name>
+            <name>
+              <surname>Reynolds</surname>
+              <given-names>CF</given-names>
+              <suffix>3rd</suffix>
+            </name>
+            <name>
+              <surname>Machen</surname>
+              <given-names>MA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Daily social rhythms in the elderly and their relation to objectively recorded sleep</article-title>
+          <source>Sleep</source>
+          <year>1992</year>
+          <volume>15</volume>
+          <fpage>322</fpage>
+          <lpage>329</lpage>
+          <pub-id pub-id-type="pmid">1519007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Redline</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kirchner</surname>
+              <given-names>HL</given-names>
+            </name>
+            <name>
+              <surname>Quan</surname>
+              <given-names>SF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The effects of age, sex, ethnicity, and sleep-disordered breathing on sleep architecture</article-title>
+          <source>Arch Intern Med</source>
+          <year>2004</year>
+          <volume>164</volume>
+          <fpage>406</fpage>
+          <lpage>418</lpage>
+          <pub-id pub-id-type="pmid">14980992</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Su</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Chou</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Prevalence and risk factors of insomnia in community-dwelling Chinese elderly: a Taiwanese urban area survey</article-title>
+          <source>Aust N Z J Psychiatry</source>
+          <year>2004</year>
+          <volume>38</volume>
+          <fpage>706</fpage>
+          <lpage>713</lpage>
+          <pub-id pub-id-type="pmid">15324335</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Van Cauter</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Leproult</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Plat</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Age-related changes in slow wave sleep and REM sleep and relationship with growth hormone and cortisol levels in healthy men</article-title>
+          <source>Jama</source>
+          <year>2000</year>
+          <volume>284</volume>
+          <fpage>861</fpage>
+          <lpage>868</lpage>
+          <pub-id pub-id-type="pmid">10938176</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <collab>The 3 C Study Group</collab>
+          <article-title>Vascular factors and risk of dementia: design of the Three-City Study and baseline characteristics of the study population</article-title>
+          <source>Neuroepidemiology</source>
+          <year>2003</year>
+          <volume>22</volume>
+          <fpage>316</fpage>
+          <lpage>325</lpage>
+          <pub-id pub-id-type="pmid">14598854</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R22">
+        <label>22</label>
+        <element-citation publication-type="book">
+          <collab>American Psychiatric Association</collab>
+          <source>Diagnostic and Statistical Manual of Mental Disorders (DSM IV)</source>
+          <publisher-loc>Washington, DC</publisher-loc>
+          <publisher-name>American Psychiatric Association</publisher-name>
+          <year>1994</year>
+        </element-citation>
+      </ref>
+      <ref id="R23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Radloff</surname>
+              <given-names>LS</given-names>
+            </name>
+          </person-group>
+          <article-title>The CES-D Scale: a self-report depression scale for research in the general population</article-title>
+          <source>Applied Psychological Measurement</source>
+          <year>1977</year>
+          <volume>1</volume>
+          <fpage>385</fpage>
+          <lpage>401</lpage>
+        </element-citation>
+      </ref>
+      <ref id="R24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Trichopoulou</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Costacou</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Bamia</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Adherence to a Mediterranean diet and survival in a Greek population</article-title>
+          <source>N Engl J Med</source>
+          <year>2003</year>
+          <volume>348</volume>
+          <fpage>2599</fpage>
+          <lpage>2608</lpage>
+          <pub-id pub-id-type="pmid">12826634</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reid</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Martinovich</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Finkel</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Sleep: a marker of physical and mental health in the elderly</article-title>
+          <source>Am J Geriatr Psychiatry</source>
+          <year>2006</year>
+          <volume>14</volume>
+          <fpage>860</fpage>
+          <lpage>866</lpage>
+          <pub-id pub-id-type="pmid">17001025</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gislason</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Reynisdottir</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kristbjarnarson</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Sleep habits and sleep disturbances among the elderly--an epidemiological survey</article-title>
+          <source>J Intern Med</source>
+          <year>1993</year>
+          <volume>234</volume>
+          <fpage>31</fpage>
+          <lpage>39</lpage>
+          <pub-id pub-id-type="pmid">8326287</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Blazer</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Hays</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Foley</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Sleep complaints in older adults: a racial comparison</article-title>
+          <source>J Gerontol A Biol Sci Med Sci</source>
+          <year>1995</year>
+          <volume>50</volume>
+          <fpage>M280</fpage>
+          <lpage>284</lpage>
+          <pub-id pub-id-type="pmid">7671031</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Babar</surname>
+              <given-names>SI</given-names>
+            </name>
+            <name>
+              <surname>Enright</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Boyle</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Sleep disturbances and their correlates in elderly Japanese American men residing in Hawaii</article-title>
+          <source>J Gerontol A Biol Sci Med Sci</source>
+          <year>2000</year>
+          <volume>55</volume>
+          <fpage>M406</fpage>
+          <lpage>411</lpage>
+          <pub-id pub-id-type="pmid">10898258</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schubert</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Cruickshanks</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Dalton</surname>
+              <given-names>DS</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Prevalence of sleep problems and quality of life in an older population</article-title>
+          <source>Sleep</source>
+          <year>2002</year>
+          <volume>25</volume>
+          <fpage>889</fpage>
+          <lpage>893</lpage>
+          <pub-id pub-id-type="pmid">12489896</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rocha</surname>
+              <given-names>FL</given-names>
+            </name>
+            <name>
+              <surname>Uchoa</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Guerra</surname>
+              <given-names>HL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Prevalence of sleep complaints and associated factors in community-dwelling older people in Brazil: the Bambui Health and Ageing Study (BHAS)</article-title>
+          <source>Sleep Med</source>
+          <year>2002</year>
+          <volume>3</volume>
+          <fpage>231</fpage>
+          <lpage>238</lpage>
+          <pub-id pub-id-type="pmid">14592212</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vgontzas</surname>
+              <given-names>AN</given-names>
+            </name>
+            <name>
+              <surname>Zoumakis</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bixler</surname>
+              <given-names>EO</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Impaired nighttime sleep in healthy old versus young adults is associated with elevated plasma interleukin-6 and cortisol levels: physiologic and therapeutic implications</article-title>
+          <source>J Clin Endocrinol Metab</source>
+          <year>2003</year>
+          <volume>88</volume>
+          <fpage>2087</fpage>
+          <lpage>2095</lpage>
+          <pub-id pub-id-type="pmid">12727959</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gaudreau</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Morettini</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lavoie</surname>
+              <given-names>HB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Effects of a 25-h sleep deprivation on daytime sleep in the middle-aged</article-title>
+          <source>Neurobiol Aging</source>
+          <year>2001</year>
+          <volume>22</volume>
+          <fpage>461</fpage>
+          <lpage>468</lpage>
+          <pub-id pub-id-type="pmid">11378253</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Landolt</surname>
+              <given-names>HP</given-names>
+            </name>
+            <name>
+              <surname>Dijk</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Achermann</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Effect of age on the sleep EEG: slow-wave activity and spindle frequency activity in young and middle-aged men</article-title>
+          <source>Brain Res</source>
+          <year>1996</year>
+          <volume>738</volume>
+          <fpage>205</fpage>
+          <lpage>212</lpage>
+          <pub-id pub-id-type="pmid">8955514</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R34">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duffy</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Dijk</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Klerman</surname>
+              <given-names>EB</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Later endogenous circadian temperature nadir relative to an earlier wake time in older people</article-title>
+          <source>Am J Physiol</source>
+          <year>1998</year>
+          <volume>275</volume>
+          <fpage>R1478</fpage>
+          <lpage>1487</lpage>
+          <pub-id pub-id-type="pmid">9791064</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R35">
+        <label>35</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bliwise</surname>
+              <given-names>DL</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Kreiger</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Roth</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Dement</surname>
+              <given-names>WC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Normal aging</article-title>
+          <source>Principles and pratice in sleep medicine</source>
+          <publisher-loc>Philadelphia</publisher-loc>
+          <publisher-name>Elsevier Saunders</publisher-name>
+          <year>2005</year>
+          <fpage>24</fpage>
+          <lpage>38</lpage>
+        </element-citation>
+      </ref>
+      <ref id="R36">
+        <label>36</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Young</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Shahar</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Nieto</surname>
+              <given-names>FJ</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Predictors of sleep-disordered breathing in community-dwelling adults: the Sleep Heart Health Study</article-title>
+          <source>Arch Intern Med</source>
+          <year>2002</year>
+          <volume>162</volume>
+          <fpage>893</fpage>
+          <lpage>900</lpage>
+          <pub-id pub-id-type="pmid">11966340</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R37">
+        <label>37</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rediehs</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Reis</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Creason</surname>
+              <given-names>NS</given-names>
+            </name>
+          </person-group>
+          <article-title>Sleep in old age: focus on gender differences</article-title>
+          <source>Sleep</source>
+          <year>1990</year>
+          <volume>13</volume>
+          <fpage>410</fpage>
+          <lpage>424</lpage>
+          <pub-id pub-id-type="pmid">2287853</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R38">
+        <label>38</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Middelkoop</surname>
+              <given-names>HA</given-names>
+            </name>
+            <name>
+              <surname>Smilde-van den Doel</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Neven</surname>
+              <given-names>AK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Subjective sleep characteristics of 1,485 males and females aged 50&#x02013;93: effects of sex and age, and factors related to self-evaluated quality of sleep</article-title>
+          <source>J Gerontol A Biol Sci Med Sci</source>
+          <year>1996</year>
+          <volume>51</volume>
+          <fpage>M108</fpage>
+          <lpage>115</lpage>
+          <pub-id pub-id-type="pmid">8630703</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R39">
+        <label>39</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Sleep habits and insomnia in a sample of elderly persons in China</article-title>
+          <source>Sleep</source>
+          <year>2005</year>
+          <volume>28</volume>
+          <fpage>1579</fpage>
+          <lpage>1587</lpage>
+          <pub-id pub-id-type="pmid">16408418</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R40">
+        <label>40</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quan</surname>
+              <given-names>SF</given-names>
+            </name>
+            <name>
+              <surname>Katz</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Olson</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Factors associated with incidence and persistence of symptoms of disturbed sleep in an elderly cohort: the Cardiovascular Health Study</article-title>
+          <source>Am J Med Sci</source>
+          <year>2005</year>
+          <volume>329</volume>
+          <fpage>163</fpage>
+          <lpage>172</lpage>
+          <pub-id pub-id-type="pmid">15832098</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R41">
+        <label>41</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nolen-Hoeksema</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Larson</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Grayson</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Explaining the gender difference in depressive symptoms</article-title>
+          <source>J Pers Soc Psychol</source>
+          <year>1999</year>
+          <volume>77</volume>
+          <fpage>1061</fpage>
+          <lpage>1072</lpage>
+          <pub-id pub-id-type="pmid">10573880</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R42">
+        <label>42</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thomsen</surname>
+              <given-names>DK</given-names>
+            </name>
+            <name>
+              <surname>Mehlsen</surname>
+              <given-names>MY</given-names>
+            </name>
+            <name>
+              <surname>Christensen</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Rumination-relationship with negative mood and sleep quality</article-title>
+          <source>Personality and Individual Differences</source>
+          <year>2003</year>
+          <volume>34</volume>
+          <fpage>1293</fpage>
+          <lpage>1301</lpage>
+        </element-citation>
+      </ref>
+      <ref id="R43">
+        <label>43</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carney</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Edinger</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Meyer</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Symptom-focused rumination and sleep disturbance</article-title>
+          <source>Behav Sleep Med</source>
+          <year>2006</year>
+          <volume>4</volume>
+          <fpage>228</fpage>
+          <lpage>241</lpage>
+          <pub-id pub-id-type="pmid">17083303</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R44">
+        <label>44</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nolen-Hoeksema</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Parker</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Larson</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Ruminative coping with depressed mood following loss</article-title>
+          <source>J Pers Soc Psychol</source>
+          <year>1994</year>
+          <volume>67</volume>
+          <fpage>92</fpage>
+          <lpage>104</lpage>
+          <pub-id pub-id-type="pmid">8046585</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R45">
+        <label>45</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Giles</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Roffwarg</surname>
+              <given-names>HP</given-names>
+            </name>
+            <name>
+              <surname>Schlesser</surname>
+              <given-names>MA</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Which endogenous depressive symptoms relate to REM latency reduction?</article-title>
+          <source>Biol Psychiatry</source>
+          <year>1986</year>
+          <volume>21</volume>
+          <fpage>473</fpage>
+          <lpage>482</lpage>
+          <pub-id pub-id-type="pmid">3697437</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R46">
+        <label>46</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ancelin</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Ritchie</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Lifelong endocrine fluctuations and related cognitive disorders</article-title>
+          <source>Curr Pharm Des</source>
+          <year>2005</year>
+          <volume>11</volume>
+          <fpage>4229</fpage>
+          <lpage>4252</lpage>
+          <pub-id pub-id-type="pmid">16375742</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R47">
+        <label>47</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thomson</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Oswald</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of oestrogen on the sleep, mood, and anxiety of menopausal women</article-title>
+          <source>Br Med J</source>
+          <year>1977</year>
+          <volume>2</volume>
+          <fpage>1317</fpage>
+          <lpage>1319</lpage>
+          <pub-id pub-id-type="pmid">338104</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R48">
+        <label>48</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Scharf</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>McDannold</surname>
+              <given-names>MD</given-names>
+            </name>
+            <name>
+              <surname>Stover</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Effects of estrogen replacement therapy on rates of cyclic alternating patterns and hot-flush events during sleep in postmenopausal women: a pilot study</article-title>
+          <source>Clin Ther</source>
+          <year>1997</year>
+          <volume>19</volume>
+          <fpage>304</fpage>
+          <lpage>311</lpage>
+          <pub-id pub-id-type="pmid">9152569</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R49">
+        <label>49</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Polo-Kantola</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Erkkola</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Helenius</surname>
+              <given-names>H</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>When does estrogen replacement therapy improve sleep quality?</article-title>
+          <source>Am J Obstet Gynecol</source>
+          <year>1998</year>
+          <volume>178</volume>
+          <fpage>1002</fpage>
+          <lpage>1009</lpage>
+          <pub-id pub-id-type="pmid">9609575</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R50">
+        <label>50</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brower</surname>
+              <given-names>KJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Insomnia, alcoholism and relapse</article-title>
+          <source>Sleep Med Rev</source>
+          <year>2003</year>
+          <volume>7</volume>
+          <fpage>523</fpage>
+          <lpage>539</lpage>
+          <pub-id pub-id-type="pmid">15018094</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R51">
+        <label>51</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Roehrs</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Roth</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Caffeine: sleep and daytime sleepiness</article-title>
+          <source>Sleep Med Rev</source>
+          <year>2008</year>
+          <volume>12</volume>
+          <fpage>153</fpage>
+          <lpage>162</lpage>
+          <pub-id pub-id-type="pmid">17950009</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R52">
+        <label>52</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Katz</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>McHorney</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>Clinical correlates of insomnia in patients with chronic illness</article-title>
+          <source>Arch Intern Med</source>
+          <year>1998</year>
+          <volume>158</volume>
+          <fpage>1099</fpage>
+          <lpage>1107</lpage>
+          <pub-id pub-id-type="pmid">9605781</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R53">
+        <label>53</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hoffstein</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <source>Snoring and upper airways resistance</source>
+          <edition>4</edition>
+          <publisher-loc>Philadelphia</publisher-loc>
+          <publisher-name>Elsevier Saunders</publisher-name>
+          <year>2005</year>
+        </element-citation>
+      </ref>
+      <ref id="R54">
+        <label>54</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aloia</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Arnedt</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Examining the construct of depression in obstructive sleep apnea syndrome</article-title>
+          <source>Sleep Med</source>
+          <year>2005</year>
+          <volume>6</volume>
+          <fpage>115</fpage>
+          <lpage>121</lpage>
+          <pub-id pub-id-type="pmid">15716215</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <floats-group>
+    <table-wrap id="T1" position="float">
+      <?landscape?>
+      <label>Table 1</label>
+      <caption>
+        <p>Description of the sample</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th valign="bottom" align="left" rowspan="1" colspan="1"/>
+            <th colspan="2" valign="bottom" align="center" rowspan="1">MEN</th>
+            <th colspan="2" valign="bottom" align="center" rowspan="1">WOMEN</th>
+            <th valign="bottom" align="right" rowspan="1" colspan="1"/>
+            <th valign="bottom" align="center" rowspan="1" colspan="1"/>
+            <th valign="bottom" align="left" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <th valign="bottom" align="left" rowspan="1" colspan="1"/>
+            <th colspan="2" valign="bottom" align="center" rowspan="1">N=2673</th>
+            <th colspan="2" valign="bottom" align="center" rowspan="1">N=3213</th>
+            <th valign="bottom" align="right" rowspan="1" colspan="1"/>
+            <th valign="bottom" align="center" rowspan="1" colspan="1"/>
+            <th valign="bottom" align="left" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <th colspan="8" valign="bottom" align="left" rowspan="1">
+              <hr/>
+            </th>
+          </tr>
+          <tr>
+            <th valign="bottom" align="left" rowspan="1" colspan="1"/>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">
+              <italic>n</italic>
+            </th>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">
+              <italic>%</italic>
+            </th>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">
+              <italic>n</italic>
+            </th>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">
+              <italic>%</italic>
+            </th>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">
+              <italic>&#x003c7;<sup>2</sup></italic>
+            </th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">
+              <italic>df</italic>
+            </th>
+            <th valign="bottom" align="left" rowspan="1" colspan="1">
+              <italic>p-value</italic>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="8" align="left" valign="top" rowspan="1">Center</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Bordeaux</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">460</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">17.21</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">454</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">14.13</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">11.06</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.004</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Dijon</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1427</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">53.39</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1806</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">56.21</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Montpellier</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">786</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">29.41</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">953</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">29.66</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td colspan="8" align="left" valign="top" rowspan="1">Age (years)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;65&#x02013;69</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">771</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">28.84</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1012</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">31.50</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">7.68</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.053</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;70&#x02013;74</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">948</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">35.47</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1051</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">32.71</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;75&#x02013;79</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">644</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">24.09</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">800</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">24.90</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;80+</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">310</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">11.60</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">350</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">10.89</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Widowed or divorced</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">368</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">13.77</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1226</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">38.16</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">439.55</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td colspan="8" align="left" valign="top" rowspan="1">Education</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;High</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">762</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">28.51</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">467</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">14.53</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">174.49</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Medium</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1359</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">50.84</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">2006</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">62.43</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Low</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">552</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">20.65</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">740</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">23.03</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td colspan="8" align="left" valign="top" rowspan="1">BMI (kg/m<sup>2</sup>)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x0003c;25</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1008</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">37.71</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1750</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">54.47</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">205.51</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;25&#x02013;29</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1340</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">50.13</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1035</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">32.21</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x0003e;30</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">325</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">12.16</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">428</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">13.32</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td colspan="8" align="left" valign="top" rowspan="1">Alcohol intake</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;0&#x02013;12 g/day</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1058</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">39.58</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">2588</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">80.55</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1138.61</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;13&#x02013;36 g/day</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1114</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">41.68</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">572</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">17.80</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x0003e;36 g/day</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">501</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">18.74</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">53</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.65</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Coffee drink &#x0003e; 2 cups/day</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">750</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">28.06</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">715</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">22.25</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">26.30</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Mediterranean diet</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1584</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">59.26</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1649</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">51.32</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">37.12</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td colspan="8" align="left" valign="top" rowspan="1">Menopause</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Normal</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">.</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">2586</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">80.49</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Surgical</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">.</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">262</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">8.15</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Medical treatment</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">.</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">365</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">11.36</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td colspan="8" align="left" valign="top" rowspan="1">Hormone Replacement Therapy (HRT)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Never</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">.</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">2162</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">67.29</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Past</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">.</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">541</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">16.84</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Current</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">.</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">510</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">15.87</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">CES-D &#x02265; 16</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">368</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">13.77</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">903</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">28.10</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">177.15</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td colspan="8" align="left" valign="top" rowspan="1">Chronic diseases</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;0</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">455</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">17.02</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">593</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">18.46</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">8.25</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.016</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;1</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">874</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">32.70</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1125</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">35.01</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x02265;2</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1344</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">50.28</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1495</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">46.53</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Sleep medication</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">370</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">13.84</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">865</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">26.92</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">150.56</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Loud snoring</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">474</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">17.73</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">278</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">8.65</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">107.96</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Sleepiness</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">581</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">21.74</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">407</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">12.67</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">85.91</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Nightmares</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">95</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">3.55</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">197</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">6.13</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">20.56</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td colspan="8" align="left" valign="top" rowspan="1">Number of symptoms</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;0</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">791</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">29.59</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">860</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">26.77</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">190.49</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;1</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1006</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">37.64</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">838</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">26.08</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;2</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">582</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">21.77</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">774</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">24.09</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;3</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">294</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">11.00</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">741</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">23.06</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td colspan="8" align="left" valign="top" rowspan="1">Composite symptom index<xref rid="TFN1" ref-type="table-fn">*</xref>:</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;None</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">791</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">29.59</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">860</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">26.77</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">340.71</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">7</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;DIS only</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">53</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.98</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">150</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">4.67</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;DMS only</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">832</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">31.13</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">578</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">17.99</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;EMA only</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">121</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">4.53</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">110</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">3.42</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;DIS + DMS</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">195</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">7.30</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">379</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">11.80</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;DIS + EMA</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">28</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.05</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">93</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">2.89</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;EMA + DMS</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">359</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">13.43</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">302</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">9.40</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;DIS + EMA + DMA</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">294</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">11.00</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">741</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">23.06</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn id="TFN1">
+          <label>*</label>
+          <p>corresponding to either isolated or associated symptoms</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap id="T2" position="float">
+      <?landscape?>
+      <label>Table 2</label>
+      <caption>
+        <p>Gender-stratified multivariate multinomial logistic regression: Adjusted OR, confidence intervals and significance levels of having 1, 2 or 3 IS.</p>
+      </caption>
+      <table frame="hsides" rules="groups">
+        <thead>
+          <tr>
+            <th valign="bottom" rowspan="2" align="left" colspan="1"/>
+            <th colspan="6" valign="bottom" align="center" rowspan="1">Men</th>
+            <th colspan="6" valign="bottom" align="center" rowspan="1">Women</th>
+          </tr>
+          <tr>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">Wald &#x003c7;<sup>2</sup></th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">df</th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">Overall p</th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">1 versus 0</th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">2 versus 0</th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">3 versus 0</th>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">Wald &#x003c7;<sup>2</sup></th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">df</th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">Overall p</th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">1 versus 0</th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">2 versus 0</th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">3 versus 0</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="13" align="left" valign="top" rowspan="1">Age (years)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;65&#x02013;69</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">27.46</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">9</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">17.33</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">9</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.044</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;70&#x02013;74</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.47 [1.16&#x02013;1.86]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.10 [0.83&#x02013;1.46]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.24 [0.86&#x02013;1.78]</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.25 [0.98&#x02013;1.59]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.96 [0.75&#x02013;1.24]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.12 [0.86&#x02013;1.46]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;75&#x02013;79</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.63 [1.25&#x02013;2.12]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.08 [0.79&#x02013;1.47]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.26 [0.84&#x02013;1.88]</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.39 [1.06&#x02013;1.83]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.27 [0.96&#x02013;1.67]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.01 [0.75&#x02013;1.37]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;80+</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">2.18 [1.53&#x02013;3.10]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.61 [1.07&#x02013;2.41]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.42 [0.84&#x02013;2.40]</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.52 [1.06&#x02013;2.18]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.13 [0.77&#x02013;1.65]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.34 [0.91&#x02013;1.98]</td>
+          </tr>
+          <tr>
+            <td colspan="13" align="left" valign="top" rowspan="1">Education</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;High</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">16.75</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">6</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.010</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Medium</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.73 [0.55&#x02013;0.96]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.83 [0.61&#x02013;1.12]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.81 [0.59&#x02013;1.12]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;Low</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.78 [0.56&#x02013;1.09]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.18 [0.83&#x02013;1.68]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.14 [0.79&#x02013;1.65]</td>
+          </tr>
+          <tr>
+            <td colspan="13" align="left" valign="top" rowspan="1">BMI (kg/m<sup>2</sup>)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x0003c;25</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">23.03</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">6</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.0008</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;25&#x02013;29</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.03 [0.83&#x02013;1.28]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.92 [0.73&#x02013;1.15]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.19 [0.94&#x02013;1.50]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x02265;30</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.92 [0.68&#x02013;1.24]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.71 [0.52&#x02013;0.98]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.55 [0.39&#x02013;0.78]</td>
+          </tr>
+          <tr>
+            <td colspan="13" align="left" valign="top" rowspan="1">Alcohol intake</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x0003c;12</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">18.53</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">6</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.005</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;12&#x02013;36 g/day</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.13 [0.88&#x02013;1.46]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.31 [1.01&#x02013;1.71]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.96 [0.72&#x02013;1.28]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x0003e;36 g/day</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.73 [0.38&#x02013;1.43]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.37 [0.16&#x02013;0.86]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.22 [0.09&#x02013;0.58]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Mediterranean diet, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">4.52</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.21</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.16 [0.95&#x02013;1.42]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.95 [0.75&#x02013;1.20]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.93 [0.69&#x02013;1.26]</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">6.22</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.10</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.80 [0.66&#x02013;0.98]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.81 [0.66&#x02013;0.99]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.80 [0.64&#x02013;1.00]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Current HRT, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">5.80</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.12</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.95 [0.72&#x02013;1.24]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.76 [0.57&#x02013;1.02]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.73 [0.54&#x02013;0.99]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">CES-D &#x02265; 16 Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">37.19</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.44 [1.04&#x02013;2.01]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2.04 [1.42&#x02013;2.91]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3.44 [2.26&#x02013;5.22]</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">53.55</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.33 [1.04&#x02013;1.69]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.84 [1.45&#x02013;2.35]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2.43 [1.89&#x02013;3.13]</td>
+          </tr>
+          <tr>
+            <td colspan="13" align="left" valign="top" rowspan="1">Chronic diseases</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;0</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">11.78</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">6</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.067</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">17.01</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">6</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.009</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;1</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.16 [0.88&#x02013;1.52]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.61 [1.13&#x02013;2.27]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.50 [0.95&#x02013;2.39]</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.09 [0.83&#x02013;1.42]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.04 [0.78&#x02013;1.38]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.46 [1.06&#x02013;2.00]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;2+</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.15 [0.88&#x02013;1.49]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.58 [1.13&#x02013;2.20]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.73 [1.12&#x02013;2.67]</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.20 [0.92&#x02013;1.57]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.35 [1.02&#x02013;1.79]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.82 [1.33&#x02013;2.49]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Sleep treatment, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">51.65</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.12 [0.80&#x02013;1.56]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2.25 [1.60&#x02013;3.15]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3.13 [2.12&#x02013;4.63]</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">73.32</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.22 [0.95&#x02013;1.58]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.96 [1.53&#x02013;2.51]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2.67 [2.07&#x02013;3.44]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Loud snoring, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">6.36</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.095</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.38 [1.06&#x02013;1.79]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.25 [0.92&#x02013;1.69]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.09 [0.74&#x02013;1.60]</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Sleepiness, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">80.83</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2.36 [1.75&#x02013;3.18]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">4.04 [2.95&#x02013;5.53]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3.52 [2.44&#x02013;5.10]</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">15.98</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.001</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.68 [1.17&#x02013;2.42]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.91 [1.34&#x02013;2.74]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2.02 [1.40&#x02013;2.91]</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Nightmares, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">24.17</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2.91 [1.18&#x02013;7.17]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">6.27 [2.57&#x02013;15.28]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">7.31 [2.84&#x02013;18.80]</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">29.88</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1.99 [1.08&#x02013;3.67]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2.97 [1.67&#x02013;5.30]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">4.28 [2.42&#x02013;7.55]</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn id="TFN2">
+          <p>Center is not shown.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap id="T3" position="float">
+      <?landscape?>
+      <label>Table 3</label>
+      <caption>
+        <p>Multivariate logistic regression: OR adjusted, confidence intervals and significance levels of isolated symptoms.</p>
+      </caption>
+      <table frame="below" rules="groups">
+        <thead>
+          <tr>
+            <th colspan="13" valign="bottom" align="left" rowspan="1">3a &#x02013; In men <hr/>
+            </th>
+          </tr>
+          <tr>
+            <th valign="bottom" align="left" rowspan="1" colspan="1"/>
+            <th colspan="4" valign="bottom" align="center" rowspan="1">DIS</th>
+            <th colspan="4" valign="bottom" align="center" rowspan="1">DMS</th>
+            <th colspan="4" valign="bottom" align="center" rowspan="1">EMA</th>
+          </tr>
+          <tr>
+            <th colspan="13" valign="bottom" align="left" rowspan="1">
+              <hr/>
+            </th>
+          </tr>
+          <tr>
+            <th valign="bottom" align="left" rowspan="1" colspan="1"/>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">Wald &#x003c7;<sup>2</sup></th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">df</th>
+            <th valign="bottom" align="left" rowspan="1" colspan="1">OR [95%CI]</th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">p-value*</th>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">Wald &#x003c7;<sup>2</sup></th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">df</th>
+            <th valign="bottom" align="left" rowspan="1" colspan="1">OR [95%CI]</th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">p-value*</th>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">Wald &#x003a7;<sup>2</sup></th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">df</th>
+            <th valign="bottom" align="left" rowspan="1" colspan="1">OR [95%CI]</th>
+            <th valign="bottom" align="left" rowspan="1" colspan="1">p-value*</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td colspan="13" align="left" valign="top" rowspan="1">Age (years)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;65&#x02013;69</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">2.42</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.49</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">28.16</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">6.45</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.092</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;70&#x02013;74</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.06 [0.52&#x02013;2.17]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.52 [1.19&#x02013;1.96]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.76 [1.08&#x02013;2.86]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;75&#x02013;79</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.82 [0.35&#x02013;1.93]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.76 [1.34&#x02013;2.32]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.08 [0.60&#x02013;1.95]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;80+</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.83 [0.70&#x02013;4.80]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">2.36 [1.64&#x02013;3.40]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.56 [0.75&#x02013;3.29]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td colspan="13" align="left" valign="top" rowspan="1">BMI</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x0003c;25</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">6.67</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.036</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;25&#x02013;29</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.00 [0.51&#x02013;1.96]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x02265;30</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">2.70 [1.15&#x02013;6.34]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">CES-D &#x02265;16, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.38</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.65 [0.72&#x02013;3.80]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.24</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.53</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.25 [0.88&#x02013;1.77]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.22</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">3.74</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.90 [0.99&#x02013;3.64]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.053</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Sleep treatment, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">16.93</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">4.46 [2.19&#x02013;9.10]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">2.77</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.69 [0.91&#x02013;3.12]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.096</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Loud snoring, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">6.26</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.43 [1.08&#x02013;1.88]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.012</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">2.36</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.50 [0.89&#x02013;2.51]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.125</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Sleepiness, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.20</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.56 [0.70&#x02013;3.47]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.27</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">27.68</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">2.30 [1.69&#x02013;3.14]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">12.37</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">2.55 [1.51&#x02013;4.29]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.0004</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Nightmares, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.64</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">3.46 [0.52&#x02013;23.17]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.20</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">5.56</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">3.08 [1.21&#x02013;7.83]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.018</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+        </tbody>
+      </table>
+      <table frame="below" rules="groups">
+        <thead>
+          <tr>
+            <th colspan="9" valign="bottom" align="left" rowspan="1">3b &#x02013; In women <hr/>
+            </th>
+          </tr>
+          <tr>
+            <th valign="bottom" align="left" rowspan="1" colspan="1"/>
+            <th colspan="4" valign="bottom" align="center" rowspan="1">DIS</th>
+            <th colspan="4" valign="bottom" align="center" rowspan="1">DMS</th>
+          </tr>
+          <tr>
+            <th colspan="9" valign="bottom" align="left" rowspan="1">
+              <hr/>
+            </th>
+          </tr>
+          <tr>
+            <th valign="bottom" align="left" rowspan="1" colspan="1"/>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">Wald &#x003c7;<sup>2</sup></th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">df</th>
+            <th valign="bottom" align="left" rowspan="1" colspan="1">OR [95%CI]</th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">p-value<xref rid="TFN3" ref-type="table-fn">*</xref></th>
+            <th valign="bottom" align="right" rowspan="1" colspan="1">Wald&#x003c7;<sup>2</sup></th>
+            <th valign="bottom" align="center" rowspan="1" colspan="1">df</th>
+            <th valign="bottom" align="left" rowspan="1" colspan="1">OR [95%CI]</th>
+            <th valign="bottom" align="left" rowspan="1" colspan="1">p-value<xref rid="TFN3" ref-type="table-fn">*</xref></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;65&#x02013;69</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.20</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.75</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">13.77</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">3</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.003</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;70&#x02013;74</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.21 [0.78&#x02013;1.89]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.28 [0.98&#x02013;1.67]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;75&#x02013;79</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.96 [0.58&#x02013;1.61]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.59 [1.19&#x02013;2.12]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;80+</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.94 [0.47&#x02013;1.85]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.78 [1.21&#x02013;2.60]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">BMI</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x0003c;25</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">3.09</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">2</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.21</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;25&#x02013;29</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.91 [0.61&#x02013;1.37]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">&#x02003;&#x02265;30</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.57 [0.30&#x02013;1.07]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Coffee &#x0003e; 2 cups/day, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">3.51</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.78 [0.60&#x02013;1.01]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.061</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Mediterranean diet, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">0.48</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.87 [0.60&#x02013;1.28]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.49</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">3.08</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.82 [0.66&#x02013;1.02]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.079</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">CES-D&#x02265;16, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">12.55</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">2.10 [1.39&#x02013;3.16]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.0004</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">0.49</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.10 [0.84&#x02013;1.45]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.48</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Sleep treatment, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">34.69</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">3.41 [2.27&#x02013;5.14]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;0.0001</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Sleepiness, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="left" valign="top" rowspan="1" colspan="1"/>
+            <td align="center" valign="top" rowspan="1" colspan="1"/>
+            <td align="right" valign="top" rowspan="1" colspan="1">12.88</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">2.01 [1.37&#x02013;2.94]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.0003</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" rowspan="1" colspan="1">Nightmares, Yes vs No</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">1.13</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">1.71 [0.63&#x02013;4.63]</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">0.29</td>
+            <td align="right" valign="top" rowspan="1" colspan="1">7.44</td>
+            <td align="center" valign="top" rowspan="1" colspan="1">1</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">2.44 [1.29&#x02013;4.63]</td>
+            <td align="left" valign="top" rowspan="1" colspan="1">0.006</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn id="TFN3">
+          <label>*</label>
+          <p>p-value (for variables with more than two categories, the p-value of the test for trend is given). EMA is not shown in women since all variables are not significant. Center not shown.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+  </floats-group>
+</article>
+
+

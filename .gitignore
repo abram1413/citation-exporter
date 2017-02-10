@@ -6,7 +6,10 @@ jats/jats-*/
 jats/nlm-*/
 jetty-temp-dir/
 log/
+/setup-dev.sh
 styles/
 target/
 testlog/
 /jats/
+/apidocs/
+/test.out

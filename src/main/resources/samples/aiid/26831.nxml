@@ -1,0 +1,1183 @@
+<!-- ArticleInstanceId : 26831, Path: pnas/96-1999/11/preload/nxml/, Name : pq006037.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.1 20050630//EN" "archivearticle.dtd">
+<article article-type="research-article" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Proc Natl Acad Sci U S A</journal-id>
+      <journal-id journal-id-type="publisher-id">PNAS</journal-id>
+      <journal-title>Proceedings of the National Academy of Sciences of the United States of America</journal-title>
+      <issn pub-type="ppub">0027-8424</issn>
+      <issn pub-type="epub">1091-6490</issn>
+      <publisher>
+        <publisher-name>The National Academy of Sciences</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">1290</article-id>
+      <article-id pub-id-type="pmid">10339537</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Physical Sciences</subject>
+          <subj-group>
+            <subject>Mathematics</subject>
+          </subj-group>
+        </subj-group>
+        <series-title>Inaugural Article</series-title>
+      </article-categories>
+      <title-group>
+        <article-title>Solutions of a Lagrangian system on &#x1d54b;<sup>2</sup></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rabinowitz</surname>
+            <given-names>Paul H.</given-names>
+          </name>
+          <xref ref-type="author-notes" rid="FN151">&#x02020;</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="N0x9631f40.0x960b200">Department of Mathematics, University of Wisconsin, Madison, WI 53706</aff>
+      <author-notes>
+        <fn id="FN151">
+          <label>&#x02020;</label>
+          <p>To whom reprint requests should be addressed. e-mail: <email>rabinowi@math.wisc.edu</email>.</p>
+        </fn>
+        <fn>
+          <p>This contribution is part of the special series of Inaugural Articles by members of the National Academy of Sciences elected on April 28, 1998.</p>
+        </fn>
+        <fn>
+          <p>Contributed by Paul H. Rabinowitz</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <day>25</day>
+        <month>5</month>
+        <year>1999</year>
+      </pub-date>
+      <volume>96</volume>
+      <issue>11</issue>
+      <fpage>6037</fpage>
+      <lpage>6041</lpage>
+      <history>
+        <date date-type="accepted">
+          <day>2</day>
+          <month>4</month>
+          <year>1999</year>
+        </date>
+      </history>
+      <copyright-statement>Copyright &#x000a9; 1999, The National Academy of Sciences</copyright-statement>
+      <copyright-year>1999</copyright-year>
+      <abstract>
+        <p>A Lagrangian system on &#x1d54b;<sup>2</sup> that has been studied earlier under a geometrical condition and found to possess a pair of solutions, <italic>H<sup>&#x000b1;</sup></italic>, homoclinic to periodic solutions, <italic>v<sup>&#x000b1;</sup></italic>, of a given homotopy type, is considered further. It is shown with the aid of <italic>H<sup>&#x000b1;</sup></italic> and variational arguments that, in fact, there is a much richer structure of homoclinics and heteroclinics to <italic>v<sup>&#x000b1;</sup></italic>. Indeed, the system admits chaotic solutions.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <p>This paper studies the Lagrangian system on &#x0211d;<sup>2</sup>:</p>
+    <p>(LS) <disp-formula>
+        <tex-math id="M1">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}\frac{d}{dt}\hspace{.167em}L_{\dot {q}}-L_{q}=0\end{equation*}\end{document}</tex-math>
+      </disp-formula> where the Lagrangian <italic>L</italic> is given by <disp-formula>
+        <tex-math id="M2">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}L(q)={ \,\substack{ ^{2} \\ {\sum} \\ _{i,j=1} }\, }\hspace{.167em}a_{ij}(q)\dot {q}_{i}\dot {q}_{j}-V(q).\end{equation*}\end{document}</tex-math>
+      </disp-formula> Assume <disp-formula>
+        <tex-math id="M3">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}(V_{1})\hspace{.167em}V{\in}C^{2}({\mathbb{R}}^{2},\hspace{.167em}{\mathbb{R}})\hspace{.167em}{\mathrm{and\hspace{.167em}is\hspace{.167em}1-periodic\hspace{.167em}in}}\hspace{.167em}q_{1},\hspace{.167em}q_{2},\end{equation*}\end{document}</tex-math>
+      </disp-formula>
+      <disp-formula>
+        <tex-math id="M4">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}(V_{2})\hspace{.167em}V(0)=0&#x0003e;V(x),\hspace{.167em}x{\in}{\mathbb{R}}^{2}{\setminus}{\mathbb{Z}}^{2},\end{equation*}\end{document}</tex-math>
+      </disp-formula>
+      <disp-formula>
+        <tex-math id="M5">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}({\mathrm{A}})\hspace{.167em}(a_{ij}(q))\hspace{.167em}{\mathrm{is\hspace{.167em}positive\hspace{.167em}definite\hspace{.167em}for\hspace{.167em}all}}\hspace{.167em}q{\in}{\mathbb{R}}^{2},\end{equation*}\end{document}</tex-math>
+      </disp-formula> and <italic>a</italic>
+      <sub>
+        <italic>ij</italic>
+      </sub> also satisfies (<italic>V</italic>
+      <sub>1</sub>).
+    </p>
+    <p>Because of the periodicity of (LS) in <italic>q</italic>
+      <sub>1</sub>, <italic>q</italic>
+      <sub>2</sub>, it can be viewed as a system in &#x0211d;<sup>2</sup> or on &#x0211d;<sup>2</sup>&#x0002f;&#x02124;<sup>2</sup> = &#x1d54b;<sup>2</sup>. For <italic>V</italic> &#x02261; 0, (LS) was considered by Morse (<xref ref-type="bibr" rid="B1">1</xref>) and Hedlund (<xref ref-type="bibr" rid="B2">2</xref>). They established the existence of a pair of geodesics (for the Riemannean metric associated with <italic>L</italic>) lying between adjacent periodic geodesics in a given homotopy class on &#x1d54b;<sup>2</sup> and heteroclinic to these periodic geodesics. When the potential <italic>V</italic> is present, the situation becomes more complicated due to the equilibrium solutions at &#x02124;<sup>2</sup> given via (<italic>V</italic>
+      <sub>2</sub>). Under further geometrical conditions, there has been some work on the existence of zero energy periodic, heteroclinic, and homoclinic solutions of (LS) in refs. <xref ref-type="bibr" rid="B3">3</xref>&#x02013;<xref ref-type="bibr" rid="B6">6</xref>. In particular in ref. <xref ref-type="bibr" rid="B6">6</xref>, it was shown that a geometrical condition led to a pair of periodic solutions <italic>v</italic>
+      <sup>&#x0002b;</sup>, <italic>v</italic>
+      <sup>&#x02212;</sup> of (LS), and to homoclinics to <italic>v</italic>
+      <sup>&#x0002b;</sup>, <italic>v</italic>
+      <sup>&#x02212;</sup> lying in the region between <italic>v</italic>
+      <sup>&#x0002b;</sup> and <italic>v</italic>
+      <sup>&#x02212;</sup>. The goal of this paper is to show that, in the setting of ref. <xref ref-type="bibr" rid="B6">6</xref>, there is a much richer set of homoclinic and heteroclinic solutions of (LS). Indeed there, is a full symbolic dynamics of these and other solutions. Thus, (LS) admits chaotic solutions. This will be made precise and carried out in the next section.
+    </p>
+    <sec disp-level="2">
+      <title>A Symbolic Dynamics of Solutions</title>
+      <p>To describe our results, the framework of ref. <xref ref-type="bibr" rid="B6">6</xref> must be recalled. For <italic>k</italic> &#x02208; &#x02124;<sup>2</sup>&#x02216;&#x0007b;0&#x0007d;, let <disp-formula>
+          <tex-math id="M6">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}F_{k}=\{q{\in}W^{1,2}_{{\mathrm{loc}}}\hspace{.167em}({\mathbb{R}},\hspace{.167em}{\mathbb{R}}^{2}){\vert}\hspace{.167em}{\mathrm{there\hspace{.167em}is\hspace{.167em}a\hspace{.167em}}}T=T(q)&#x0003e;0\end{equation*}\end{document}</tex-math>
+        </disp-formula>
+        <disp-formula>
+          <tex-math id="M7">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\mathrm{such\hspace{.167em}that}}\hspace{.167em}q(t+T)=q(t)+k\}.\end{equation*}\end{document}</tex-math>
+        </disp-formula> Viewed on &#x1d54b;<sup>2</sup>, <italic>F</italic>
+        <sub>
+          <italic>k</italic>
+        </sub> is the class of <italic>W</italic>
+        <sup>1.2</sup> curves of homotopy type <italic>k</italic>. Let <disp-formula>
+          <tex-math id="M8">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}G_{k}=\{q{\in}W^{1,2}_{{\mathrm{loc}}}({\mathbb{R}},\hspace{.167em}{\mathbb{R}}^{2}){\vert}q({\mathrm{-}}{\infty})=0,\hspace{.167em}q({\infty})=k\}\end{equation*}\end{document}</tex-math>
+        </disp-formula> The elements of <italic>G</italic>
+        <sub>
+          <italic>k</italic>
+        </sub> are candidates for heteroclinic solutions of (LS) (or homoclinics to 0 of homotopy type <italic>k</italic> viewed on &#x1d54b;<sup>2</sup>).
+      </p>
+      <p>For <italic>q</italic> &#x02208; <italic>G</italic>
+        <sub>
+          <italic>k</italic>
+        </sub> and <italic>F</italic>
+        <sub>
+          <italic>k</italic>
+        </sub> respectively, let <disp-formula>
+          <tex-math id="M9">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}I(q)={\int _{-{\infty}}^{{\infty}}}\hspace{.167em}L(q)dt,\hspace{.167em}I_{k}(q)={\int _{0}^{T(q)}}\hspace{.167em}L(q)dt\end{equation*}\end{document}</tex-math>
+        </disp-formula> and define <disp-formula>
+          <tex-math id="M10">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}\bar {c}_{k}={ \,\substack{ \\ {\mathrm{inf}} \\ _{q{\in}G_{k}} }\, }\hspace{.167em}I(q);\hspace{.167em}c_{k}={ \,\substack{ \\ {\mathrm{inf}} \\ _{q{\in}F_{k}} }\, }\hspace{.167em}I(q)\end{equation*}\end{document}</tex-math>
+        </disp-formula> It was shown in refs. <xref ref-type="bibr" rid="B3">3</xref> and <xref ref-type="bibr" rid="B4">4</xref> that, if <disp-formula id="E1">
+          <label>1</label>
+          <tex-math id="M11">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}\bar {c}_{k}&#x0003e;c_{k},\end{equation*}\end{document}</tex-math>
+        </disp-formula> there is a <italic>v</italic> &#x02208; <italic>F</italic>
+        <sub>
+          <italic>k</italic>
+        </sub> such that <italic>I</italic>
+        <sub>
+          <italic>k</italic>
+        </sub>(<italic>v</italic>) = <italic>c</italic>
+        <sub>
+          <italic>k</italic>
+        </sub> and <italic>v</italic> is a solution of (LS) (of period <italic>T</italic>(<italic>v</italic>) on &#x1d54b;<sup>2</sup>). Moreover, there is a <italic>u</italic> &#x02208; <italic>G</italic>
+        <sub>
+          <italic>k</italic>
+        </sub> such that <italic>I</italic>(<italic>u</italic>) = &#x00063;&#x00304;<sub>
+          <italic>k</italic>
+        </sub> and <italic>u</italic> is a solution of (LS) heteroclinic to 0 and <italic>k</italic>. Let <disp-formula>
+          <tex-math id="M12">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}P_{k}=\{q{\in}F_{k}{\vert}I_{k}(q)=c_{k}\}.\end{equation*}\end{document}</tex-math>
+        </disp-formula> The elements of <italic>P</italic>
+        <sub>
+          <italic>k</italic>
+        </sub> are only determined up to a phase shift because, if &#x003b8; &#x02208; &#x0211d; and &#x003c4;<sub>&#x003b8;</sub>
+        <italic>q</italic>(<italic>t</italic>) &#x02261; <italic>q</italic>(<italic>t</italic> &#x02212; &#x003b8;), then <italic>I</italic>
+        <sub>
+          <italic>k</italic>
+        </sub>(<italic>q</italic>) = <italic>I</italic>
+        <sub>
+          <italic>k</italic>
+        </sub>(&#x003c4;<sub>&#x003b8;</sub>
+        <italic>q</italic>) for all &#x003b8; &#x02208; &#x0211d;. Moreover, if <italic>p</italic> &#x02208; <italic>F</italic>
+        <sub>
+          <italic>k</italic>
+        </sub>, so is <italic>p</italic> &#x0002b; <italic>j</italic> for all <italic>j</italic> &#x02208; &#x02124;<sup>2</sup>. It was shown in ref. <xref ref-type="bibr" rid="B4">4</xref> that 0 &#x02209; <italic>p</italic>(&#x0211d;) for any <italic>p</italic> &#x02208; <italic>P</italic>
+        <sub>
+          <italic>k</italic>
+        </sub>. Therefore, 0 belongs to some component of &#x0211d;<sup>2</sup>&#x02216;&#x0007b;<italic>p</italic>(&#x0211d;)&#x0007c;<italic>p</italic> &#x02208; <italic>F</italic>
+        <sub>
+          <italic>k</italic>
+        </sub>&#x0007d;. This component is bounded by a pair of functions <italic>v</italic>
+        <sup>&#x0002b;</sup>, <italic>v</italic>
+        <sup>&#x02212;</sup> &#x02208; <italic>P</italic>
+        <sub>
+          <italic>k</italic>
+        </sub> and will be denoted by &#x0211b;.
+      </p>
+      <p>The region &#x0211b; will be subdivided as follows. For <italic>i</italic> &#x02208; &#x02115;, set <italic>u</italic>
+        <sub>
+          <italic>i</italic>
+        </sub> = <italic>u</italic> &#x0002b; (<italic>i</italic> &#x02212; 1)<italic>k</italic> and, for &#x02212;<italic>i</italic> &#x02208; &#x02115;, set <italic>u</italic>
+        <sub>
+          <italic>i</italic>
+        </sub> = <italic>u</italic> &#x0002b; <italic>ik</italic>. Then, <italic>U</italic> = <tex-math id="M13">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}\overline{{\mathrm{{{\cup}_{i{\in}{\mathbb{Z}}{\setminus}\{0\}}u_{i}({\mathbb{R}})}}}}\end{equation*}\end{document}</tex-math> divides &#x0211b; into &#x0211b;<sup>&#x0002b;</sup> and &#x0211b;<sup>&#x02212;</sup> with <italic>v</italic>
+        <sup>&#x000b1;</sup>(&#x0211d;) forming a boundary component of &#x0211b;<sup>&#x000b1;</sup>. Minimizing &#x0222b;<sub>0</sub>
+        <sup>&#x0221e;</sup>
+        <italic>L</italic>(&#x003d5;)<italic>dt</italic> over the class of <italic>W</italic>
+        <sub>loc</sub>
+        <sup>1,2</sup> curves, &#x003d5;, with &#x003d5;(0) &#x02208; <italic>v</italic>
+        <sup>&#x0002b;</sup>(&#x0211d;) and &#x003d5;(&#x0221e;) = 0 yields a <italic>C</italic>
+        <sup>2</sup> solution, <italic>z</italic>
+        <sub>0</sub>
+        <sup>&#x0002b;</sup> of (LS) in this class, joining <italic>v</italic>
+        <sup>&#x0002b;</sup> and <italic>U</italic>. Similarly, there is a <italic>C</italic>
+        <sup>2</sup> solution, <italic>z</italic>
+        <sub>0</sub>
+        <sup>&#x02212;</sup>, of (LS) joining <italic>v</italic>
+        <sup>&#x02212;</sup> and <italic>U</italic> with <italic>z</italic>
+        <sub>0</sub>
+        <sup>&#x02212;</sup>(0) &#x02208; <italic>v</italic>
+        <sup>&#x02212;</sup>(&#x0211d;) and <italic>z</italic>
+        <sub>0</sub>
+        <sup>&#x02212;</sup>(&#x0221e;) = 0. For <italic>k</italic> &#x02208; &#x02124;, set <italic>z</italic>
+        <sub>
+          <italic>k</italic>
+        </sub>
+        <sup>&#x000b1;</sup> = <italic>z</italic>
+        <sub>0</sub>
+        <sup>&#x000b1;</sup> &#x0002b; <italic>ik</italic>. The curves <italic>U</italic>, <italic>v</italic>
+        <sup>&#x000b1;</sup>, and <italic>z</italic>
+        <sub>
+          <italic>i</italic>
+        </sub>
+        <sup>&#x000b1;</sup> divide &#x0211b; in a natural way into &#x0201c;subrectangles,&#x0201d; &#x0211b;<sub>
+          <italic>i</italic>
+        </sub>
+        <sup>&#x000b1;</sup>, <italic>i</italic> &#x02208; &#x02124;&#x02216;&#x0007b;0&#x0007d;. See Fig. <xref ref-type="fig" rid="F1">1</xref>. Set &#x0211b;<sub>
+          <italic>i</italic>
+        </sub> = &#x0211b;<sub>
+          <italic>i</italic>
+        </sub>
+        <sup>&#x0002b;</sup> &#x0222a; &#x0211b;<sub>
+          <italic>i</italic>
+        </sub>
+        <sup>&#x02212;</sup>.
+      </p>
+      <p>To continue, a stronger version of <bold>&#x0005b;1&#x0005d;</bold> is needed. Consider the class of <italic>W</italic>
+        <sup>1,2</sup> curves joining <italic>v</italic>
+        <sup>&#x0002b;</sup>(&#x0005b;0, <italic>T</italic>(<italic>v</italic>
+        <sup>&#x0002b;</sup>)) to <italic>v</italic>
+        <sup>&#x02212;</sup>(&#x0005b;0, <italic>T</italic>(<italic>v</italic>
+        <sup>&#x02212;</sup>)). Minimizing &#x0222b; <italic>L</italic>(&#x022c5;)<italic>dt</italic> over this class produces an infimum, <italic>b</italic>, of the functional. Suppose <disp-formula id="E2">
+          <label>2</label>
+          <tex-math id="M14">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}\bar {c}_{k}-c_{k}&#x0003e;2b,\end{equation*}\end{document}</tex-math>
+        </disp-formula> the strengthened geometrical condition. Then, there is a corresponding minimizer, &#x003c8;, of the functional that avoids &#x02124;<sup>2</sup>. By using <bold>&#x0005b;2&#x0005d;</bold>, it was shown in ref. <xref ref-type="bibr" rid="B6">6</xref> that (LS) possesses a pair of solutions, <italic>H</italic>
+        <sup>&#x000b1;</sup> with <italic>H</italic>
+        <sup>&#x000b1;</sup> homoclinic to <italic>v</italic>
+        <sup>&#x000b1;</sup>. Moreover, <italic>H</italic>
+        <sup>&#x000b1;</sup> crosses <italic>z</italic>
+        <sub>
+          <italic>i</italic>
+        </sub>
+        <sup>&#x000b1;</sup> for all <italic>i</italic> &#x02260; 0 and also crosses <italic>z</italic>
+        <sub>0</sub>
+        <sup>&#x02213;</sup>. In fact, <italic>H</italic>
+        <sup>&#x000b1;</sup>(0) &#x02208; <italic>z</italic>
+        <sub>0</sub>
+        <sup>&#x02213;</sup>(&#x0211d;), and the curves lie in &#x0211b;<sup>&#x000b1;</sup> except for an interval in which they cross <italic>u</italic>
+        <sub>&#x02212;1</sub> and <italic>z</italic>
+        <sub>0</sub>
+        <sup>&#x02213;</sup> and reenter &#x0211b;<sub>1</sub>
+        <sup>&#x02213;</sup> through <italic>u</italic>
+        <sub>1</sub> (see Fig. <xref ref-type="fig" rid="F2">2</xref>). The functions <italic>H</italic>
+        <sup>&#x000b1;</sup> are also minimal solutions of (LS) in the homotopy class of curves that cross the curves <italic>z</italic>
+        <sub>
+          <italic>i</italic>
+        </sub>
+        <sup>&#x000b1;</sup> in the above fashion. &#x0201c;Minimal&#x0201d; means that, for all <italic>x</italic> &#x0003c; <italic>y</italic>, <italic>H</italic>
+        <sup>&#x000b1;</sup> minimizes &#x0222b; <italic>L</italic>(<italic>w</italic>)<italic>dt</italic> over the class of <italic>W</italic>
+        <sup>1,2</sup> curves <italic>w</italic> having the same endpoints and the same crossing (of <italic>z</italic>
+        <sub>
+          <italic>i</italic>
+        </sub>
+        <sup>&#x000b1;</sup>) properties as <italic>H</italic>
+        <sup>&#x000b1;</sup>&#x0007c;<sub>
+          <italic>x</italic>
+        </sub>
+        <sup>
+          <italic>y</italic>
+        </sup>.
+      </p>
+      <p>Observe that this minimality property implies that, for any <italic>i</italic> &#x02260; <italic>j</italic> &#x02208; &#x02124;, &#x003c4;<sub>
+          <italic>i</italic>
+        </sub>
+        <italic>H</italic>
+        <sup>&#x0002b;</sup>(&#x0211d;) &#x02229; &#x003c4;<sub>
+          <italic>j</italic>
+        </sub>
+        <italic>H</italic>
+        <sup>&#x02212;</sup>(&#x0211d;)=&#x003c6;.
+      </p>
+      <p>With the aid of these preliminaries, <italic>H</italic>
+        <sup>&#x000b1;</sup> will be used to help construct new homotopy classes of curves and a symbolic dynamics of solutions of (LS). Let <disp-formula>
+          <tex-math id="M15">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{ \,\substack{ \\ {\sum} \\ }\, }=\{{\sigma}=({\sigma}_{i})_{i{\in}{\mathbb{Z}}}{\vert}{\sigma}_{i}{\in}\{{\mathrm{+,\hspace{.167em}-}}\}\}\end{equation*}\end{document}</tex-math>
+        </disp-formula> A curve <italic>q</italic> : &#x0211d; &#x02192; &#x0211b; will be said to have homotopy type &#x003c3; &#x02208; &#x003a3; if <italic>q</italic> crosses the curves <italic>z</italic>
+        <sub>
+          <italic>i</italic>
+        </sub>
+        <sup>&#x003c3;<sub>
+            <italic>i</italic>
+          </sub>,
+        </sup>
+        <italic>i</italic> &#x02208; &#x02124;, in the order given by &#x003c3;. Define &#x003c3;<sup>&#x000b1;</sup> &#x02208; &#x003a3; by &#x003c3;<sub>
+          <italic>i</italic>
+        </sub>
+        <sup>&#x000b1;</sup> = &#x000b1;, <italic>i</italic> &#x02260; 0, and &#x003c3;<sub>0</sub>
+        <sup>&#x000b1;</sup> = &#x02213;. Then, <italic>H</italic>
+        <sup>&#x000b1;</sup> the homotopy type &#x003c3;<sup>&#x000b1;</sup>.
+      </p>
+      <p>Our main result is that, for each &#x003c3; &#x02208; &#x003a3;, (LS) has a minimal solution of homotopy type &#x003c3;. To be more precise, let &#x003c3; &#x02208; &#x003a3; and <italic>i</italic> &#x02208; &#x02124;. Consider &#x003c4;<sub>
+          <italic>i</italic>
+        </sub>
+        <italic>H</italic>&#x003c3;<sub>
+          <italic>i</italic>
+        </sub>. It divides &#x0211b; into two subregions. Excise the region between &#x003c4;<sub>
+          <italic>i</italic>
+        </sub>
+        <italic>H</italic>&#x003c3;<sub>
+          <italic>i</italic>
+        </sub> and <italic>v</italic>&#x003c3;<sub>
+          <italic>i</italic>
+        </sub> from &#x0211b;, calling the resulting region &#x0211b;(&#x003c4;<sub>
+          <italic>i</italic>
+        </sub>
+        <italic>H</italic>&#x003c3;<sub>
+          <italic>i</italic>
+        </sub>). Associate with &#x003c3; the region &#x02229;<sub>
+          <italic>i</italic>&#x02208;&#x02124;
+        </sub>&#x0211b;(&#x003c4;<sub>
+          <italic>i</italic>
+        </sub>
+        <italic>H</italic>&#x003c3;<sub>
+          <italic>i</italic>
+        </sub>) &#x02261; <italic>X</italic>
+        <sub>&#x003c3;</sub>. See Fig. <xref ref-type="fig" rid="F3">3</xref>, where &#x003c3;<sub>
+          <italic>i</italic>
+        </sub> = &#x02212;, <italic>i</italic> &#x02264; 0; = &#x0002b;, <italic>i</italic> &#x0003e; 0 and <italic>X</italic>
+        <sub>&#x003c3;</sub> is the shaded region.
+      </p>
+      <p>Now we have</p>
+      <sec disp-level="3">
+        <title>Theorem 3<italic> If </italic>(V<sub>1</sub>) &#x02212; (V<sub>2</sub>), (A), <italic>and </italic>
+          <italic>&#x0005b;2&#x0005d; are satisfied, then, for each </italic>&#x003c3; &#x02208; &#x003a3;, <italic>there exists a minimal solution </italic>Q<sub>&#x003c3;</sub>
+          <italic> of (LS) of homotopy type </italic>&#x003c3; <italic>lying in </italic>X<sub>&#x003c3;</sub>.
+        </title>
+        <p>Theorem 3 is a consequence of a related result for a subclass of &#x003a3;. For <italic>p</italic>, <italic>r</italic> &#x02208; &#x0007b;&#x0002b;, &#x02212;&#x0007d;, let <disp-formula>
+            <tex-math id="M16">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{ \,\substack{ \\ {\sum} \\ }\, }^{pr}= \left\{ {\sigma}{\in}{ \,\substack{ \\ {\sum} \\ }\, }{\vert}{\sigma}_{{\ell}}=p\hspace{.167em}{\mathrm{for\hspace{.167em}all\hspace{.167em}large}}\hspace{.167em}{\ell}{\in}{\mathrm{-}}{\mathbb{N}} \right \end{equation*}\end{document}</tex-math>
+          </disp-formula>
+          <disp-formula>
+            <tex-math id="M17">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*} \left {\mathrm{and}}\hspace{.167em}{\sigma}_{{\ell}}=r\hspace{.167em}{\mathrm{for\hspace{.167em}all\hspace{.167em}large}}\hspace{.167em}{\ell}{\in}{\mathbb{N}} \right\} \end{equation*}\end{document}</tex-math>
+          </disp-formula>
+        </p>
+      </sec>
+      <sec disp-level="3">
+        <title>Theorem 4<italic> If </italic>(V<sub>1</sub>) &#x02212; (V<sub>2</sub>), (A), <italic>and </italic>
+          <italic>&#x0005b;2&#x0005d; are satisfied, then, for each </italic>&#x003c3; &#x02208; &#x003a3;<sup>pr</sup>
+          <italic> and </italic>p, r &#x02208; &#x0007b;&#x0002b;, &#x02212;&#x0007d;, <italic>there is a minimal solution </italic>Q<sub>&#x003c3;</sub>
+          <italic> of </italic>(LS) <italic>of homotopy type </italic>&#x003c3; <italic>lying in </italic>X<sub>&#x003c3;</sub>.
+        </title>
+        <p>
+          <italic>Moreover, </italic>Q<sub>&#x003c3;</sub>
+          <italic> is heteroclinic from </italic>v<sup>p</sup>
+          <italic> to </italic>v<sup>r</sup>
+          <italic> if </italic>p &#x02260; r<italic> and is homoclinic to </italic>v<sup>p</sup>
+          <italic> if </italic>p = r.
+        </p>
+        <p>Theorem 4 will be proved first and then Theorem 3 follows from it by an approximation argument. As in refs. <xref ref-type="bibr" rid="B4">4</xref>&#x02013;<xref ref-type="bibr" rid="B6">6</xref>, the proof of Theorem 4 involves finding <italic>Q</italic>
+          <sub>&#x003c3;</sub> as the minimizer of an appropriately renormalized functional over a class of curves lying in <italic>X</italic>
+          <sub>&#x003c3;</sub>. Renormalization is necessary because the natural functional is infinite on the class of curves in <italic>X</italic>
+          <sub>&#x003c3;</sub>. The first step in the proof is to introduce an appropriate class of curves. Let &#x003c3; &#x02208; &#x003a3;<sup>
+            <italic>pr</italic>
+          </sup> and <disp-formula>
+            <tex-math id="M18">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\Gamma}_{{\sigma}}=\{q{\in}W^{1,2}_{{\mathrm{loc}}}({\mathbb{R}},\hspace{.167em}{\mathbb{R}}^{2}){\vert}q\hspace{.167em}{\mathrm{satisfies}}\hspace{.167em}({\gamma}_{1})-({\gamma}_{5})\}\end{equation*}\end{document}</tex-math>
+          </disp-formula> where <disp-formula>
+            <tex-math id="M19">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}({\gamma}_{1})\hspace{.167em}q\hspace{.167em}{\mathrm{lies\hspace{.167em}in}}\hspace{.167em}X_{{\sigma}},\end{equation*}\end{document}</tex-math>
+          </disp-formula>
+          <disp-formula>
+            <tex-math id="M20">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}({\gamma}_{2})\hspace{.167em}q(0){\in}u_{1}({\mathbb{R}}),\end{equation*}\end{document}</tex-math>
+          </disp-formula>
+          <disp-formula>
+            <tex-math id="M21">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}({\gamma}_{3})\hspace{.167em}{\mathrm{There\hspace{.167em}is\hspace{.167em}a\hspace{.167em}monotone\hspace{.167em}sequence}}\hspace{.167em}t_{i}=t_{i}(q),\hspace{.167em}i{\in}{\mathbb{Z}},\end{equation*}\end{document}</tex-math>
+          </disp-formula>
+          <disp-formula>
+            <tex-math id="M22">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\mathrm{such\hspace{.167em}that\hspace{.167em}}}q(t_{i}(q)){\in}z^{{\sigma}_{i}}_{i}({\mathbb{R}}^{+}),\end{equation*}\end{document}</tex-math>
+          </disp-formula>
+          <disp-formula>
+            <tex-math id="M23">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}({\gamma}_{4})\hspace{1em}\hspace{1em} \left\{ \begin{matrix}q(t){\in}\bar {{\mathscr{R}}}_{i+1} \enskip \hfill &#x00026; {\mathrm{for}}\hspace{.167em}t{\in}[t_{i},\hspace{.167em}t_{i+1}],\hspace{.167em}i{\geq}0 \enskip \hfill &#x00026; \\ q(t){\in}{\mathscr{R}}_{i} \enskip \hfill &#x00026; {\mathrm{for}}\hspace{.167em}t{\in}[t_{i},\hspace{.167em}t_{i+1}],\hspace{.167em}i{\leq}{\mathrm{-}}1 \enskip \hfill &#x00026; \end{matrix} \right \end{equation*}\end{document}</tex-math>
+          </disp-formula> Because &#x003c3; &#x02208; &#x003a3;<sup>
+            <italic>pr</italic>
+          </sup>, there is a smallest &#x02113;<sup>&#x02212;</sup>, &#x02113;<sup>&#x0002b;</sup> &#x02208; &#x02115; such that &#x003c3;<sub>
+            <italic>i</italic>
+          </sub> = <italic>p</italic> for all <italic>i</italic> &#x02264; &#x02212;&#x02113;<sup>&#x02212;</sup> and &#x003c3;<sub>
+            <italic>i</italic>
+          </sub> = <italic>r</italic> for all <italic>i</italic> &#x02265; &#x02113;<sup>&#x0002b;</sup>. Define <italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub> = <italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>) via <italic>q</italic>(<italic>t</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>) = <italic>z</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>
+          <sup>
+            <italic>r</italic>
+          </sup>(<italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>)), <italic>i</italic> &#x02265; &#x02113;<sup>&#x0002b;</sup> and <italic>q</italic>(<italic>t</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>) = <italic>z</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>
+          <sup>
+            <italic>p</italic>
+          </sup>(<italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>)), <italic>i</italic> &#x02264; &#x02212;&#x02113;<sup>&#x02212;</sup>. Then we require that <disp-formula>
+            <tex-math id="M24">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}({\gamma}_{5})\hspace{1em}\hspace{1em}\begin{matrix}s_{i+1}(q){\leq}s_{i}(q),\hspace{.167em}i{\geq}{\ell}^{+} \enskip &#x00026; \\ s_{i+1}(q){\leq}s_{i}(q),\hspace{.167em}i{\leq}{\mathrm{-}}{\ell}^{-} \enskip &#x00026; \end{matrix} \end{equation*}\end{document}</tex-math>
+          </disp-formula>
+        </p>
+      </sec>
+      <sec disp-level="3">
+        <title>Remark 5<italic> The sequence </italic>(t<sub>i</sub>(q))<italic> need not be unique.</italic></title>
+        <p> If (t<sub>i</sub>)<italic> and </italic>(&#x00074;&#x00303;<sub>i</sub>)<italic> are two such sequences, by </italic>(&#x003b3;<sub>4</sub>), q(t) &#x02208; z<sub>i</sub>
+          <sup>&#x000b1;</sup>(&#x0211d;<sup>&#x0002b;</sup>)<italic> for </italic>t &#x02208; &#x0005b;t<sub>i</sub>, &#x00074;&#x00303;<sub>i</sub>&#x0005d;.
+        </p>
+        <p>The renormalized functional on &#x00393;<sub>&#x003c3;</sub> will be defined as follows. Let <italic>q</italic> &#x02208; &#x00393;<sub>&#x003c3;</sub>. Set <disp-formula>
+            <tex-math id="M25">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}a_{i}(q)={\int _{t_{i-1}(q)}^{t_{i}(q)}}\hspace{.167em}L(q)dt-{\alpha}_{i}c_{k}\end{equation*}\end{document}</tex-math>
+          </disp-formula> for <italic>i</italic> &#x02265; 1 and <disp-formula>
+            <tex-math id="M26">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}a_{i}(q)={\int _{t_{i}(q)}^{t_{i+1}(q)}}\hspace{.167em}L(q)dt-{\alpha}_{i}c_{k}\end{equation*}\end{document}</tex-math>
+          </disp-formula> for <italic>i</italic> &#x02264; &#x02212;1 where &#x003b1;<sub>
+            <italic>i</italic>
+          </sub> = 0 if &#x02212;&#x02113;<sup>&#x02212;</sup> &#x02264; <italic>i</italic> &#x02264; &#x02113;<sup>&#x0002b;</sup> and &#x003b1;<sub>
+            <italic>i</italic>
+          </sub> = 1 otherwise. Now define <disp-formula>
+            <tex-math id="M27">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}J(q)={ \,\substack{ \\ {\sum} \\ _{i{\in}{\mathbb{Z}}{\setminus}\{0\}} }\, }\hspace{.167em}a_{i}(q)\end{equation*}\end{document}</tex-math>
+          </disp-formula> Because there may be more than one possible choice of (<italic>t</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>)), it must be shown that <italic>J</italic>(<italic>q</italic>) is independent of the choice of (<italic>t</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>)). Thus, suppose that <italic>J</italic>(<italic>q</italic>) &#x0003c; &#x0221e;. Then <italic>a</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>) &#x02192; 0 as &#x0007c;<italic>i</italic>&#x0007c; &#x02192; &#x0221e;, so <disp-formula id="E6">
+            <label>6</label>
+            <tex-math id="M28">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\int _{t_{i-1}(q)}^{t_{i}(q)}}\hspace{.167em}L(q)dt{\leq}c_{k}+1\end{equation*}\end{document}</tex-math>
+          </disp-formula> for large &#x0007c;<italic>i</italic>&#x0007c;. By a simpler version of the proof of Proposition 3.12 of ref. <xref ref-type="bibr" rid="B4">4</xref>, <disp-formula id="E7">
+            <label>7</label>
+            <tex-math id="M29">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*} \left\{ \begin{matrix}t_{i+1}(q)-t_{i}(q){\rightarrow}T(v^{p}),\hspace{.167em}i{\rightarrow}{\mathrm{-}}{\infty} \enskip \hfill &#x00026; \\ t_{i+1}(q)-t_{i}(q){\rightarrow}T(v^{r}),\hspace{.167em}i{\rightarrow}{\infty} \enskip \hfill &#x00026; \end{matrix} \right \end{equation*}\end{document}</tex-math>
+          </disp-formula> and <disp-formula id="E8">
+            <label>8</label>
+            <tex-math id="M30">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*} \left\{ \begin{matrix}{\parallel}q-v^{p}{\parallel}_{L^{{\infty}}[t_{i},t_{i+1}]}{\rightarrow}0,\hspace{.167em}i{\rightarrow}{\mathrm{-}}{\infty} \enskip \hfill &#x00026; \\ {\parallel}q-v^{r}{\parallel}_{L^{{\infty}}[t_{i},t_{i+1}]}{\rightarrow}0,\hspace{.167em}i{\rightarrow}{\infty} \enskip \hfill &#x00026; \end{matrix} \right \end{equation*}\end{document}</tex-math>
+          </disp-formula> Hence, <italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>) &#x02192; 0 as &#x0007c;<italic>i</italic>&#x0007c; &#x02192; &#x0221e;. As in ref. <xref ref-type="bibr" rid="B6">6</xref>, set <disp-formula>
+            <tex-math id="M31">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}J_{{\ell}}(q)={ \,\substack{ ^{{\ell}} \\ {\sum} \\ _{-{\ell}} }\, }\hspace{.167em}a_{i}(q);\hspace{.167em}\tilde {J}_{{\ell}}(q)={ \,\substack{ ^{{\ell}} \\ {\sum} \\ _{-{\ell}} }\, }\hspace{.167em}\tilde {a}_{i}(q),\end{equation*}\end{document}</tex-math>
+          </disp-formula> where <italic>J</italic> corresponds to <italic>t</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>)) and &#x0004a;&#x00303; to (&#x00074;&#x00303;<sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>)), with both (<italic>t</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>)) and (&#x00074;&#x00303;<sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>)) satisfying (&#x003b3;<sub>3</sub>). Then, <bold>&#x0005b;8&#x0005d;</bold> and <italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>) &#x02192; 0 imply <disp-formula id="E9">
+            <label>9</label>
+            <tex-math id="M32">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\vert}J_{{\ell}}(q)-\tilde {J}_{{\ell}}(q){\vert}{\leq} \left{\vert} {\int _{t_{-{\ell}}(q)}^{\tilde {t}_{-{\ell}}(q)}}\hspace{.167em}L(q)dt \right{\vert} + \left{\vert} {\int _{t_{{\ell}}(q)}^{\tilde {t}_{{\ell}}(q)}}\hspace{.167em}L(q)dt \right{\vert} .\end{equation*}\end{document}</tex-math>
+          </disp-formula> Because <italic>q</italic>&#x0007c;<sub>
+            <italic>t</italic>
+            <sub>&#x02113;</sub>
+          </sub>
+          <sup>&#x00074;&#x00303;<sub>&#x02113;</sub></sup> lies on <italic>z</italic>
+          <sub>&#x02113;</sub>
+          <sup>
+            <italic>r</italic>
+          </sup> (&#x0211d;<sup>&#x0002b;</sup>), <bold>&#x0005b;7&#x0005d;</bold> and <bold>&#x0005b;8&#x0005d;</bold> show &#x0007c;<italic>t</italic>
+          <sub>&#x02113;</sub>(<italic>q</italic>) &#x02212; &#x00074;&#x00303;<sub>&#x02113;</sub>(<italic>q</italic>)&#x0007c; &#x02192; 0 as &#x02113; &#x02192; &#x0221e; and similarly for &#x02212;&#x02113;. Hence, <bold>&#x0005b;6&#x0005d;</bold>, the right hand side of <bold>&#x0005b;9&#x0005d;</bold> &#x02192; 0 as &#x02113; &#x02192; &#x0221e;. Consequently, <italic>J</italic>(<italic>q</italic>) = &#x0004a;&#x00303;(<italic>q</italic>), and <italic>J</italic> is well defined.
+        </p>
+        <p>Now define <disp-formula id="E10">
+            <label>10</label>
+            <tex-math id="M33">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}c_{{\sigma}}={ \,\substack{ \\ {\mathrm{inf}} \\ _{q{\in}{\Gamma}_{{\sigma}}} }\, }\hspace{.167em}J(q).\end{equation*}\end{document}</tex-math>
+          </disp-formula> Theorem 4 will be proved by showing there is a <italic>Q</italic>
+          <sub>&#x003c3;</sub> &#x02208; &#x00393;<sub>&#x003c3;</sub> such that <italic>J</italic>(<italic>Q</italic>
+          <sub>&#x003c3;</sub>) = <italic>c</italic>
+          <sub>&#x003c3;</sub>. Moreover, <italic>Q</italic>
+          <sub>&#x003c3;</sub> is a minimal solution of (LS). Note that, by <bold>&#x0005b;8&#x0005d;</bold>, <italic>Q</italic>
+          <sub>&#x003c3;</sub> &#x02208; &#x00393;<sub>&#x003c3;</sub> and <italic>J</italic>(<italic>Q</italic>
+          <sub>&#x003c3;</sub>) &#x0003c; &#x0221e; implies that <italic>Q</italic>
+          <sub>&#x003c3;</sub> is asymptotic to <italic>v</italic>
+          <sup>
+            <italic>p</italic>
+          </sup> as <italic>t</italic> &#x02192; &#x02212;&#x0221e; and to <italic>v</italic>
+          <sup>
+            <italic>r</italic>
+          </sup> as <italic>t</italic> &#x02192; &#x0221e;. The minimization argument is related to that of ref. <xref ref-type="bibr" rid="B6">6</xref>, and, therefore, ref. <xref ref-type="bibr" rid="B6">6</xref> will be referred to for details when appropriate.
+        </p>
+        <p>If, for example, <italic>i</italic> &#x02265; &#x02113;<sup>&#x0002b;</sup>, gluing <inline-formula>
+            <tex-math id="M34">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}(z^{r}_{i}{\vert}^{s_{i-1}(q)}_{s_{i}(q)}\end{equation*}\end{document}</tex-math>
+          </inline-formula>&#x02212;<italic>k</italic>) to <inline-formula>
+            <tex-math id="M35">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}q{\vert}^{t_{i}(q)}_{t_{i-1}(q)}\end{equation*}\end{document}</tex-math>
+          </inline-formula> produces an element of <italic>F</italic>
+          <sub>
+            <italic>k</italic>
+          </sub>. Hence, by the definition of <italic>c</italic>
+          <sub>
+            <italic>k</italic>
+          </sub>, <disp-formula id="E11">
+            <label>11</label>
+            <tex-math id="M36">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}a_{i}(q){\geq}{\mathrm{-}}{\int _{s_{i}(q)}^{s_{i-1}(q)}}\hspace{.167em}L(z^{r}_{0})dt.\end{equation*}\end{document}</tex-math>
+          </disp-formula> Combining these estimates shows <disp-formula id="E12">
+            <label>12</label>
+            <tex-math id="M37">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}J(q){\geq}{\mathrm{-}}{\int _{0}^{{\infty}}}\hspace{.167em}(L(z^{p}_{0})+L(z^{r}_{0}))dt{\equiv}{\mathrm{-}}M_{0},\end{equation*}\end{document}</tex-math>
+          </disp-formula> that is, <italic>J</italic> is bounded from below on &#x00393;<sub>&#x003c3;</sub>. An upper bound for <italic>c</italic>
+          <sub>&#x003c3;</sub> is provided by gluing a curve in <italic>X</italic>
+          <sub>&#x003c3;</sub>, joining <italic>v</italic>
+          <sup>
+            <italic>p</italic>
+          </sup>(&#x02212;&#x02113;<sup>&#x02212;</sup>
+          <italic>T</italic>(<italic>v</italic>
+          <sup>
+            <italic>p</italic>
+          </sup>)) and <italic>v</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>(&#x02113;<sup>&#x0002b;</sup>
+          <italic>T</italic>(<italic>v</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>)) to <inline-formula>
+            <tex-math id="M38">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}v^{p}{\vert}^{-{\ell}^{-}T(v^{p})}_{-{\infty}}\end{equation*}\end{document}</tex-math>
+          </inline-formula> and <inline-formula>
+            <tex-math id="M39">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}v^{r}{\vert}^{{\infty}}_{{\ell}+T(v^{r})}\end{equation*}\end{document}</tex-math>
+          </inline-formula>, yielding <italic>H</italic> &#x02208; &#x00393;<sub>&#x003c3;</sub> with <italic>c</italic>
+          <sub>&#x003c3;</sub> &#x02264; <italic>J</italic>(<italic>H</italic>) &#x0003c; &#x0221e;.
+        </p>
+        <p>Let <italic>(q<sub>m</sub>)</italic> be a minimizing sequence for <bold>&#x0005b;10&#x0005d;</bold>. Consider &#x003c4;<sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>(<italic>t</italic>). Now, <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>(<italic>t</italic>
+          <sub>&#x02113;<sup>&#x0002b;</sup></sub>(<italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>)) lies on <italic>z</italic>
+          <sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <sup>
+            <italic>r</italic>
+          </sup>(&#x0211d;<sup>&#x0002b;</sup>) between &#x003c4;<sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <sub>&#x02212;1</sub>
+          <italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>(<italic>t</italic>
+          <sub>&#x02113;<sup>&#x0002b;</sup></sub>(<italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>)) and &#x003c4;<sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <italic>H</italic>
+          <sup>&#x02212;<italic>r</italic></sup>(<italic>t</italic>
+          <sub>&#x02113;<sup>&#x0002b;</sup></sub>(<italic>H</italic>
+          <sup>&#x02212;<italic>r</italic></sup>)) and a fortiori between &#x003c4;<sub>&#x02113;<sup>&#x0002b;</sup></sub>(<italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>(<italic>t</italic>
+          <sub>&#x02113;<sup>&#x0002b;</sup></sub>(<italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>)) and &#x003c4;<sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <sub>&#x02212;1</sub>
+          <italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>(<italic>t</italic>
+          <sub>&#x02113;<sup>&#x0002b;</sup></sub>(<italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>)). It can be assumed that <inline-formula>
+            <tex-math id="M40">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}q_{m}{\vert}^{{\infty}}_{t^{+}_{{\ell}}(q_{m})}\end{equation*}\end{document}</tex-math>
+          </inline-formula> lies between &#x003c4;<sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <sub>&#x02212;1</sub>
+          <italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>&#x0007c;<sup>&#x0221e;</sup>
+          <sub>
+            <italic>t</italic>
+            <sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          </sub>(<italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>) and <italic>t</italic>
+          <sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>&#x0007c;<sub>
+            <italic>t</italic>
+            <sub>&#x02113;<sup>&#x0002b;</sup></sub>(<italic>H</italic>
+            <sup>
+              <italic>r</italic>
+            </sup>)
+          </sub>
+          <sup>&#x0221e;</sup>. Indeed, suppose <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>((<italic>x</italic>
+          <sub>1</sub>, <italic>x</italic>
+          <sub>2</sub>)) is outside of this region and <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>(<italic>x</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>) = &#x003c4;<sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>(<italic>y</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>), <italic>i</italic> = 1, 2. Replacing <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>&#x0007c;<sub>
+            <italic>x</italic>
+            <sub>1</sub>
+          </sub>
+          <sup>
+            <italic>x</italic>
+            <sub>2</sub>
+          </sup> by &#x003c4;<sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>&#x0007c;<sub>
+            <italic>y</italic>
+            <sub>1</sub>
+          </sub>
+          <sup>
+            <italic>y</italic>
+            <sub>2</sub>
+          </sup> yields &#x00071;&#x00302;<sub>
+            <italic>m</italic>
+          </sub> &#x02208; &#x00393;<sub>&#x003c3;</sub> with <italic>J</italic>(&#x00071;&#x00302;<sub>
+            <italic>m</italic>
+          </sub>) &#x0003c; <italic>J</italic>(<italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>) via the minimality property of <italic>H</italic>
+          <sup>&#x000b1;</sup>. If <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>&#x0007c;<sub>
+            <italic>x</italic>
+            <sub>1</sub>
+          </sub>
+          <sup>&#x0221e;</sup> lies outside the region, replace <italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>&#x0007c;<sub>
+            <italic>y</italic>
+            <sub>1</sub>
+          </sub>
+          <sup>&#x0221e;</sup> by <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>&#x0007c;<sub>
+            <italic>x</italic>
+            <sub>1</sub>
+          </sub>
+          <sup>&#x0221e;</sup>, calling the resulting function &#x00124;. Because &#x003c4;<sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup> is the minimizer of <italic>J</italic> in an associated class of curves (<xref ref-type="bibr" rid="B6">6</xref>) (containing &#x00124;), <italic>J</italic>(&#x00124;) &#x0003e; <italic>J</italic>(&#x003c4;<sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>), which implies <disp-formula id="E13">
+            <label>13</label>
+            <tex-math id="M41">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\int _{x_{1}}^{t_{{\ell}^{+}+1}(q_{m})}}\hspace{.167em}L(q_{m})dt+{ \,\substack{ ^{{\infty}} \\ {\sum} \\ _{{\ell}^{+}+1} }\, }\hspace{.167em}a_{i}(q_{m})&#x0003e;{\int _{y_{1}}^{t_{{\ell}^{+}+1}({\tau}_{{\ell}^{+}}H^{r})}}\hspace{.167em}L({\tau}_{{\ell}^{+}}H^{r})dt+{ \,\substack{ ^{{\infty}} \\ {\sum} \\ _{{\ell}^{+}+1} }\, }\hspace{.167em}a_{i}({\tau}_{{\ell}^{+}}H^{r}).\end{equation*}\end{document}</tex-math>
+          </disp-formula> Therefore, by <bold>&#x0005b;13&#x0005d;</bold> gluing <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>&#x0007c;<sub>&#x02212;&#x0221e;</sub>
+          <sup>
+            <italic>x</italic>
+            <sub>1</sub>
+          </sup> to &#x003c4;<sub>&#x02113;<sup>&#x0002b;</sup></sub>
+          <italic>H</italic>
+          <sup>
+            <italic>r</italic>
+          </sup>&#x0007c;<sub>
+            <italic>y</italic>
+            <sub>1</sub>
+          </sub>
+          <sup>&#x0221e;</sup> yields &#x00071;&#x00303;<sub>
+            <italic>m</italic>
+          </sub> &#x02208; &#x00393;<sub>&#x003c3;</sub> with <italic>J</italic>(&#x00071;&#x00303;<sub>
+            <italic>m</italic>
+          </sub>) &#x0003c; <italic>J</italic>(<italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>). Similar reasoning shows that <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>&#x0007c;<sub>&#x02212;&#x0221e;</sub>
+          <sup>&#x02212;<italic>t</italic>
+            <sub>&#x02113;<sup>&#x02212;</sup></sub>(<italic>q</italic>
+            <sub>
+              <italic>m</italic>
+            </sub>)
+          </sup> lies between <inline-formula>
+            <tex-math id="M42">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\tau}_{-{\ell}^{-}+1}H^{p}{\vert}^{-t_{{\ell}^{-}(H^{p})}}_{-{\infty}}\end{equation*}\end{document}</tex-math>
+          </inline-formula> and <inline-formula>
+            <tex-math id="M43">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\tau}_{-{\ell}^{-}}H^{p}{\vert}^{-t_{{\ell}^{-}(H^{p})}}_{-{\infty}}\end{equation*}\end{document}</tex-math>
+          </inline-formula>.
+        </p>
+        <p>As in refs. <xref ref-type="bibr" rid="B4">4</xref>&#x02013;<xref ref-type="bibr" rid="B6">6</xref>, (<italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>) is bounded in <italic>W</italic>
+          <sub>loc</sub>
+          <sup>1,2</sup> and therefore, along a subsequence, converges weakly in <italic>W</italic>
+          <sub>loc</sub>
+          <sup>1,2</sup> and strongly in <italic>L</italic>
+          <sub>loc</sub>
+          <sup>&#x0221e;</sup> to <italic>Q</italic> = <italic>Q</italic>
+          <sub>&#x003c3;</sub> &#x02208; <italic>W</italic>
+          <sub>loc</sub>
+          <sup>1,2</sup>, with <italic>Q</italic> satisfying (&#x003b3;<sub>1</sub>) &#x02212; (&#x003b3;<sub>2</sub>) as well as the constraints on (<italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>) of the previous paragraph. As in ref. <xref ref-type="bibr" rid="B6">6</xref>, there are numbers <italic>A</italic>
+          <sub>
+            <italic>i</italic>
+          </sub> &#x0003e; 0 such that <disp-formula id="E14">
+            <label>14</label>
+            <tex-math id="M44">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\vert}t_{i}(q_{m}){\vert}{\leq}A_{i},\hspace{.167em}i{\in}{\mathbb{Z}}.\end{equation*}\end{document}</tex-math>
+          </disp-formula> By <bold>&#x0005b;14&#x0005d;</bold>, it can be assumed that <italic>t</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>) &#x02192; &#x00074;&#x00303;<sub>
+            <italic>i</italic>
+          </sub> for all <italic>i</italic> &#x02208; &#x02124;. It remains to show that (&#x003b3;<sub>3</sub>) &#x02212; (&#x003b3;<sub>5</sub>) hold for <italic>Q</italic>. The convergence already established shows for all <italic>i</italic> &#x02208; &#x02124;, as <italic>m</italic> &#x02192; &#x0221e;. <disp-formula id="E15">
+            <label>15</label>
+            <tex-math id="M45">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}q_{m}(t_{i}(q_{m})){\rightarrow}Q(\tilde {t}_{i}){\in}z^{{\sigma}_{i}}_{i}.\end{equation*}\end{document}</tex-math>
+          </disp-formula> Therefore, by <bold>&#x0005b;15&#x0005d;</bold> and (&#x003b3;<sub>3</sub>) for <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>
+          <disp-formula>
+            <tex-math id="M46">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}Q(t){\in}\bar {{\mathscr{R}}}_{i+1},\hspace{.167em}t{\in}[\tilde {t}_{i},\hspace{.167em}\tilde {t}_{i+1}],\hspace{.167em}i{\geq}0\end{equation*}\end{document}</tex-math>
+          </disp-formula>
+          <disp-formula id="E16">
+            <label>16</label>
+            <tex-math id="M47">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}Q(t){\in}\bar {{\mathscr{R}}}_{i},\hspace{.167em}t{\in}[\tilde {t}_{i},\hspace{.167em}\tilde {t}_{i+1}],\hspace{.167em}i{\leq}{\mathrm{-}}1\end{equation*}\end{document}</tex-math>
+          </disp-formula> and (&#x003b3;<sub>3</sub>) &#x02212; (&#x003b3;<sub>4</sub>) holds for <italic>Q</italic> with <italic>t</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>Q</italic>) = &#x00074;&#x00303;<sub>
+            <italic>i</italic>
+          </sub>. Finally, as <italic>m</italic> &#x02192; &#x0221e;, <disp-formula id="E17">
+            <label>17</label>
+            <tex-math id="M48">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}z^{{\sigma}_{i}}_{i}(s_{i}(q_{m}))=q_{m}(t_{i}(q_{m})){\rightarrow}Q(\tilde {t}_{i}){\equiv}z^{{\sigma}_{i}}_{i}(\tilde {s}_{i}).\end{equation*}\end{document}</tex-math>
+          </disp-formula> The latter equality defines &#x00073;&#x00303;<sub>
+            <italic>i</italic>
+          </sub> and implies <disp-formula id="E18">
+            <label>18</label>
+            <tex-math id="M49">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}s_{i}(q_{m}){\rightarrow}\tilde {s}_{i}\end{equation*}\end{document}</tex-math>
+          </disp-formula> as <italic>m</italic> &#x02192; &#x0221e;. Now, (&#x003b3;<sub>5</sub>) for <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub> and <bold>&#x0005b;18&#x0005d;</bold> gives (&#x003b3;<sub>5</sub>) for <italic>Q</italic> so <italic>Q</italic> &#x02208; &#x00393;<sub>&#x003c3;</sub>.
+        </p>
+        <p>Next, it must be shown that <italic>J</italic>(<italic>Q</italic>) &#x0003c; &#x0221e; and <italic>J</italic>(<italic>Q</italic>) = <italic>c</italic>
+          <sub>&#x003c3;</sub>. There is an <italic>M</italic> &#x0003e; 0 such that <disp-formula id="E19">
+            <label>19</label>
+            <tex-math id="M50">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}J(q_{m}){\leq}M.\end{equation*}\end{document}</tex-math>
+          </disp-formula> For <italic>q</italic> = <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>, write <disp-formula id="E20">
+            <label>20</label>
+            <tex-math id="M51">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}J(q){\equiv}J^{+}(q)+J^{-}(q),\end{equation*}\end{document}</tex-math>
+          </disp-formula> where <italic>J</italic>
+          <sup>&#x0002b;</sup>(<italic>q</italic>) denotes the sum over those <italic>a</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>) such that <italic>a</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>) &#x02265; 0. Note that the definition of <italic>a</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>) implies <italic>a</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>q</italic>) &#x0003c; 0 is only possible when <italic>i</italic> &#x02265; &#x02113;<sup>&#x0002b;</sup> &#x0002b; 1 or <italic>i</italic> &#x02264; &#x02212;&#x02113;<sup>&#x02212;</sup> &#x02212; 1. By <bold>&#x0005b;11&#x0005d;</bold> and <bold>&#x0005b;19&#x0005d;</bold>, <disp-formula id="E21">
+            <label>21</label>
+            <tex-math id="M52">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}J^{+}(q)=J(q)-J^{-}(q){\leq}M+M_{0}\end{equation*}\end{document}</tex-math>
+          </disp-formula> and therefore <disp-formula id="E22">
+            <label>22</label>
+            <tex-math id="M53">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{ \,\substack{ \\ {\sum} \\ _{i{\in}{\mathbb{Z}}{\setminus}\{0\}} }\, }\hspace{.167em}{\vert}a_{i}(q){\vert}{\leq}M+2M_{0}{\equiv}M_{1}\end{equation*}\end{document}</tex-math>
+          </disp-formula> Hence, for any <italic>n</italic> &#x02208; &#x02115; with, e.g., <italic>n</italic> &#x0003e; &#x02113;<sup>&#x0002b;</sup> &#x0002b; &#x02113;<sup>&#x02212;</sup>, <disp-formula id="E23">
+            <label>23</label>
+            <tex-math id="M54">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\int _{t_{-n}(q_{m})}^{t_{n}(q_{m})}}\hspace{.167em}L(q_{m})dt{\leq}M_{1}+(2n-{\ell}^{+}-{\ell}^{-})c_{k}.\end{equation*}\end{document}</tex-math>
+          </disp-formula> This implies <disp-formula>
+            <tex-math id="M55">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\int _{\tilde {t}_{-n}}^{\tilde {t}_{n}}}\hspace{.167em}L(Q)dt{\leq}M_{1}+(2n-{\ell}^{+}-{\ell}^{-})c_{k}\end{equation*}\end{document}</tex-math>
+          </disp-formula> or equivalently <disp-formula id="E24">
+            <label>24</label>
+            <tex-math id="M56">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{ \,\substack{ ^{n} \\ {\sum} \\ _{-n} }\, }\hspace{.167em}a_{i}(Q){\leq}M_{1}\end{equation*}\end{document}</tex-math>
+          </disp-formula> Hence, <italic>J</italic>(<italic>Q</italic>) &#x0003c; &#x0221e; via <bold>&#x0005b;24&#x0005d;</bold>.
+        </p>
+        <p>A variant of arguments from refs. <xref ref-type="bibr" rid="B4">4</xref>&#x02013;<xref ref-type="bibr" rid="B6">6</xref> now shows <italic>J</italic>(<italic>Q</italic>) = <italic>c</italic>
+          <sub>&#x003c3;</sub>. Indeed, let &#x0025b; &#x0003e; 0. There is an <italic>m</italic>
+          <sub>0</sub> = <italic>m</italic>
+          <sub>0</sub>(&#x0025b;) such that <italic>m</italic> &#x02265; <italic>m</italic>
+          <sub>0</sub>, <disp-formula id="E25">
+            <label>25</label>
+            <tex-math id="M57">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}J(q_{m}){\leq}c_{{\sigma}}+{\varepsilon}.\end{equation*}\end{document}</tex-math>
+          </disp-formula> Further, choose <italic>j</italic> = <italic>j</italic>(&#x0025b;) so that <disp-formula id="E26">
+            <label>26</label>
+            <tex-math id="M58">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}J(Q){\leq}{ \,\substack{ ^{j} \\ {\sum} \\ _{-j} }\, }\hspace{.167em}a_{i}(Q)+{\varepsilon}.\end{equation*}\end{document}</tex-math>
+          </disp-formula> It can also be assumed that, for <italic>m</italic> &#x02265; <italic>m</italic>
+          <sub>0</sub>, <disp-formula id="E27">
+            <label>27</label>
+            <tex-math id="M59">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}{\int _{t_{-j}(Q)}^{t_{j}(Q)}}\hspace{.167em}L(Q)dt{\leq}{\int _{t_{-j}(q_{m})}^{t_{j}(q_{m})}}\hspace{.167em}L(q_{m})dt+{\varepsilon}\end{equation*}\end{document}</tex-math>
+          </disp-formula> Therefore, by <bold>&#x0005b;25&#x02013;27&#x0005d;</bold> and <bold>&#x0005b;11&#x0005d;</bold>, <disp-formula id="E28">
+            <label>28</label>
+            <tex-math id="M60">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}J(Q){\leq}{ \,\substack{ ^{j} \\ {\sum} \\ _{-j} }\, }\hspace{.167em}a_{i}(q_{m})+2{\varepsilon}{\leq}c_{{\sigma}}-{ \,\substack{ \\ {\sum} \\ _{{\vert}i{\vert}&#x0003e;j} }\, }\hspace{.167em}a_{i}(q_{m})+3{\varepsilon}{\leq}c_{{\sigma}}+3{\varepsilon}+{\int _{0}^{s_{j}(q_{m})}}\hspace{.167em}L(z^{r}_{0})dt+{\int _{0}^{s_{-j}(q_{m})}}\hspace{.167em}L(z^{p}_{0})dt\end{equation*}\end{document}</tex-math>
+          </disp-formula> The constraints on <italic>q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub> established in the paragraph containing <bold>&#x0005b;13&#x0005d;</bold> imply <disp-formula id="E29">
+            <label>29</label>
+            <tex-math id="M61">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}s_{j}(q_{m}){\leq}s_{j}({\tau}_{{\ell}^{+}}H^{r}){\leq}{\varepsilon};\hspace{.167em}s_{-j}(q_{m}){\leq}s_{-j}({\tau}_{-{\ell}^{-}}H^{p}){\leq}{\varepsilon}\end{equation*}\end{document}</tex-math>
+          </disp-formula> for <italic>j</italic> sufficiently large. Now, <bold>&#x0005b;28&#x02013;29&#x0005d;</bold> yield <italic>J</italic>(<italic>Q</italic>) = <italic>c</italic>
+          <sub>&#x003c3;</sub>.
+        </p>
+        <p>That <italic>Q</italic> is a solution of (LS) follows from simple local minimization and comparison arguments as in Proposition 5.4 of ref. <xref ref-type="bibr" rid="B4">4</xref>.</p>
+      </sec>
+      <sec disp-level="3">
+        <title>Remark 30<italic> For </italic>i &#x02265; &#x02113;<sup>&#x0002b;</sup>, s<sub>i&#x0002b;1</sub>(Q) &#x0003c; s<sub>i</sub>(Q); <italic>for </italic>i &#x02264; &#x02212;&#x02113;<sup>&#x02212;</sup>, s<sub>i&#x02212;1</sub>(Q) &#x0003c; s<sub>i</sub>(Q).</title>
+        <p>
+          <italic>Indeed, if equality holds in the &#x0002b; case, excising </italic>Q&#x0007c;<sub>t<sub>i</sub></sub>
+          <sup>t<sub>i&#x0002b;1</sub></sup>
+          <italic>from </italic>Q<italic> and gluing </italic>Q&#x0007c;<sub>&#x02212;&#x0221e;</sub>
+          <sup>t<sub>i</sub></sup>
+          <italic>to </italic>(Q &#x02212; k)&#x0007c;<sub>t<sub>i&#x0002b;1</sub></sub>
+          <sup>&#x0221e;</sup>
+          <italic>yields </italic>Q* &#x02208; &#x00393;<sub>&#x003c3;</sub>
+          <italic>with </italic>J(Q*) &#x0003c; J(Q), <italic>a contradiction, unless </italic>Q&#x0007c;<sub>t<sub>i</sub></sub>
+          <sup>t<sub>i&#x0002b;1</sub></sup>
+          <italic>coincides with </italic>v<sup>r</sup>. <italic>But, because </italic>Q <italic>is a solution of </italic>(LS), <italic>this is impossible.</italic>
+        </p>
+        <p>To complete the proof of Theorem 4, it must be shown that <italic>Q</italic> is a minimal solution of (LS). Suppose <italic>x</italic> &#x0003c; <italic>y</italic>. We claim <italic>Q</italic>&#x0007c;<sub>
+            <italic>x</italic>
+          </sub>
+          <sup>
+            <italic>y</italic>
+          </sup> minimizes &#x0222b; <italic>L</italic>(&#x022c5;)<italic>dt</italic> over the class of <italic>W</italic>
+          <sup>1,2</sup> curves with the same end points as <italic>Q</italic>&#x0007c;<sub>
+            <italic>x</italic>
+          </sub>
+          <sup>
+            <italic>y</italic>
+          </sup> and that cross the <italic>z</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>
+          <sup>&#x000b1;</sup> in the order given by &#x003c3;. Indeed, let <italic>w</italic> denote the minimizer of this variational problem. It suffices to prove that <italic>Q</italic>*, the curve obtained by replacing <italic>Q</italic>&#x0007c;<sub>
+            <italic>x</italic>
+          </sub>
+          <sup>
+            <italic>y</italic>
+          </sup> by <italic>w</italic>, belongs to &#x00393;<sub>&#x003c3;</sub>, for then <disp-formula id="E31">
+            <label>31</label>
+            <tex-math id="M62">\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} \begin{equation*}J(Q{^\ast}){\leq}J(Q).\end{equation*}\end{document}</tex-math>
+          </disp-formula> Therefore, there must be equality in <bold>&#x0005b;31&#x0005d;</bold>, and <italic>Q</italic>* is a solution of (LS). But <italic>Q</italic> and <italic>Q</italic>* coincide on an open set, so uniqueness of solutions of (LS) implies <italic>Q</italic> &#x02261; <italic>Q</italic>*.
+        </p>
+        <p>To verify that <italic>Q</italic>* satisfies (&#x003b3;<sub>1</sub>) &#x02212; (&#x003b3;<sub>5</sub>), note that the range of <italic>w</italic> lies in <italic>X</italic>
+          <sub>&#x003c3;</sub> via the minimality properties of the boundary curves of <italic>X</italic>
+          <sub>&#x003c3;</sub>. Hence, (&#x003b3;<sub>1</sub>) holds. Parametrizing <italic>Q</italic>* appropriately gives (&#x003b3;<sub>2</sub>). There is a finite set of <italic>z</italic>
+          <sub>
+            <italic>j</italic>
+          </sub>
+          <sup>&#x000b1;</sup> that <italic>Q</italic>&#x0007c;<sub>
+            <italic>x</italic>
+          </sub>
+          <sup>
+            <italic>y</italic>
+          </sup> intersects <italic>z</italic>
+          <sub>
+            <italic>j</italic>
+          </sub>
+          <sup>&#x000b1;</sup>. Because <italic>w</italic> is a solution of (LS), there is a natural corresponding set of <italic>t</italic>
+          <sub>
+            <italic>j</italic>
+          </sub>(<italic>w</italic>), namely <italic>t</italic>
+          <sub>
+            <italic>j</italic>
+          </sub>(<italic>w</italic>) is the unique (via the minimality of <italic>z</italic>
+          <sub>
+            <italic>j</italic>
+          </sub>
+          <sup>&#x000b1;</sup>) value of <italic>t</italic> at which <italic>w</italic> intersects <italic>z</italic>
+          <sub>
+            <italic>j</italic>
+          </sub>
+          <sup>&#x000b1;</sup>. Thus, <italic>Q</italic>* satisfies (&#x003b3;<sub>3</sub>), and minimality arguments imply (&#x003b3;<sub>4</sub>). Suppose (&#x003b3;<sub>5</sub>) fails, e.g., for <italic>i</italic> &#x0003e; 0. Then, <italic>s</italic>
+          <sub>
+            <italic>i</italic>&#x0002b;1
+          </sub>(<italic>Q</italic>*) &#x0003e; <italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>Q</italic>*) for some smallest <italic>i</italic>. Because <italic>s</italic>
+          <sub>
+            <italic>j</italic>
+          </sub>(<italic>Q</italic>*) &#x02192; 0 as <italic>j</italic> &#x02192; &#x0221e;, there is a smallest <italic>j</italic> &#x0003e; <italic>i</italic> &#x0002b; 1 such that <italic>s</italic>
+          <sub>
+            <italic>j</italic>
+          </sub>(<italic>Q</italic>*) &#x02264; <italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>Q</italic>*). If <italic>s</italic>
+          <sub>
+            <italic>j</italic>
+          </sub> = <italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>, excise <italic>Q</italic>*&#x0007c;<sub>
+            <italic>t</italic>
+            <sub>
+              <italic>i</italic>
+            </sub>
+          </sub>
+          <sup>
+            <italic>t</italic>
+            <sub>
+              <italic>j</italic>
+            </sub>
+          </sup>
+          <sub>(<italic>Q</italic>*)</sub>
+          <sup>(<italic>Q</italic>*)</sup> from <italic>Q</italic>* and glue <italic>Q</italic>*&#x0007c;<sub>&#x02212;&#x0221e;</sub>
+          <sup>
+            <italic>t</italic>
+            <sub>
+              <italic>i</italic>
+            </sub>
+          </sup> to (<italic>Q</italic>* &#x02212; <italic>k</italic>)&#x0007c;<sub>
+            <italic>t</italic>
+            <sub>
+              <italic>j</italic>
+            </sub>
+          </sub>
+          <sup>&#x0221e;</sup>, obtaining &#x00051;&#x00302; &#x02208; &#x00393;<sub>&#x003c3;</sub> with <italic>J</italic>(&#x00051;&#x00302;) &#x0003c; <italic>J</italic>(<italic>Q</italic>*) &#x02264; <italic>J</italic>(<italic>Q</italic>), a contradiction. If <italic>s</italic>
+          <sub>
+            <italic>j</italic>
+          </sub> &#x0003c; <italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>, define <italic>P</italic>(<italic>t</italic>) = <italic>Q</italic>*(<italic>t</italic>) &#x0002b; <italic>k</italic>, <italic>t</italic> &#x02265; <italic>t</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>(<italic>Q</italic>*). Suppose for convenience that <italic>r</italic> = &#x0002b;. Because <italic>s</italic>
+          <sub>
+            <italic>i</italic>&#x0002b;1
+          </sub> &#x0003e; <italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>, <italic>P</italic>(<italic>t</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>) lies between <italic>Q</italic>*(&#x0211d;) and <italic>v</italic>
+          <sup>&#x0002b;</sup>(&#x0211d;) while <italic>P</italic>(<italic>t</italic>
+          <sub>
+            <italic>j</italic>&#x02212;1
+          </sub>) lies between <italic>Q</italic>*(&#x0211d;) and the portion of &#x02202;<italic>X</italic>
+          <sub>&#x003c3;</sub> given by appropriate segments of &#x0007b;&#x003c4;<sub>&#x02113;</sub>
+          <italic>H</italic>
+          <sup>&#x02212;</sup>&#x0007d;. Therefore, there is a <italic>t</italic>* &#x02208; (<italic>t</italic>
+          <sub>
+            <italic>i</italic>
+          </sub>, <italic>t</italic>
+          <sub>
+            <italic>j</italic>&#x02212;1
+          </sub>) such that <italic>P</italic>(<italic>t</italic>*) &#x02208; <italic>Q</italic>*(&#x0211d;); i.e., <italic>Q</italic>*(<italic>t</italic>*) &#x0002b; <italic>k</italic> = <italic>Q</italic>(&#x00074;&#x00303;). Excising <italic>Q</italic>*&#x0007c;<sub>
+            <italic>t</italic>*
+          </sub>
+          <sup>&#x00074;&#x00303;</sup> from <italic>Q</italic>* and arguing as for <italic>s</italic>
+          <sub>
+            <italic>j</italic>
+          </sub> = <italic>s</italic>
+          <sub>
+            <italic>i</italic>
+          </sub> yields <italic>Q</italic> such that <italic>J</italic>(<italic>Q</italic>) &#x0003c; <italic>J</italic>(<italic>Q</italic>*). Possibly, (&#x003b3;<sub>5</sub>) still fails for &#x00051;&#x00303;, but, repeating the above argument a finite number of times yields <italic>Q</italic> &#x02208; &#x00393;<sub>&#x003c3;</sub> such that <italic>J</italic>(&#x00051;&#x00302;) &#x0003c; <italic>J</italic>(<italic>Q</italic>), a contradiction. This <italic>Q</italic> is a minimal solution of (LS), and Theorem 4 is proved.
+        </p>
+      </sec>
+      <sec disp-level="3">
+        <title>Proof of Theorem 3.</title>
+        <p>Let &#x003c3; &#x02208; &#x003a3;. Define <italic>d</italic>
+          <sub>
+            <italic>m</italic>
+          </sub> = (<italic>d</italic>
+          <sub>
+            <italic>m</italic>
+            <sub>
+              <italic>i</italic>
+            </sub>
+          </sub>)<sub>
+            <italic>i</italic>&#x02208;&#x02124;
+          </sub> &#x02208; &#x003a3; as follows: <italic>d</italic>
+          <sub>
+            <italic>mi</italic>
+          </sub> = &#x003c3;<sub>
+            <italic>i</italic>
+          </sub>, &#x0007c;<italic>i</italic>&#x0007c; &#x02264; <italic>m</italic>; <italic>d</italic>
+          <sub>
+            <italic>mi</italic>
+          </sub> = &#x003c3;<sub>
+            <italic>m</italic>
+          </sub>, <italic>i</italic> &#x02265; <italic>m</italic>; <italic>d</italic>
+          <sub>
+            <italic>mi</italic>
+          </sub> = &#x003c3;<sub>&#x02212;<italic>m</italic></sub>, <italic>i</italic> &#x02264; &#x02212; <italic>m</italic>. Then, <italic>d</italic>
+          <sub>
+            <italic>m</italic>
+          </sub> &#x02208; &#x003a3;<sup>&#x003c3;<sub>&#x02212;<italic>m</italic></sub></sup>
+          <sup>,&#x003c3;<sub>&#x02212;<italic>m</italic></sub></sup>, so, by Theorem 4, there is a minimal solution <italic>Q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub> &#x02208; &#x00393;<sub>
+            <italic>d</italic>
+            <sub>
+              <italic>m</italic>
+            </sub>
+          </sub> of (LS). The form of <italic>d</italic>
+          <sub>
+            <italic>m</italic>
+          </sub>and <italic>X</italic>
+          <sub>
+            <italic>d</italic>
+            <sub>
+              <italic>m</italic>
+            </sub>
+          </sub> together with (LS) imply the functions <italic>Q</italic>
+          <sub>
+            <italic>m</italic>
+          </sub> are bounded in <italic>C</italic>
+          <sub>loc</sub>
+          <sup>2</sup> and therefore converge in <italic>C</italic>
+          <sub>loc</sub>
+          <sup>2</sup> to <italic>Q</italic>
+          <sub>&#x003c3;</sub> &#x02208; <italic>X</italic>
+          <sub>&#x003c3;</sub>. It readily follows that Q<sub>&#x003c3;</sub> is a minimal solution of (LS) of homotopy type &#x003c3;, and the proof is complete.
+        </p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="display-objects">
+      <title>Figures and Tables</title>
+      <fig id="F1">
+        <graphic xlink:href="pq1191290001"/>
+      </fig>
+      <fig id="F2">
+        <graphic xlink:href="pq1191290002"/>
+      </fig>
+      <fig id="F3">
+        <graphic xlink:href="pq1191290003"/>
+      </fig>
+    </sec>
+    <ack>
+      <p>This work is dedicated to J&#x000fc;rgen Moser for his 70th birthday. I acknowledge with thanks helpful conversations with Sergey Bolotin.</p>
+    </ack>
+    <ref-list>
+      <ref id="B1">
+        <label>1</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morse</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <source>Trans Am Math Soc</source>
+          <year>1924</year>
+          <volume>26</volume>
+          <fpage>25</fpage>
+          <lpage>60</lpage>
+        </citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hedlund</surname>
+              <given-names>G A</given-names>
+            </name>
+          </person-group>
+          <source>Am Math</source>
+          <year>1932</year>
+          <volume>33</volume>
+          <fpage>719</fpage>
+          <lpage>729</lpage>
+        </citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolotin</surname>
+              <given-names>S V</given-names>
+            </name>
+            <name>
+              <surname>Negrini</surname>
+              <given-names>P A</given-names>
+            </name>
+          </person-group>
+          <source>Russ J Math Phys</source>
+          <year>1996</year>
+          <volume>5</volume>
+          <fpage>415</fpage>
+          <lpage>439</lpage>
+        </citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rabinowitz</surname>
+              <given-names>P H</given-names>
+            </name>
+          </person-group>
+          <source>Top Math Nonlinear Analysis</source>
+          <year>1997</year>
+          <volume>9</volume>
+          <fpage>41</fpage>
+          <lpage>76</lpage>
+        </citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rabinowitz</surname>
+              <given-names>P H</given-names>
+            </name>
+          </person-group>
+          <source>Top Nonlinear Analysis</source>
+          <year>1999</year>
+          <volume>35</volume>
+          <fpage>571</fpage>
+          <lpage>584</lpage>
+        </citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <citation citation-type="other">Rabinowitz, P.&#x02009;H. (1999) Di Giorgi Memorial Volume, in press.</citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+

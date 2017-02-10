@@ -5,22 +5,32 @@ import gov.ncbi.pmc.cite.BadParamException;
 /**
  * This stores information about a particular ID as requested by the user.
  *
- * Implementation note:  I thought about having this extend IdGlob, rather than
- * contain an instance, but it won't work.  The IdGlobs are cached, and once
- * created, need to be independent of any given request.
+ * Implementation note: This class binds a specific user request to an IdGlob.
+ * Since IdGlobs by themselves are independent of any given request, and are
+ * cached, this class wraps the IdGlob object, rather than being a subclass.
  */
 public class RequestId {
-    // The original value, as entered by the user
-    private String originalValue;
+    /// The original value, as entered by the user
+    private String requestedValue;
+
+    /// The default type that was used when this was created
+    private String defaultType;
 
     /**
      * The type and the canonicalized value (after changes in case, adding
-     * default prefix, etc.) are both stored in the Identifier object.
+     * default prefix, etc.) of the requested ID are stored in the Identifier
+     * object.
      */
     private Identifier canonical;
 
-    /// When this ID gets resolved, this points to this IdGlob
-    private IdGlob idGlob;
+    /// When it gets resolved, this points to this IdGlob
+    private IdGlob idGlob = null;
+
+    /**
+     * This can be used to attach additional information to any requested ID
+     * that might be application-specific.
+     */
+    private Object data = null;
 
     /// Constructor, default id type is "aiid".
     public RequestId(String value)
@@ -30,10 +40,10 @@ public class RequestId {
     }
 
     /// Constructor
-    public RequestId(String type, String value)
+    public RequestId(String defaultType, String value)
         throws BadParamException
     {
-        this(new Identifier(type, value));
+        this(new Identifier(value, defaultType));
     }
 
     /// Constructor
@@ -46,7 +56,7 @@ public class RequestId {
      * Identifier doesn't necessarily match the canonical value.
      */
     public RequestId(String originalValue, Identifier canonical) {
-        this.originalValue = originalValue;
+        this.requestedValue = originalValue;
         this.canonical = canonical;
         idGlob = new IdGlob();
         idGlob.addId(canonical);
@@ -56,8 +66,8 @@ public class RequestId {
         return canonical.getType();
     }
 
-    public String getOriginalValue() {
-        return originalValue;
+    public String getRequestedValue() {
+        return requestedValue;
     }
 
     public Identifier getCanonical() {
@@ -92,14 +102,6 @@ public class RequestId {
         return null;
     }
 
-    public void setGood(boolean good) {
-        idGlob.setGood(good);
-    }
-
-    public boolean isGood() {
-        return idGlob.isGood();
-    }
-
     public boolean isVersioned() {
         return idGlob.isVersioned();
     }
@@ -126,8 +128,18 @@ public class RequestId {
         this.idGlob = idGlob;
     }
 
+    /// Retrieve and application-specific data.
+    public Object getData() {
+        return data;
+    }
+
+    /// Attach application-specific data to a requested ID.
+    public void setData(Object data) {
+        this.data = data;
+    }
+
     public String toString() {
-        String r = "{ originalValue: " + originalValue + ", canonical: " + canonical +
+        String r = "{ originalValue: " + requestedValue + ", canonical: " + canonical +
                    ", idGlob: " + idGlob + " }";
         return r;
     }

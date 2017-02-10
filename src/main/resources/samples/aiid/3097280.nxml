@@ -1,0 +1,2065 @@
+<!-- ArticleInstanceId : 3097280, Path: nihpa/7-2011/139/nihpa267212/preload/nxml/, Name : nihms267212.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" xml:lang="EN">
+  <?properties manuscript?>
+  <?origin nihpa?>
+  <?submitter-userid 1043?>
+  <?submitter-authority publisher?>
+  <?submitter-login wiley?>
+  <?submitter-name John Wiley And Sons Publishing?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-journal-id">7707242</journal-id>
+      <journal-id journal-id-type="pubmed-jr-id">365</journal-id>
+      <journal-id journal-id-type="nlm-ta">Alcohol Clin Exp Res</journal-id>
+      <journal-title>Alcoholism, clinical and experimental research</journal-title>
+      <issn pub-type="ppub">0145-6008</issn>
+      <issn pub-type="epub">1530-0277</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">21352242</article-id>
+      <article-id pub-id-type="doi">10.1111/j.1530-0277.2011.01448.x</article-id>
+      <article-id pub-id-type="manuscript">nihpa267212</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>EFFECT OF THE SELECTIVE NMDA NR2B ANTAGONIST, IFENPRODIL, ON ACUTE TOLERANCE TO ETHANOL-INDUCED MOTOR IMPAIRMENT IN ADOLESCENT AND ADULT RATS</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ramirez</surname>
+            <given-names>R. Liane</given-names>
+          </name>
+          <degrees>M.S.</degrees>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Varlinskaya</surname>
+            <given-names>Elena I.</given-names>
+          </name>
+          <degrees>Ph.D.</degrees>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Spear</surname>
+            <given-names>Linda P.</given-names>
+          </name>
+          <degrees>Ph.D.</degrees>
+        </contrib>
+        <aff id="A1">Center for Development and Behavioral Neuroscience, Department of Psychology, Binghamton University, Binghamton, NY 13902</aff>
+        <aff id="A2">Developmental Exposure Alcohol Research Center, State University of New York, Binghamton, New York 13902; Cortland NY 13054; Syracuse NY 13210</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor1">Address correspondence to: R. Liane Ramirez, Department of Psychology, Binghamton University PO Box 6000, Binghamton, NY 13902-6000, <email>rramire1@binghamton.edu</email>, Phone: (607) 777-2825, Fax: (607) 777-6418</corresp>
+      </author-notes>
+      <pub-date pub-type="nihms-submitted">
+        <day>4</day>
+        <month>2</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>2</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>6</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>1</day>
+        <month>6</month>
+        <year>2012</year>
+      </pub-date>
+      <volume>35</volume>
+      <issue>6</issue>
+      <fpage>1149</fpage>
+      <lpage>1159</lpage>
+      <abstract>
+        <sec id="S1">
+          <title>Background</title>
+          <p id="P1">Adolescent rats have been observed to be less sensitive than adults to a number of acute ethanol effects, including ethanol-induced motor impairment. These adolescent insensitivities may be related in part to the more rapid emergence of within session (acute) tolerance in adolescents than adults. Adolescent-related alterations in neural systems that serve as ethanol target sites, including changes in NMDA receptor subunit expression, may influence the responsiveness of adolescents to acute ethanol effects. The present study explored the role of NMDA NR2B receptors in the development of acute tolerance to ethanol-induced motor impairment in male adolescent (postnatal day [P]28&#x02013;30), and adult (P68-70) Sprague-Dawley rats.</p>
+        </sec>
+        <sec sec-type="methods" id="S2">
+          <title>Methods</title>
+          <p id="P2">Motor impairing effects of ethanol on the stationary inclined plane and blood ethanol concentrations (BECs) were examined following challenge at each age with a functionally equivalent ethanol dose (adolescents: 2.25 g/kg; adults: 1.5 g/kg). Data were collected at two post-injection intervals (10 or 60 min) to compare rate of recovery from ethanol intoxication with BEC declines using the Radlow approach (<xref ref-type="bibr" rid="R36">Radlow, 1994</xref>) and changes in motor impairment/BEC ratios over time for assessing acute tolerance.</p>
+        </sec>
+        <sec id="S3">
+          <title>Results</title>
+          <p id="P3">Both vehicle-treated adolescent and adult animals showed similar acute tolerance development to the motor-impairing effects of ethanol at these functionally equivalent doses on the stationary inclined plane, as indexed by an increasing time-dependent dissociation between BECs and ethanol-induced motor impairment, with motor impairment declining faster than BECs, as well as by significant declines in motor impairment/BEC ratios over time. Acute tolerance development was reliably blocked by administration of the NR2B antagonist, ifenprodil, (5.0 mg/kg), in adult rats, whereas adolescents were affected by a higher dose (10.0 mg/kg).</p>
+        </sec>
+        <sec id="S4">
+          <title>Conclusions</title>
+          <p id="P4">These data support the suggestion that alterations in NMDA receptor systems occurring during adolescence may contribute to reduced sensitivity to ethanol by enhancing the expression of acute tolerance development in adolescents relative to adults.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>Adolescent</kwd>
+        <kwd>Rat</kwd>
+        <kwd>Ethanol</kwd>
+        <kwd>Acute Tolerance</kwd>
+        <kwd>Motor Impairment</kwd>
+        <kwd>NMDA NR2B receptors</kwd>
+        <kwd>Ifenprodil</kwd>
+      </kwd-group>
+      <contract-num rid="AA1">R37 AA012525-10 ||AA</contract-num>
+      <contract-num rid="AA1">R37 AA012525-02 ||AA</contract-num>
+      <contract-num rid="AA1">R01 AA018026-03 ||AA</contract-num>
+      <contract-num rid="AA1">R01 AA018026-01 ||AA</contract-num>
+      <contract-num rid="AA1">P50 AA017823-02 ||AA</contract-num>
+      <contract-sponsor id="AA1">National Institute on Alcohol Abuse and Alcoholism : NIAAA</contract-sponsor>
+    </article-meta>
+  </front>
+  <body>
+    <p id="P5">Developmental research in our laboratory and others has shown repeatedly that sensitivity to ethanol effects varies by age. For instance, adolescent rats have been reported to be more sensitive than adults to effects of ethanol on spatial learning (<xref ref-type="bibr" rid="R27">Markwiese et al., 1998</xref>), as well as to the facilitation of social behavior (e.g., <xref ref-type="bibr" rid="R52">Varlinskaya and Spear, 2002</xref>, <xref ref-type="bibr" rid="R55">2006b</xref>). On the other hand, when compared to adults, adolescent rats have been found to be less sensitive to the sedative (<xref ref-type="bibr" rid="R22">Little et al., 1996</xref>; <xref ref-type="bibr" rid="R29">Moy et al., 1998</xref>; <xref ref-type="bibr" rid="R40">Silveri and Spear, 1998</xref>), motor impairing (<xref ref-type="bibr" rid="R37">Ramirez and Spear, 2010</xref>; <xref ref-type="bibr" rid="R58">White et al., 2002</xref>), social inhibitory (e.g., <xref ref-type="bibr" rid="R52">Varlinskaya and Spear, 2002</xref>, <xref ref-type="bibr" rid="R53">2004</xref>, <xref ref-type="bibr" rid="R54">2006a</xref>), and aversive (<xref ref-type="bibr" rid="R57">Vetter-O&#x02019;Hagen et al., 2009</xref>) effects of ethanol that may normally serve as cues to limit further ethanol intake. In fact, studies from our laboratory have shown that adolescent rats voluntarily consume higher amounts of both sweetened and unsweetened ethanol relative to their adult counterparts (<xref ref-type="bibr" rid="R3">Brunell and Spear, 2005</xref>; <xref ref-type="bibr" rid="R5">Doremus et al., 2005</xref>; <xref ref-type="bibr" rid="R56">Vetter et al., 2007</xref>; <xref ref-type="bibr" rid="R57">Vetter-O&#x02019;Hagen et al., 2009</xref>). Little is known, however, about the biological factors mediating these ontogenetic differences in ethanol sensitivity and intake.</p>
+    <p id="P6">Ethanol effects are mediated through a number of neural systems including &#x003b3;-aminobutyric acid (GABA)<sub>A</sub> and N-methyl-D-aspartate (NMDA) receptor systems (see <xref ref-type="bibr" rid="R9">Eckardt et al., 1998</xref>, for review). Given evidence in both humans and animals that characterize adolescence as a time of marked neuronal alterations (see <xref ref-type="bibr" rid="R47">Spear, 2000</xref>, <xref ref-type="bibr" rid="R49">2009</xref>, for review), differential rates of development of these and other neural systems during the adolescent period could influence responsiveness of adolescents to ethanol in a way that differs from adult response patterns. NMDA receptors (NR), particularly those containing 2A (NR2A) and 2B (NR2B) subunits, are among the highest affinity ethanol targets in the brain (<xref ref-type="bibr" rid="R1">Allgaier, 2002</xref>; <xref ref-type="bibr" rid="R59">Woodward, 2000</xref>; <xref ref-type="bibr" rid="R60">Yamakura et al., 1993</xref>) and play a functional role in neuronal excitability (<xref ref-type="bibr" rid="R30">Nagy, 2004</xref>), cognitive function (<xref ref-type="bibr" rid="R26">Malhotra et al., 1996</xref>), and motor coordination (<xref ref-type="bibr" rid="R38">Sanchez-Perez et al., 2005</xref>), as well as in mediating the intoxicating effects of ethanol (<xref ref-type="bibr" rid="R19">Kumari and Ticku, 2000</xref>). Developmental alterations in NMDA receptor expression have been shown to be subunit specific and region dependent (see <xref ref-type="bibr" rid="R14">Insel et al., 1990</xref>; <xref ref-type="bibr" rid="R34">Portera-Cailliau, 1996</xref>), with NR2 subunit expression developmentally regulated such that at birth, NR2B is the predominant subunit (<xref ref-type="bibr" rid="R39">Sheng et al., 1994</xref>, <xref ref-type="bibr" rid="R51">Vallano, 1998</xref>). For example, in the cortex and thalamus, levels of NR2B subunits are expressed at higher levels during the early postnatal period than in adulthood, whereas NR2A subunit expression is nearly absent at birth (<xref ref-type="bibr" rid="R23">Liu et al., 2004</xref>; <xref ref-type="bibr" rid="R39">Sheng et al., 1994</xref>). During the course of postnatal development, the early predominance of NR2B expression declines with the increasing expression of NR2A subunits, gradually reaching adult-typical NMDA expression patterns (<xref ref-type="bibr" rid="R39">Sheng et al., 1994</xref>). These developmental changes, however, are to some degree regionally-specific, with for instance NR2B replacement by receptors containing NR2A subunits observed in the lateral amygdala (<xref ref-type="bibr" rid="R24">Lopez de Armentia and Sah, 2003</xref>) and cerebellum (<xref ref-type="bibr" rid="R51">Vallano, 1998</xref>), but not in the central amygdala (<xref ref-type="bibr" rid="R24">Lopez de Armentia and Sah, 2003</xref>). Such regional changes in NMDA expression and ontogenetic alterations in subunit composition in immature versus mature animals may account for differences in sensitivity of NMDA receptors to ethanol.</p>
+    <p id="P7">Another important factor that may contribute to adolescent-associated insensitivities to ethanol relative to adult animals is the propensity for adolescents to develop acute tolerance, a compensatory response that serves to counteract effects of ethanol. Acute tolerance is defined as an attenuated sensitivity to ethanol that emerges within a single ethanol exposure period (<xref ref-type="bibr" rid="R15">Kalant et al., 1971</xref>; <xref ref-type="bibr" rid="R28">Mellanby, 1919</xref>) and has been assessed in a number of ways. One approach is focused on the relationship between ethanol-induced impairment of a certain function and blood or brain ethanol levels over time, with ethanol-induced impairment declining more rapidly than BECs used to index acute tolerance (<xref ref-type="bibr" rid="R16">Khanna et al., 2002</xref>; <xref ref-type="bibr" rid="R36">Radlow, 1994</xref>; <xref ref-type="bibr" rid="R54">Varlinskaya and Spear, 2006a</xref>).</p>
+    <p id="P8">Acute tolerance has been observed to a number of ethanol effects, including ethanol-induced sedation (<xref ref-type="bibr" rid="R22">Little et al., 1996</xref>; <xref ref-type="bibr" rid="R29">Moy et al., 1998</xref>), motor impairment (<xref ref-type="bibr" rid="R13">Hollstedt et al., 1980</xref>; <xref ref-type="bibr" rid="R40">Silveri and Spear, 1998</xref>, <xref ref-type="bibr" rid="R42">2001</xref>; <xref ref-type="bibr" rid="R58">White et al., 2002</xref>), and hypothermia (<xref ref-type="bibr" rid="R41">Silveri and Spear, 2000</xref>). Studies examining the ontogeny of acute tolerance have found that otherwise non-manipulated young rats through adolescence often exhibit significantly more acute tolerance than their adult counterparts (<xref ref-type="bibr" rid="R7">Draski et al., 2001</xref>; <xref ref-type="bibr" rid="R12">Grieve and Littleton, 1979</xref>; <xref ref-type="bibr" rid="R40">Silveri and Spear, 1998</xref>, <xref ref-type="bibr" rid="R43">2002</xref>; <xref ref-type="bibr" rid="R54">Varlinskaya and Spear, 2006a</xref>) when using measures such as recovery of the righting reflex (<xref ref-type="bibr" rid="R7">Draski et al., 2001</xref>; <xref ref-type="bibr" rid="R12">Grieve and Littleton, 1979</xref>; <xref ref-type="bibr" rid="R40">Silveri and Spear, 1998</xref>, <xref ref-type="bibr" rid="R43">2002</xref>) and ethanol-induced social inhibition (<xref ref-type="bibr" rid="R54">Varlinskaya and Spear, 2006a</xref>).</p>
+    <p id="P9">While acute tolerance development to ethanol has been reported to be evident among both adolescent and adult animals to a number of ethanol effects, there has been little investigation into neural contributors underlying the expression of acute tolerance during ontogeny. Pharmacological manipulation of NMDA receptors with (+)MK-801, a potent and highly selective non-competitive NMDA receptor antagonist, supports a potential role of NMDA receptors in acute tolerance development by effectively blocking acute tolerance to ethanol&#x02019;s motor impairing effects in adult male rats (<xref ref-type="bibr" rid="R16">Khanna et al., 2002</xref>), and by disrupting expression of acute tolerance to ethanol-induced sedation in adolescent rats (<xref ref-type="bibr" rid="R44">Silveri and Spear, 2004</xref>). However, physiological studies suggest that channel-blocking antagonists such as MK-801 block NMDA responses in a larger population of neurons than does ethanol (<xref ref-type="bibr" rid="R19">Kumari and Ticku, 2000</xref>). Ethanol, for instance, most potently blocks NMDA receptors containing NR2A and NR2B subunits than NMDA receptors composed of NR2C or NR2D receptor subunits (<xref ref-type="bibr" rid="R1">Allgaier, 2002</xref>; <xref ref-type="bibr" rid="R19">Kumari and Ticku, 2000</xref>). Thus, examination of the role of ethanol-sensitive NMDA receptors in acute tolerance may be better understood using selective subunit antagonists at preferential target sites of ethanol.</p>
+    <p id="P10">Consequently, the purpose of the present study was to explore the role of NMDA NR2B receptors in the development of acute tolerance to ethanol-induced motor impairment. Specifically, effects of ifenprodil, a non-competitive NMDA antagonist that selectively blocks NR2B-containing NMDA receptors, on acute tolerance to ethanol-induced motor impairment were assessed in adolescent and adult rats using an inclined plane test. Since adolescent and adult rats have been shown to differ in their responsiveness to ethanol-induced motor impairment on this task (<xref ref-type="bibr" rid="R37">Ramirez and Spear, 2010</xref>), the dose of ethanol administered at each age was varied to equate initial motor impairment.</p>
+    <p id="P11">The present study assessed the relationship between BECs and motor impairment at different time points post-ethanol administration , using a between-group experimental design (e.g. see, <xref ref-type="bibr" rid="R10">Erwin and Dietrich, 1996</xref>; <xref ref-type="bibr" rid="R20">L&#x000ea; et al., 1992</xref>; <xref ref-type="bibr" rid="R21">LeBlanc et al., 1975</xref>), with animals sacrificed for collection of trunk blood immediately following behavioral testing.</p>
+    <sec sec-type="materials|methods" id="S5">
+      <title>MATERIALS AND METHODS</title>
+      <sec sec-type="subjects" id="S6">
+        <title>Subjects</title>
+        <p id="P12">Adolescent (P28-30) and adult (P68-70) Sprague-Dawley male rats used in this study were bred and reared in our colony at Binghamton University. On the day after birth (P1), litters were culled to 8 to 10 pups, with 6 animals of one sex and 4 animals of the other being retained whenever possible. Animals were weaned at P21, housed in same-sex littermate pairs, and maintained on a 14-/10-hr light/dark cycle with food (Purina Rat Chow, Lowell, MA) and water available ad libitum. Animals were semi-randomly assigned to the dependent variables of pre-exposure condition and test time, with each animal tested on only one test day and under one dose condition. Rats used in these experiments were maintained and treated in accordance with guidelines for animal care established by the National Institutes of Health, using protocols approved by the Binghamton University Institutional Animal Care and Use Committee.</p>
+      </sec>
+      <sec id="S7">
+        <title>Drugs</title>
+        <p id="P13">Ethanol was prepared by dilution in 0.9% NaCl to a concentration of 18.9% (v/v), and was administered intraperitoneally (i.p.). Due to previously reported age differences in ethanol sensitivity on this task (<xref ref-type="bibr" rid="R37">Ramirez and Spear, 2010</xref>), different doses of ethanol were used for each age in this study to equate initial effects of ethanol on motor performance across age, with adolescent animals injected with 2.25 g/kg ethanol and adults receiving a dose of 1.5 g/kg.</p>
+        <p id="P14">Ifenprodil hemitartrate (Tocris Bioscience) was dissolved in double distilled water (ddH2O) and administered i.p. (1 ml/kg) 10 min before ethanol injection. The 0 dose ifenprodil control group was injected i.p. with the vehicle (ddH2O) at the same volume as the ifenprodil solutions. All solutions were administered at room temperature. The ifenprodil doses used in these experiments were selected from an in vivo study that examined the effects of selective NMDA NR2B- containing receptor antagonists on motor coordination in adult male Sprague-Dawley rats, where motor deficits were not observed following treatment with 5.0 mg/kg ifenprodil (<xref ref-type="bibr" rid="R2">Boyce et al., 1999</xref>). In addition, preliminary data from our laboratory revealed no differences in motor performance on the stationary inclined plane at either test age, following varying doses of ifenprodil (adolescents: 0, 5, 10, 20 mg/kg i.p.; adults: 0, 5, 10 mg/kg i.p.), suggesting that treatment with 5.0 mg/kg ifenprodil alone would not affect motor performance on this task.</p>
+      </sec>
+      <sec id="S8">
+        <title>Apparatus</title>
+        <p id="P15">Each inclined plane consisted of a rectangular Plexiglas platform (45.7 cm &#x000d7; 61 cm) painted black and fixed at a 70&#x000b0; angle from horizontal. Each apparatus was covered with a wire mesh screen fixed 0.6 cm above the surface via metal screws. The wire mesh surface was 50.8 cm long, and had a turning width adjusted for each age based on age differences in crown-rump lengths (P28-P30: 15.2 cm wide; P68-P70: 24.1 cm wide). The plane was positioned at the edge of a table with a 73.7 cm drop to provide additional motivation for the animal to avoid moving downward on the plane. A piece of 15.2 cm thick foam was placed under the table&#x02019;s edge to prevent injury to any animal falling from the apparatus.</p>
+      </sec>
+      <sec id="S9">
+        <title>Test Procedure</title>
+        <p id="P16">Subjects were tested for motor coordination by placing each rat head downward on the stationary inclined plane and determining its latency (in sec) to rotate 180&#x000b0;. Each animal was allowed a maximum of 15 sec on the apparatus to complete the task. If the rat fell off the plane, the rat was considered to have failed the task and a maximum score of 15 sec was assigned. Animals were initially tested prior to drug administration to provide baseline data. If a subject fell off during the initial baseline test, it was given one or two additional attempts as needed to complete the turn without falling; any subject who failed the task on the third trial was not used in these studies (n= 1 for adolescents; 0 for adults). The first trial in which the subject completed the task was used as the baseline latency score.</p>
+        <p id="P17">Following baseline measurements, each subject was immediately injected with ifenprodil at a dose of 0, 5.0 mg/kg (Experiment 1) or 10.0 mg/kg (Experiment 2) and placed individually into a holding cage. Ten minutes thereafter, subjects were injected with ethanol (adolescents: 2.25 g/kg; adults 1.5 g/kg) and returned to their holding cage until testing for motor coordination. Each animal was then given the motor coordination test at one of the two post-injection intervals (10 or 60 min) predetermined by its group assignment. Post-injection test intervals were selected from prior data showing adolescent and adult rats to be significantly and equivalently impaired by these doses of ethanol 10 min post-ethanol injection, with substantial recovery evident by 60 min post-injection at each age (<xref ref-type="bibr" rid="R37">Ramirez and Spear, 2010</xref>). All sessions were conducted in the presence of a white noise generator to attenuate external noise during testing. During test sessions, the behavior of each animal was recorded by video camera (Sony model DCR-SR62, San Diego, CA) located at the same height and with a frontal view 91.4 cm from the test apparatus. Latency data were determined later from the video records by an experimenter uninformed as to the experimental condition of any given animal.</p>
+      </sec>
+      <sec id="S10">
+        <title>Blood Ethanol Determination</title>
+        <p id="P18">Following behavioral testing, animals were immediately decapitated and trunk blood samples were collected into heparinized tubes and frozen at &#x02212;80&#x000b0; C until analysis of blood ethanol concentration (BEC). Samples were assessed for BEC via headspace gas chromatography using a Hewlett Packard (HP) 5890 series II gas chromatograph (Wilmington, DE). At the time of assay, blood samples were thawed and 25-&#x000b5;l aliquots were placed in airtight vials. Vials were placed in a HP 7694E Auto-sampler, which heated each individual vial for 8 min, and then extracted and injected a 1.0 ml sample of the gas headspace into the HP 5890 series Gas Chromatograph. Ethanol concentrations in each sample were determined using HP Chemstation software, which compares the peak area under the curve in each sample with those of standard curves derived from reference standard solutions.</p>
+      </sec>
+      <sec id="S11">
+        <title>Data analysis</title>
+        <p id="P19">Acute tolerance was indexed in two ways. Acute tolerance development was assessed via an impairment/BEC ratio, which directly relates impairment to BECs (<xref ref-type="bibr" rid="R32">Pohorecky and Roberts, 1992</xref>). For these analyses, latency data, indexed by turn latency (in sec) at 10 or 60 min post-ethanol injection, were transformed into impairment scores by subtracting the group mean baseline latency from the latency score at test for each animal, with these difference scores reflecting ethanol-induced motor impairment. Then, the impairment score for each individual animal was divided by its BEC. Using this method, acute tolerance was defined as significantly smaller impairment/BEC ratios later post-ethanol injection (60 min) rather than earlier post-ethanol (10 min). For a more comprehensive analysis of acute tolerance, regression analyses were also used to determine whether the slope of the regression of impairment/BEC ratios over time for each pre-exposure group differed significantly from zero. Acute tolerance was defined as smaller impairment/BEC ratios over time (i.e., ethanol-induced motor impairment declining more rapidly than BECs) and was indexed by a negative slope. In addition, slope comparisons using regression analyses for the vehicle and ifenprodil pre-exposed groups were conducted to determine the effectiveness of ifenprodil. In order to evaluate age effects in acute tolerance development, slopes for vehicle pre-exposed adolescents and adults were compared as well (Experiment 1).</p>
+        <p id="P20">Acute tolerance was also measured as an output function relating BEC and associated impairment for each animal (see <xref ref-type="bibr" rid="R36">Radlow, 1994</xref>; <xref ref-type="bibr" rid="R54">Varlinskaya and Spear, 2006a</xref>, for details). For this analysis, the impairment score for each animal in a group was converted to a percentage of the average maximum impairment for that group (measured at the 10 min time point at each age), with this average maximum impairment expressed as 100%. Blood ethanol concentration for each animal was analogously converted to a percentage of the average maximum BEC at each age (mean of that observed at 10 min following ethanol administration), with the mean maximum BEC likewise expressed as 100%.</p>
+        <p id="P21">Percent maximum impairment values were then subtracted from percent maximum BEC values for each individual at each time point [BEC (% maximum) - impairment (% maximum)] and plotted as an output function over time separately for each age and treatment group with regression analyses used to determine whether the slope of the regression of this output function for each group differed significantly from zero. Acute tolerance was defined as greater output values over time (i.e., ethanol-induced motor impairment declining more rapidly than BECs) and was indexed as a positive slope (significantly greater than 0) of the linear regression relating these variables. Slope comparisons using regression analyses for the vehicle and ifenprodil pre-exposed groups within age, as well as for the vehicle pre-exposed animals between the two age groups were conducted to determine the effects of ifenprodil and to evaluate possible age differences in acute tolerance development (Experiment 1).</p>
+        <p id="P22">To minimize the probability of including injections that did not distribute appropriately within the intraperitoneal cavity (<xref ref-type="bibr" rid="R33">Ponomarev and Crabbe, 2002</xref>) and to minimize individual differences in ethanol absorption rates, subjects with BECs greater than 1 standard deviation (SD) below the mean for each group were excluded from analyses. This resulted in the elimination of 24 subjects (1&#x02013;3 animals/group) across the two experiments. Final sample sizes are listed in <xref ref-type="table" rid="T1">Table 1</xref>. Possible effects of ifenprodil on BECs and impairment scores were assessed using analyses of variance (ANOVAs). Slope comparisons were assessed using linear regression analyses (GraphPad Prism 5). Fisher&#x02019;s LSD post-hoc tests were used for post-hoc comparisons. A significance level of p&#x0003c; 0.05 was used for all analyses and comparisons.</p>
+      </sec>
+    </sec>
+    <sec id="S12">
+      <title>EXPERIMENT 1. Effect of 5.0 mg/kg ifenprodil on acute tolerance development in adolescent and adult rats</title>
+      <sec sec-type="methods" id="S13">
+        <title>Methods</title>
+        <p id="P23">The design of Experiment 1 was a 2 (ifenprodil dose: 0 or 5.0 mg/kg) &#x000d7; 2 (age: adolescent or adult) &#x000d7; 2 (test time: 10 or 60 min following ethanol administration) factorial, with 10&#x02013;12 animals placed into each of the 8 experimental groups defined by this design. Impairment scores and BECs were analyzed using separate ANOVAs at each age, given that the ethanol challenge dose differed across age. Analysis of impairment/BEC ratios were conducted using a 2 (ifenprodil dose) &#x000d7; 2 (test time) &#x000d7; 2 (age) ANOVA; age was included as a factor in this ANOVA given that these ratios take into consideration the different ethanol dose used at each age via indexing impairment relative to blood ethanol levels.</p>
+      </sec>
+      <sec sec-type="results" id="S14">
+        <title>Results</title>
+        <sec id="S15">
+          <title>Impairment scores</title>
+          <p id="P24">The 2 (ifenprodil dose) &#x000d7; 2 (test time) ANOVA for adolescent animals revealed a significant main effect of test time [F(1,32)= 35.31, p&#x0003c; 0.001], with adolescents showing less impairment later in the test session, and no effect of ifenprodil dose (see <xref ref-type="fig" rid="F1">Fig 1</xref>), suggesting that the drug had no effect on ethanol-induced motor impairment in adolescents. In contrast, the 2 (ifenprodil dose) &#x000d7; 2 (test time) ANOVA for the adult animals revealed a significant ifenprodil dose &#x000d7; test time interaction [F(1,33)= 10.79, p&#x0003c; 0.01]. Post hoc tests revealed that adult males pre-exposed to 5.0 mg/kg ifenprodil had significantly greater impairment scores 60 min post-ethanol than did adult males pre-exposed to 0 mg/kg ifenprodil (see <xref ref-type="fig" rid="F1">Fig 1</xref>). The maintenance of higher impairment scores following pre-exposure to ifenprodil in adult animals at this time point is consistent with a pattern of disrupted acute tolerance to this effect of ethanol.</p>
+          <sec id="S16">
+            <title>Blood ethanol concentration</title>
+            <p id="P25">Separate 2 (ifenprodil dose) &#x000d7; 2 (test time) ANOVAs conducted at each age showed a significant main effect of time for adolescents [F(1, 32)= 24.79, p&#x0003c; 0.001] and for adults [F(1,33)= 119.02, p&#x0003c; 0.001]. BECs significantly decreased with time in both adolescent and adult animals, but did not differ significantly as a function of ifenprodil dose for either time point at either age (see <xref ref-type="fig" rid="F2">Fig 2</xref>). Therefore, ethanol pharmacokinetics did not appear to be affected by pre-exposure to ifenprodil.</p>
+          </sec>
+        </sec>
+        <sec id="S17">
+          <title>Acute tolerance (impairment/BEC ratios)</title>
+          <p id="P26">The 2 (age) &#x000d7; 2 (ifenprodil dose) &#x000d7; 2 (test time) ANOVA revealed significant main effects of ifenprodil dose [F(1,65)= 7.56, p&#x0003c; 0.01], time [F(1,65)= 20.39, p&#x0003c; 0.0001], their interaction [F(1,65)= 5.90, p&#x0003c; 0.05], as well as a significant interaction of age &#x000d7; dose &#x000d7; time [F(1,65)= 7.05, p&#x0003c; 0.01]. For adolescents, post hoc analysis revealed that both the vehicle and ifenprodil pre-exposed animals showed significant reductions in their impairment/BEC ratios at 60 min when compared to the 10 min time point (see <xref ref-type="fig" rid="F3">Fig 3</xref>), suggesting that acute tolerance emerged in adolescents pre-exposed to vehicle, as well as to ifenprodil. However, in the adult animals, acute tolerance emerged in the vehicle pre-exposed group only, given that only the vehicle pre-exposed group had significantly reduced impairment/BEC ratios at 60 min relative to 10 min. That impairment/BEC ratios did not differ as a function of time in the ifenprodil pre-exposed adults, suggests that acute tolerance was blocked in these animals (see <xref ref-type="fig" rid="F3">Fig 3</xref>).</p>
+          <p id="P27">Regression analyses confirmed that both adolescent and adult vehicle pre-exposed animals developed acute tolerance, as indexed by a negative slope over time, with these slopes differing significantly from zero (see <xref ref-type="table" rid="T1">Table 1</xref>). Slopes for the vehicle pre-exposed groups did not differ significantly by age suggesting that adolescent and adult animals developed the same degree of acute tolerance. The slope for the ifenprodil pre-exposed adolescent group also differed significantly from zero revealing that acute tolerance also developed in these animals. However, the ifenprodil pre-exposed adults had a slope that did not deviate from zero, suggesting that acute tolerance was blocked in this group.</p>
+          <p id="P28">When slope comparisons of impairment/BEC ratios were conducted on vehicle and ifenprodil pre-exposed groups, the slopes for the adolescents were not significantly different. Unlike the adolescent animals, regression analysis between the vehicle and ifenprodil adult groups revealed that the differences between the slopes were significant; confirming that pre-exposure to 5.0 mg/kg ifenprodil reliably blocked acute tolerance development in the adult animals (see <xref ref-type="table" rid="T1">Table 1</xref>).</p>
+        </sec>
+        <sec id="S18">
+          <title>Acute tolerance (Radlow&#x02019;s approach)</title>
+          <p id="P29">Radlow&#x02019;s approach of assessing acute tolerance revealed similar findings. Regression analysis confirmed that the control adult rats showed evidence for the expression of acute tolerance, as indexed by a positive slope of the linear regression of the output function over time, with the slope differing significantly from zero (see <xref ref-type="table" rid="T2">Table 2</xref>). In contrast, following the 5.0 mg/kg dose of ifenprodil, the slope of the linear regression of this output function did not differ significantly from zero, suggesting that ifenprodil disrupted expression of acute tolerance in these adults.</p>
+          <p id="P30">In adolescents, however, evidence for acute tolerance development to the motor-impairing effects of ethanol was confirmed in the 0 and 5.0 mg/kg ifenprodil groups, with positive slopes in both groups differing significantly from zero (see <xref ref-type="table" rid="T2">Table 2</xref>). Thus, according to Radlow&#x02019;s approach, this dose of ifenprodil was ineffective in blocking acute tolerance development among adolescent animals.</p>
+          <p id="P31">Slope comparisons conducted on the adolescent vehicle and ifenprodil pre-exposed groups confirmed that the slopes did not significantly differ (see <xref ref-type="table" rid="T2">Table 2</xref>) from one another. However, regression analysis between the vehicle and ifenprodil pre-exposed adult animals revealed that the differences between the slopes were significant, providing further evidence for the disruption of acute tolerance development in the adult but not adolescent animals. Given these experimental findings, Experiment 2 was designed to examine whether acute tolerance development among adolescents would be blocked by pre-exposure to a higher dose of ifenprodil.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="S19">
+      <title>EXPERIMENT 2. Effect of 10.0 mg/kg ifenprodil on acute tolerance development in adolescent rats</title>
+      <sec sec-type="methods" id="S20">
+        <title>Methods</title>
+        <p id="P32">The design of Experiment 2 was a 2 (ifenprodil dose: 0 or 10.0 mg/kg) &#x000d7; 2 (test time: 10 or 60 min following ethanol administration), with 11&#x02013;12 adolescent animals placed into each of the 4 experimental groups defined by this design.</p>
+      </sec>
+      <sec id="S21">
+        <title>Results</title>
+        <sec id="S22">
+          <title>Impairment scores</title>
+          <p id="P33">The 2 (ifenprodil dose) &#x000d7; 2 (test time) ANOVA conducted on impairment scores showed significant main effects of time [F(1,36)= 16.36, p&#x0003c; 0.01] and ifenprodil dose [F(1,36)= 5.85, p&#x0003c; 0.05). Overall, adolescents showed less impairment later in the test session (60 min post-ethanol) than at 10 min post-ethanol (see <xref ref-type="fig" rid="F4">Fig 4</xref>), with adolescents pre-exposed to 10.0 mg/kg ifenprodil having significantly higher impairment scores than did adolescents pre-exposed to 0 mg/kg ifenprodil. This finding suggests that pre-exposure to ifenprodil enhanced motor impairment induced by ethanol, regardless of post-injection-test interval.</p>
+          <sec id="S23">
+            <title>Blood ethanol concentration</title>
+            <p id="P34">The 2 (ifenprodil dose) &#x000d7; 2 (test time) ANOVA of the BEC data revealed only a significant main effect of time [F(1,36)= 39.82, p&#x0003c; 0.001], with BECs significantly greater at 10 min than at 60 min post-ethanol. Thus, there was no evidence that ethanol pharmacokinetics was affected by pre-exposure to 10.0 mg/kg ifenprodil (see <xref ref-type="fig" rid="F5">Fig 5</xref>).</p>
+          </sec>
+          <sec id="S24">
+            <title>Acute tolerance (impairment/BEC ratios)</title>
+            <p id="P35">A 2 (ifenprodil dose) &#x000d7; 2 (test time) ANOVA showed a significant main effect of dose [F(1,36)= 4.97, p&#x0003c;0.05], and time [F(1,36)= 7.98, p&#x0003c; 0.05], with no interaction between these two variables. Animals pre-exposed to ifenprodil were more impaired than those injected with vehicle; although all animals demonstrated significant reduction in impairment/BEC ratios over time when collapsed across ifenprodil dose (see <xref ref-type="fig" rid="F6">Fig 6</xref>). The lack of a significant interaction between ifenprodil dose and time suggests that, when acute tolerance was assessed via impairment/BEC ratios, pre-exposure to 10.0 mg/kg ifenprodil enhanced ethanol-induced motor impairment, rather than blocking acute tolerance.</p>
+            <p id="P36">Regression analyses revealed that adolescent vehicle pre-exposed animals developed acute tolerance, as indexed by a negative slope over time, with this slope differing significantly from zero (see <xref ref-type="table" rid="T1">Table 1</xref>), whereas the 10.0 mg/kg ifenprodil pre-exposed group had a slope that did not differ significantly from zero. Nevertheless, slope comparisons between the vehicle and ifenprodil pre-exposed groups revealed that their slopes did not differ significantly from one another.</p>
+          </sec>
+          <sec id="S25">
+            <title>Acute tolerance (Radlow&#x02019;s approach)</title>
+            <p id="P37">Radlow&#x02019;s approach revealed a similar pattern. Regression analysis showed the expression of acute tolerance, as indexed by a positive slope of the linear regression of the output function over time, with this slope differing significantly from zero in animals pre-exposed to vehicle, but not to the 10.0 mg/kg ifenprodil dose (see <xref ref-type="table" rid="T2">Table 2</xref>). Again, slope comparisons conducted between the vehicle and ifenprodil pre-exposed groups in this experiment revealed that the slopes did not significantly differ (see <xref ref-type="table" rid="T2">Table 2</xref>) from one another, suggesting that acute tolerance may not have been completely blocked by this dose of ifenprodil.</p>
+          </sec>
+        </sec>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="S26">
+      <title>DISCUSSION</title>
+      <p id="P38">In the present study, following functionally equivalent doses both adolescent and adult animals developed acute tolerance to the motor-impairing effects of ethanol when indexed either by an increasing time-dependent dissociation between declines in BECs and the more rapid declines in ethanol-induced motor impairment (<xref ref-type="bibr" rid="R36">Radlow, 1994</xref>) or by a significant decline in impairment/BEC ratios with time. In Experiment 1, acute tolerance was found to be effectively and reliably blocked in adults by pre-administration of the NR2B selective antagonist, ifenprodil, at a dose of 5.0 mg/kg. This dose of ifenprodil, however, was ineffective in disrupting acute tolerance development in adolescent animals, with both vehicle pre-exposed adolescents, as well as the ifenprodil pre-exposed adolescents displaying significantly greater declines in motor-impairment (shorter turn latencies) than in BECs. Furthermore, impairment/BEC ratios in these adolescent animals decreased over time regardless of ifenprodil pre-exposure. At a higher dose of ifenprodil, 10.0 mg/kg, expression of acute tolerance was observed to be disrupted in adolescents in Experiment 2 when acute tolerance was indexed as a slope of the linear regression over time differing significantly from 0. However, slope comparisons between vehicle and ifenprodil pre-exposed animals suggested that acute tolerance may not have been completely blocked, given that the slopes did not significantly differ. Moreover, at this dose, the ANOVA of impairment/BEC ratios revealed a main effect of ifenprodil dose, regardless of time, suggesting that the dose of ifenprodil may affect ethanol-induced motor impairment more generally. More experiments in adolescent animals using a wider range of ifenprodil doses (and, possibly ethanol doses as well) would likely be helpful in separating effects of ifenprodil on acute tolerance from possible general motor impairing effects.</p>
+      <p id="P39">These age-related effects of ifenprodil pre-exposure on ethanol-induced acute tolerance and motor impairment do not appear to be related to any effect of ifenprodil on the pharmacokinetics of ethanol, as BECs did not differ as a function of ifenprodil dose for either time point at either age (see Experiment 1). In Experiment 2 as well, there was no effect of the higher, 10.0 mg/kg dose of ifenprodil on adolescent BEC levels.</p>
+      <p id="P40">Likewise, there was no indication in Experiment 1 that pre-exposure to ifenprodil (5.0 mg/kg) influenced initial sensitivity of adolescents or adults to ethanol-induced motor impairment, since impairment scores at 10 min following ethanol administration did not differ in the vehicle and ifenprodil groups. It is possible, however, that this could reflect a ceiling effect given that the ethanol doses used were chosen to produce near maximal impairment at this time. Thus, before concluding conclusively that ifenprodil has no effect on initial sensitivity to ethanol, effects of ifenprodil should be tested following a lower dose of ethanol - e.g., 2.0 g/kg adolescents; 1.0 g/kg adults (see <xref ref-type="bibr" rid="R37">Ramirez and Spear, 2010</xref>) - one that is only slightly above threshold for production of motor-impairment. Also, in order to better understand the relationship between the ability of ifenprodil to block acute tolerance and the degree to which acute tolerance develops over time, acute tolerance may be assessed following broader dose-ranges of ifenprodil. Likewise, to the extent that acute tolerance is a time-dependent process, and thus proposed to develop as a direct response to the time of ethanol exposure (<xref ref-type="bibr" rid="R15">Kalant et al., 1971</xref>), future work should examine different time points post-ethanol as well as various doses of ethanol.</p>
+      <p id="P41">The present study provides additional evidence for the role of NMDA receptors, particularly NR2B receptors, in acute tolerance development (<xref ref-type="bibr" rid="R16">Khanna et al., 2002</xref>; <xref ref-type="bibr" rid="R44">Silveri and Spear, 2004</xref>), given that the NR2B antagonist ifenprodil was observed to effectively block acute tolerance to ethanol&#x02019;s motor impairing effects in adults. Adolescents were less sensitive, however, than adults to the disruption of acute tolerance by ifenprodil, findings that may reflect ontogenetic alterations in NMDA receptor characteristics. These developmental alterations not only include a peak in NMDA binding during the third postnatal week that declines thereafter to reach adult-typical levels (<xref ref-type="bibr" rid="R35">Pruss, 1993</xref>), but also an ontogenetic switch from a predominance of NR2B- to NR2A-containing NMDA receptors between weaning and adulthood (<xref ref-type="bibr" rid="R39">Sheng et al., 1994</xref>, <xref ref-type="bibr" rid="R51">Vallano, 1998</xref>), along with altered functional properties of these NMDA receptors (<xref ref-type="bibr" rid="R45">Sircar, 2000</xref>; <xref ref-type="bibr" rid="R46">Sircar and Sircar, 2006</xref>). As a result of the greater developmental expression of NMDA receptors, especially NR2B-containing receptors, adolescents may require a higher dose of ifenprodil to effectively block these receptors than is necessary for functional blockade of these receptors in adulthood.</p>
+      <p id="P42">It is also possible that age differences in the effective dose of ifenprodil could be related in part to pharmacokinetic factors. That is, should adolescents metabolize ifenprodil more rapidly than adults, they likely would need a higher dose of ifenprodil to equate functional drug concentrations among the adolescents relative to the adults. Indeed, adolescents sometimes tend to metabolize drugs and other substances slightly, although not necessarily significantly, more rapidly than adults (see <xref ref-type="bibr" rid="R47">Spear, 2007</xref> for discussion). Although at present it is not possible to directly assess metabolic rates for ifenprodil across age due to the absence of an established assay for ifenprodil, other strategies could be used to address this possibility in future work. One strategy would be to test for similar age differences in effective dose for ifenprodil-related compounds that are also known to antagonize NMDA responses with a preference for the NR2B subunit, but that might have potentially somewhat different pharmacokinetic properties (such as eliprodil; CP-101,606; Ro25-6981). Given that most drug metabolism occurs peripherally, another strategy could be to minimize potential ontogenetic differences in drug distribution and metabolism by microinjecting ifenprodil centrally via a route such as lateral ventricular injection. Finally, to the extent that the adolescent insensitivity to ifenprodil-induced disruption of acute tolerance reflects ontogenetic changes in NR2B subtype-containing NMDA receptors, it might be expected that adolescents would be more sensitive to the facilitation of acute tolerance by a NMDA agonist specific to this receptor subtype. For instance, previous research has observed that D-cycloserine, a NMDA partial agonist at the glycine site, effectively enhances acute tolerance to ethanol in adult male rats (<xref ref-type="bibr" rid="R16">Khanna et al., 2002</xref>), although to our knowledge no developmental studies have been conducted using this or other NMDA agonists. Unfortunately, agonists of the NMDA receptor are limited (see <xref ref-type="bibr" rid="R8">D&#x02019;Souza et al., 1995</xref>; <xref ref-type="bibr" rid="R17">Krystal et al., 1999</xref>, for review), and there is no NR2B selective agonist currently available.</p>
+      <p id="P43">In the present study, development of acute tolerance was seen in vehicle-treated animals at both ages. This expression of acute tolerance to ethanol in adulthood is consistent with previous studies that have observed acute tolerance in adult rats to a number of ethanol effects, including ethanol-induced motor impairment (<xref ref-type="bibr" rid="R16">Khanna et al., 2002</xref>; <xref ref-type="bibr" rid="R21">LeBlanc et al., 1975</xref>; <xref ref-type="bibr" rid="R42">Silveri and Spear, 2001</xref>). However, in prior work in our laboratory we have generally only observed expression of acute tolerance among adolescents and not in adults for a number of ethanol effects. These include ethanol-induced social inhibition (<xref ref-type="bibr" rid="R54">Varlinskaya and Spear, 2006a</xref>), and recovery of the righting reflex (<xref ref-type="bibr" rid="R44">Silveri and Spear, 2004</xref>). However, evidence for acute tolerance to ethanol-induced motor impairment was found in our group among both adolescents and adults in a swim task where initial ethanol impairment was equated across age (<xref ref-type="bibr" rid="R42">Silveri and Spear, 2001</xref>). A number of factors have been reported to contribute to the differential expression of acute tolerance across studies, particularly among adult animals. For instance, experimental procedures that require substantial training (e.g., moving belt; <xref ref-type="bibr" rid="R21">LeBlanc et al., 1975</xref>) and/or the application of stressors (e.g. isolate housing and foot shock; <xref ref-type="bibr" rid="R25">Lumeng et al., 1982</xref>) tend to report the emergence of acute tolerance. On the other hand, test circumstances involving group-housed animals who are non-manipulated before testing tend not to express acute tolerance in adulthood (<xref ref-type="bibr" rid="R40">Silveri and Spear, 1998</xref>; <xref ref-type="bibr" rid="R54">Varlinskaya and Spear, 2006a</xref>). Indeed, <xref ref-type="bibr" rid="R44">Silveri &#x00026; Spear (2004)</xref> observed acute tolerance to ethanol&#x02019;s sedative effects emerge in adult animals on the day following saline challenge but not when challenged with ethanol on the initial test day, whereas adolescent animals showed significant acute tolerance on both test days. Thus, it appears that stressful test conditions such as procedure-related handling, injections and repeated testing may influence age differences in expression of acute tolerance, with adult animals being more sensitive to these procedure-related manipulations (<xref ref-type="bibr" rid="R6">Doremus-Fitzwater et al., 2009</xref>). It remains unclear, however, as to the nature of the circumstances that promoted expression of acute tolerance among vehicle-treated adult animals in the present study.</p>
+      <p id="P44">Regardless of the circumstances underlying expression of acute tolerance at both ages in the present work, it appears that the inclined plane task is sensitive enough to detect acute tolerance development at both ages following acute ethanol exposure, while being insensitive to the effects of the pretest manipulations alone. Ontogenetic patterns of acute tolerance development may also vary with the ethanol effect under examination, with perhaps differences in utilization or activation of brain regions involved in these specific behaviors. However, there has been little investigation of neural substrates underlying the expression of acute tolerance, nor have specific brain regions underlying this adaptation been identified. Thus, it remains to be determined whether the findings in this study translate to other behavioral measures or tasks, given ethanol can alter the function of many neurotransmitter systems (e.g. GABA<sub>A</sub>, dopamine, serotonin) besides the NMDA receptor system throughout the brain (<xref ref-type="bibr" rid="R31">Nagy, 2008</xref>).</p>
+      <p id="P45">Research in animals and humans suggests that antagonism of NMDA receptors by ethanol is a key component by which the cognitive, subjective, and physiologic responses associated with intoxicating effects of ethanol that normally serve as negative feedback cues are conveyed (see <xref ref-type="bibr" rid="R18">Krystal et al., 2003</xref> for review). Any reduction in responsiveness to NMDA receptor antagonist actions of ethanol might contribute to a deficiency in negative feedback signals to terminate alcohol consumption. Further research is needed to determine if the reduced sensitivity of adolescents to various ethanol effects, such as ethanol-induced sedation (<xref ref-type="bibr" rid="R22">Little et al., 1996</xref>; <xref ref-type="bibr" rid="R29">Moy et al., 1998</xref>; <xref ref-type="bibr" rid="R40">Silveri and Spear, 1998</xref>), social inhibition (e.g., <xref ref-type="bibr" rid="R53">Varlinskaya and Spear, 2004</xref>, <xref ref-type="bibr" rid="R54">2006a</xref>), and motor impairment (<xref ref-type="bibr" rid="R37">Ramirez and Spear, 2010</xref>; <xref ref-type="bibr" rid="R58">White et al., 2002</xref>), is associated with an adolescent insensitivity to NR2B receptor antagonism. These studies are important given that deficient negative feedback signals could serve as an important factor contributing to greater ethanol consumption. Indeed, adolescent rats (<xref ref-type="bibr" rid="R3">Brunell and Spear, 2005</xref>; <xref ref-type="bibr" rid="R5">Doremus et al., 2005</xref>; <xref ref-type="bibr" rid="R56">Vetter et al., 2007</xref>), as well as humans (<xref ref-type="bibr" rid="R50">SAMHSA, 2009</xref>) often voluntarily consume 2&#x02013;3 times more ethanol per day or per drinking occasion, respectively relative to their adult counterparts. Given that high levels of ethanol consumption during adolescence may be placing adolescents at risk for later problematic use (<xref ref-type="bibr" rid="R4">DeWit et al., 2000</xref>; <xref ref-type="bibr" rid="R11">Grant et al., 2001</xref>), it is important to understand the role of ontogenetic changes in NMDA and other neural systems in the mediation of age-related differences in ethanol sensitivities.</p>
+    </sec>
+  </body>
+  <back>
+    <ack id="S27">
+      <title>Acknowledgments</title>
+      <p id="P46">The research presented in this paper was supported by NIAAA grants R37 AA012525, R01 AA018026 and R50 AA017823 to Linda P. Spear.</p>
+    </ack>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="R1">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Allgaier</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Ethanol sensitivity of NMDA receptors</article-title>
+          <source>Neurochem Int</source>
+          <year>2002</year>
+          <volume>41</volume>
+          <fpage>377</fpage>
+          <lpage>382</lpage>
+          <pub-id pub-id-type="pmid">12213224</pub-id>
+        </citation>
+      </ref>
+      <ref id="R2">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boyce</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wyatt</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Webb</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>O'Donnell</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Mason</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Rigby</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sirinathsinghji</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Hill</surname>
+              <given-names>RG</given-names>
+            </name>
+            <name>
+              <surname>Rupniak</surname>
+              <given-names>NM</given-names>
+            </name>
+          </person-group>
+          <article-title>Selective NMDA NR2B antagonists induce antinociception without motor dysfunction: correlation with restricted localisation of NR2B subunit in dorsal horn</article-title>
+          <source>Neuropharmacology</source>
+          <year>1999</year>
+          <volume>38</volume>
+          <issue>5</issue>
+          <fpage>611</fpage>
+          <lpage>623</lpage>
+          <pub-id pub-id-type="pmid">10340299</pub-id>
+        </citation>
+      </ref>
+      <ref id="R3">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brunell</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Effect of stress on the voluntary intake of a sweetened ethanol solution in pair-housed adolescent and adult rats</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>2005</year>
+          <volume>29</volume>
+          <fpage>1641</fpage>
+          <lpage>1653</lpage>
+          <pub-id pub-id-type="pmid">16205364</pub-id>
+        </citation>
+      </ref>
+      <ref id="R4">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DeWit</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Adlaf</surname>
+              <given-names>EM</given-names>
+            </name>
+            <name>
+              <surname>Offord</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Ogborne</surname>
+              <given-names>AC</given-names>
+            </name>
+          </person-group>
+          <article-title>Age at first alcohol use: a risk factor for the development of alcohol disorders</article-title>
+          <source>Am J Psychiatry</source>
+          <year>2000</year>
+          <volume>157</volume>
+          <issue>5</issue>
+          <fpage>745</fpage>
+          <lpage>750</lpage>
+          <pub-id pub-id-type="pmid">10784467</pub-id>
+        </citation>
+      </ref>
+      <ref id="R5">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Doremus</surname>
+              <given-names>TL</given-names>
+            </name>
+            <name>
+              <surname>Brunell</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Rajendran</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Factors influencing elevated ethanol consumption in adolescent relative to adult rats</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>2005</year>
+          <volume>29</volume>
+          <fpage>1796</fpage>
+          <lpage>1808</lpage>
+          <pub-id pub-id-type="pmid">16269909</pub-id>
+        </citation>
+      </ref>
+      <ref id="R6">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Doremus-Fitzwater</surname>
+              <given-names>TL</given-names>
+            </name>
+            <name>
+              <surname>Varlinskaya</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of pretest manipulation on elevated plus-maze behavior in adolescent and adult male and female Sprague-Dawley rats</article-title>
+          <source>Pharmacol Biochem Behav</source>
+          <year>2009</year>
+          <volume>92</volume>
+          <fpage>413</fpage>
+          <lpage>423</lpage>
+          <pub-id pub-id-type="pmid">19344672</pub-id>
+        </citation>
+      </ref>
+      <ref id="R7">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Draski</surname>
+              <given-names>LJ</given-names>
+            </name>
+            <name>
+              <surname>Bice</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Deitrich</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Developmental alterations in selectively bred high and low alcohol sensitive rats</article-title>
+          <source>Pharmacol Biochem Behav</source>
+          <year>2001</year>
+          <volume>70</volume>
+          <fpage>387</fpage>
+          <lpage>396</lpage>
+          <pub-id pub-id-type="pmid">11701212</pub-id>
+        </citation>
+      </ref>
+      <ref id="R8">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>D&#x02019;Souza</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Charney</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Krystal</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Glycine site agonists of NMDA receptor: A review</article-title>
+          <source>CNS Drug Rev</source>
+          <year>1995</year>
+          <volume>1</volume>
+          <fpage>227</fpage>
+          <lpage>260</lpage>
+        </citation>
+      </ref>
+      <ref id="R9">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Eckardt</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>File</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Gessa</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Grant</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Guerri</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hoffman</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Kalant</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Koob</surname>
+              <given-names>GF</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>T-K</given-names>
+            </name>
+            <name>
+              <surname>Tabakoff</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of moderate alcohol consumption on the central nervous system</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>1998</year>
+          <volume>22</volume>
+          <fpage>998</fpage>
+          <lpage>1040</lpage>
+          <pub-id pub-id-type="pmid">9726269</pub-id>
+        </citation>
+      </ref>
+      <ref id="R10">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Erwin</surname>
+              <given-names>VG</given-names>
+            </name>
+            <name>
+              <surname>Deitrich</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Genetic selection and characterization of mouse lines for acute functional tolerance to ethanol</article-title>
+          <source>J Pharmacol Exptl Therap</source>
+          <year>1996</year>
+          <volume>279</volume>
+          <fpage>1310</fpage>
+          <lpage>1317</lpage>
+          <pub-id pub-id-type="pmid">8968355</pub-id>
+        </citation>
+      </ref>
+      <ref id="R11">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grant</surname>
+              <given-names>BF</given-names>
+            </name>
+            <name>
+              <surname>Stinson</surname>
+              <given-names>FS</given-names>
+            </name>
+            <name>
+              <surname>Harford</surname>
+              <given-names>TC</given-names>
+            </name>
+          </person-group>
+          <article-title>Age at onset of alcohol use and DSM-IV alcohol abuse and dependence: a 12-year follow-up</article-title>
+          <source>J Subst Abuse</source>
+          <year>2001</year>
+          <volume>13</volume>
+          <issue>4</issue>
+          <fpage>493</fpage>
+          <lpage>505</lpage>
+          <pub-id pub-id-type="pmid">11775078</pub-id>
+        </citation>
+      </ref>
+      <ref id="R12">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grieve</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Littleton</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>Age and strain differences in the rate of development of functional tolerance to ethanol by mice</article-title>
+          <source>J Pharm Pharmacol</source>
+          <year>1979</year>
+          <volume>31</volume>
+          <fpage>696</fpage>
+          <lpage>700</lpage>
+          <pub-id pub-id-type="pmid">41043</pub-id>
+        </citation>
+      </ref>
+      <ref id="R13">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hollstedt</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Olsson</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Rydberg</surname>
+              <given-names>U</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of ethanol on the developing rat. II. Coordination as measured by the tilting-plane test</article-title>
+          <source>Med Bio</source>
+          <year>1980</year>
+          <volume>58</volume>
+          <fpage>164</fpage>
+          <lpage>168</lpage>
+          <pub-id pub-id-type="pmid">7253727</pub-id>
+        </citation>
+      </ref>
+      <ref id="R14">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Insel</surname>
+              <given-names>TR</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>LP</given-names>
+            </name>
+            <name>
+              <surname>Gelhard</surname>
+              <given-names>RE</given-names>
+            </name>
+          </person-group>
+          <article-title>The ontogeny of excitatory amino acid receptors in rat forebrain: I. N-methyl-d-aspartate and quisqualate receptors</article-title>
+          <source>Neuroscience</source>
+          <year>1990</year>
+          <volume>35</volume>
+          <fpage>31</fpage>
+          <lpage>43</lpage>
+          <pub-id pub-id-type="pmid">1972786</pub-id>
+        </citation>
+      </ref>
+      <ref id="R15">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalant</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>LeBlanc</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Gibbins</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Tolerance to, and dependence on, some non-opiate psychotropic drugs</article-title>
+          <source>Pharmacol Rev</source>
+          <year>1971</year>
+          <volume>23</volume>
+          <fpage>135</fpage>
+          <lpage>191</lpage>
+          <pub-id pub-id-type="pmid">4398655</pub-id>
+        </citation>
+      </ref>
+      <ref id="R16">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khanna</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Morato</surname>
+              <given-names>GS</given-names>
+            </name>
+            <name>
+              <surname>Kalant</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Effects of NMDA antagonists, an NMDA agonist, and serotonin depletion on acute tolerance to ethanol</article-title>
+          <source>Pharmacol Biochem Behav</source>
+          <year>2002</year>
+          <volume>72</volume>
+          <fpage>291</fpage>
+          <lpage>298</lpage>
+          <pub-id pub-id-type="pmid">11900799</pub-id>
+        </citation>
+      </ref>
+      <ref id="R17">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krystal</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>D&#x02019;Souza</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Petrakis</surname>
+              <given-names>IL</given-names>
+            </name>
+            <name>
+              <surname>Belger</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Berman</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Charney</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>Abi-Saab</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Madonick</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>NMDA agonists and antagonists as probes of glutamatergic dysfunction and pharmacotherapies in neuropsychiatric disorders</article-title>
+          <source>Harvard Rev Psychiatry</source>
+          <year>1999</year>
+          <volume>7</volume>
+          <fpage>125</fpage>
+          <lpage>143</lpage>
+        </citation>
+      </ref>
+      <ref id="R18">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krystal</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Petrakis</surname>
+              <given-names>IL</given-names>
+            </name>
+            <name>
+              <surname>Krupitsky</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Schutz</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Trevisan</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>D'Souza</surname>
+              <given-names>DC</given-names>
+            </name>
+          </person-group>
+          <article-title>NMDA receptor antagonism and the ethanol intoxication signal: from alcoholism risk to pharmacotherapy</article-title>
+          <source>Ann N Y Acad Sci</source>
+          <year>1003</year>
+          <fpage>176</fpage>
+          <lpage>184</lpage>
+        </citation>
+      </ref>
+      <ref id="R19">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumari</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ticku</surname>
+              <given-names>MK</given-names>
+            </name>
+          </person-group>
+          <article-title>Regulation of NMDA receptors by ethanol</article-title>
+          <source>Prog Drug Res</source>
+          <year>2000</year>
+          <volume>54</volume>
+          <fpage>152</fpage>
+          <lpage>189</lpage>
+          <pub-id pub-id-type="pmid">10857388</pub-id>
+        </citation>
+      </ref>
+      <ref id="R20">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>L&#x000ea;</surname>
+              <given-names>AD</given-names>
+            </name>
+            <name>
+              <surname>Kalant</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Influence of intoxicated practice on the development of acute tolerance to the motor impairment effect of ethanol</article-title>
+          <source>Psychopharmacology</source>
+          <year>1992</year>
+          <volume>106</volume>
+          <fpage>572</fpage>
+          <lpage>576</lpage>
+          <pub-id pub-id-type="pmid">1579630</pub-id>
+        </citation>
+      </ref>
+      <ref id="R21">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>LeBlanc</surname>
+              <given-names>AE</given-names>
+            </name>
+            <name>
+              <surname>Kalant</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Gibbins</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Acute tolerance to ethanol in the rat</article-title>
+          <source>Psychopharmacologia</source>
+          <year>1975</year>
+          <volume>41</volume>
+          <fpage>43</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="pmid">1124268</pub-id>
+        </citation>
+      </ref>
+      <ref id="R22">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Little</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Kuhn</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>WA</given-names>
+            </name>
+            <name>
+              <surname>Swartzwelder</surname>
+              <given-names>HS</given-names>
+            </name>
+          </person-group>
+          <article-title>Differential effects of ethanol in adolescent and adult rats</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>1996</year>
+          <volume>20</volume>
+          <fpage>1346</fpage>
+          <lpage>1351</lpage>
+          <pub-id pub-id-type="pmid">8947309</pub-id>
+        </citation>
+      </ref>
+      <ref id="R23">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>XB</given-names>
+            </name>
+            <name>
+              <surname>Murray</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>EG</given-names>
+            </name>
+          </person-group>
+          <article-title>Switching of NMDA receptor 2A and 2B subunits at thalamic and cortical synapses during early postnatal development</article-title>
+          <source>J Neurosci</source>
+          <year>2004</year>
+          <volume>24</volume>
+          <issue>40</issue>
+          <fpage>8885</fpage>
+          <lpage>8895</lpage>
+          <pub-id pub-id-type="pmid">15470155</pub-id>
+        </citation>
+      </ref>
+      <ref id="R24">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lopez de Armentia</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sah</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Development and subunit composition of synaptic NMDA receptors in the amygdala: NR2B synapses in the adult central amygdala</article-title>
+          <source>J Neurosci</source>
+          <year>2003</year>
+          <volume>23</volume>
+          <issue>17</issue>
+          <fpage>6876</fpage>
+          <lpage>6883</lpage>
+          <pub-id pub-id-type="pmid">12890782</pub-id>
+        </citation>
+      </ref>
+      <ref id="R25">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lumeng</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Waller</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>McBride</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>TK</given-names>
+            </name>
+          </person-group>
+          <article-title>Different sensitivities to ethanol in alcohol-preferring and &#x02013;nonpreferring rats</article-title>
+          <source>Pharmacol Biochem Behav</source>
+          <year>1982</year>
+          <volume>16</volume>
+          <fpage>125</fpage>
+          <lpage>130</lpage>
+          <pub-id pub-id-type="pmid">7199181</pub-id>
+        </citation>
+      </ref>
+      <ref id="R26">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malhotra</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Pinals</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Weingartner</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Sirocco</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Missar</surname>
+              <given-names>CD</given-names>
+            </name>
+            <name>
+              <surname>Pickar</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Breier</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>NMDA receptor function and human cognition: the effects of ketamine in healthy volunteers</article-title>
+          <source>Neuropsychopharmacology</source>
+          <year>1996</year>
+          <volume>14</volume>
+          <fpage>301</fpage>
+          <lpage>307</lpage>
+          <pub-id pub-id-type="pmid">8703299</pub-id>
+        </citation>
+      </ref>
+      <ref id="R27">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Markwiese</surname>
+              <given-names>BJ</given-names>
+            </name>
+            <name>
+              <surname>Acheson</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Levin</surname>
+              <given-names>ED</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>WA</given-names>
+            </name>
+            <name>
+              <surname>Swartzwelder</surname>
+              <given-names>HS</given-names>
+            </name>
+          </person-group>
+          <article-title>Differential effects of ethanol on memory in adolescent and adult rats</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>1998</year>
+          <volume>22</volume>
+          <fpage>416</fpage>
+          <lpage>421</lpage>
+          <pub-id pub-id-type="pmid">9581648</pub-id>
+        </citation>
+      </ref>
+      <ref id="R28">
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mellanby</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Alcohol: Its Absorption Into and Disappearance From the Blood Under Different Conditions</article-title>
+          <source>Special Report Series No 31</source>
+          <year>1919</year>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Medical Research Committee</publisher-name>
+        </citation>
+      </ref>
+      <ref id="R29">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moy</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Duncan</surname>
+              <given-names>GE</given-names>
+            </name>
+            <name>
+              <surname>Knapp</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Breese</surname>
+              <given-names>GR</given-names>
+            </name>
+          </person-group>
+          <article-title>Sensitivity to ethanol across development in rats: Comparison to [3H]zolpidem binding</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>1998</year>
+          <volume>22</volume>
+          <fpage>1485</fpage>
+          <lpage>1492</lpage>
+          <pub-id pub-id-type="pmid">9802533</pub-id>
+        </citation>
+      </ref>
+      <ref id="R30">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nagy</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>The NR2B subtype of NMDA receptor: a potential target for the treatment of alcohol dependence</article-title>
+          <source>Curr Drug Targets CNS Neurol Disord</source>
+          <year>2004</year>
+          <volume>3</volume>
+          <fpage>169</fpage>
+          <lpage>179</lpage>
+          <pub-id pub-id-type="pmid">15180478</pub-id>
+        </citation>
+      </ref>
+      <ref id="R31">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nagy</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Alcohol related changes in regulation of NMDA receptor functions</article-title>
+          <source>Curr Neuropharmacol</source>
+          <year>2008</year>
+          <volume>6</volume>
+          <issue>1</issue>
+          <fpage>39</fpage>
+          <lpage>54</lpage>
+          <pub-id pub-id-type="pmid">19305787</pub-id>
+        </citation>
+      </ref>
+      <ref id="R32">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pohorecky</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Daily dose of ethanol and the development and decay of acute and chronic tolerance and physical dependent in rats</article-title>
+          <source>Pharmacol Biochem Behav</source>
+          <year>1992</year>
+          <volume>42</volume>
+          <fpage>831</fpage>
+          <lpage>842</lpage>
+          <pub-id pub-id-type="pmid">1513866</pub-id>
+        </citation>
+      </ref>
+      <ref id="R33">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ponomarev</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Crabbe</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel method to assess initial sensitivity and acute functional tolerance to hypnotic effects of ethanol</article-title>
+          <source>J Pharmacol Exp Ther</source>
+          <year>2002</year>
+          <volume>302</volume>
+          <fpage>257</fpage>
+          <lpage>263</lpage>
+          <pub-id pub-id-type="pmid">12065725</pub-id>
+        </citation>
+      </ref>
+      <ref id="R34">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Portera-Cailliau</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Price</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>LJ</given-names>
+            </name>
+          </person-group>
+          <article-title>N-methyl-D-aspartate receptor proteins NR2A and NR2B are differentially distributed in the developing rat central nervous system as revealed by subunit-specific antibodies</article-title>
+          <source>J. Neurochem</source>
+          <year>1996</year>
+          <volume>66</volume>
+          <fpage>692</fpage>
+          <lpage>700</lpage>
+          <pub-id pub-id-type="pmid">8592141</pub-id>
+        </citation>
+      </ref>
+      <ref id="R35">
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pruss</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Zagon</surname>
+              <given-names>IS</given-names>
+            </name>
+            <name>
+              <surname>McLaughlin</surname>
+              <given-names>PJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Receptors for glutamate and other excitatory amino acids: a cause for excitement in nervous system development</article-title>
+          <source>Receptors in the Developing Nervous System: Neurotransmitters</source>
+          <year>1993</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Chapman and Hall</publisher-name>
+          <fpage>141</fpage>
+          <lpage>162</lpage>
+        </citation>
+      </ref>
+      <ref id="R36">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Radlow</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Quantitative theory of acute tolerance to alcohol</article-title>
+          <source>Psychopharmacology</source>
+          <year>1994</year>
+          <volume>114</volume>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">7846190</pub-id>
+        </citation>
+      </ref>
+      <ref id="R37">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramirez</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Ontogeny of ethanol-induced motor impairment following acute ethanol: assessment via the negative geotaxis reflex in adolescent and adult rats</article-title>
+          <source>Pharmacol Biochem Behav</source>
+          <year>2010</year>
+          <volume>95</volume>
+          <issue>2</issue>
+          <fpage>242</fpage>
+          <lpage>248</lpage>
+          <pub-id pub-id-type="pmid">20138187</pub-id>
+        </citation>
+      </ref>
+      <ref id="R38">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sanchez-Perez</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Llansola</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Cauli</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Felipo</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Modulation of NMDA receptors in the cerebellum. II. Signaling pathways and physiological modulators regulating NMDA receptor function</article-title>
+          <source>Cerebellum</source>
+          <year>2005</year>
+          <volume>4</volume>
+          <fpage>162</fpage>
+          <lpage>170</lpage>
+          <pub-id pub-id-type="pmid">16147948</pub-id>
+        </citation>
+      </ref>
+      <ref id="R39">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sheng</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Cummings</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Roldan</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Jan</surname>
+              <given-names>YN</given-names>
+            </name>
+            <name>
+              <surname>Jan</surname>
+              <given-names>LY</given-names>
+            </name>
+          </person-group>
+          <article-title>Changing subunit composition of heteromeric NMDA receptors during development of rat cortex</article-title>
+          <source>Nature</source>
+          <year>1994</year>
+          <volume>368</volume>
+          <fpage>144</fpage>
+          <lpage>147</lpage>
+          <pub-id pub-id-type="pmid">8139656</pub-id>
+        </citation>
+      </ref>
+      <ref id="R40">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silveri</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Decreased sensitivity to the hypnotic effects of ethanol early in ontogeny</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>1998</year>
+          <volume>22</volume>
+          <fpage>670</fpage>
+          <lpage>676</lpage>
+          <pub-id pub-id-type="pmid">9622449</pub-id>
+        </citation>
+      </ref>
+      <ref id="R41">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silveri</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Ontogeny of ethanol elimination and ethanol-induce hypothermia</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>2000</year>
+          <volume>20</volume>
+          <fpage>45</fpage>
+          <lpage>53</lpage>
+        </citation>
+      </ref>
+      <ref id="R42">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silveri</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Acute, rapid and chronic tolerance during ontogeny: Observations when equating ethanol perturbation across age</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>2001</year>
+          <volume>25</volume>
+          <fpage>1301</fpage>
+          <lpage>1308</lpage>
+          <pub-id pub-id-type="pmid">11584149</pub-id>
+        </citation>
+      </ref>
+      <ref id="R43">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silveri</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>The effect of NMDA and GABAA pharmacological manipulations on ethanol sensitivity in immature and mature animals</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>2002</year>
+          <volume>26</volume>
+          <fpage>449</fpage>
+          <lpage>456</lpage>
+          <pub-id pub-id-type="pmid">11981119</pub-id>
+        </citation>
+      </ref>
+      <ref id="R44">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silveri</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>The effects of NMDA and GABAA pharmacological manipulations on acute and rapid tolerance to ethanol during ontogeny</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>2004</year>
+          <volume>28</volume>
+          <fpage>884</fpage>
+          <lpage>894</lpage>
+          <pub-id pub-id-type="pmid">15201631</pub-id>
+        </citation>
+      </ref>
+      <ref id="R45">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sircar</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Developmental maturation of the N-methyl-D-aspartic acid receptor channel complex in postnatal rat brain</article-title>
+          <source>Int J Dev Neurosci</source>
+          <year>2000</year>
+          <volume>18</volume>
+          <fpage>121</fpage>
+          <lpage>131</lpage>
+          <pub-id pub-id-type="pmid">10708913</pub-id>
+        </citation>
+      </ref>
+      <ref id="R46">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sircar</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Sircar</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Repeated ethanol treatment in adolescent rats alters cortical NMDA receptor</article-title>
+          <source>Alcohol</source>
+          <year>2006</year>
+          <volume>39</volume>
+          <issue>1</issue>
+          <fpage>51</fpage>
+          <lpage>58</lpage>
+          <pub-id pub-id-type="pmid">16938629</pub-id>
+        </citation>
+      </ref>
+      <ref id="R47">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>The adolescent brain and age-related behavioral manifestations</article-title>
+          <source>Neurosci Biobehav Rev</source>
+          <year>2000</year>
+          <volume>24</volume>
+          <fpage>417</fpage>
+          <lpage>463</lpage>
+          <pub-id pub-id-type="pmid">10817843</pub-id>
+        </citation>
+      </ref>
+      <ref id="R48">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessment of adolescent neurotoxicity: rationale and methodological considerations</article-title>
+          <source>Neurotoxicol Teratol</source>
+          <year>2007</year>
+          <volume>29</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">17222532</pub-id>
+        </citation>
+      </ref>
+      <ref id="R49">
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <source>The behavioral neuroscience of adolescence</source>
+          <year>2009</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>W.W. Norton &#x00026; Company Inc.</publisher-name>
+        </citation>
+      </ref>
+      <ref id="R50">
+        <citation citation-type="book">
+          <collab>Substance Abuse and Mental Health Services Administration</collab>
+          <source>Results from the 2008 National Survey on Drug Use and Health: National Findings</source>
+          <year>2009</year>
+          <publisher-loc>Rockville, MD</publisher-loc>
+          <comment>(Office of Applied Studies, NSDUH Series H-36, HHS Publication No. SMA 09-4434)</comment>
+        </citation>
+      </ref>
+      <ref id="R51">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vallano</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Developmental aspects of NMDA receptor function</article-title>
+          <source>Crit Rev Neurobiol</source>
+          <year>1998</year>
+          <volume>12</volume>
+          <issue>3</issue>
+          <fpage>177</fpage>
+          <lpage>204</lpage>
+          <pub-id pub-id-type="pmid">9847054</pub-id>
+        </citation>
+      </ref>
+      <ref id="R52">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Varlinskaya</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Acute effects of ethanol on social behavior of adolescent and adult rats: role of familiarity of the test situation</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>2002</year>
+          <volume>26</volume>
+          <fpage>1502</fpage>
+          <lpage>1511</lpage>
+          <pub-id pub-id-type="pmid">12394283</pub-id>
+        </citation>
+      </ref>
+      <ref id="R53">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Varlinskaya</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Changes in sensitivity to ethanol-induced social facilitation and social inhibition from early to late adolescence</article-title>
+          <source>Ann N Y Acad Sci</source>
+          <year>2004</year>
+          <volume>1021</volume>
+          <fpage>459</fpage>
+          <lpage>461</lpage>
+          <pub-id pub-id-type="pmid">15251929</pub-id>
+        </citation>
+      </ref>
+      <ref id="R54">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Varlinskaya</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Ontogeny of acute tolerance to ethanol-induced social inhibition in Sprague-Dawley rats</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>2006a</year>
+          <volume>30</volume>
+          <fpage>1833</fpage>
+          <lpage>1844</lpage>
+          <pub-id pub-id-type="pmid">17067347</pub-id>
+        </citation>
+      </ref>
+      <ref id="R55">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Varlinskaya</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Differences in the social consequences of ethanol emerge during the course of adolescence in rats: social facilitation, social inhibition, and anxiolysis</article-title>
+          <source>Dev Psychobiol</source>
+          <year>2006b</year>
+          <volume>48</volume>
+          <fpage>146</fpage>
+          <lpage>161</lpage>
+          <pub-id pub-id-type="pmid">16489593</pub-id>
+        </citation>
+      </ref>
+      <ref id="R56">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vetter</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Doremus-Fitzwater</surname>
+              <given-names>TL</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Time-course of elevated ethanol intake in adolescent relative to adult rats under continuous, voluntary-access conditions</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>2007</year>
+          <volume>31</volume>
+          <fpage>1159</fpage>
+          <lpage>1168</lpage>
+          <pub-id pub-id-type="pmid">17511750</pub-id>
+        </citation>
+      </ref>
+      <ref id="R57">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vetter-O&#x02019;Hagen</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Varlinskaya</surname>
+              <given-names>EI</given-names>
+            </name>
+            <name>
+              <surname>Spear</surname>
+              <given-names>LP</given-names>
+            </name>
+          </person-group>
+          <article-title>Sex differences in ethanol intake and sensitivity to aversive effects during adolescence and adulthood</article-title>
+          <source>Alcohol Alcohol</source>
+          <year>2009</year>
+          <volume>44</volume>
+          <fpage>547</fpage>
+          <lpage>554</lpage>
+          <pub-id pub-id-type="pmid">19767625</pub-id>
+        </citation>
+      </ref>
+      <ref id="R58">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>White</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Truesdale</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Bae</surname>
+              <given-names>JG</given-names>
+            </name>
+            <name>
+              <surname>Ahmad</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>WA</given-names>
+            </name>
+            <name>
+              <surname>Best</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Swartzwelder</surname>
+              <given-names>HS</given-names>
+            </name>
+          </person-group>
+          <article-title>Differential effects of ethanol on motor coordination in adolescent and adult rats</article-title>
+          <source>Pharmacol Biochem Behav</source>
+          <year>2002</year>
+          <volume>73</volume>
+          <fpage>673</fpage>
+          <lpage>677</lpage>
+          <pub-id pub-id-type="pmid">12151043</pub-id>
+        </citation>
+      </ref>
+      <ref id="R59">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Woodward</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Ethanol and NMDA receptor signaling</article-title>
+          <source>Crit Rev Neurobiol</source>
+          <year>2000</year>
+          <volume>14</volume>
+          <fpage>69</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="pmid">11253956</pub-id>
+        </citation>
+      </ref>
+      <ref id="R60">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yamakura</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Mori</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Masaki</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Shimoji</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Mishina</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Different sensitivities of NMDA receptor channel subtypes to non-competitive antagonists</article-title>
+          <source>Neuroreport</source>
+          <year>1993</year>
+          <volume>4</volume>
+          <issue>6</issue>
+          <fpage>687</fpage>
+          <lpage>690</lpage>
+          <pub-id pub-id-type="pmid">8347808</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <sec id="S28" sec-type="display-objects">
+      <title>Figures and Tables</title>
+      <fig id="F1" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p id="P47">Impairment scores (test latency - group mean baseline latency) in adolescent and adult rats pre-exposed to vehicle (0 mg/kg) or ifenprodil (5.0 mg/kg). Bars represent impairment scores; vertical lines above each bar reflect SEMs. Asterisks depict significant changes over time, with impairment significantly greater at 10 min than at 60 min post-ethanol in adolescents regardless of pre-exposure and in adults pre-exposed to vehicle (* p &#x02264; 0.05).</p>
+        </caption>
+        <graphic xlink:href="nihms267212f1"/>
+      </fig>
+      <fig id="F2" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p id="P48">Blood ethanol concentrations (BECs) at 10 and 60 minutes post-ethanol in adolescent and adult animals following vehicle (0 mg/kg) or ifenprodil (5.0 mg/kg). Bars represent BEC; vertical lines above each bar reflect SEMs. BECs were significantly greater at 10 min post-ethanol than at 60 min in both adolescent and adult animals regardless of ifenprodil pre-exposure (* p &#x02264; 0.05).</p>
+        </caption>
+        <graphic xlink:href="nihms267212f2"/>
+      </fig>
+      <fig id="F3" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p id="P49">Impairment/BEC ratios in adolescent and adult animals pre-exposed to vehicle (0 mg/kg) or ifenprodil (5.0 mg/kg). Bars represent impairment/BEC ratios; vertical lines above each bar reflect SEMs. Asterisks depict significant changes over time, with adolescent impairment/BEC ratios significantly smaller 60 min post-ethanol than at 10 min indicating acute tolerance developed in both vehicle and ifenprodil pre-exposed adolescent animals. Unlike adolescents, only adults pre-exposed to vehicle had significantly smaller impairment scores at 60 min than at 10 min post-ethanol (* p &#x02264; 0.05).</p>
+        </caption>
+        <graphic xlink:href="nihms267212f3"/>
+      </fig>
+      <fig id="F4" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p id="P50">Impairment scores (test latency - group mean baseline latency) in adolescent rats pre-exposed to vehicle (0 mg/kg) or ifenprodil (10.0 mg/kg). Bars represent impairment scores; vertical lines above each bar reflect SEMs. At 60 min post-ethanol, adolescents had significantly lower impairment scores than at 10 min post-ethanol regardless of ifenprodil pre-exposure (* p &#x02264; 0.05). However, adolescents pre-exposed to 10.0 mg/kg ifenprodil had significantly higher impairment scores than did vehicle pre-exposed adolescents (&#x02020; p&#x02264; 0.05).</p>
+        </caption>
+        <graphic xlink:href="nihms267212f4"/>
+      </fig>
+      <fig id="F5" position="float">
+        <label>Figure 5</label>
+        <caption>
+          <p id="P51">Blood ethanol concentrations (BECs) over time in adolescent animals following vehicle (0 mg/kg) or ifenprodil (10.0 mg/kg). Bars represent BECs; vertical lines above each bar reflect SEMs. BECs were significantly greater at 10 min post-ethanol than at 60 min in adolescents regardless of ifenprodil pre-exposure (* p &#x02264; 0.05).</p>
+        </caption>
+        <graphic xlink:href="nihms267212f5"/>
+      </fig>
+      <fig id="F6" position="float">
+        <label>Figure 6</label>
+        <caption>
+          <p id="P52">Impairment/BEC ratios in adolescent animals pre-exposed to vehicle (0 mg/kg) or ifenprodil (10.0 mg/kg). Bars represent impairment/BEC ratios; vertical lines above each bar reflect SEMs. Both vehicle and ifenprodil pre-exposed animals demonstrated a significant reduction in impairment/BEC ratios over time when collapsed across ifenprodil dose (* p &#x02264; 0.05). While adolescents pre-exposed to ifenprodil were more impaired overall than those pre-exposed to vehicle (&#x02020; p&#x02264; 0.05).</p>
+        </caption>
+        <graphic xlink:href="nihms267212f6"/>
+      </fig>
+      <table-wrap id="T1" position="float">
+        <label>Table 1</label>
+        <caption>
+          <p id="P53">Acute tolerance to ethanol-induced motor impairment indexed via impairment/BEC ratios.</p>
+        </caption>
+        <table frame="box" rules="cols">
+          <thead>
+            <tr>
+              <th align="left" valign="top" rowspan="1" colspan="1">Experiment 1</th>
+              <th align="left" colspan="2" valign="top" rowspan="1">Impairment/BEC</th>
+              <th align="left" rowspan="1" colspan="1">Slope comparisons:<break/>(veh vs ifen)
+              </th>
+            </tr>
+            <tr>
+              <th align="left" colspan="4" valign="bottom" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+            <tr>
+              <th align="left" valign="top" rowspan="1" colspan="1">Age</th>
+              <th align="left" rowspan="1" colspan="1">
+                <italic>Slope (&#x000b1;SEM)</italic>
+              </th>
+              <th align="left" rowspan="1" colspan="1">
+                <italic>p value</italic>
+              </th>
+              <th align="left" rowspan="1" colspan="1">
+                <italic>p value</italic>
+              </th>
+            </tr>
+            <tr>
+              <th align="left" rowspan="1" colspan="1">Ifenprodil dose (n)</th>
+              <th align="left" rowspan="1" colspan="1"/>
+              <th align="left" rowspan="1" colspan="1"/>
+              <th align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th align="left" colspan="4" valign="bottom" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Adolescent</td>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;0&#x000a0;&#x000a0;&#x000a0;&#x000a0;(17)</td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>&#x02212;0.048</bold> (0.02)
+              </td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>0.02</bold>
+              </td>
+              <td align="left" rowspan="1" colspan="1">0.87</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;5.0 (19)</td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>&#x02212;0.053</bold> (0.02)
+              </td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>0.02</bold>
+              </td>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th align="left" colspan="4" valign="bottom" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Adult</td>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;0&#x000a0;&#x000a0;&#x000a0;&#x000a0;(17)</td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>&#x02212;0.091</bold> (0.01)
+              </td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>&#x0003c; 0.0001</bold>
+              </td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>0.001</bold>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;5.0 (20)</td>
+              <td align="left" rowspan="1" colspan="1">0.011 (0.02)</td>
+              <td align="left" rowspan="1" colspan="1">0.65</td>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th align="left" colspan="4" valign="bottom" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>Experiment 2</bold>
+              </td>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th align="left" colspan="4" valign="bottom" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Adolescent</td>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;0&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;(19)</td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>&#x02212;0.038</bold> (0.02)
+              </td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>0.05</bold>
+              </td>
+              <td align="left" rowspan="1" colspan="1">0.45</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;10.0 (21)</td>
+              <td align="left" rowspan="1" colspan="1">&#x02212;0.019 (0.02)</td>
+              <td align="left" rowspan="1" colspan="1">0.29</td>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="TFN1">
+            <p id="P54">Slopes significantly different from 0 are presented in bold.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="T2" position="float">
+        <label>Table 2</label>
+        <caption>
+          <p id="P55">Acute tolerance to ethanol-induced motor impairment indexed via Radlow&#x02019;s approach.</p>
+        </caption>
+        <table frame="box" rules="cols">
+          <thead>
+            <tr>
+              <th align="left" valign="top" rowspan="1" colspan="1">Experiment 1</th>
+              <th align="left" colspan="2" valign="top" rowspan="1">BEC (% max)- Impairment (% max)</th>
+              <th align="left" rowspan="1" colspan="1">Slope comparisons:<break/>(veh vs ifen)
+              </th>
+            </tr>
+            <tr>
+              <th align="left" colspan="4" valign="bottom" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+            <tr>
+              <th align="left" rowspan="1" colspan="1">Age</th>
+              <th align="left" rowspan="1" colspan="1">
+                <italic>Slope (&#x000b1;SEM)</italic>
+              </th>
+              <th align="left" rowspan="1" colspan="1">
+                <italic>p value</italic>
+              </th>
+              <th align="left" rowspan="1" colspan="1">
+                <italic>p value</italic>
+              </th>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Ifenprodil dose</td>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th align="left" colspan="4" valign="bottom" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Adolescent</td>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;0</td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>1.20</bold> (0.44)
+              </td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>0.02</bold>
+              </td>
+              <td align="left" rowspan="1" colspan="1">0.46</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;5.0</td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>0.81</bold> (0.30)
+              </td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>0.02</bold>
+              </td>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th align="left" colspan="4" valign="bottom" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Adult</td>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;0</td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>1.51</bold> (0.19)
+              </td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>&#x0003c; 0.0001</bold>
+              </td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>0.002</bold>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;5.0</td>
+              <td align="left" rowspan="1" colspan="1">&#x02212;0.20 (0.43)</td>
+              <td align="left" rowspan="1" colspan="1">0.65</td>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th align="left" colspan="4" valign="bottom" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>Experiment 2</bold>
+              </td>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th align="left" colspan="4" valign="bottom" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Adolescent</td>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;0</td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>1.09</bold> (0.46)
+              </td>
+              <td align="left" rowspan="1" colspan="1">
+                <bold>0.03</bold>
+              </td>
+              <td align="left" rowspan="1" colspan="1">0.31</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;10.0</td>
+              <td align="left" rowspan="1" colspan="1">0.51 (0.32)</td>
+              <td align="left" rowspan="1" colspan="1">0.13</td>
+              <td align="left" rowspan="1" colspan="1"/>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn id="TFN2">
+            <p id="P56">Slopes significantly different from 0 are presented in bold.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+  </back>
+</article>
+
+

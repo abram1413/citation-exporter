@@ -19,6 +19,8 @@ import gov.ncbi.pmc.cite.BadParamException;
 import gov.ncbi.pmc.cite.NotFoundException;
 import gov.ncbi.pmc.cite.ServiceException;
 
+
+
 /**
  * This class resolves IDs entered by the user, using the PMC ID Converter
  * API (http://www.ncbi.nlm.nih.gov/pmc/tools/id-converter-api/).  This allows
@@ -32,6 +34,120 @@ import gov.ncbi.pmc.cite.ServiceException;
  * aiid or pmid.  It can be configured to cache those results.
  */
 public class IdResolver {
+
+    /**
+     * This class encapsulates the various options allowed in the constructor
+     * of an IdResolver. It specifies the default values,
+     * and defines a method that can be used to read them from System Properties.
+     */
+    public static class Options {
+        /// When true, caching is enabled
+        private boolean cacheEnabled = false;
+        /// Cache time-to-live, in seconds.
+        private int cacheTtl = 86400;
+        /// The number of entries in the cache.
+        private int cacheSize = 50000;
+        /// URL to the ID converter service.
+        private URL converterUrl = initConverterUrl();
+        /// Additional query string params for the ID converter service
+        private String converterParams =
+            "showaiid=yes&format=json&tool=ctxp&email=pubmedcentral@ncbi.nlm.nih.gov";
+
+        /// This exists in order to catch the checked exception
+        private static URL initConverterUrl() {
+            try {
+                return new URL("https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/");
+            }
+            catch (final MalformedURLException exc) {
+                throw new Error(exc);
+            }
+        }
+
+        public final static Options defaults = new Options();
+
+        /**
+         * Default constructor -- accepts all the default values for options.
+         */
+        public Options() {};
+
+        /**
+         * Constructor. Any of the arguments can be null, in which case the default will be used
+         */
+        public Options(Boolean _cacheIds, Integer _cacheTtl, Integer _cacheSize, URL _converterUrl, String _converterParams) {
+            cacheEnabled = _cacheIds == null ? defaults.cacheEnabled : _cacheIds;
+            cacheTtl = _cacheTtl == null ? defaults.cacheTtl : _cacheTtl;
+            cacheSize = _cacheSize == null ? defaults.cacheSize : _cacheSize;
+            converterUrl = _converterUrl == null ? defaults.converterUrl : _converterUrl;
+            converterParams = _converterParams == null ? defaults.converterParams : _converterParams;
+        }
+
+        public static Options fromSystemProperties()
+            throws MalformedURLException
+        {
+            Options opts = new Options();
+
+            String cacheIdsProp = System.getProperty("id_cache");
+            if (cacheIdsProp != null) opts.cacheEnabled = Boolean.parseBoolean(cacheIdsProp);
+
+            String cacheTtlProp = System.getProperty("id_cache_ttl");
+            if (cacheTtlProp != null) opts.cacheTtl = Integer.parseInt(cacheTtlProp);
+
+            String cacheSizeProp = System.getProperty("id_cache_size");
+            if (cacheSizeProp != null) opts.cacheSize = Integer.parseInt(cacheSizeProp);
+
+            String converterUrlProp = System.getProperty("id_converter_url");
+            if (converterUrlProp != null) opts.converterUrl = new URL(converterUrlProp);
+
+            String converterParamsProp = System.getProperty("id_converter_params");
+            if (converterParamsProp != null) opts.converterParams = converterParamsProp;
+
+            return opts;
+        }
+
+        public boolean isCacheEnabled() {
+            return cacheEnabled;
+        }
+
+        public void setCacheEnabled(boolean cacheEnabled) {
+            this.cacheEnabled = cacheEnabled;
+        }
+
+        public int getCacheTtl() {
+            return cacheTtl;
+        }
+
+        public void setCacheTtl(int cacheTtl) {
+            this.cacheTtl = cacheTtl;
+        }
+
+        public int getCacheSize() {
+            return cacheSize;
+        }
+
+        public void setCacheSize(int cacheSize) {
+            this.cacheSize = cacheSize;
+        }
+
+        public URL getConverterUrl() {
+            return converterUrl;
+        }
+
+        public void setConverterUrl(URL converterUrl) {
+            this.converterUrl = converterUrl;
+        }
+
+        public String getConverterParams() {
+            return converterParams;
+        }
+
+        public void setConverterParams(String converterParams) {
+            this.converterParams = converterParams;
+        }
+    }
+
+    /// The actual options in effect
+    public Options opts = Options.defaults;
+
     /**
      * If caching is enabled, the results returned from the external ID resolver
      * service are cached here.  The keys of this are all of the known CURIEs
@@ -41,57 +157,31 @@ public class IdResolver {
 
     ObjectMapper mapper = new ObjectMapper(); // create once, reuse
 
-    /// Controlled by system property id_cache_ttl (integer in seconds)
-    private int idCacheTtl;
-
-    /// Controlled by system property id_converter_url
-    private String idConverterUrl;
-
-    /// Controlled by system property id_converter_params
-    private String idConverterParams;
-
-    /// Base URL to use for the ID converter.  Combination of idConverterUrl
-    /// and idConverterParams
+    /// The computed base URL of the converter service.
     private String idConverterBase;
 
     private Logger log = LoggerFactory.getLogger(IdResolver.class);
 
     public IdResolver() {
-        // To cache or not to cache?
-        String cacheIdsProp = System.getProperty("cache_ids");
-        if (cacheIdsProp != null ? Boolean.parseBoolean(cacheIdsProp) : false) {
-            String idCacheTtlProp = System.getProperty("id_cache_ttl");
-            idCacheTtl = idCacheTtlProp != null ?
-                    Integer.parseInt(idCacheTtlProp): 86400;
-
-            // Create a new cache
-            int idCacheSize = 50000;
-            log.debug("Instantiating idGlobCache, size = " + idCacheSize +
-                ", time-to-live = " + idCacheTtl);
-            idGlobCache = new KittyCache<String, IdGlob>(50000);
-        }
-
-        String idConverterUrlProp = System.getProperty("id_converter_url");
-        idConverterUrl = idConverterUrlProp != null ? idConverterUrlProp :
-            "https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/";
-        String idConverterParamsProp =
-                System.getProperty("id_converter_params");
-        idConverterParams = idConverterParamsProp != null ?
-            idConverterParamsProp :
-            "showaiid=yes&format=json&tool=ctxp&" +
-            "email=pubmedcentral@ncbi.nlm.nih.gov";
-
-        idConverterBase = idConverterUrl + "?" + idConverterParams + "&";
+        this(null);
     }
 
+    public IdResolver(Options _opts) {
+        if (_opts != null) this.opts = _opts;
+        log.debug("Instantiating idGlobCache, size = " + opts.cacheSize +
+                ", time-to-live = " + opts.cacheTtl);
+        idGlobCache = new KittyCache<>(opts.cacheSize);
+        idConverterBase = opts.converterUrl + "?" + opts.converterParams + "&";
+    }
 
     /**
-     * Resolves a comma-delimited list of IDs into a RequestIdList, that will
-     * include the identifiers of the "wanted" types (by default, aiids).
+     * Resolves a comma-delimited list of IDs into a RequestIdList. Each ID
+     * will be resolved, when possible, to one of the "wanted" types (by
+     * default, aiids). In this form, the type of each input ID is unknown.
      *
-     * @param idStr - comma-delimited list of IDs, from the `ids` query string
-     *   param.
-     * @return an IdSet object, whose idType value is either "pmid" or "aiid".
+     * @param idStr - comma-delimited list of IDs, typically from a user-supplied
+     *   query.
+     * @return a RequestIdList, whose IDs, when possible, will be resolved.
      */
     public RequestIdList resolveIds(String idStr)
             throws BadParamException, ServiceException, NotFoundException
@@ -99,12 +189,23 @@ public class IdResolver {
         return resolveIds(idStr, null);
     }
 
+    /**
+     * Resolves a comma-delimited list of IDs into a RequestIdList. Each ID
+     * will be resolved, when possible, to one of the "wanted" types (by
+     * default, aiids). In this form, the type of each input ID is specified
+     * explicitly.
+     */
     public RequestIdList resolveIds(String idStr, String idType)
             throws BadParamException, ServiceException, NotFoundException
     {
         return resolveIds(idStr, idType, "aiid");
     }
 
+    /**
+     * Resolves a comma-delimited list of IDs into a RequestIdList. Each ID
+     * will be resolved, when possible, to the "wanted" type. In this form,
+     * the type of each input ID is specified explicitly.
+     */
     public RequestIdList resolveIds(String idStr, String idType,
                                     String wantType)
             throws BadParamException, ServiceException, NotFoundException
@@ -113,15 +214,13 @@ public class IdResolver {
     }
 
     /**
-     * Resolves a comma-delimited list of IDs into a ResolvedIdList.
+     * Resolves a comma-delimited list of IDs into a RequestIdList.
      *
-     * @param idStr - comma-delimited list of IDs, from the `ids` query string
-     *   param.
-     * @param idType - optional ID type, from the `idtype` query-string
-     *   parameter. If not null, it must be "pmcid", "pmid", "mid", "doi" or
-     *   "aiid". If it is null, then we try to figure out the type from the
-     *   pattern of the first id in the list.
-     * @return a ResolvedIdList object.  Not all of the items in that list are
+     * @param idStr - comma-delimited list of IDs, typically from a user-supplied
+     *   query.
+     * @param idType - optional ID type. If this is null, the type is inferred
+     *   by matching patterns against the first ID in the list.
+     * @return a RequestIdList object.  Not all of the items in that list are
      *   necessarily resolved.
      */
     public RequestIdList resolveIds(String idStr, String idType,
@@ -133,6 +232,8 @@ public class IdResolver {
 
         // If idType wasn't specified, then we infer it from the form of the
         // first id in the list
+        // FIXME: Why can't every ID have its own type? IOW, If idType==null, why
+        // can't we pattern match against each ID individually?
         if (idType == null) {
             idType = Identifier.matchIdType(originalIdsArray[0]);
         }
@@ -141,7 +242,7 @@ public class IdResolver {
         // pattern, throw an exception.
         for (int i = 0; i < originalIdsArray.length; ++i) {
             String oid = originalIdsArray[i];
-            Identifier cid = new Identifier(idType, oid);
+            Identifier cid = new Identifier(oid, idType);
             RequestId requestId = new RequestId(oid, cid);
             idList.add(requestId);
         }
@@ -266,7 +367,7 @@ public class IdResolver {
             {
                 Identifier newId = null;
                 try {
-                    newId = new Identifier(key, record.get(key).asText());
+                    newId = new Identifier(record.get(key).asText(), key);
                 }
                 catch (BadParamException e) {
                     // If the JSON has a field we don't recognize
@@ -278,7 +379,7 @@ public class IdResolver {
                 if (newId != null) {
                     newGlob.addId(newId);
                     if (idGlobCache != null)
-                        idGlobCache.put(newId.getCurie(), newGlob, idCacheTtl);
+                        idGlobCache.put(newId.getCurie(), newGlob, opts.cacheTtl);
                 }
             }
         }

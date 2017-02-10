@@ -21,9 +21,14 @@ import gov.ncbi.pmc.ids.RequestId;
  * This implementation of the ItemSource produces fake item data for testing.
  * This class uses test files that should be stored in webapp/test.
  *
+ * Each TestItemSource is configured to prefer a particular ID type, which is
+ * a String ("aiid" is the default). This is done by the App object, in response
+ * to the user setting the "item_source_wants_id_type" system property prior to
+ * instantiating the item source.
+ *
  * There are two types of methods here:
  *
- * - `fetch` methods are particular to this test class. The first look to see
+ * - `fetch` methods are particular to this test class. They first look to see
  *   if the file exists in the test directory; and if so, return that. If not,
  *   they throw an exception.
  *
@@ -36,11 +41,56 @@ import gov.ncbi.pmc.ids.RequestId;
 public class TestItemSource extends ItemSource {
     private URL base_url;
     private Logger log = LoggerFactory.getLogger(TestItemSource.class);
+    private String _wantsIdType;
 
-    public TestItemSource(URL base_url) throws Exception {
+    /**
+     * Create a new TestItemSource that prefers IDs of type "aiid" (the
+     * default).
+     */
+    public TestItemSource(URL base_url)
+            throws Exception
+    {
         super();
-        this.base_url = base_url;
+        _init(base_url, null);
+    }
+
+    /**
+     * Create a new TestItemSource, and specify which type of IDs this
+     * prefers.
+     */
+    public TestItemSource(URL base_url, String wantsIdType)
+            throws Exception
+    {
+        super();
+        _init(base_url, wantsIdType);
+
+    }
+
+    private void _init(URL base_url, String wantsIdType) {
         log.debug("Setting base_url to " + base_url);
+        this.base_url = base_url;
+
+        String wants = wantsIdType == null ? "aiid" : wantsIdType;
+        log.debug("And _wantsIdType to " + wants);
+        this._wantsIdType = wants;
+    }
+
+    /**
+     * The preferred ID type for this data source. For this TestItemSource, this is
+     * configurable.
+     * @return String - specifies the preferred ID for this item source.
+     */
+    public String wantsIdType() {
+        return _wantsIdType;
+    }
+
+    /**
+     * Override the default preferred id type.
+     */
+    public String setWantsIdType(String newType) {
+        String oldType = _wantsIdType;
+        _wantsIdType = newType;
+        return oldType;
     }
 
     /**
@@ -62,9 +112,7 @@ public class TestItemSource extends ItemSource {
     public Document fetchItemNxml(RequestId requestId)
         throws BadParamException, NotFoundException, IOException
     {
-        // FIXME:  We could change this so that it checks every type that's
-        // stored in the requestId, but right now it only looks for aiids.
-        Identifier id = requestId.getIdByType("aiid");
+        Identifier id = requestId.getIdByType(this.wantsIdType());
         if (id == null) throw new NotFoundException("Bad id: " + requestId);
 
         URL nxmlUrl = null;
@@ -119,9 +167,7 @@ public class TestItemSource extends ItemSource {
     public Document fetchItemPubOne(RequestId requestId)
         throws BadParamException, NotFoundException, IOException
     {
-        // FIXME:  We could change this so that it checks every type that's
-        // stored in the requestId, but right now it only looks for aiids.
-        Identifier id = requestId.getIdByType("aiid");
+        Identifier id = requestId.getIdByType(this.wantsIdType());
 
         URL url = null;
         try {
@@ -177,7 +223,7 @@ public class TestItemSource extends ItemSource {
     {
         // FIXME:  We could change this so that it checks every type that's
         // stored in the requestId, but right now it only looks for aiids.
-        Identifier id = requestId.getIdByType("aiid");
+        Identifier id = requestId.getIdByType(this.wantsIdType());
 
         String idType = id.getType();
         URL url = new URL(base_url, idType + "/" + id.getValue() + ".json");

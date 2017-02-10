@@ -1,0 +1,2546 @@
+<!-- ArticleInstanceId : 3020069, Path: brjgenprac/61-2011/582/preload/nxml/, Name : bjgp61-e22.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>
+  <?DTDIdentifier.IdentifierType public?>
+  <?SourceDTD.DTDName journalpublishing.dtd?>
+  <?SourceDTD.Version 2.3?>
+  <?ConverterInfo.XSLTName jp2nlmx2.xsl?>
+  <?ConverterInfo.Version 2?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Br J Gen Pract</journal-id>
+      <journal-id journal-id-type="publisher-id">bjgp</journal-id>
+      <journal-id journal-id-type="pmc">brjgenprac</journal-id>
+      <journal-title-group>
+        <journal-title>The British Journal of General Practice</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0960-1643</issn>
+      <issn pub-type="epub">1478-5242</issn>
+      <publisher>
+        <publisher-name>Royal College of General Practitioners</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3399/bjgp11X548938</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Papers - Full-length version</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Primary care characteristics and population-orientated health care across Europe: an observational study</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>van Lieshout</surname>
+            <given-names>Jan</given-names>
+          </name>
+          <degrees>MD</degrees>
+          <role>GP and researcher</role>
+        </contrib>
+        <aff>Scientific Institute for Quality of Healthcare, Radboud University Nijmegen Medical Centre, Nijmegen, the Netherlands</aff>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Goldfracht</surname>
+            <given-names>Margalith</given-names>
+          </name>
+          <role>GP and director</role>
+        </contrib>
+        <aff>Quality Improvement Unit, Medicine Department, Community Section, Clalit Health Services Headquarters, Tel-Aviv, Israel</aff>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Campbell</surname>
+            <given-names>Stephen</given-names>
+          </name>
+          <role>senior research fellow, NPCRDC</role>
+        </contrib>
+        <aff>University of Manchester, Manchester</aff>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ludt</surname>
+            <given-names>Sabine</given-names>
+          </name>
+          <role>MD, GP and researcher</role>
+        </contrib>
+        <aff>University Hospital Heidelberg and Department of General Practice and Health Services Research, Heidelberg, Germany</aff>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wensing</surname>
+            <given-names>Michel</given-names>
+          </name>
+          <role>senior researcher</role>
+        </contrib>
+        <aff>Scientific Institute for Quality of Healthcare, Radboud University Nijmegen Medical Centre, Nijmegen, the Netherlands</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp>
+          <bold>Address for correspondence</bold> Jan van Lieshout, Scientific Institute for Quality of Healthcare, Radboud University Nijmegen Medical Centre, PO Box 9101, 114 IQ healthcare, 6500 HB Nijmegen, the Netherlands. E-mail: <email>j.vanlieshout@iq.umcn.nl</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>27</day>
+        <month>12</month>
+        <year>2010</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <day>01</day>
+        <month>1</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>61</volume>
+      <issue>582</issue>
+      <fpage>e22</fpage>
+      <lpage>e30</lpage>
+      <history>
+        <date date-type="received">
+          <day>23</day>
+          <month>4</month>
+          <year>2010</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>27</day>
+          <month>5</month>
+          <year>2010</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>6</month>
+          <year>2010</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#x000a9; British Journal of General Practice, 2011</copyright-statement>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>The number of patients with chronic diseases is increasing which poses a challenge to healthcare organisations. A proactive, structured, and population-orientated approach is needed: the chronic care model (CCM) provides such a framework.</p>
+        </sec>
+        <sec>
+          <title>Aim</title>
+          <p>To assess organisational conditions for providing structured chronic care according to the CCM across different healthcare systems.</p>
+        </sec>
+        <sec>
+          <title>Design of study</title>
+          <p>International observational study.</p>
+        </sec>
+        <sec>
+          <title>Setting</title>
+          <p>A stratified sample of 315 primary care practices in 10 European countries and Israel in 2008 and 2009.</p>
+        </sec>
+        <sec>
+          <title>Method</title>
+          <p>Practice questionnaires and interviews. Outcome measures were mean practice scores on CCM domains per country, as a percentage of the maximum score, and the influence of practice size and urbanisation on these scores.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>Practice size showed large differences with the largest practices in Spain, England, Finland, and Israel. These countries, with a strong primary care orientation, had most physicians and staff involved per practice. The CCM domains &#x02018;clinical information systems&#x02019; and &#x02018;decision support&#x02019; had total practice means of 90%; other domains scored about 50%. Spain and England scored above average on almost all domains. Practice size and urbanisation had little impact.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>Characteristics for chronic care delivery differed for most CCM domains. The most common characteristics related to computerisation, providing a good starting point and high potential everywhere. All countries showed room for improvement. Further research should focus on relations between practice characteristics, organisational features, including health system and primary care orientation, and outcomes. Primary care seems suited for chronic care delivery; however, a stronger primary care was associated with better scores.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>cross-sectional studies</kwd>
+        <kwd>family practice</kwd>
+        <kwd>health services research</kwd>
+        <kwd>long-term care</kwd>
+        <kwd>primary health care</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="">
+      <title>INTRODUCTION</title>
+      <p>Ageing populations, effective health technologies, and poor lifestyle have contributed to the increasing number of patients with chronic diseases. Comprehensive and coordinated management of chronic disease is a major challenge for healthcare systems, covering the full range of health care from prevention and early diagnosis to treatment of established disease. A proactive, structured and population-orientated approach is needed, with important implications for the organisation of health care. Two widely accepted frameworks on the organisation of chronic care and prevention are the chronic care model (CCM),<xref ref-type="bibr" rid="b1">1</xref> and the patient-centred medical home (PCMH).<xref ref-type="bibr" rid="b2">2</xref> In the CCM, outcomes of disease management are seen as the result of interaction between a proactive practice team and an active patient. The CCM seeks to coordinate activities within primary care by fostering more productive interactions between trained proactive care teams and well-informed, motivated patients.<xref ref-type="bibr" rid="b3">3</xref> The six key elements of the CCM are &#x02018;community resources and policies&#x02019;, &#x02018;healthcare organisation&#x02019;, &#x02018;self-management support&#x02019;, &#x02018;delivery system design&#x02019;, &#x02018;decision support&#x02019;, and &#x02018;clinical information systems&#x02019; for further explanation see <xref ref-type="boxed-text" rid="bx1">Box 1</xref>. The key concepts of the CCM are also used for preventive programmes (the expanded CCM).<xref ref-type="bibr" rid="b4">4</xref> From studies conducted in the US and in other European, healthcare systems, there is evidence that the CCM improves process and health outcomes for patients with chronic illnesses.<xref ref-type="bibr" rid="b5">5</xref>&#x02013;<xref ref-type="bibr" rid="b7">7</xref> The medical home is an organisational framework that evolved into the patient-centered medical home (PCMH),<xref ref-type="bibr" rid="b8">8</xref> also adopted by professional organisations such as the American Academy of Family Physicians. While lacking a shared vocabulary,<xref ref-type="bibr" rid="b9">9</xref> the PCMH model combines traditional primary care core values such as continuity, coordination, and comprehensiveness, and is predicated on patients having enhanced access to a personal physician.<xref ref-type="bibr" rid="b8">8</xref> Implementation of models such as CCM and PCMH in routine healthcare delivery provides substantial challenges.</p>
+      <boxed-text id="bx1" position="float">
+        <sec>
+          <title>Box 1 Features of the chronic care model</title>
+          <p>
+            <bold>Community resources and policies</bold>
+          </p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Provider organisations are linked to community-based resources, for example, exercise programmes, senior centres, and self-help groups.</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>Healthcare organisation</bold>
+          </p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Chronic care is seen as a priority, otherwise innovation will not take place.</p>
+            </list-item>
+            <list-item>
+              <p>Reimbursement of the healthcare organisation has a major impact on chronic care improvements; increasing revenues or reducing expenses will support a reimbursement system.</p>
+            </list-item>
+            <list-item>
+              <p>Chronic care quality needs to be rewarded by purchasers and insurers to sustain improvements.</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>Self-management support</bold>
+          </p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Patients themselves become the principal caregivers.</p>
+            </list-item>
+            <list-item>
+              <p>Most patients can learn to manage their illnesses, and substantial segments of that management &#x02013; diet, exercise, self measurement, and medication use &#x02013; are under the direct control of the patient.</p>
+            </list-item>
+            <list-item>
+              <p>Self-management support involves collaboratively helping patients and their families acquire the skills and confidence to manage their chronic illness, providing self-management tools, and routinely assessing problems and accomplishments.</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>Delivery system design</bold>
+          </p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Planned management of chronic conditions is separated from acute care.</p>
+            </list-item>
+            <list-item>
+              <p>Non-physicians support patient self-management, arrange for routine periodic tasks, and ensure appropriate follow-up.</p>
+            </list-item>
+            <list-item>
+              <p>Planned visits are an important feature of practice redesign.</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>Decision support</bold>
+          </p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Evidence-based clinical practice guidelines provide standards for optimal chronic care and should be integrated into daily practice through reminders.</p>
+            </list-item>
+            <list-item>
+              <p>Specialist expertise is available and does not always require full specialty referral.</p>
+            </list-item>
+            <list-item>
+              <p>Guidelines are reinforced by educational sessions for practice teams.</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>Clinical information systems</bold>
+          </p>
+          <list list-type="bullet">
+            <list-item>
+              <p>Registries, a central feature of the chronic care model, are lists of all patients with a particular chronic condition on an organisation's or physician's panel.</p>
+            </list-item>
+            <list-item>
+              <p>Reminder systems help primary care teams comply with practice guidelines.</p>
+            </list-item>
+            <list-item>
+              <p>Feedback to physicians shows how each is performing on chronic illness measures.</p>
+            </list-item>
+            <list-item>
+              <p>Registries are used to plan individual patient care and conduct population-based care.</p>
+            </list-item>
+          </list>
+        </sec>
+      </boxed-text>
+      <boxed-text position="float">
+        <caption>
+          <title>How this fits in</title>
+        </caption>
+        <p>A proactive, structured and population-orientated approach is needed to manage the expanding group of patients with chronic diseases. The chronic care model (CCM) provides such a framework. An up-to-date overview of practice staff composition and organisational characteristics in general practices across Europe is presented. Working according to the CCM is possible in general practice but needs extra effort, especially in countries with a weak primary care organisation.</p>
+      </boxed-text>
+      <p>Depending on the healthcare system, various healthcare providers can deliver chronic care according to the CCM, including public health organisations, primary care groups, and hospital specialists. The role of primary care varies across countries and there are differences between the primary care quality of the healthcare organisation in Europe and worldwide.<xref ref-type="bibr" rid="b10">10</xref>,<xref ref-type="bibr" rid="b11">11</xref> Some countries, like the UK and Spain, have a strong primary care organisation with, for instance, all patients registered with a general practice as gatekeeper to specialist care. In other countries like Germany and France, patients are not registered and can directly visit ambulatory specialists. Primary care practices vary considerably with respect to their organisational capacity to provide structured chronic care. Examples of variation are the presence of nurses and other non-physicians in the practice team,<xref ref-type="bibr" rid="b12">12</xref> and practice size.<xref ref-type="bibr" rid="b13">13</xref> So, characteristics of the healthcare system such as strength of primary care and practice characteristics determine the primary care capacity to provide comprehensive structured chronic care. Many countries have nationwide programmes to strengthen primary care for chronic conditions, such as the Quality and Outcomes Framework in the UK, and disease-management programmes in Germany.<xref ref-type="bibr" rid="b14">14</xref> The aim of this study was to document the organisational characteristics of primary care practices in 10 countries in Europe and in Israel, to assess the organisational conditions for providing structured chronic care according to the six key elements of the CCM across different healthcare systems.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>METHOD</title>
+      <p>The European Practice Assessment Cardiovascular project (EPA Cardio) was an international observational study in primary care in 2008 and 2009.<xref ref-type="bibr" rid="b15">15</xref> In this project, indicators for cardiovascular risk management were developed, instruments for the study were developed and piloted, and a large observational study was performed (Sludt <italic>et al</italic>, 2011, unpublished data).<xref ref-type="bibr" rid="b16">16</xref>&#x02013;<xref ref-type="bibr" rid="b17">17</xref> Countries included were Austria, Belgium, England, Finland, France, Germany, Israel, the Netherlands, Slovenia, Spain, and Switzerland.</p>
+      <p>In each country, the aim was to include stratified random samples of 36 practices, representing the national situation using two stratification factors: practice size and urbanisation. Practice size was defined as &#x02018;small&#x02019; with up to two full-time equivalent GPs and &#x02018;large&#x02019; with more than two full-time equivalent GPs; urbanisation was defined as &#x02018;rural&#x02019; for towns with &#x0003c;100 000 inhabitants and &#x02018;urban&#x02019; for cities with &#x0003e;100 000 inhabitants. Country project partners were instructed to develop additional stratification criteria for practice size and urbanisation, particularly if some cells in the national stratification table were empty. Practices were to be recruited from national or regional lists, with stratification being taken into account.</p>
+      <p>This article focuses on the organisational characteristics of the practices, collected by written questionnaires and telephone interviews with the participating GP per practice. Questions on practice organisation were derived from the previously validated EPA instrument.<xref ref-type="bibr" rid="b18">18</xref> The questions in the domain &#x02018;community resources and policies&#x02019; were derived from the original EPA Cardio indicator list.<xref ref-type="bibr" rid="b16">16</xref> All questions were answered by ticking a box with &#x02018;yes&#x02019;, &#x02018;no&#x02019;, or &#x02018;not applicable&#x02019;. The specific questions have been listed in <xref ref-type="boxed-text" rid="bx2">Box 2</xref>.</p>
+      <boxed-text id="bx2" position="float">
+        <sec>
+          <title>Box 2 Questions in questionnaire and interview ordered by CCM domains</title>
+          <p>
+            <bold>Community resources and policies: community participation</bold>
+          </p>
+          <list list-type="order">
+            <list-item>
+              <p>Does the practice participate in public healthcare programmes on lifestyle (physical exercise, stop smoking)?</p>
+            </list-item>
+            <list-item>
+              <p>Did nurses take part in education about cardiovascular disease risk factors (for example, diet, exercise, smoking) in schools?</p>
+            </list-item>
+            <list-item>
+              <p>Did GPs take part in local/community campaigns or actions on cardiovascular disease risk prevention (for example, stop smoking campaigns and fun-runs)?</p>
+            </list-item>
+            <list-item>
+              <p>Did nurses take part in local/community campaigns or actions on cardiovascular disease risk prevention (for example, stop smoking campaigns and fun-runs)?</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>Health system &#x02013; organisation of health care</bold>
+          </p>
+          <list list-type="order">
+            <list-item>
+              <p>Does the practice have a procedure for the management of patient information in relation to detailed examination results and the documentation of measures that were taken (for example, blood examinations)?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice have a procedure for the management of patient information in relation to the review of detailed examination results by the doctor (in terms of outgoing needs)?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice use a system for reviewing medication prescribed to individual patients on a regular basis?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice produce an annual report?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice produce a quality report?</p>
+            </list-item>
+            <list-item>
+              <p>Has the practice undertaken at least one clinical audit in the last 12 months?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice have a critical incident register?</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>Self-management support</bold>
+          </p>
+          <list list-type="order">
+            <list-item>
+              <p>Are there information leaflets about cardiovascular disease (for example, coronary heart disease [CHD], stroke,</p>
+            </list-item>
+            <list-item>
+              <p>hypertension, and stop smoking) available at the practice for patients to take home or read in the practice?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice have an up-to-date directory of prevention activities/organisations available locally (for example, gyms, walking group, and weight-watchers)?</p>
+            </list-item>
+            <list-item>
+              <p>Do you offer regularly written information on lifestyle?</p>
+            </list-item>
+            <list-item>
+              <p>Do you regularly offer advice about websites for education on health risks or healthy lifestyle?</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>Delivery system design</bold>
+          </p>
+          <p>Practice-led contact for patient groups</p>
+          <list list-type="order">
+            <list-item>
+              <p>Does the practice use a system for recalling patients with cardiovascular diseases?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice use a system for recalling patients with diabetes?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice use a system for recalling patients with asthma/chronic obstructive pulmonary disease?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice use a system for recalling patients with hypertension?</p>
+            </list-item>
+          </list>
+          <p>Practice-led contact for prevention</p>
+          <list list-type="order">
+            <list-item>
+              <p>Does the practice use a system for recalling populations at risk for preventive care regarding cardiovascular diseases?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice use a system for recalling populations at risk for preventive care regarding influenza?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice use a system for recalling populations at risk for preventive care regarding cervical screening?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice use a system for recalling populations at risk for preventive care regarding breast cancer screening?</p>
+            </list-item>
+          </list>
+          <p>Attendance rates for preventive activities</p>
+          <list list-type="order">
+            <list-item>
+              <p>Does the practice have the attendance rate for cervical screening?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice have the attendance rate for influenza vaccination?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice have the attendance rate for breast cancer screening?</p>
+            </list-item>
+          </list>
+          <p>Preventive procedures</p>
+          <list list-type="order">
+            <list-item>
+              <p>Does the practice have a procedure for prevention of pressure sores?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice have a procedure for prevention of osteoporosis?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice have a procedure for using folic acid by women who are pregnant or want to get pregnant?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice have a procedure for smoking cessation (for example, with the minimal intervention strategy)?</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>Decision support</bold>
+          </p>
+          <list list-type="order">
+            <list-item>
+              <p>Do the practice doctors have direct access to medical guidelines (either on paper or electronic) in their treatment rooms?</p>
+            </list-item>
+            <list-item>
+              <p>Do the practice doctors have direct access to (peer-reviewed) medical journals (either on paper or electronic)?</p>
+            </list-item>
+            <list-item>
+              <p>Do the practice doctors have direct access to literature data banks such as Medline/Pubmed or Cochrane?</p>
+            </list-item>
+          </list>
+          <p>
+            <bold>Clinical information systems</bold>
+          </p>
+          <list list-type="order">
+            <list-item>
+              <p>Do you have internet access?</p>
+            </list-item>
+            <list-item>
+              <p>Do you have e-mail access in the practice?</p>
+            </list-item>
+            <list-item>
+              <p>Are the computers with internet access outfitted with anti-virus software?</p>
+            </list-item>
+            <list-item>
+              <p>Is the access to the practice computers protected, in that a user name and password have to be entered?</p>
+            </list-item>
+            <list-item>
+              <p>Does the practice use a computer-supported patient file system?</p>
+            </list-item>
+            <list-item>
+              <p>Is the computer used for creating medication prescriptions?</p>
+            </list-item>
+          </list>
+        </sec>
+      </boxed-text>
+      <p>In this study, the items were categorised post hoc into the CCM domains.<xref ref-type="bibr" rid="b3">3</xref> The key domains are &#x02018;community resources and policies&#x02019;, &#x02018;healthcare organisation&#x02019;, &#x02018;self-management support&#x02019;, &#x02018;delivery system design&#x02019;, &#x02018;decision support&#x02019;, and &#x02018;clinical information systems&#x02019;. In the domain &#x02018;delivery system design&#x02019;, four subdomains were formed: &#x02018;practice-led contact for patient groups&#x02019;, &#x02018;practice-led contact for prevention&#x02019;, &#x02018;attendance rates for preventive activities&#x02019;, and &#x02018;preventive procedures&#x02019;. The mean practice scores on each domain per country were determined as a percentage of the maximum score on that domain, with the standard deviation as a measure of the variation within the countries. All questions were formulated positively, with &#x02018;yes&#x02019; indicating the presence of a characteristic. All questions were scored dichotomously, answered as either &#x02018;yes&#x02019;, or &#x02018;no&#x02019; &#x02013; consisting of: &#x02018;no&#x02019;, &#x02018;missing value&#x02019;, and &#x02018;not applicable&#x02019;.</p>
+      <p>In the questionnaire, responders were asked about the numbers of patients in their practice. In countries without patients listed or registered within a practice, the number of different patients attending the practice each year was taken as practice population size. Furthermore, questions about the practice staff were included.</p>
+      <p>Data analysis mainly consisted of descriptive statistics. In addition, the influence of practice size and urbanisation of practice area on the presence of CCM features was explored using random coefficient regression modelling, with practices being nested in countries, using SPSS (version 16). The model included practice size (with full-time equivalent GPs as a continuous variable), urbanisation, and their interaction as independent factors.</p>
+    </sec>
+    <sec sec-type="">
+      <title>RESULTS</title>
+      <p>
+        <xref ref-type="table" rid="tbl1">Table 1</xref> shows the practice numbers included per country according to the preset stratification. A total of 315 practices were included (80% of the target sample). All countries worked with a sample from a list of practices and considered the stratification, with the exception of Austria and Switzerland where a personal approach was used to recruit practices. In Belgium, additionally to practice recruitment from the list, four practices contacted personally were included. In France the list consisted of 1270 GPs from a network; in Spain the list consisted of all practices in the Catalonian Health Organisation. All other countries used a regional or national list. Four countries made extra strata to fit their sample more closely to the national situation; these data are not in <xref ref-type="table" rid="tbl2">Table 2</xref>. In England most practices are &#x02018;large&#x02019; considering the study definition, so this group was split up into more or less than four full-time equivalent GPs. In the Netherlands, on the other hand, a majority of practices is &#x02018;small&#x02019;. This stratum was differentiated into single-handed practices and up to two full-time equivalent GPs. In Germany and Slovenia, the urbanisation had a stratum for practices in towns with &#x0003c;30 000 inhabitants.
+      </p>
+      <table-wrap id="tbl1" position="float">
+        <label>Table 1</label>
+        <caption>
+          <p>Number of primary care practices as stratified per country and totals</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th rowspan="1" colspan="1"/>
+              <th colspan="2" align="center" rowspan="1">&#x02018;Rural&#x02019; (including towns with &#x0003c;100 000 inhabitants)</th>
+              <th colspan="2" align="center" rowspan="1">&#x02018;Urban&#x02019; (cities with &#x0003e;100 000 inhabitants)</th>
+              <th rowspan="1" colspan="1"/>
+              <th rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th rowspan="1" colspan="1"/>
+              <th colspan="2" align="center" rowspan="1">
+                <hr/>
+              </th>
+              <th colspan="2" align="center" rowspan="1">
+                <hr/>
+              </th>
+              <th rowspan="1" colspan="1"/>
+              <th rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th rowspan="1" colspan="1"/>
+              <th align="center" rowspan="1" colspan="1">&#x02019;Small&#x02019; &#x02264;2 FTE GPs</th>
+              <th align="center" rowspan="1" colspan="1">&#x02019;Large&#x02019; &#x0003e;2 FTE GPs</th>
+              <th align="center" rowspan="1" colspan="1">&#x02019;Small&#x02019; &#x02264;2 FTE GPs</th>
+              <th align="center" rowspan="1" colspan="1">&#x02019;Large&#x02019; &#x0003e;2 FTE GPs</th>
+              <th align="center" rowspan="1" colspan="1">Data on practice size or urbanisation missing</th>
+              <th align="center" rowspan="1" colspan="1">Total number of practices</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Austria</td>
+              <td align="center" rowspan="1" colspan="1">20</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">11</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">31</td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Belgium</td>
+              <td align="center" rowspan="1" colspan="1">13</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+              <td align="center" rowspan="1" colspan="1">2</td>
+              <td align="center" rowspan="1" colspan="1">1</td>
+              <td align="center" rowspan="1" colspan="1">1</td>
+              <td align="center" rowspan="1" colspan="1">24</td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">England</td>
+              <td align="center" rowspan="1" colspan="1">1</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+              <td align="center" rowspan="1" colspan="1">10</td>
+              <td align="center" rowspan="1" colspan="1">16</td>
+              <td align="center" rowspan="1" colspan="1">2</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Finland</td>
+              <td align="center" rowspan="1" colspan="1">1</td>
+              <td align="center" rowspan="1" colspan="1">3</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">3</td>
+              <td align="center" rowspan="1" colspan="1">2</td>
+              <td align="center" rowspan="1" colspan="1">9</td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">France</td>
+              <td align="center" rowspan="1" colspan="1">16</td>
+              <td align="center" rowspan="1" colspan="1">5</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+              <td align="center" rowspan="1" colspan="1">2</td>
+              <td align="center" rowspan="1" colspan="1">31</td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Germany</td>
+              <td align="center" rowspan="1" colspan="1">13</td>
+              <td align="center" rowspan="1" colspan="1">1</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">3</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Israel</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+              <td align="center" rowspan="1" colspan="1">9</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+              <td align="center" rowspan="1" colspan="1">8</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Netherlands</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+              <td align="center" rowspan="1" colspan="1">1</td>
+              <td align="center" rowspan="1" colspan="1">9</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Slovenia</td>
+              <td align="center" rowspan="1" colspan="1">18</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+              <td align="center" rowspan="1" colspan="1">5</td>
+              <td align="center" rowspan="1" colspan="1">1</td>
+              <td align="center" rowspan="1" colspan="1">5</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Spain</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">15</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Switzerland</td>
+              <td align="center" rowspan="1" colspan="1">17</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+            </tr>
+            <tr>
+              <td colspan="7" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Totals</td>
+              <td align="center" rowspan="1" colspan="1">128</td>
+              <td align="center" rowspan="1" colspan="1">60</td>
+              <td align="center" rowspan="1" colspan="1">52</td>
+              <td align="center" rowspan="1" colspan="1">52</td>
+              <td align="center" rowspan="1" colspan="1">23</td>
+              <td align="center" rowspan="1" colspan="1">315</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>FTE = full-time equivalent.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="tbl2" position="float">
+        <label>Table 2</label>
+        <caption>
+          <p>Mean practice population size and staff composition per country and totals</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" rowspan="1" colspan="1">ID country</th>
+              <th align="center" rowspan="1" colspan="1">Practice population size</th>
+              <th align="center" rowspan="1" colspan="1">FTE GPs</th>
+              <th align="center" rowspan="1" colspan="1">FTE nurse</th>
+              <th align="center" rowspan="1" colspan="1">FTE practice assistants with clinical tasks</th>
+              <th align="center" rowspan="1" colspan="1">FTE practice assistants without clinical tasks</th>
+              <th align="center" rowspan="1" colspan="1">FTE practice manager</th>
+              <th align="center" rowspan="1" colspan="1">FTE other staff</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">Austria</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">2943<xref ref-type="table-fn" rid="tf2-1">a</xref></td>
+              <td align="center" rowspan="1" colspan="1">1.00</td>
+              <td align="center" rowspan="1" colspan="1">1.83</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">29</td>
+              <td align="center" rowspan="1" colspan="1">31</td>
+              <td align="center" rowspan="1" colspan="1">31</td>
+              <td align="center" rowspan="1" colspan="1">31</td>
+              <td align="center" rowspan="1" colspan="1">31</td>
+              <td align="center" rowspan="1" colspan="1">31</td>
+              <td align="center" rowspan="1" colspan="1">31</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">1307</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+              <td align="center" rowspan="1" colspan="1">0.50</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">Belgium</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">2884</td>
+              <td align="center" rowspan="1" colspan="1">2.43</td>
+              <td align="center" rowspan="1" colspan="1">0.09</td>
+              <td align="center" rowspan="1" colspan="1">0.45</td>
+              <td align="center" rowspan="1" colspan="1">0.46</td>
+              <td align="center" rowspan="1" colspan="1">0.14</td>
+              <td align="center" rowspan="1" colspan="1">0.59</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">24</td>
+              <td align="center" rowspan="1" colspan="1">23</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">2192</td>
+              <td align="center" rowspan="1" colspan="1">1.75</td>
+              <td align="center" rowspan="1" colspan="1">0.29</td>
+              <td align="center" rowspan="1" colspan="1">0.80</td>
+              <td align="center" rowspan="1" colspan="1">0.63</td>
+              <td align="center" rowspan="1" colspan="1">0.35</td>
+              <td align="center" rowspan="1" colspan="1">1.03</td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">England</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">6573</td>
+              <td align="center" rowspan="1" colspan="1">3.78</td>
+              <td align="center" rowspan="1" colspan="1">2.08</td>
+              <td align="center" rowspan="1" colspan="1">0.93</td>
+              <td align="center" rowspan="1" colspan="1">5.33</td>
+              <td align="center" rowspan="1" colspan="1">1.10</td>
+              <td align="center" rowspan="1" colspan="1">0.26</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">32</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+              <td align="center" rowspan="1" colspan="1">25</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">3655</td>
+              <td align="center" rowspan="1" colspan="1">2.28</td>
+              <td align="center" rowspan="1" colspan="1">1.26</td>
+              <td align="center" rowspan="1" colspan="1">1.29</td>
+              <td align="center" rowspan="1" colspan="1">2.40</td>
+              <td align="center" rowspan="1" colspan="1">0.43</td>
+              <td align="center" rowspan="1" colspan="1">0.70</td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">Finland</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">23 750</td>
+              <td align="center" rowspan="1" colspan="1">11.71</td>
+              <td align="center" rowspan="1" colspan="1">9.29</td>
+              <td align="center" rowspan="1" colspan="1">4.71</td>
+              <td align="center" rowspan="1" colspan="1">4.00</td>
+              <td align="center" rowspan="1" colspan="1">1.86</td>
+              <td align="center" rowspan="1" colspan="1">1.14</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">2</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">18 031</td>
+              <td align="center" rowspan="1" colspan="1">11.51</td>
+              <td align="center" rowspan="1" colspan="1">8.77</td>
+              <td align="center" rowspan="1" colspan="1">5.74</td>
+              <td align="center" rowspan="1" colspan="1">4.36</td>
+              <td align="center" rowspan="1" colspan="1">4.49</td>
+              <td align="center" rowspan="1" colspan="1">1.86</td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">France</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">3096</td>
+              <td align="center" rowspan="1" colspan="1">2.34</td>
+              <td align="center" rowspan="1" colspan="1">0.05</td>
+              <td align="center" rowspan="1" colspan="1">0.05</td>
+              <td align="center" rowspan="1" colspan="1">0.78</td>
+              <td align="center" rowspan="1" colspan="1">0.15</td>
+              <td align="center" rowspan="1" colspan="1">0.29</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">15</td>
+              <td align="center" rowspan="1" colspan="1">29</td>
+              <td align="center" rowspan="1" colspan="1">20</td>
+              <td align="center" rowspan="1" colspan="1">20</td>
+              <td align="center" rowspan="1" colspan="1">20</td>
+              <td align="center" rowspan="1" colspan="1">20</td>
+              <td align="center" rowspan="1" colspan="1">20</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">2734</td>
+              <td align="center" rowspan="1" colspan="1">1.88</td>
+              <td align="center" rowspan="1" colspan="1">0.22</td>
+              <td align="center" rowspan="1" colspan="1">0.22</td>
+              <td align="center" rowspan="1" colspan="1">1.08</td>
+              <td align="center" rowspan="1" colspan="1">0.37</td>
+              <td align="center" rowspan="1" colspan="1">0.72</td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">Germany</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">3587<xref ref-type="table-fn" rid="tf2-1">a</xref></td>
+              <td align="center" rowspan="1" colspan="1">1.31</td>
+              <td align="center" rowspan="1" colspan="1">2.28</td>
+              <td align="center" rowspan="1" colspan="1">0.03</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+              <td align="center" rowspan="1" colspan="1">0.03</td>
+              <td align="center" rowspan="1" colspan="1">0.09</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">17</td>
+              <td align="center" rowspan="1" colspan="1">19</td>
+              <td align="center" rowspan="1" colspan="1">19</td>
+              <td align="center" rowspan="1" colspan="1">19</td>
+              <td align="center" rowspan="1" colspan="1">19</td>
+              <td align="center" rowspan="1" colspan="1">19</td>
+              <td align="center" rowspan="1" colspan="1">19</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">2129</td>
+              <td align="center" rowspan="1" colspan="1">0.57</td>
+              <td align="center" rowspan="1" colspan="1">1.13</td>
+              <td align="center" rowspan="1" colspan="1">0.11</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+              <td align="center" rowspan="1" colspan="1">0.11</td>
+              <td align="center" rowspan="1" colspan="1">0.19</td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">Israel</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">5263</td>
+              <td align="center" rowspan="1" colspan="1">3.43</td>
+              <td align="center" rowspan="1" colspan="1">2.62</td>
+              <td align="center" rowspan="1" colspan="1">0.04</td>
+              <td align="center" rowspan="1" colspan="1">1.47</td>
+              <td align="center" rowspan="1" colspan="1">0.81</td>
+              <td align="center" rowspan="1" colspan="1">4.12</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">28</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">4515</td>
+              <td align="center" rowspan="1" colspan="1">3.03</td>
+              <td align="center" rowspan="1" colspan="1">1.73</td>
+              <td align="center" rowspan="1" colspan="1">0.19</td>
+              <td align="center" rowspan="1" colspan="1">1.41</td>
+              <td align="center" rowspan="1" colspan="1">0.38</td>
+              <td align="center" rowspan="1" colspan="1">4.11</td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">Netherlands</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">3169</td>
+              <td align="center" rowspan="1" colspan="1">1.45</td>
+              <td align="center" rowspan="1" colspan="1">0.42</td>
+              <td align="center" rowspan="1" colspan="1">1.12</td>
+              <td align="center" rowspan="1" colspan="1">0.34</td>
+              <td align="center" rowspan="1" colspan="1">0.07</td>
+              <td align="center" rowspan="1" colspan="1">0.12</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">32</td>
+              <td align="center" rowspan="1" colspan="1">32</td>
+              <td align="center" rowspan="1" colspan="1">32</td>
+              <td align="center" rowspan="1" colspan="1">32</td>
+              <td align="center" rowspan="1" colspan="1">32</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">1200</td>
+              <td align="center" rowspan="1" colspan="1">0.75</td>
+              <td align="center" rowspan="1" colspan="1">0.45</td>
+              <td align="center" rowspan="1" colspan="1">0.55</td>
+              <td align="center" rowspan="1" colspan="1">0.63</td>
+              <td align="center" rowspan="1" colspan="1">0.22</td>
+              <td align="center" rowspan="1" colspan="1">0.38</td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">Slovenia</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">2059</td>
+              <td align="center" rowspan="1" colspan="1">2.32</td>
+              <td align="center" rowspan="1" colspan="1">2.97</td>
+              <td align="center" rowspan="1" colspan="1">0.09</td>
+              <td align="center" rowspan="1" colspan="1">0.13</td>
+              <td align="center" rowspan="1" colspan="1">0.37</td>
+              <td align="center" rowspan="1" colspan="1">0.44</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+              <td align="center" rowspan="1" colspan="1">31</td>
+              <td align="center" rowspan="1" colspan="1">30</td>
+              <td align="center" rowspan="1" colspan="1">32</td>
+              <td align="center" rowspan="1" colspan="1">32</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">32</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">792</td>
+              <td align="center" rowspan="1" colspan="1">2.06</td>
+              <td align="center" rowspan="1" colspan="1">2.66</td>
+              <td align="center" rowspan="1" colspan="1">0.30</td>
+              <td align="center" rowspan="1" colspan="1">0.42</td>
+              <td align="center" rowspan="1" colspan="1">0.49</td>
+              <td align="center" rowspan="1" colspan="1">1.19</td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">Spain</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">23 761</td>
+              <td align="center" rowspan="1" colspan="1">13.81</td>
+              <td align="center" rowspan="1" colspan="1">16.81</td>
+              <td align="center" rowspan="1" colspan="1">2.13</td>
+              <td align="center" rowspan="1" colspan="1">11.72</td>
+              <td align="center" rowspan="1" colspan="1">1.86</td>
+              <td align="center" rowspan="1" colspan="1">9.40</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+              <td align="center" rowspan="1" colspan="1">34</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+              <td align="center" rowspan="1" colspan="1">29</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">11 619</td>
+              <td align="center" rowspan="1" colspan="1">7.32</td>
+              <td align="center" rowspan="1" colspan="1">7.88</td>
+              <td align="center" rowspan="1" colspan="1">1.23</td>
+              <td align="center" rowspan="1" colspan="1">5.40</td>
+              <td align="center" rowspan="1" colspan="1">0.39</td>
+              <td align="center" rowspan="1" colspan="1">4.07</td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">Switzerland</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">3330<xref ref-type="table-fn" rid="tf2-1">a</xref></td>
+              <td align="center" rowspan="1" colspan="1">1.14</td>
+              <td align="center" rowspan="1" colspan="1">1.55</td>
+              <td align="center" rowspan="1" colspan="1">0.02</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+              <td align="center" rowspan="1" colspan="1">0.04</td>
+              <td align="center" rowspan="1" colspan="1">0.16</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">18</td>
+              <td align="center" rowspan="1" colspan="1">17</td>
+              <td align="center" rowspan="1" colspan="1">17</td>
+              <td align="center" rowspan="1" colspan="1">17</td>
+              <td align="center" rowspan="1" colspan="1">17</td>
+              <td align="center" rowspan="1" colspan="1">17</td>
+              <td align="center" rowspan="1" colspan="1">17</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">2513</td>
+              <td align="center" rowspan="1" colspan="1">0.32</td>
+              <td align="center" rowspan="1" colspan="1">0.70</td>
+              <td align="center" rowspan="1" colspan="1">0.05</td>
+              <td align="center" rowspan="1" colspan="1">0.00</td>
+              <td align="center" rowspan="1" colspan="1">0.15</td>
+              <td align="center" rowspan="1" colspan="1">0.30</td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="8" align="left" rowspan="1">Total</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">6467</td>
+              <td align="center" rowspan="1" colspan="1">3.85</td>
+              <td align="center" rowspan="1" colspan="1">3.68</td>
+              <td align="center" rowspan="1" colspan="1">0.68</td>
+              <td align="center" rowspan="1" colspan="1">2.45</td>
+              <td align="center" rowspan="1" colspan="1">0.59</td>
+              <td align="center" rowspan="1" colspan="1">1.70</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;<italic>n</italic></td>
+              <td align="center" rowspan="1" colspan="1">279</td>
+              <td align="center" rowspan="1" colspan="1">299</td>
+              <td align="center" rowspan="1" colspan="1">276</td>
+              <td align="center" rowspan="1" colspan="1">286</td>
+              <td align="center" rowspan="1" colspan="1">276</td>
+              <td align="center" rowspan="1" colspan="1">290</td>
+              <td align="center" rowspan="1" colspan="1">280</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">8550</td>
+              <td align="center" rowspan="1" colspan="1">5.30</td>
+              <td align="center" rowspan="1" colspan="1">6.10</td>
+              <td align="center" rowspan="1" colspan="1">1.45</td>
+              <td align="center" rowspan="1" colspan="1">4.51</td>
+              <td align="center" rowspan="1" colspan="1">0.97</td>
+              <td align="center" rowspan="1" colspan="1">3.56</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>FTE = full-time equivalent. SD = standard deviation.</p>
+          </fn>
+          <fn id="tf2-1">
+            <label>a</label>
+            <p>Data do not refer to patients listed or registered but to the yearly attending population of different patients.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>
+        <xref ref-type="table" rid="tbl2">Table 2</xref> gives information on the practices included. There were large differences in patient numbers per practice, with the largest practices by far in Spain and Finland with a mean of over 23 000 patients, followed by England and Israel with 5000 to 7000 patients. Austria, Belgium, France, Germany, the Netherlands, and Switzerland all reported a mean practice size of about 3000 to 3500 patients. Finally, Slovenia reported the smallest practice sizes with approximately 2000 patients. Practice size varied widely within each of the countries, as reflected by the estimates of standard deviations. Spain, Finland, England, and Israel had most GPs involved per practice and most staff. Most managers were found in countries with large number of GPs per practice, including Spain, Finland, England, and Israel. Spain in particular reported many &#x02018;other staff&#x02019; &#x02013; for instance, social workers, paediatricians, and physiotherapists are included in the primary care practice staff.
+      </p>
+      <p>
+        <xref ref-type="table" rid="tbl3">Table 3</xref> shows the overall figures regarding domains of the CCM. Again, substantial variation was observed across and within countries.
+      </p>
+      <table-wrap id="tbl3" position="float">
+        <label>Table 3</label>
+        <caption>
+          <p>Scores on Chronic Care Model domains: number of items, mean practice scores of possible maximum (%) per country, standard deviation (SD), and total</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th rowspan="1" colspan="1"/>
+              <th rowspan="1" colspan="1"/>
+              <th colspan="4" align="center" rowspan="1">Delivery system design</th>
+              <th rowspan="1" colspan="1"/>
+              <th rowspan="1" colspan="1"/>
+              <th rowspan="1" colspan="1"/>
+              <th rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th rowspan="1" colspan="1"/>
+              <th rowspan="1" colspan="1"/>
+              <th colspan="4" align="center" rowspan="1">
+                <hr/>
+              </th>
+              <th rowspan="1" colspan="1"/>
+              <th rowspan="1" colspan="1"/>
+              <th rowspan="1" colspan="1"/>
+              <th rowspan="1" colspan="1"/>
+            </tr>
+            <tr>
+              <th rowspan="1" colspan="1"/>
+              <th align="center" rowspan="1" colspan="1">Health system &#x02013; organisation of healthcare</th>
+              <th align="center" rowspan="1" colspan="1">Contact patients</th>
+              <th align="center" rowspan="1" colspan="1">Contact prevention</th>
+              <th align="center" rowspan="1" colspan="1">Attendance rates</th>
+              <th align="center" rowspan="1" colspan="1">Preventive procedures</th>
+              <th align="center" rowspan="1" colspan="1">Self management support</th>
+              <th align="center" rowspan="1" colspan="1">Decision support</th>
+              <th align="center" rowspan="1" colspan="1">Clinical information system</th>
+              <th align="center" rowspan="1" colspan="1">Community resources and policies</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Country (<italic>n</italic>)</td>
+              <td align="center" rowspan="1" colspan="1">7</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+              <td align="center" rowspan="1" colspan="1">3</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+              <td align="center" rowspan="1" colspan="1">3</td>
+              <td align="center" rowspan="1" colspan="1">6</td>
+              <td align="center" rowspan="1" colspan="1">4</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">Austria (31)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">57</td>
+              <td align="center" rowspan="1" colspan="1">45</td>
+              <td align="center" rowspan="1" colspan="1">6</td>
+              <td align="center" rowspan="1" colspan="1">1</td>
+              <td align="center" rowspan="1" colspan="1">30</td>
+              <td align="center" rowspan="1" colspan="1">66</td>
+              <td align="center" rowspan="1" colspan="1">96</td>
+              <td align="center" rowspan="1" colspan="1">67</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">15</td>
+              <td align="center" rowspan="1" colspan="1">37</td>
+              <td align="center" rowspan="1" colspan="1">11</td>
+              <td align="center" rowspan="1" colspan="1">6</td>
+              <td align="center" rowspan="1" colspan="1">40</td>
+              <td align="center" rowspan="1" colspan="1">27</td>
+              <td align="center" rowspan="1" colspan="1">14</td>
+              <td align="center" rowspan="1" colspan="1">30</td>
+              <td align="center" rowspan="1" colspan="1">18</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">Belgium (24)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">52</td>
+              <td align="center" rowspan="1" colspan="1">9</td>
+              <td align="center" rowspan="1" colspan="1">44</td>
+              <td align="center" rowspan="1" colspan="1">49</td>
+              <td align="center" rowspan="1" colspan="1">54</td>
+              <td align="center" rowspan="1" colspan="1">64</td>
+              <td align="center" rowspan="1" colspan="1">89</td>
+              <td align="center" rowspan="1" colspan="1">95</td>
+              <td align="center" rowspan="1" colspan="1">20</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">28</td>
+              <td align="center" rowspan="1" colspan="1">23</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">41</td>
+              <td align="center" rowspan="1" colspan="1">33</td>
+              <td align="center" rowspan="1" colspan="1">26</td>
+              <td align="center" rowspan="1" colspan="1">23</td>
+              <td align="center" rowspan="1" colspan="1">10</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">England (36)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">95</td>
+              <td align="center" rowspan="1" colspan="1">100</td>
+              <td align="center" rowspan="1" colspan="1">73</td>
+              <td align="center" rowspan="1" colspan="1">75</td>
+              <td align="center" rowspan="1" colspan="1">74</td>
+              <td align="center" rowspan="1" colspan="1">91</td>
+              <td align="center" rowspan="1" colspan="1">100</td>
+              <td align="center" rowspan="1" colspan="1">100</td>
+              <td align="center" rowspan="1" colspan="1">32</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">8</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">19</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+              <td align="center" rowspan="1" colspan="1">24</td>
+              <td align="center" rowspan="1" colspan="1">12</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">Finland (9)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">56</td>
+              <td align="center" rowspan="1" colspan="1">8</td>
+              <td align="center" rowspan="1" colspan="1">50</td>
+              <td align="center" rowspan="1" colspan="1">89</td>
+              <td align="center" rowspan="1" colspan="1">50</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">96</td>
+              <td align="center" rowspan="1" colspan="1">100</td>
+              <td align="center" rowspan="1" colspan="1">83</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">11</td>
+              <td align="center" rowspan="1" colspan="1">13</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+              <td align="center" rowspan="1" colspan="1">24</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">14</td>
+              <td align="center" rowspan="1" colspan="1">11</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">33</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">France (31)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">39</td>
+              <td align="center" rowspan="1" colspan="1">17</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+              <td align="center" rowspan="1" colspan="1">27</td>
+              <td align="center" rowspan="1" colspan="1">43</td>
+              <td align="center" rowspan="1" colspan="1">50</td>
+              <td align="center" rowspan="1" colspan="1">84</td>
+              <td align="center" rowspan="1" colspan="1">91</td>
+              <td align="center" rowspan="1" colspan="1">27</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">24</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">37</td>
+              <td align="center" rowspan="1" colspan="1">38</td>
+              <td align="center" rowspan="1" colspan="1">29</td>
+              <td align="center" rowspan="1" colspan="1">23</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+              <td align="center" rowspan="1" colspan="1">16</td>
+              <td align="center" rowspan="1" colspan="1">24</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">Germany (21)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">56</td>
+              <td align="center" rowspan="1" colspan="1">74</td>
+              <td align="center" rowspan="1" colspan="1">25</td>
+              <td align="center" rowspan="1" colspan="1">35</td>
+              <td align="center" rowspan="1" colspan="1">38</td>
+              <td align="center" rowspan="1" colspan="1">61</td>
+              <td align="center" rowspan="1" colspan="1">79</td>
+              <td align="center" rowspan="1" colspan="1">79</td>
+              <td align="center" rowspan="1" colspan="1">54</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+              <td align="center" rowspan="1" colspan="1">26</td>
+              <td align="center" rowspan="1" colspan="1">31</td>
+              <td align="center" rowspan="1" colspan="1">20</td>
+              <td align="center" rowspan="1" colspan="1">34</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+              <td align="center" rowspan="1" colspan="1">20</td>
+              <td align="center" rowspan="1" colspan="1">26</td>
+              <td align="center" rowspan="1" colspan="1">29</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">Israel (35)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">75</td>
+              <td align="center" rowspan="1" colspan="1">64</td>
+              <td align="center" rowspan="1" colspan="1">56</td>
+              <td align="center" rowspan="1" colspan="1">28</td>
+              <td align="center" rowspan="1" colspan="1">64</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+              <td align="center" rowspan="1" colspan="1">100</td>
+              <td align="center" rowspan="1" colspan="1">100</td>
+              <td align="center" rowspan="1" colspan="1">46</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">26</td>
+              <td align="center" rowspan="1" colspan="1">32</td>
+              <td align="center" rowspan="1" colspan="1">24</td>
+              <td align="center" rowspan="1" colspan="1">29</td>
+              <td align="center" rowspan="1" colspan="1">33</td>
+              <td align="center" rowspan="1" colspan="1">18</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">33</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">Netherlands (35)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">51</td>
+              <td align="center" rowspan="1" colspan="1">66</td>
+              <td align="center" rowspan="1" colspan="1">56</td>
+              <td align="center" rowspan="1" colspan="1">61</td>
+              <td align="center" rowspan="1" colspan="1">51</td>
+              <td align="center" rowspan="1" colspan="1">69</td>
+              <td align="center" rowspan="1" colspan="1">93</td>
+              <td align="center" rowspan="1" colspan="1">97</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+              <td align="center" rowspan="1" colspan="1">28</td>
+              <td align="center" rowspan="1" colspan="1">16</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+              <td align="center" rowspan="1" colspan="1">25</td>
+              <td align="center" rowspan="1" colspan="1">26</td>
+              <td align="center" rowspan="1" colspan="1">16</td>
+              <td align="center" rowspan="1" colspan="1">9</td>
+              <td align="center" rowspan="1" colspan="1">24</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">Slovenia (36)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">42</td>
+              <td align="center" rowspan="1" colspan="1">26</td>
+              <td align="center" rowspan="1" colspan="1">44</td>
+              <td align="center" rowspan="1" colspan="1">48</td>
+              <td align="center" rowspan="1" colspan="1">40</td>
+              <td align="center" rowspan="1" colspan="1">56</td>
+              <td align="center" rowspan="1" colspan="1">69</td>
+              <td align="center" rowspan="1" colspan="1">78</td>
+              <td align="center" rowspan="1" colspan="1">76</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">26</td>
+              <td align="center" rowspan="1" colspan="1">31</td>
+              <td align="center" rowspan="1" colspan="1">26</td>
+              <td align="center" rowspan="1" colspan="1">28</td>
+              <td align="center" rowspan="1" colspan="1">27</td>
+              <td align="center" rowspan="1" colspan="1">25</td>
+              <td align="center" rowspan="1" colspan="1">36</td>
+              <td align="center" rowspan="1" colspan="1">18</td>
+              <td align="center" rowspan="1" colspan="1">33</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">Spain (36)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">77</td>
+              <td align="center" rowspan="1" colspan="1">100</td>
+              <td align="center" rowspan="1" colspan="1">75</td>
+              <td align="center" rowspan="1" colspan="1">67</td>
+              <td align="center" rowspan="1" colspan="1">82</td>
+              <td align="center" rowspan="1" colspan="1">66</td>
+              <td align="center" rowspan="1" colspan="1">100</td>
+              <td align="center" rowspan="1" colspan="1">100</td>
+              <td align="center" rowspan="1" colspan="1">85</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">13</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">16</td>
+              <td align="center" rowspan="1" colspan="1">18</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">0</td>
+              <td align="center" rowspan="1" colspan="1">19</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">Switzerland (21)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">30</td>
+              <td align="center" rowspan="1" colspan="1">8</td>
+              <td align="center" rowspan="1" colspan="1">6</td>
+              <td align="center" rowspan="1" colspan="1">25</td>
+              <td align="center" rowspan="1" colspan="1">23</td>
+              <td align="center" rowspan="1" colspan="1">45</td>
+              <td align="center" rowspan="1" colspan="1">76</td>
+              <td align="center" rowspan="1" colspan="1">67</td>
+              <td align="center" rowspan="1" colspan="1">33</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">20</td>
+              <td align="center" rowspan="1" colspan="1">24</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+              <td align="center" rowspan="1" colspan="1">21</td>
+              <td align="center" rowspan="1" colspan="1">27</td>
+              <td align="center" rowspan="1" colspan="1">25</td>
+              <td align="center" rowspan="1" colspan="1">28</td>
+              <td align="center" rowspan="1" colspan="1">24</td>
+              <td align="center" rowspan="1" colspan="1">23</td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="10" align="left" rowspan="1">Total (315)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;Mean</td>
+              <td align="center" rowspan="1" colspan="1">59</td>
+              <td align="center" rowspan="1" colspan="1">53</td>
+              <td align="center" rowspan="1" colspan="1">44</td>
+              <td align="center" rowspan="1" colspan="1">45</td>
+              <td align="center" rowspan="1" colspan="1">52</td>
+              <td align="center" rowspan="1" colspan="1">59</td>
+              <td align="center" rowspan="1" colspan="1">90</td>
+              <td align="center" rowspan="1" colspan="1">89</td>
+              <td align="center" rowspan="1" colspan="1">45</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&#x02003;SD</td>
+              <td align="center" rowspan="1" colspan="1">28</td>
+              <td align="center" rowspan="1" colspan="1">42</td>
+              <td align="center" rowspan="1" colspan="1">33</td>
+              <td align="center" rowspan="1" colspan="1">34</td>
+              <td align="center" rowspan="1" colspan="1">34</td>
+              <td align="center" rowspan="1" colspan="1">29</td>
+              <td align="center" rowspan="1" colspan="1">22</td>
+              <td align="center" rowspan="1" colspan="1">20</td>
+              <td align="center" rowspan="1" colspan="1">34</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <p>Domains with relatively high scores across Europe were &#x02018;clinical information systems&#x02019; and &#x02018;decision support&#x02019;, with respective total practice means of 89% and 90%. In all other domains, mean scores across Europe ranged between 44% and 59%. Spain had scores above average on all domains, ranging from 66% to 100%. England had similar scores, with the exception of a below-average score on &#x02018;community resources and policies&#x02019;. The best scores on this domain were found in Spain again (85%), Finland (83%), and Slovenia (76%). The lowest scores (&#x0003c;10%) were found for contacting defined patient populations (Belgium, Finland, and Switzerland), preventive activities (Austria and Switzerland), and attendance rates for preventive activities (Austria).</p>
+      <p>
+        <xref ref-type="table" rid="tbl4">Table 4</xref> shows that practice size and urbanisation did not have any impact on most aspects of practice organisation. In cities with &#x0003e;100 000 inhabitants, practice scores were 0.43 higher in the seven-issue domain &#x02018;organisation of health care&#x02019; (<italic>P</italic> = 0.023), 0.35 higher on the four-issue subdomain &#x02018;preventive procedures&#x02019; (<italic>P</italic> = 0.024), and 0.30 lower on the domain &#x02018;community resources and policies&#x02019; (<italic>P</italic> = 0.024). No other effects were found.
+      </p>
+      <table-wrap id="tbl4" position="float">
+        <label>Table 4</label>
+        <caption>
+          <p>Significant results of regression analyses. The model assessed the influence of practice size (based on full-time equivalent GPs as a continuous measure), urbanisation (dichotomous), and their interaction term on the (sub)domains</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" rowspan="1" colspan="1">(Sub)domain</th>
+              <th align="center" rowspan="1" colspan="1">Variable</th>
+              <th align="center" rowspan="1" colspan="1">Effect size (number of items)</th>
+              <th align="center" rowspan="1" colspan="1">Significance</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Organisation of health care</td>
+              <td align="center" rowspan="1" colspan="1">Urbanisation</td>
+              <td align="center" rowspan="1" colspan="1">0.43 (7)</td>
+              <td align="center" rowspan="1" colspan="1">0.023</td>
+            </tr>
+            <tr>
+              <td colspan="4" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Preventive procedures</td>
+              <td align="center" rowspan="1" colspan="1">Urbanisation</td>
+              <td align="center" rowspan="1" colspan="1">0.35 (4)</td>
+              <td align="center" rowspan="1" colspan="1">0.024</td>
+            </tr>
+            <tr>
+              <td colspan="4" align="left" rowspan="1">
+                <hr/>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Community resources and policies</td>
+              <td align="center" rowspan="1" colspan="1">Urbanisation</td>
+              <td align="center" rowspan="1" colspan="1">&#x02212;0.30 (4)</td>
+              <td align="center" rowspan="1" colspan="1">0.024</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+    <sec sec-type="">
+      <title>DISCUSSION</title>
+      <sec>
+        <title>Summary of main findings</title>
+        <p>This observational study provided a mixed picture regarding organisational conditions for providing structured chronic care. Regarding implementation of the CCM, the domains &#x02018;clinical information systems&#x02019; and &#x02018;decision support&#x02019; had high scores across countries, reflecting high levels of information technology in the practices included. In the other domains, mean scores were about 50%, with great variation between and within countries. Practices varied substantially with respect to the number of registered or attending patients, and with respect to team size, numbers, and types of other staff.</p>
+      </sec>
+      <sec>
+        <title>Strengths and limitations of the study</title>
+        <p>The strength of this study is the sampling strategy of primary care practices to ensure good representation. As the best alternative for a completely random sample, practices were stratified and samples were taken from lists in all but two countries, although the participation rate in some countries was low. To the authors&#x02019; knowledge, the sample is unique with data from practices from 11 countries across Europe and up to 36 practices per country, in total over 300 practices, allowing for robust results and conclusions with data on practice staff and characteristics. There is no reason to think the findings are explained by sampling issues.</p>
+        <p>Another issue is that all data were self-reported. Data are presented as the percentage of &#x02018;yes&#x02019; from the total number of practices, ignoring missing values or answers of &#x02018;not applicable&#x02019;. As such, the results may be conservative; the actual situation may be slightly better. The &#x02018;not applicable&#x02019; option was especially used in, for instance, Germany, where physicians are not always allowed to recall patients for preventive activities. It might be argued that practice characteristics were not scored here, but healthcare organisation characteristics, but it was decided to simply score the presence of the features. In addition, variation in results between countries showed that the instrument was discriminative.</p>
+      </sec>
+      <sec>
+        <title>Comparison with existing literature</title>
+        <p>Previous research found that primary care practices with an organisation of care in accordance to the CCM in general or studying separate domains had better outcomes.<xref ref-type="bibr" rid="b5">5</xref>&#x02013;<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b19">19</xref>&#x02013;<xref ref-type="bibr" rid="b24">24</xref> Additionally, CCM-implementation programmes have also been evaluated as positive.<xref ref-type="bibr" rid="b25">25</xref>,<xref ref-type="bibr" rid="b26">26</xref> Another approach in healthcare organisation research is considering strength and integration of primary care within the healthcare system, assessing features as &#x02018;first contact&#x02019;, longitudinality, comprehensiveness, coordination, community orientation, access, location, and family centeredness.<xref ref-type="bibr" rid="b11">11</xref> Differences of the healthcare organisations across countries were not studied as such; instead, the study aimed to assess the presence of CCM features in primary care in different healthcare settings. However, in general, a stronger primary care orientation is associated with higher scores.</p>
+        <p>All items in the domain &#x02018;delivery system design&#x02019; in this study were related to organisation of preventive actions and to processes and outcomes. Offering preventive services is one of the characteristics for the comprehensiveness of the care system. Both primary and secondary prevention require a clear view of the targeted patient population.<xref ref-type="bibr" rid="b27">27</xref> This proactive approach is much favoured by a system where patients are registered &#x02013; a requirement for longitudinality. Austria, Germany, and Switzerland did not report on patients listed or registered but on patients attending each year, reflected in rather low scores in this domain. In some countries GPs were &#x02013; at least to some extent &#x02013; not allowed to contact patient populations.</p>
+        <p>&#x02019;Self management support&#x02019; showed considerable variation. It is one of the pillars of the CCM, as it is the factor that should empower patients to take an active role in the management of their disease. In England only, the score is high; in all other countries scores vary from 20% to 70%. Patient empowerment and self-management support very much involve the roles of both parties in the medical contact, the patient and the doctor or the medical team, and sharing responsibilities. There is much to be gained by better implementation of this aspect of the CCM.</p>
+        <p>Primary care practices use information technology extensively, reflected in high scores on &#x02018;clinical information systems&#x02019; and &#x02018;decision support&#x02019;, opening possibilities to enhance other domains. Data management provides opportunities to enhance patient selection for preventive activities or regular checks, but also for self-management support.<xref ref-type="bibr" rid="b23">23</xref>&#x02013;<xref ref-type="bibr" rid="b28">28</xref> So, information technology and electronic patient records form a solid basis for the other domains.</p>
+        <p>The domain &#x02018;community resources and policies&#x02019; in this study focused on outreach participation in programmes or education by the practice team members. In most countries, only a minority of GPs and practice nurses actively participate in public-health-oriented programmes. Strength and manpower in public health organisations may be of importance, as well as role experience of primary care practices. Lifestyle-related programmes are often public health based, but primary care practice participation in public health programmes offers an opportunity to actually provide the whole spectrum of care, starting with primary prevention for healthy subjects.</p>
+        <p>In several national studies, the influence of practice size on care processes and outcome indicators showed a tendency to more or better services in larger practices.<xref ref-type="bibr" rid="b7">7</xref>,<xref ref-type="bibr" rid="b13">13</xref>,<xref ref-type="bibr" rid="b29">29</xref>&#x02013;<xref ref-type="bibr" rid="b31">31</xref> However, the results of the present study did not support this effect of larger practice size. The practice sample size per country of up to 36, and controlling for country, made it difficult to reach significance. The presence of supportive staff members with the possibility of task delegation plays a role, too. Across countries, large differences were found in the numbers of staff members. Supportive staff are helpful, if not necessary, to deliver comprehensive preventive care for large groups. In most countries, GPs are outnumbered by staff members, especially in the countries with the largest practices: Finland, Israel, Spain, and England. So, in these countries, with a strong primary care, practices are on average the largest and have relatively the largest staff, enhancing features like comprehensiveness, including prevention.</p>
+      </sec>
+      <sec>
+        <title>Implications for future research and clinical practice</title>
+        <p>In summary, the study data show that across countries, features for chronic care delivery within general practice settings are apparent but differ regarding most domains of the CCM. Further research will have to focus on the relation between practice characteristics, organisational features, including the national health system organisation and strength of primary care, and outcomes. Primary care is not ready to provide population-oriented health care throughout Europe, but at present there is at least a good starting point everywhere for implementation, as information technology in particular is widely used, offering possibilities to reach improvement in other domains, such as self-management support.</p>
+        <p>This study shows that on all CCM domains high scores are possible, proving that primary care is suited for care delivery according to the CCM in both stronger and weaker primary-care-orientated healthcare systems. However, a stronger primary care orientation seems associated with higher CCM scores. Policy makers may empower primary care, providing circumstances for better implementation of the CCM, as most research shows positive effects of implementing the CCM or its components. This will be the case particularly in countries with a weak primary care orientation, with patients not listed or registered within a practice. Having a well-defined patient group is necessary for personalised preventive activities.</p>
+        <p>Offering preventive services requires staff to organise and manage all these patient contacts. Practice staff show large variation between countries. In some countries staff enlargement and diversification could be very helpful to enhance structured preventive care.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>We gratefully acknowledge the other country coordinators who organised national data collection in their countries: Reinholt Glehr (Austria), Ester Cornelis and Veerle Vanderstighelen (Belgium), Esko Kumpusalo (Finland), Hector Falcoff (France), Davorina Petek (Slovenia), Eva Frigola (Spain), and Beat K&#x000fc;nzi (Switzerland). Furthermore, we acknowledge all participating GPs. We would like to thank Jan Koetsenruijter for his help with statistical analysis.</p>
+    </ack>
+    <notes>
+      <sec>
+        <title>Funding body</title>
+        <p>The study was supported by a grant from the Bertelsmann Foundation, G&#x000fc;tersloh, Germany. The Bertelsmann Foundation had no involvement in study design; in the collection, analysis, and interpretation of data; in the writing of the report; and in the decision to submit the paper for publication.</p>
+      </sec>
+      <sec>
+        <title>Ethical approval</title>
+        <p>The study described is part of the EPA Cardio project. Ethical approval for this project was obtained in all countries participating, by the national coordinators.</p>
+      </sec>
+      <sec>
+        <title>Competing interests</title>
+        <p>The authors have stated that there are none.</p>
+      </sec>
+      <sec>
+        <title>Discuss this article</title>
+        <p>Contribute and read comments about this article on the Discussion Forum: <ext-link ext-link-type="uri" xlink:href="http://www.rcgp.org.uk/bjgp-discuss">http://www.rcgp.org.uk/bjgp-discuss</ext-link></p>
+      </sec>
+    </notes>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="b1">
+        <label>1</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wagner</surname>
+              <given-names>EH</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Calkins</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Boult</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wagner</surname>
+              <given-names>EH</given-names>
+            </name>
+          </person-group>
+          <article-title>Care of older people with chronic illness</article-title>
+          <source>New ways to care for older people: building systems based on evidence</source>
+          <year>1999</year>
+          <publisher-loc>New Yor, NY</publisher-loc>
+          <publisher-name>Springer</publisher-name>
+          <fpage>39</fpage>
+          <lpage>64</lpage>
+        </element-citation>
+      </ref>
+      <ref id="b2">
+        <label>2</label>
+        <element-citation publication-type="book">
+          <collab>American College of Physicians</collab>
+          <source>The advanced medical home: a patient-centered, physician-guided model of health care. Position paper</source>
+          <year>2005</year>
+          <publisher-loc>Philadelphia</publisher-loc>
+          <publisher-name>American College of Physicians</publisher-name>
+          <comment>
+            <ext-link ext-link-type="uri" xlink:href="http://www.acponline.org/advocacy/where_we_stand/policy/adv_med.pdf">http://www.acponline.org/advocacy/where_we_stand/policy/adv_med.pdf</ext-link> (accessed 25 Jun 2010)
+          </comment>
+        </element-citation>
+      </ref>
+      <ref id="b3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bodenheimer</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Wagner</surname>
+              <given-names>EH</given-names>
+            </name>
+            <name>
+              <surname>Grumbach</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Improving primary care for patients with chronic illness</article-title>
+          <source>JAMA</source>
+          <year>2002</year>
+          <volume>288</volume>
+          <issue>14</issue>
+          <fpage>1775</fpage>
+          <lpage>1779</lpage>
+          <pub-id pub-id-type="pmid">12365965</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barr</surname>
+              <given-names>VJ</given-names>
+            </name>
+            <name>
+              <surname>Robinson</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Marin-Link</surname>
+              <given-names>B</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The expanded Chronic Care Model: an integration of concepts and strategies from population health promotion and the Chronic Care Model</article-title>
+          <source>Hosp Q</source>
+          <year>2003</year>
+          <volume>7</volume>
+          <issue>1</issue>
+          <fpage>73</fpage>
+          <lpage>82</lpage>
+          <pub-id pub-id-type="pmid">14674182</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tsai</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Morton</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Mangione</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Keeler</surname>
+              <given-names>EB</given-names>
+            </name>
+          </person-group>
+          <article-title>A meta-analysis of interventions to improve care for chronic illnesses</article-title>
+          <source>Am J Manag Care</source>
+          <year>2005</year>
+          <volume>11</volume>
+          <issue>8</issue>
+          <fpage>478</fpage>
+          <lpage>488</lpage>
+          <pub-id pub-id-type="pmid">16095434</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Friedberg</surname>
+              <given-names>MW</given-names>
+            </name>
+            <name>
+              <surname>Coltin</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Safran</surname>
+              <given-names>DG</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Associations between structural capabilities of primary care practices and performance on selected quality measures</article-title>
+          <source>Ann Intern Med</source>
+          <year>2009</year>
+          <volume>151</volume>
+          <issue>7</issue>
+          <fpage>456</fpage>
+          <lpage>463</lpage>
+          <pub-id pub-id-type="pmid">19805769</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hung</surname>
+              <given-names>DY</given-names>
+            </name>
+          </person-group>
+          <article-title>Improving the delivery of preventive care services</article-title>
+          <source>Manag Care Interface</source>
+          <year>2007</year>
+          <volume>20</volume>
+          <issue>5</issue>
+          <fpage>38</fpage>
+          <lpage>44</lpage>
+          <pub-id pub-id-type="pmid">17626591</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <collab>ACEP Board of Directors</collab>
+          <article-title>The Patient-Centered Medical Home Model</article-title>
+          <source>Ann Emerg Med</source>
+          <year>2009</year>
+          <volume>53</volume>
+          <issue>2</issue>
+          <fpage>289</fpage>
+          <lpage>291</lpage>
+          <pub-id pub-id-type="pmid">19167629</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carrier</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Gourevitch</surname>
+              <given-names>MN</given-names>
+            </name>
+            <name>
+              <surname>Shah</surname>
+              <given-names>NR</given-names>
+            </name>
+          </person-group>
+          <article-title>Medical homes: challenges in translating theory into practice</article-title>
+          <source>Med Care</source>
+          <year>2009</year>
+          <volume>47</volume>
+          <issue>7</issue>
+          <fpage>714</fpage>
+          <lpage>722</lpage>
+          <pub-id pub-id-type="pmid">19536005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Macinko</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Starfield</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>The contribution of primary care systems to health outcomes within Organization for Economic Cooperation and Development (OECD) countries, 1970&#x02013;1998</article-title>
+          <source>Health Serv Res</source>
+          <year>2003</year>
+          <volume>38</volume>
+          <issue>3</issue>
+          <fpage>831</fpage>
+          <lpage>865</lpage>
+          <pub-id pub-id-type="pmid">12822915</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Starfield</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Shi</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Macinko</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Contribution of primary care to health systems and health</article-title>
+          <source>Milbank Q</source>
+          <year>2005</year>
+          <volume>83</volume>
+          <issue>3</issue>
+          <fpage>457</fpage>
+          <lpage>502</lpage>
+          <pub-id pub-id-type="pmid">16202000</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Laurant</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Reeves</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Hermens</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Substitution of doctors by nurses in primary care</article-title>
+          <source>Cochrane Database Syst Rev</source>
+          <year>2004</year>
+          <issue>4</issue>
+          <comment>CD001271</comment>
+        </element-citation>
+      </ref>
+      <ref id="b13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wensing</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>van den Hombergh</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Akkermans</surname>
+              <given-names>R</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Physician workload in primary care: what is the optimal size of practices? A cross-sectional study</article-title>
+          <source>Health Policy</source>
+          <year>2006</year>
+          <volume>77</volume>
+          <issue>3</issue>
+          <fpage>260</fpage>
+          <lpage>267</lpage>
+          <pub-id pub-id-type="pmid">16129508</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Van Lieshout</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wensing</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Grol</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Primary care strength linked to prevention programs for cardiovascular disease</article-title>
+          <source>Am J Manag Care</source>
+          <year>2009</year>
+          <volume>15</volume>
+          <issue>4</issue>
+          <fpage>255</fpage>
+          <lpage>262</lpage>
+          <pub-id pub-id-type="pmid">19355798</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b15">
+        <label>15</label>
+        <element-citation publication-type="other">
+          <comment>
+            <italic>TOPAS Europe Association</italic>. <ext-link ext-link-type="uri" xlink:href="http://www.topaseurope.eu/">http://www.topaseurope.eu/</ext-link> (accessed 25 Jun 2010)
+          </comment>
+        </element-citation>
+      </ref>
+      <ref id="b16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Campbell</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Ludt</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Van Lieshout</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Quality indicators for the prevention and management of cardiovascular disease in primary care in nine European countries</article-title>
+          <source>Eur J Cardiovasc Prev Rehabil</source>
+          <year>2008</year>
+          <volume>15</volume>
+          <issue>5</issue>
+          <fpage>509</fpage>
+          <lpage>515</lpage>
+          <pub-id pub-id-type="pmid">18695594</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wensing</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ludt</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>European Practice Assessment of Cardiovascular risk management (EPA Cardio): protocol of an international observational study in primary care</article-title>
+          <source>Implement Sci</source>
+          <year>2009</year>
+          <volume>4</volume>
+          <issue>1</issue>
+          <fpage>3</fpage>
+          <pub-id pub-id-type="pmid">19128457</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Engels</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Dautzenberg</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Campbell</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Testing a European set of indicators for the evaluation of the management of primary care practices</article-title>
+          <source>Fam Pract</source>
+          <year>2006</year>
+          <volume>23</volume>
+          <issue>1</issue>
+          <fpage>137</fpage>
+          <lpage>147</lpage>
+          <pub-id pub-id-type="pmid">16243953</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davies</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Heller</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Skinner</surname>
+              <given-names>TC</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Effectiveness of the diabetes education and self management for ongoing and newly diagnosed (DESMOND) programme for people with newly diagnosed type 2 diabetes: cluster randomised controlled trial</article-title>
+          <source>BMJ</source>
+          <year>2008</year>
+          <volume>336</volume>
+          <issue>7642</issue>
+          <fpage>491</fpage>
+          <lpage>495</lpage>
+          <pub-id pub-id-type="pmid">18276664</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bourbeau</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Collet</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Schwartzman</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Economic benefits of self-management education in COPD</article-title>
+          <source>Chest</source>
+          <year>2006</year>
+          <volume>130</volume>
+          <issue>6</issue>
+          <fpage>1704</fpage>
+          <lpage>1711</lpage>
+          <pub-id pub-id-type="pmid">17166985</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shearer</surname>
+              <given-names>NB</given-names>
+            </name>
+            <name>
+              <surname>Cisar</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Greenberg</surname>
+              <given-names>EA</given-names>
+            </name>
+          </person-group>
+          <article-title>A telephone-delivered empowerment intervention with patients diagnosed with heart failure</article-title>
+          <source>Heart Lung</source>
+          <year>2007</year>
+          <volume>36</volume>
+          <issue>3</issue>
+          <fpage>159</fpage>
+          <lpage>169</lpage>
+          <pub-id pub-id-type="pmid">17509423</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bosworth</surname>
+              <given-names>HB</given-names>
+            </name>
+            <name>
+              <surname>Olsen</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>Grubber</surname>
+              <given-names>JM</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Two self-management interventions to improve hypertension control: a randomized trial</article-title>
+          <source>Ann Intern Med</source>
+          <year>2009</year>
+          <volume>151</volume>
+          <issue>10</issue>
+          <fpage>687</fpage>
+          <lpage>695</lpage>
+          <pub-id pub-id-type="pmid">19920269</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Demiris</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Afrin</surname>
+              <given-names>LB</given-names>
+            </name>
+            <name>
+              <surname>Speedie</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Patient-centered applications: use of information technology to promote disease management and wellness. A white paper by the AMIA knowledge in motion working group</article-title>
+          <source>J Am Med Inform Assoc</source>
+          <year>2008</year>
+          <volume>15</volume>
+          <issue>1</issue>
+          <fpage>8</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="pmid">17947617</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chaudhry</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Systematic review: impact of health information technology on quality, efficiency, and costs of medical care</article-title>
+          <source>Ann Intern Med</source>
+          <year>2006</year>
+          <volume>144</volume>
+          <issue>10</issue>
+          <fpage>742</fpage>
+          <lpage>752</lpage>
+          <pub-id pub-id-type="pmid">16702590</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vargas</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Mangione</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Asch</surname>
+              <given-names>S</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Can a chronic care model collaborative reduce heart disease risk in patients with diabetes?</article-title>
+          <source>J Gen Intern Med</source>
+          <year>2007</year>
+          <volume>22</volume>
+          <issue>2</issue>
+          <fpage>215</fpage>
+          <lpage>222</lpage>
+          <pub-id pub-id-type="pmid">17356989</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Asch</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Baker</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Keesey</surname>
+              <given-names>JW</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Does the collaborative model improve care for chronic heart failure?</article-title>
+          <source>Med Care</source>
+          <year>2005</year>
+          <volume>43</volume>
+          <issue>7</issue>
+          <fpage>667</fpage>
+          <lpage>675</lpage>
+          <pub-id pub-id-type="pmid">15970781</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hung</surname>
+              <given-names>DY</given-names>
+            </name>
+            <name>
+              <surname>Rundall</surname>
+              <given-names>TG</given-names>
+            </name>
+            <name>
+              <surname>Crabtree</surname>
+              <given-names>BF</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Influence of primary care practice and provider attributes on preventive service delivery</article-title>
+          <source>Am J Prev Med</source>
+          <year>2006</year>
+          <volume>30</volume>
+          <issue>5</issue>
+          <fpage>413</fpage>
+          <lpage>422</lpage>
+          <pub-id pub-id-type="pmid">16627129</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Klabunde</surname>
+              <given-names>CN</given-names>
+            </name>
+            <name>
+              <surname>Lanier</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Breslau</surname>
+              <given-names>ES</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Improving colorectal cancer screening in primary care practice: innovative strategies and future directions</article-title>
+          <source>J Gen Intern Med</source>
+          <year>2007</year>
+          <volume>22</volume>
+          <issue>8</issue>
+          <fpage>1195</fpage>
+          <lpage>1205</lpage>
+          <pub-id pub-id-type="pmid">17534688</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Friedberg</surname>
+              <given-names>MW</given-names>
+            </name>
+            <name>
+              <surname>Safran</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Coltin</surname>
+              <given-names>KL</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Readiness for the Patient-Centered Medical Home: structural capabilities of Massachusetts primary care practices</article-title>
+          <source>J Gen Intern Med</source>
+          <year>2009</year>
+          <volume>24</volume>
+          <issue>2</issue>
+          <fpage>162</fpage>
+          <lpage>169</lpage>
+          <pub-id pub-id-type="pmid">19050977</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morgan</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Beerstecher</surname>
+              <given-names>HJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Practice size and service provision in primary care: an observational study</article-title>
+          <source>Br J Gen Pract</source>
+          <year>2009</year>
+          <volume>59</volume>
+          <issue>560</issue>
+          <fpage>e71</fpage>
+          <lpage>77</lpage>
+          <pub-id pub-id-type="pmid">19275826</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Campbell</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Hann</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hacker</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Identifying predictors of high quality care in English general practice: observational study</article-title>
+          <source>BMJ</source>
+          <year>2001</year>
+          <volume>323</volume>
+          <issue>7316</issue>
+          <fpage>784</fpage>
+          <lpage>787</lpage>
+          <pub-id pub-id-type="pmid">11588082</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Handley</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Shumway</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Schillinger</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Cost-effectiveness of automated telephone self-management support with nurse care management among patients with diabetes</article-title>
+          <source>Ann Fam Med</source>
+          <year>2008</year>
+          <volume>6</volume>
+          <issue>6</issue>
+          <fpage>512</fpage>
+          <lpage>518</lpage>
+          <pub-id pub-id-type="pmid">19001303</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="b33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cleveringa</surname>
+              <given-names>FG</given-names>
+            </name>
+            <name>
+              <surname>Gorter</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>van den Donk</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rutten</surname>
+              <given-names>GE</given-names>
+            </name>
+          </person-group>
+          <article-title>Combined task delegation, computerized decision support, and feedback improve cardiovascular risk for type 2 diabetic patients: a cluster randomized trial in primary care</article-title>
+          <source>Diabetes Care</source>
+          <year>2008</year>
+          <volume>31</volume>
+          <issue>12</issue>
+          <fpage>2273</fpage>
+          <lpage>2275</lpage>
+          <pub-id pub-id-type="pmid">18796619</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+

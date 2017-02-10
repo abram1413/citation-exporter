@@ -1,0 +1,478 @@
+<!-- ArticleInstanceId : 3238325, Path: yjbm/84-2011/4/preload/nxml/, Name : yjbm_84_4_479.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="meeting-report">
+  <?DTDIdentifier.IdentifierValue http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd?>
+  <?DTDIdentifier.IdentifierType system?>
+  <?SourceDTD.DTDName journalpublishing3.dtd?>
+  <?SourceDTD.Version 3.0?>
+  <?ConverterInfo.XSLTName jp2nlmx2.xsl?>
+  <?ConverterInfo.Version 2?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Yale J Biol Med</journal-id>
+      <journal-id journal-id-type="pmc">yjbm</journal-id>
+      <journal-id journal-id-type="publisher-id">YJBM</journal-id>
+      <journal-title-group>
+        <journal-title>The Yale Journal of Biology and Medicine</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0044-0086</issn>
+      <issn pub-type="epub">1551-4056</issn>
+      <publisher>
+        <publisher-name>YJBM</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Symposium</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Reducing the Harm of Stress: Medications to Rescue the Prefrontal Cortex and Overcome Bad Habits</article-title>
+        <subtitle>The Science of Stress: Focus on the Brain, Breaking Bad Habits, and Chronic Disease</subtitle>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jin</surname>
+            <given-names>Lu E.</given-names>
+          </name>
+        </contrib>
+        <aff>Department of Neurobiology, Yale School of Medicine, New Haven, Connecticut</aff>
+      </contrib-group>
+      <author-notes>
+        <corresp>To whom all correspondence should be addressed: Lu E. Jin, Department of Neurobiology, Yale School of Medicine, 200 South Frontage Road, New Haven, CT 06511; E-mail: <email>Lu.jin@yale.edu</email>.</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <month>12</month>
+        <year>2011</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>12</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>84</volume>
+      <issue>4</issue>
+      <fpage>479</fpage>
+      <lpage>482</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#x000a9;2011, Yale Journal of Biology and Medicine</copyright-statement>
+        <copyright-year>2011</copyright-year>
+        <copyright-holder>Yale Journal of Biology and Medicine</copyright-holder>
+        <license license-type="open access">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial No Derivatives License, which permits for noncommercial use, distribution, and reproduction in any digital medium, provided the original work is properly cited and is not altered in any way.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Our brain is sensitive to stress. Both acute and chronic stress cause cognitive deficits and induce chronic disorders such as drug addiction. In a June 2011 conference at Yale entitled &#x0201c;The Science of Stress: Focus on the Brain, Breaking Bad Habits, and Chronic Disease,&#x0201d; Drs. Amy Arnsten and Sherry Mckee discussed the roles of prefrontal cortex in the treatment of stress impairments and addiction. Medications to strengthen the prefrontal function, such as prazosin and guanfacine, may reduce the harm of stress and help overcome smoking and alcohol abuse.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>stress</kwd>
+        <kwd>smoking</kwd>
+        <kwd>prefrontal cortex</kwd>
+        <kwd>guanfacine</kwd>
+        <kwd>prazosin</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>Stress-associated disorders are prevalent in our modern society. Many chronic diseases are induced or exaggerated by stress, such as cardiovascular disease, cancer, and depression [<xref ref-type="bibr" rid="R1">1</xref>]. A recent Yale Continuing Medical Education (CME) conference in June 2011 entitled &#x0201c;The Science of Stress: Focus on the Brain, Breaking Bad Habits, and Chronic Disease&#x0201d; drew attention to new advances in neurobiological research on mechanisms underlying stress effects and proposed potential clinical treatments of stress-related chronic diseases.</p>
+    <p>The talks by Dr. Amy Arnsten, Professor of Neurobiology, and Dr. Sherry McKee, Associate Professor of Psychiatry and Director of Yale Behavioral Pharmacology Laboratory, focused on the neurobiology of the prefrontal cortex (PFC) during stress. Their findings suggest that molecular modulations that strengthen PFC can rescue stress-induced cognitive deficits and thus allow subjects to overcome addictive behaviors.</p>
+    <p>Dr. Arnsten first introduced the functions of the PFC, which underlies our most advanced cognitive abilities, guiding our thoughts, actions, and emotions using working memory [<xref ref-type="bibr" rid="R2">2</xref>]. In alert, non-stressful conditions, the PFC exerts top-down cognitive control on other cortical regions and subcortical areas to locate attention, inhibit inappropriate actions, and regulate emotions. However, the PFC is the brain region that is most sensitive to the detrimental effects of stress exposure. During stressful conditions, the amygdala activates stress pathways in the hypothalamus and brainstem, which evoke high levels of norepinephrine (NE) and dopamine (DA) release. This impairs PFC function but strengthens amygdala function [<xref ref-type="bibr" rid="R2">2</xref>]. The amygdala performs a primary role in the processing and memory of emotional reactions. Thus, during stress, there is a switch from slow, thoughtful PFC regulation to the reflexive and rapid emotional responses of the amygdala and related subcortical structures.</p>
+    <p>In the past decades, the Arnsten lab aimed to identify the molecular mechanisms underlying stress-induced PFC impairment. They utilized <italic>in vivo</italic> electrophysiological recordings in monkey dorsolateral PFC when the animal was doing a working memory task (an oculomotor delayed response task, which requires the monkey to remember the location of a spatial cue and make eye movement to that location after a delay period). They could also apply drugs targeting different molecules simultaneously during recording by iontophoresis (a technique using small electric charge to deliver drugs to a restricted region) so they could test the functions of particular molecules in an active network.</p>
+    <p>Two of the molecules identified that are very important for PFC function are &#x003b1;1-adrenergic receptors and &#x003b1;2A-adrenergic receptors. The &#x003b1;2A receptors are Gi protein coupled receptors. When activated, they will inactivate adenyl cyclase, resulting in a reduction of intracellular cyclic adenosine monophosphate (cAMP). The &#x003b1;1 receptors are Gq protein-coupled receptors. Upon activation, they will activate phospholipase C (PLC), which leads to an increase in inositol trisphosphate (IP3) and calcium. This activates an enzyme called protein kinase C (PKC), which can phosphorylate many other molecules and trigger downstream effects.</p>
+    <p>They found that excessive amounts of NE during stress reduces PFC function by activating &#x003b1;1-adrenergic receptors. &#x003b1;1 agonists &#x02015; phenylephrine and cirazoline &#x02015; reduced PFC firing at the cellular level and impaired working memory behaviorally. To test the downstream of &#x003b1;1 receptor activation, they conducted co-iontophoresis of the PKC inhibitor chelerythrine and found it could reverse the phenylephrine-induced reduction in PFC neuronal firing [<xref ref-type="bibr" rid="R5">5</xref>]. Also, prazosin, an &#x003b1;1 antagonist, rescued the agonist-induced PFC loss-of-function [<xref ref-type="bibr" rid="R3">3</xref>,<xref ref-type="bibr" rid="R4">4</xref>]. Dr. Arnsten thus proposed that excessive NE release during stress would activate &#x003b1;1-adrenergic receptors and downstream PKC signaling, leading to weakened PFC function.</p>
+    <p>In comparison to the stressed condition, during alert, non-stressful conditions, moderate amounts of NE can activate &#x003b1;2A-adrenergic receptors and strengthen PFC function. &#x003b1;2A receptor activation reduces the level of cAMP and closes cAMP-gated hyperpolarizing ion channels on the dendritic spines, thus increasing synaptic efficacy. This leads to stronger PFC network activity [<xref ref-type="bibr" rid="R4">4</xref>]. They found that guanfacine, an &#x003b1;2A agonist, increased PFC neuronal firing and improved working memory performance. Also, guanfacine decreases impulsive responding on a delay discounting task (animals are able to inhibit an impulsive response to a small, immediate reward and wait for a larger reward) [<xref ref-type="bibr" rid="R6">6</xref>,<xref ref-type="bibr" rid="R7">7</xref>]. Thus, the activation of &#x003b1;2A receptors enables the animal to make rational thoughts rather than reflexive actions. Guanfacine also can protect the animals from chronic stress. It has been shown that chronic stress harms PFC cognitive function and causes PFC grey matter loss [<xref ref-type="bibr" rid="R8">8</xref>]. Daily guanfacine treatment could protect prefrontal grey matter loss and cognitive performances from chronic stress in rats.</p>
+    <p>In the second part of the talk, Dr. McKee introduced the clinical applications of these molecular targets in stress-induced addictions. Stress is a primary mechanism involved in the maintenance of &#x02015; and relapse to &#x02015; tobacco dependence and alcohol use [<xref ref-type="bibr" rid="R9">9</xref>]. It has been known that stress reduces PFC grey matter and impairs the top-down rational control by PFC. Higher cumulative adverse life events is associated with lower mean grey matter volume of PFC, according to McKee. Will prazosin (&#x003b1;1 antagonist) or guanfacine (&#x003b1;2A agonist) improve stress reactivity and decrease addictive behaviors in humans by strengthening the PFC function?</p>
+    <p>Studies have shown that these two drugs do help overcome stress disorders and drug-taking habits. Prazosin reduces nightmares and clinical signs of patients with post-traumatic stress disorders (PTSD) [<xref ref-type="bibr" rid="R10">10</xref>]. Prazosin also decreases stress-induced alcohol craving, anxiety, and negative emotions in the laboratory [<xref ref-type="bibr" rid="R11">11</xref>]. Similarly, guanfacine has been shown to reduce stress reactivity, improve cognitive control, and decrease cigarette use in smokers [<xref ref-type="bibr" rid="R11">11</xref>]. Compared to another &#x003b1;2 agonist, clonidine, which is tested to reduce tobacco craving, guanfacine has a better side-effect profile, according to Dr. McKee.</p>
+    <p>Dr. McKee and colleagues conducted a study to test the drug effect on stress-induced smoking relapse by administering guanfacine or placebo daily to smokers. They found that stress reduced the ability to resist smoking in the placebo group, and this effect was attenuated by guanfacine. Stress also increased the number of cigarettes smoked in the placebo group, and the increase was attenuated by guanfacine. Guanfacine was able to reduce the stress-induced tobacco craving as well. A functional magnetic resonance imaging (fMRI) study comparing the placebo and guanfacine group showed increased activation in the anterior cingulate, ventromedial prefrontal cortex, and bilateral insula in the guanfacine group during the incongruent versus the congruent stimuli in a stroop task (e.g., an incongruent stimuli means that the word &#x0201c;red&#x0201d; printed in blue ink instead of red ink, and subjects needed to name the actual color of the word). During the 4-week treatment period, guanfacine significantly reduced cigarettes per day and improved retention, McKee said.</p>
+    <p>Thus, from basic mechanism research to clinical application, both prazosin and guanfacine demonstrate promise for the treatment of stress-induced alcohol and tobacco dependence. The medications to rescue prefrontal function thus show potential to rescue stress impairments and help overcome bad habits.</p>
+    <p>More pharmaceutical targets are expected to be identified to reduce the harm of stress and hopefully for other psychiatric disorders, such as schizophrenia and depression. However, there are still hurdles to overcome in this field. A sound understanding of the brain circuits involved in those disorders is a requirement. Knowledge of the neurochemical needs of those circuits and, if possible, the neurochemical changes in those circuits associated with the symptom is needed. However, the neurophysiological substrates of most psychiatric disorders are still poorly understood. People have known that the PFC is sensitive to stress and is impaired in many psychiatric disorders. Revealing the cellular and molecular mechanisms within the PFC is potentially helpful for developing effective drugs to treat the diseases.</p>
+    <p>There is also difficulty in the translation from basic research to human therapies. A great challenge in drug development is that the mechanisms identified in model organisms (usually mice and rats) might be different from those at work in a human being. Studies in non-human primates can be particularly advantageous in this regard. Because they are more similar to us evolutionarily, a drug that succeeds in non-human primates has a high possibility to work in humans. In fact, the exact same doses of guanfacine and prazosin that have improved cognitive functions in young monkeys are now used in humans [<xref ref-type="bibr" rid="R12">12</xref>].</p>
+  </body>
+  <back>
+    <ack>
+      <p>The author would like to thank A. Arnsten, M. Wang, Y. Yang, C. Paspalas, N. Gamo for their great support and guidance in research and writing.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="financial-disclosure">
+        <p>Yale University and Arnsten receive royalties from the sale of extended release guanfacine (Intuniv), which is used for the treatment of Attention Deficit Hyperactivity Disorder in children and adolescents. Royalties are not received from the sale of the generic form of guanfacine, which is the form used in the above studies.</p>
+      </fn>
+    </fn-group>
+    <glossary>
+      <def-list>
+        <def-item>
+          <term>CME</term>
+          <def>
+            <p>Continuing Medical Education</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PFC</term>
+          <def>
+            <p>Prefrontal cortex</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>NE</term>
+          <def>
+            <p>norepinephrine</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>DA</term>
+          <def>
+            <p>dopamine</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PLC</term>
+          <def>
+            <p>phospholipase C</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>IP3</term>
+          <def>
+            <p>inositol trisphosphate</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PKC</term>
+          <def>
+            <p>protein kinase C</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>cAMP</term>
+          <def>
+            <p>cyclic adenosine monophosphate</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PTSD</term>
+          <def>
+            <p>post-traumatic stress disorders</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>fMRI</term>
+          <def>
+            <p>functional magnetic resonance imaging</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <ref-list>
+      <ref id="R1">
+        <element-citation publication-type="journal" publication-format="print">
+          <name>
+            <surname>Cohen</surname>
+            <given-names>S</given-names>
+          </name>
+          <name>
+            <surname>Janicki-Deverts</surname>
+            <given-names>D</given-names>
+          </name>
+          <name>
+            <surname>Miller</surname>
+            <given-names>GE</given-names>
+          </name>
+          <article-title>Psychological stress and disease</article-title>
+          <source>JAMA</source>
+          <year>2007</year>
+          <volume>298</volume>
+          <issue>14</issue>
+          <fpage>1685</fpage>
+          <lpage>1687</lpage>
+          <pub-id pub-id-type="pmid">17925521</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R2">
+        <element-citation publication-type="journal" publication-format="print">
+          <name>
+            <surname>Arnsten</surname>
+            <given-names>AF</given-names>
+          </name>
+          <article-title>Stress signalling pathways that impair prefrontal cortex structure and function</article-title>
+          <source>Nat Rev Neurosci</source>
+          <year>2009</year>
+          <volume>10</volume>
+          <issue>6</issue>
+          <fpage>410</fpage>
+          <lpage>422</lpage>
+          <pub-id pub-id-type="pmid">19455173</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R3">
+        <element-citation publication-type="journal" publication-format="print">
+          <name>
+            <surname>Arnsten</surname>
+            <given-names>AF</given-names>
+          </name>
+          <article-title>Catecholamine modulation of prefrontal cortical cognitive function</article-title>
+          <source>Trends in Cognitive Sciences</source>
+          <year>1998</year>
+          <volume>2</volume>
+          <issue>11</issue>
+          <fpage>436</fpage>
+          <lpage>447</lpage>
+          <pub-id pub-id-type="pmid">21227275</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R4">
+        <element-citation publication-type="journal" publication-format="print">
+          <name>
+            <surname>Arnsten</surname>
+            <given-names>AF</given-names>
+          </name>
+          <name>
+            <surname>Paspalas</surname>
+            <given-names>CD</given-names>
+          </name>
+          <name>
+            <surname>Gamo</surname>
+            <given-names>NJ</given-names>
+          </name>
+          <name>
+            <surname>Yang</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Wang</surname>
+            <given-names>M</given-names>
+          </name>
+          <article-title>Dynamic Network Connectivity: A new form of neuroplasticity</article-title>
+          <source>Trends in Cognitive Sciences</source>
+          <year>2010</year>
+          <volume>14</volume>
+          <issue>8</issue>
+          <fpage>365</fpage>
+          <lpage>375</lpage>
+          <pub-id pub-id-type="pmid">20554470</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R5">
+        <element-citation publication-type="journal" publication-format="print">
+          <name>
+            <surname>Birnbaum</surname>
+            <given-names>SG</given-names>
+          </name>
+          <name>
+            <surname>Podell</surname>
+            <given-names>DM</given-names>
+          </name>
+          <name>
+            <surname>Arnsten</surname>
+            <given-names>AF</given-names>
+          </name>
+          <article-title>Noradrenergic alpha-2 receptor agonists reverse working memory deficits induced by the anxiogenic drug, FG7142, in rats</article-title>
+          <source>Pharmacol Biochem Behav</source>
+          <year>2000</year>
+          <volume>67</volume>
+          <issue>3</issue>
+          <fpage>397</fpage>
+          <lpage>403</lpage>
+          <pub-id pub-id-type="pmid">11164065</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R6">
+        <element-citation publication-type="journal" publication-format="print">
+          <name>
+            <surname>Wang</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Ramos</surname>
+            <given-names>BP</given-names>
+          </name>
+          <name>
+            <surname>Paspalas</surname>
+            <given-names>CD</given-names>
+          </name>
+          <name>
+            <surname>Shu</surname>
+            <given-names>Y</given-names>
+          </name>
+          <name>
+            <surname>Simen</surname>
+            <given-names>A</given-names>
+          </name>
+          <name>
+            <surname>Duque</surname>
+            <given-names>A</given-names>
+          </name>
+          <etal/>
+          <article-title>Alpha2A-adrenoceptors strengthen working memory networks by inhibiting cAMP-HCN channel signaling in prefrontal cortex</article-title>
+          <source>Cell</source>
+          <year>2007</year>
+          <volume>129</volume>
+          <issue>2</issue>
+          <fpage>397</fpage>
+          <lpage>410</lpage>
+          <pub-id pub-id-type="pmid">17448997</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R7">
+        <element-citation publication-type="journal" publication-format="print">
+          <name>
+            <surname>Hains</surname>
+            <given-names>AB</given-names>
+          </name>
+          <name>
+            <surname>Vu</surname>
+            <given-names>MA</given-names>
+          </name>
+          <name>
+            <surname>Maciejewski</surname>
+            <given-names>PK</given-names>
+          </name>
+          <name>
+            <surname>van Dyck</surname>
+            <given-names>CH</given-names>
+          </name>
+          <name>
+            <surname>Gottron</surname>
+            <given-names>M</given-names>
+          </name>
+          <name>
+            <surname>Arnsten</surname>
+            <given-names>AF</given-names>
+          </name>
+          <article-title>Inhibition of protein kinase C signaling protects prefrontal cortex dendritic spines and cognition from the effects of chronic stress</article-title>
+          <source>Proc Nat Acad Sci USA</source>
+          <year>2009</year>
+          <volume>106</volume>
+          <issue>42</issue>
+          <fpage>17957</fpage>
+          <lpage>17562</lpage>
+          <pub-id pub-id-type="pmid">19805148</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R8">
+        <element-citation publication-type="journal" publication-format="print">
+          <name>
+            <surname>McKee</surname>
+            <given-names>SA</given-names>
+          </name>
+          <article-title>Developing human laboratory models of smoking lapse behavior for medication screening</article-title>
+          <source>Addict Biol</source>
+          <year>2009</year>
+          <volume>14</volume>
+          <issue>1</issue>
+          <fpage>99</fpage>
+          <lpage>107</lpage>
+          <pub-id pub-id-type="pmid">18855800</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R9">
+        <element-citation publication-type="journal" publication-format="print">
+          <name>
+            <surname>Taylor</surname>
+            <given-names>FB</given-names>
+          </name>
+          <name>
+            <surname>Martin</surname>
+            <given-names>P</given-names>
+          </name>
+          <name>
+            <surname>Thompson</surname>
+            <given-names>C</given-names>
+          </name>
+          <name>
+            <surname>Williams</surname>
+            <given-names>J</given-names>
+          </name>
+          <name>
+            <surname>Mellman</surname>
+            <given-names>TA</given-names>
+          </name>
+          <name>
+            <surname>Gross</surname>
+            <given-names>C</given-names>
+          </name>
+          <etal/>
+          <article-title>Prazosin effects on objective sleep measures and clinical symptoms in civilian trauma posttraumatic stress disorder: a placebo-controlled study</article-title>
+          <source>Biol Psychiatry</source>
+          <year>2008</year>
+          <volume>63</volume>
+          <issue>6</issue>
+          <fpage>629</fpage>
+          <lpage>632</lpage>
+          <pub-id pub-id-type="pmid">17868655</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R10">
+        <element-citation publication-type="journal" publication-format="print">
+          <name>
+            <surname>Simpson</surname>
+            <given-names>TL</given-names>
+          </name>
+          <name>
+            <surname>Saxon</surname>
+            <given-names>AJ</given-names>
+          </name>
+          <name>
+            <surname>Meredith</surname>
+            <given-names>CW</given-names>
+          </name>
+          <name>
+            <surname>Malte</surname>
+            <given-names>CA</given-names>
+          </name>
+          <name>
+            <surname>McBride</surname>
+            <given-names>B</given-names>
+          </name>
+          <name>
+            <surname>Ferguson</surname>
+            <given-names>LC</given-names>
+          </name>
+          <etal/>
+          <article-title>A pilot trial of the alpha-1 adrenergic antagonist, prazosin, for alcohol dependence</article-title>
+          <source>Alcohol Clin Exp Res</source>
+          <year>2009</year>
+          <volume>33</volume>
+          <issue>2</issue>
+          <fpage>255</fpage>
+          <lpage>263</lpage>
+          <pub-id pub-id-type="pmid">18945226</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="R11">
+        <element-citation publication-type="confproc">
+          <name>
+            <surname>McKee</surname>
+            <given-names>SA</given-names>
+          </name>
+          <source>Medications to Rescue the Prefrontal Cortex, Decrease Stress, and Overcome Bad Habits</source>
+          <conf-name>Presented at: The Science of Stress: Focus on the Brain, Breaking Bad Habits, and Chronic Disease. Yale Continuing Medical Education Conference</conf-name>
+          <conf-date>2011 June 7</conf-date>
+          <conf-loc>New Haven, Connecticut</conf-loc>
+        </element-citation>
+      </ref>
+      <ref id="R12">
+        <element-citation publication-type="journal" publication-format="print">
+          <name>
+            <surname>Gamo</surname>
+            <given-names>NJ</given-names>
+          </name>
+          <name>
+            <surname>Arnsten</surname>
+            <given-names>AF</given-names>
+          </name>
+          <article-title>Molecular modulation of prefrontal cortex: rational development of treatments for psychiatric disorders</article-title>
+          <source>Behav Neurosci</source>
+          <year>2011</year>
+          <volume>125</volume>
+          <issue>3</issue>
+          <fpage>282</fpage>
+          <lpage>296</lpage>
+          <pub-id pub-id-type="pmid">21480691</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+

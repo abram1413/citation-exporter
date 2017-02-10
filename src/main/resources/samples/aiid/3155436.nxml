@@ -1,0 +1,93 @@
+<!-- ArticleInstanceId : 3155436, Path: canfamphys/57-2011/8/preload/nxml/, Name : 0570879c.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN" "archivearticle3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="correction">
+  <?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?>
+  <?DTDIdentifier.IdentifierType public?>
+  <?SourceDTD.DTDName journalpublishing.dtd?>
+  <?SourceDTD.Version 2.3?>
+  <?ConverterInfo.XSLTName jp2nlmx2.xsl?>
+  <?ConverterInfo.Version 2?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Can Fam Physician</journal-id>
+      <journal-id journal-id-type="hwp">cfp</journal-id>
+      <journal-id journal-id-type="publisher-id">CFP</journal-id>
+      <journal-title-group>
+        <journal-title>Canadian Family Physician</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0008-350X</issn>
+      <issn pub-type="epub">1715-5258</issn>
+      <publisher>
+        <publisher-name>College of Family Physicians of Canada</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">879-c</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Correction</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Correction</article-title>
+      </title-group>
+      <pub-date pub-type="ppub">
+        <month>8</month>
+        <year>2011</year>
+      </pub-date>
+      <volume>57</volume>
+      <issue>8</issue>
+      <fpage seq="a">879</fpage>
+      <lpage>879</lpage>
+      <permissions>
+        <copyright-statement>Copyright&#x000a9; the College of Family Physicians of Canada</copyright-statement>
+        <copyright-year>2011</copyright-year>
+      </permissions>
+      <self-uri xlink:title="pdf" xlink:type="simple" xlink:href="879-c.pdf"/>
+      <related-article xlink:href="3038813" related-article-type="corrected-article" ext-link-type="pmcid" id="d32e50"/>
+    </article-meta>
+  </front>
+  <body>
+    <p>In the February 2011 Motherisk Update,<sup>
+        <xref rid="b1-0570879c" ref-type="bibr">1</xref>
+      </sup> the answer statement in the abstract section should appear as follows:
+    </p>
+    <p>
+      <bold>
+        <italic>Answer</italic>
+      </bold> Our recent large study shows that diclectin is developmentally safe, and that, in general, children exposed to morning sickness achieve better developmentally.
+    </p>
+    <p>
+      <italic>Canadian Family Physician</italic> apologizes for any inconvenience this might have caused.
+    </p>
+  </body>
+  <back>
+    <ref-list>
+      <title>Reference</title>
+      <ref id="b1-0570879c">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nulman</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Koren</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Diclectin for morning sickness. Long-term neurodevelopment</article-title>
+          <source>Can Fam Physician</source>
+          <year>2011</year>
+          <volume>57</volume>
+          <fpage>193</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="pmid">21642716</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
+

@@ -35,6 +35,7 @@ public class CitationProcessor {
     private final String style;
     private ItemSource itemSource;
     private ItemProvider itemProvider;
+    private String wantsIdType;
 
     /**
      * @param style
@@ -47,6 +48,7 @@ public class CitationProcessor {
         log = LoggerFactory.getLogger(this.getClass());
         this.style = style;
         this.itemSource = itemSource;
+        this.wantsIdType = itemSource.wantsIdType();
         itemProvider = new ItemProvider();
         try {
             csl = new CSL(itemProvider, style);
@@ -78,9 +80,16 @@ public class CitationProcessor {
     public Bibliography makeBibliography(RequestIdList idList, String format)
         throws NotFoundException, BadParamException, IOException
     {
+        log.debug("makeBibliography: calling prefetchItems() with idList:" + idList.toString());
         prefetchItems(idList);
+        log.debug("back from prefetchItems()");
         csl.setOutputFormat(format);
-        csl.registerCitationItems(idList.getCuriesByType("aiid"));
+
+        log.debug("Calling idList.getCuriesByType(" + this.wantsIdType + ")");
+        String [] curies = idList.getCuriesByType(this.wantsIdType);
+        log.debug("Got curies: " + String.join(",", curies));
+
+        csl.registerCitationItems(curies);
         long mb_start = System.currentTimeMillis();
         Bibliography bibl = csl.makeBibliography();
         log.debug("makeBibliography took " +
@@ -105,6 +114,8 @@ public class CitationProcessor {
     public void prefetchItems(RequestIdList idList)
         throws NotFoundException, BadParamException, IOException
     {
+        log.debug(">>>>>>>>>>>>>>>>>>>>>>>>>>>> prefetchItems <<<<<<<<<<<<<<<<<<<<<<<<<< ");
+        log.debug("wantsIdType: " + wantsIdType);
         itemProvider.clearCache();
         int numIds = idList.size();
 
@@ -113,16 +124,22 @@ public class CitationProcessor {
         Exception e = null;
         for (int i = 0; i < numIds; ++i) {
             RequestId requestId = idList.get(i);
-            Identifier id = requestId.getIdByType("aiid");
+            Identifier id = requestId.getIdByType(this.wantsIdType);
+            log.debug("id = " + id);
             if (id == null) continue;
             String curie = id.getCurie();
+            log.debug("curie = " + curie);
 
             // Unfortunately, we have to get the JSON as a Jackson object, then
             // serialize it and parse it back in as a citeproc-java object. See
             // this question:
             // https://github.com/michel-kraemer/citeproc-java/issues/9
 
-            requestId.setGood(false);  // assume this will fail
+            // Use the data field of the requestId to store the status of
+            // generating the JSON, where `false` means failed and `true` means
+            // succeeded.
+
+            requestId.setData(false);  // assume this will fail
             ObjectMapper objectMapper = itemSource.getMapper();
             JsonNode jsonNode = null;
             try {
@@ -156,7 +173,7 @@ public class CitationProcessor {
                 if (item == null) throw new IOException(
                     "Problem creating a CSLItemData object from backend JSON");
                 itemProvider.addItem(curie, item);
-                requestId.setGood(true); // success
+                requestId.setData(true); // success
                 foundOneGood = true;
             }
         }

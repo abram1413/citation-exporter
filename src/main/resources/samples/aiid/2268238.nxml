@@ -1,0 +1,1157 @@
+<!-- ArticleInstanceId : 2268238, Path: jmla/96-2008/2/preload/nxml/, Name : i1536-5050-096-02-0147.nxml -->
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="brief-report">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Med Libr Assoc</journal-id>
+      <journal-title>Journal of the Medical Library Association : JMLA</journal-title>
+      <issn pub-type="ppub">1536-5050</issn>
+      <issn pub-type="epub">1558-9439</issn>
+      <publisher>
+        <publisher-name>Medical Library Association</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3163/1536-5050.96.2.147</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Brief Communications</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Systematic searches for the effectiveness of respite care<xref rid="FNIRP" ref-type="fn"/>
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Golder</surname>
+            <given-names>Su</given-names>
+          </name>
+          <degrees>MSc</degrees>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mason</surname>
+            <given-names>Anne</given-names>
+          </name>
+          <degrees>MA</degrees>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Spilsbury</surname>
+            <given-names>Karen</given-names>
+          </name>
+          <degrees>PhD</degrees>
+        </contrib>
+      </contrib-group>
+      <aff>
+        <bold>Su Golder, MSc</bold> (corresponding author), <email>spg3&#x00040;york.ac.uk</email>, Centre for Reviews and Dissemination; <bold>Anne Mason, MA,</bold>
+        <email>arm10&#x00040;york.ac.uk</email>, Centre for Health Economics; <bold>Karen Spilsbury, PhD,</bold>
+        <email>ks25&#x00040;york.ac.uk</email>, Department of Health Sciences, University of York, Heslington YO10 5DD
+      </aff>
+      <pub-date pub-type="ppub">
+        <month>4</month>
+        <year>2008</year>
+      </pub-date>
+      <volume>96</volume>
+      <issue>2</issue>
+      <fpage>147</fpage>
+      <lpage>152</lpage>
+      <history>
+        <date date-type="received">
+          <month>7</month>
+          <year>2007</year>
+        </date>
+        <date date-type="accepted">
+          <month>11</month>
+          <year>2007</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#x000a9; 2008, Authors.</copyright-statement>
+        <copyright-year>2008</copyright-year>
+        <license>
+          <p>Readers may use articles without permission of copyright owners, as long as the author and MLA are acknowledged and the use is educational and not for profit.</p>
+        </license>
+      </permissions>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title>INTRODUCTION</title>
+      <p>Evidence-based assessment of the effectiveness of interventions is increasingly being adopted in disciplines beyond medicine &#x0005b;<xref rid="i1536-5050-096-02-0147-b1" ref-type="bibr">1</xref>, <xref rid="i1536-5050-096-02-0147-b2" ref-type="bibr">2</xref>&#x0005d;, and a particular area of interest is social care (care that helps people with daily living, personal care, and independence) &#x0005b;<xref rid="i1536-5050-096-02-0147-b3" ref-type="bibr">3</xref>&#x02013;<xref rid="i1536-5050-096-02-0147-b5" ref-type="bibr">5</xref>&#x0005d;. The resulting increase in the demand for systematic reviews of the effectiveness of social care interventions &#x0005b;<xref rid="i1536-5050-096-02-0147-b1" ref-type="bibr">1</xref>, <xref rid="i1536-5050-096-02-0147-b2" ref-type="bibr">2</xref>, <xref rid="i1536-5050-096-02-0147-b6" ref-type="bibr">6</xref>&#x0005d; is challenging for systematic reviewers, particularly regarding how to best identify appropriate evidence for inclusion &#x0005b;<xref rid="i1536-5050-096-02-0147-b1" ref-type="bibr">1</xref>&#x02013;<xref rid="i1536-5050-096-02-0147-b4" ref-type="bibr">4</xref>, <xref rid="i1536-5050-096-02-0147-b7" ref-type="bibr">7</xref>&#x02013;<xref rid="i1536-5050-096-02-0147-b8" ref-type="bibr">8</xref>&#x0005d;. A range of databases can provide evidence on the effectiveness of social care interventions &#x0005b;<xref rid="i1536-5050-096-02-0147-b1" ref-type="bibr">1</xref>, <xref rid="i1536-5050-096-02-0147-b2" ref-type="bibr">2</xref>, <xref rid="i1536-5050-096-02-0147-b9" ref-type="bibr">9</xref>&#x0005d;, including general medical databases (e.g., EMBASE and MEDLINE) and the increasing number of databases available that focus on social care (e.g., Sociological Abstracts and Social Services Abstracts). Systematic literature searches of the evidence in this field are problematic for two reasons: the optimal number and combination of databases is unknown &#x0005b;<xref rid="i1536-5050-096-02-0147-b1" ref-type="bibr">1</xref>&#x02013;<xref rid="i1536-5050-096-02-0147-b4" ref-type="bibr">4</xref>, <xref rid="i1536-5050-096-02-0147-b7" ref-type="bibr">7</xref>&#x02013;<xref rid="i1536-5050-096-02-0147-b9" ref-type="bibr">9</xref>&#x0005d; and the creation of combinations of search terms that retrieve all the relevant references is difficult &#x0005b;<xref rid="i1536-5050-096-02-0147-b1" ref-type="bibr">1</xref>, <xref rid="i1536-5050-096-02-0147-b2" ref-type="bibr">2</xref>&#x0005d;.</p>
+      <p>The selection of search terms in social care topics is also problematic due to variations in the terminology used, the country of origin, and changes over time &#x0005b;<xref rid="i1536-5050-096-02-0147-b1" ref-type="bibr">1</xref>&#x0005d;. For example, although the term &#x0201c;carer&#x0201d; is often used in the United Kingdom, terms such as &#x0201c;caregiver&#x0201d; or &#x0201c;caretaker&#x0201d; are used in the United States. In addition, phrases such as &#x0201c;children caring for their elderly relatives&#x0201d; or &#x0201c;husbands supporting their wives&#x0201d; can be substituted for &#x0201c;carer.&#x0201d; The use of different definitions of &#x0201c;carers&#x0201d; can also impact the searching process. For example, some definitions include paid workers, while others include only volunteers. To identify papers relating to paid caregivers terms such as &#x0201c;health personnel,&#x0201d; &#x0201c;care worker,&#x0201d; or &#x0201c;health care assistant&#x0201d; may be appropriate, while for volunteers terms such as &#x0201c;neighbor,&#x0201d; &#x0201c;friend,&#x0201d; or &#x0201c;spouse&#x0201d; are more appropriate.</p>
+      <p>With a wide range of potentially useful databases and a lack of standardized terminology, searching a large number of databases with broad search strategies encompassing many variants of the terminology seems the most effective way to ensure identification of most of the relevant studies. However, this approach may also retrieve large numbers of irrelevant records. The aim of this study was to ascertain the relative contributions of a range of potentially useful databases and other sources for identifying evidence for a systematic review of social care.</p>
+    </sec>
+    <sec id="s2" sec-type="methods">
+      <title>METHODS</title>
+      <p>This study examined which resources (e.g., databases, hand searching) yielded references used in a recent systematic review of the effectiveness of respite care for carers of frail older people &#x0005b;<xref rid="i1536-5050-096-02-0147-b10" ref-type="bibr">10</xref>&#x0005d;. The original review was conducted according to published guidance &#x0005b;<xref rid="i1536-5050-096-02-0147-b11" ref-type="bibr">11</xref>&#x0005d;.</p>
+      <sec id="s2a">
+        <title>Search strategy</title>
+        <p>To identify relevant papers for the original review on respite care, reviewers searched a range of databases with medical and/or social care content, as well as databases of different types of publications (e.g., gray literature and conferences) and studies (e.g., economic evaluations and randomized controlled trials &#x0005b;RCTs&#x0005d;) (Table 1 online). Studies were also sought by checking references, searching citations of key papers, and contacting authors and organizations &#x0005b;<xref rid="i1536-5050-096-02-0147-b10" ref-type="bibr">10</xref>&#x0005d;.</p>
+        <p>The review question comprised three search facets: &#x0201c;carers,&#x0201d; &#x0201c;frail elderly,&#x0201d; and &#x0201c;respite care.&#x0201d; After many search iterations, the review team decided that the search strategy should focus on the search facets &#x0201c;carers&#x0201d; and &#x0201c;respite care&#x0201d; and not include search terms for &#x0201c;frail elderly,&#x0201d; as the team's previous experience &#x0005b;<xref rid="i1536-5050-096-02-0147-b12" ref-type="bibr">12</xref>&#x0005d; and exploratory searches indicated that some relevant references did not specify any age category in the bibliographic records. To capture as many of the relevant records as possible and overcome the variation in terminology for &#x0201c;carers&#x0201d; and &#x0201c;respite care,&#x0201d; the search strategies incorporated many different synonyms for these terms (Table 2 online). The search strategy was adapted for use in each database.</p>
+      </sec>
+      <sec id="s2b">
+        <title>Retrospective analysis</title>
+        <p>In the retrospective analysis reported here, the authors recorded whether all of the original review's references were identified in each resource, using the search strategy described above. The authors also conducted simple searches in the resources for the citations included in the original review to identify whether they were available in each resource at the time of searching. To establish if each record was available at the time of searching, the entry date of the record was compared to the date of the original search. For references available in a database but not identified by the original review's search strategy, the bibliographic record of the reference was examined for terms or phrases used to denote &#x0201c;carers&#x0201d; and &#x0201c;respite care&#x0201d; in the title, abstract, or indexing to determine why it had not been identified.</p>
+        <p>The sensitivity, precision, and number needed to read (NNR) were calculated for the search in each of the databases. NNR is an index of how many records need to be read to find one included record. The authors used the following definitions: <disp-formula id="i1536-5050-096-02-0147-eq1">
+            <inline-graphic xlink:href="i1536-5050-096-02-0147-eq1.jpg" id="N0x3378390N0x34bb8d0"/>
+          </disp-formula> The minimum combination of databases required to identify all included studies was recorded. This analysis was also repeated with the subset of included RCTs.
+        </p>
+      </sec>
+    </sec>
+    <sec id="s3">
+      <title>RESULTS</title>
+      <sec id="s3a">
+        <title>References examined for the original review</title>
+        <p>The searches for evidence for the systematic review on respite care retrieved 13,092 unique records (25,374 before deduplication), and an additional 3,768 records (before deduplication) were retrieved from searches for ongoing studies. Searches in PsycINFO provided the greatest number of records, followed by MEDLINE and AgeLine (<xref rid="i1536-5050-096-02-0147-t03" ref-type="table">Table 3</xref>).</p>
+        <p>Forty-four references were included in the systematic review: 57&#x00025; (25/44) were RCTs; 30&#x00025; (13/44) were quasi-experimental design (i.e., non-randomized controlled studies, where the control group may, for example, have been taken from a different geographic area and matched with the intervention group by age, gender, or clinical characteristics); and 14&#x00025; (6/44) were uncontrolled studies. More than a third (16/44) of the included studies included an economic evaluation.</p>
+        <p>Most of the included references (37/44, 84&#x00025;) were published as journal articles, 7&#x00025; as books or book chapters (3/44), 5&#x00025; as dissertations (2/44), 1 as a report, and 1 as a conference abstract.</p>
+      </sec>
+      <sec id="s3b">
+        <title>Sources of included references</title>
+        <p>
+          <bold>Where were the references available?</bold> Executing individual searches (e.g., author name, title word) in the resources for each of the references included in the original review, the authors found that 18 of the 36 databases contained at least 1 included reference at the time of searching (Figure 1 online): MEDLINE contained the highest number of included references (30/ 44, 68&#x00025;), followed by Social Sciences Citation Index (SSCI; 26/44, 59&#x00025;) and AgeLine (25/44, 57&#x00025;). Four databases contained 1 unique reference, each at the time of the original searches for the systematic review: AgeLine, EMBASE, PsycINFO, and SSCI. Three included references (1 book chapter, 1 conference abstract, 1 dissertation) were only available by checking references or contacting authors. The minimum combination of sources that contained all the included references was AgeLine, EMBASE, Health Management Information Consortium (HMIC), MEDLINE, PsycINFO, SSCI, reference checking, and author contact.
+        </p>
+        <p>
+          <bold>Where were the references identified by the search strategies used in the original review?</bold> In the majority of the databases, the search strategies failed to retrieve all the included references available in that database (Figure 1 online), due to the bibliographic details containing: <list id="N0x3378390N0x34bbe10" list-type="bullet">
+            <list-item>
+              <p>no carer terms (ten records)</p>
+            </list-item>
+            <list-item>
+              <p>no respite terms (six records)</p>
+            </list-item>
+            <list-item>
+              <p>ambiguous carers terms (two records) (e.g., &#x0201c;families of the aged&#x0201d;)</p>
+            </list-item>
+            <list-item>
+              <p>ambiguous respite care terms (five records) (e.g., &#x0201c;practical and emotional help&#x0201d; or &#x0201c;support strategies&#x0201d;)</p>
+            </list-item>
+          </list> Fourteen bibliographic records contained no abstract, and two a limited abstract. Unique references (i.e., items available in only one of the searched resources) were identified by the search strategies used in the systematic review in four databases: AgeLine (two records), EMBASE (two records), PsycINFO (two records), and SSCI (one record).
+        </p>
+        <p>The minimum combination of sources to retrieve all the included references <italic>with the search strategies used in the systematic review</italic> was the same combination of sources that contained all the included references: AgeLine, EMBASE, HMIC, MEDLINE, PsycINFO, SSCI, reference checking, and contacting authors.</p>
+      </sec>
+      <sec id="s3c">
+        <title>Search strategy precision</title>
+        <p>The precision of the search strategies in the majority of the databases was very low (<xref rid="i1536-5050-096-02-0147-t03" ref-type="table">Table 3</xref>). The Cochrane Central Register of Controlled Trials (CENTRAL) had the highest precision (5.17&#x00025;), meaning that approximately 19 records would need to be read to retrieve 1 included reference. Specialized databases relating to the elderly had low precision (AgeInfo, 1.05&#x00025;; AgeLine, 0.98&#x00025;).</p>
+      </sec>
+      <sec id="s3d">
+        <title>Sources of included randomized controlled trials (RCTs)</title>
+        <p>
+          <bold>Where were the RCTs available?</bold> Over half of the included references were RCTs (25/44, 57&#x00025;). Fifteen of the 36 databases contained as least 1 included RCT at the time of searching (Figure 2 online). MEDLINE contained the greatest number of included RCTs (20/25), followed by AgeLine (18/25) and CENTRAL (18/25) (Figure 2 online). Unique included RCTs (i.e., RCTs only available in 1 resource) were available from searching AgeLine, by checking references, and by contacting authors.
+        </p>
+        <p>The minimum combinations of sources that contained all the included RCTs were AgeLine, reference checking, and contacting authors plus: <list id="N0x3378390N0x34bc350" list-type="simple">
+            <list-item>
+              <p>a.&#x02002; MEDLINE and EMBASE</p>
+            </list-item>
+            <list-item>
+              <p>b.&#x02002; CENTRAL and MEDLINE</p>
+            </list-item>
+            <list-item>
+              <p>c.&#x02002; CENTRAL and EMBASE</p>
+            </list-item>
+          </list>
+        </p>
+        <p>
+          <bold>Where were the RCTs identified?</bold> In most databases, the search strategies failed to retrieve all the included RCTs available in that database (Figure 2 online). The minimum necessary combination of sources to retrieve all the included RCTs <italic>with the search strategies used in the systematic review</italic> was the same combination as those that contained all the included references: AgeLine, reference checking, and contacting authors plus: <list id="N0x3378390N0x34bc530" list-type="simple">
+            <list-item>
+              <p>a.&#x02002; MEDLINE and EMBASE</p>
+            </list-item>
+            <list-item>
+              <p>b.&#x02002; CENTRAL and MEDLINE</p>
+            </list-item>
+            <list-item>
+              <p>c.&#x02002; CENTRAL and EMBASE</p>
+            </list-item>
+          </list> The combination of AgeLine, CENTRAL, and EMBASE plus reference checking and contacting authors had the highest precision and 100&#x00025; sensitivity.
+        </p>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>DISCUSSION</title>
+      <sec id="s4a">
+        <title>Databases</title>
+        <p>Post-hoc analysis demonstrated that complete retrieval of included references for a systematic review on respite care could be achieved by searching six databases plus reference checking and contacting authors. The six databases that needed to be searched to identify all the included references for this systematic review were two first-line health databases (EMBASE, MEDLINE), three specialist databases (AgeLine, HMIC, and PsycINFO), and a social science database (SSCI). This range of databases probably reflects the multidisciplinary nature of the topic, which is typical of reviews of social care &#x0005b;<xref rid="i1536-5050-096-02-0147-b2" ref-type="bibr">2</xref>, <xref rid="i1536-5050-096-02-0147-b11" ref-type="bibr">11</xref>&#x0005d;. These results also reinforced the results of other studies outside the traditional medical arena that have indicated the value of searching more than one or two databases &#x0005b;<xref rid="i1536-5050-096-02-0147-b6" ref-type="bibr">6</xref>, <xref rid="i1536-5050-096-02-0147-b13" ref-type="bibr">13</xref>&#x02013;<xref rid="i1536-5050-096-02-0147-b15" ref-type="bibr">15</xref>&#x0005d;.</p>
+        <p>The minimum number of sources needed to retrieve all included RCTs was easier to predict: CENTRAL, MEDLINE, and EMBASE are suggested as the best sources &#x0005b;<xref rid="i1536-5050-096-02-0147-b16" ref-type="bibr">16</xref>&#x02013;<xref rid="i1536-5050-096-02-0147-b18" ref-type="bibr">18</xref>&#x0005d;. Searches beyond these databases are sometimes recommended &#x0005b;<xref rid="i1536-5050-096-02-0147-b15" ref-type="bibr">15</xref>, <xref rid="i1536-5050-096-02-0147-b19" ref-type="bibr">19</xref>&#x02013;<xref rid="i1536-5050-096-02-0147-b21" ref-type="bibr">21</xref>&#x0005d;, and the value of searching specialist databases dependent on the topic has also been emphasized (e.g., PsycINFO for mental health topics &#x0005b;<xref rid="i1536-5050-096-02-0147-b4" ref-type="bibr">4</xref>&#x0005d;, the Transport database for transport topics &#x0005b;<xref rid="i1536-5050-096-02-0147-b8" ref-type="bibr">8</xref>&#x0005d;, AgeInfo for home care services for older people &#x0005b;<xref rid="i1536-5050-096-02-0147-b1" ref-type="bibr">1</xref>&#x0005d;, and CINAHL for nurse related topics &#x0005b;<xref rid="i1536-5050-096-02-0147-b22" ref-type="bibr">22</xref>&#x0005d;). These results were similar to those of Bayliss et al., who found that the minimum combination of databases to identify RCTs for a psychological intervention was a specialist database (PsycINFO) plus CENTRAL, EMBASE, and MEDLINE &#x0005b;<xref rid="i1536-5050-096-02-0147-b4" ref-type="bibr">4</xref>&#x0005d;.</p>
+        <p>The usefulness of reference checking, contacting experts, and other more serendipitous means of identifying relevant information has often been emphasized &#x0005b;<xref rid="i1536-5050-096-02-0147-b20" ref-type="bibr">20</xref>, <xref rid="i1536-5050-096-02-0147-b23" ref-type="bibr">23</xref>&#x02013;<xref rid="i1536-5050-096-02-0147-b25" ref-type="bibr">25</xref>&#x0005d; and is supported by the current retrospective analysis: both reference checking and contacting authors produced at least one unique reference included in the review.</p>
+      </sec>
+      <sec id="s4b">
+        <title>Search strategies</title>
+        <p>Despite using a very broad search strategy, with many synonyms for &#x0201c;carer&#x0201d; and &#x0201c;respite&#x0201d; terms and no restrictions with &#x0201c;frail&#x0201d; or &#x0201c;elderly&#x0201d; terms or by study design, most of the searches did not retrieve all the available included references, demonstrating the variability in the use of terms for social care concepts. It also indicates the value of including abstracts in citation records and appropriate indexing: many of the records that were missed by the database searches for the systematic review did not have an abstract and/or appropriate indexing terms.</p>
+      </sec>
+      <sec id="s4c">
+        <title>Limitations</title>
+        <p>The current study is limited to one systematic review, so generalizability of the results has not been tested on other systematic reviews. In addition, the analysis did not take into consideration the impact on the results of the systematic review if some of the studies had not been identified (e.g., if only MEDLINE had been searched, would the review conclude differently on the effectiveness of respite care?).</p>
+        <p>To accurately predict the ideal combination of databases identified in the current retrospective analysis would be virtually impossible and is unlikely to be generalizable to other areas of social care. However, analyses of other systematic reviews in similar topic areas are still recommended as, although they are unlikely to uncover a definitive set of databases to search for evidence in systematic reviews of social care, they may provide a useful insight into which databases frequently contain or rarely contain included references, allowing for more efficient use of searching effort.</p>
+      </sec>
+    </sec>
+    <sec id="s5">
+      <title>CONCLUSION</title>
+      <p>It is widely accepted that search strategies for systematic reviews of social care interventions should contain a range of synonyms and few limits to increase sensitivity &#x0005b;<xref rid="i1536-5050-096-02-0147-b2" ref-type="bibr">2</xref>&#x0005d;. The current study demonstrates, however, that information professionals need to be aware that even sensitive search strategies with a broad range of synonyms may not identify all the references meeting the inclusion criteria that are available in a particular database. Searching a number of different sources is likely one key way to compensate for these issues.</p>
+      <p>This paper also demonstrates that a systematic review of a social care topic may require a range of databases covering different disciplines. Reference checking and contacting authors are also valuable sources of unique relevant references and provides materials not available through the use of databases.</p>
+    </sec>
+    <sec id="s6">
+      <title>ACKNOWLEDGMENTS</title>
+      <p>The authors thank Hilary Arksey and Caroline Glendinning from the Social Policy Research Unit, University of York; Helen Weatherly and Michael Drummond from the Centre for Health Economics; University of York and Joy Adamson from the Department of Health Sciences, University of York, for their contributions to the original systematic review. The authors also thank Jane Burch, Julie Glanville, and Marie Westwood from the Centre for Reviews and Dissemination, University of York, for helpful comments on an earlier draft.</p>
+    </sec>
+    <sec id="s7">
+      <title>FUNDING</title>
+      <p>The authors received funding from the UK Department of Health's National Coordinating Centre for Health Technology Assessment (NCCHTA) to carry out the systematic review on the effectiveness and cost effectiveness of different models of community-based respite care for frail older people and their carers. The opinions and conclusions expressed here are those of the authors and do not necessarily reflect those of the UK National Health Service or Department of Health.</p>
+      <p>No funding was received for the retrospective analysis of the references included in this review.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Material</title>
+      <supplementary-material id="PMC_1" content-type="local-data">
+        <caption>
+          <title>Figure 1</title>
+        </caption>
+        <media mimetype="application" mime-subtype="pdf" xlink:href="i1536-5050-096-02-0147-s1-f1.pdf"/>
+      </supplementary-material>
+      <supplementary-material id="PMC_2" content-type="local-data">
+        <caption>
+          <title>Figure 2</title>
+        </caption>
+        <media mimetype="application" mime-subtype="pdf" xlink:href="i1536-5050-096-02-0147-s1-f2.pdf"/>
+      </supplementary-material>
+      <supplementary-material id="PMC_3" content-type="local-data">
+        <caption>
+          <title>Table 1</title>
+        </caption>
+        <media mimetype="application" mime-subtype="pdf" xlink:href="i1536-5050-096-02-0147-s1-t1.pdf"/>
+      </supplementary-material>
+      <supplementary-material id="PMC_4" content-type="local-data">
+        <caption>
+          <title>Table 2</title>
+        </caption>
+        <media mimetype="application" mime-subtype="pdf" xlink:href="i1536-5050-096-02-0147-s1-t2.pdf"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="i1536-5050-096-02-0147-b1">
+        <citation citation-type="journal">
+          <name>
+            <surname>Grayson</surname>
+            <given-names>L</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Gomersall</surname>
+            <given-names>A.</given-names>
+          </name>
+          <article-title>A difficult business: finding the evidence for social science reviews (working paper 19)</article-title>
+          <x>. </x>
+          <comment>London, UK: Economic and Social Research Council, UK Centre for Evidence Based Policy and Practice, 2003</comment>
+          <x>. </x>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b2">
+        <citation citation-type="journal">
+          <name>
+            <surname>Petticrew</surname>
+            <given-names>M</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Roberts</surname>
+            <given-names>H.</given-names>
+          </name>
+          <article-title>Systematic reviews in the social sciences: a practical guide</article-title>
+          <x>. </x>
+          <comment>Malden, MA: Blackwell Publishing, 2006</comment>
+          <x>. </x>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b3">
+        <citation citation-type="journal">
+          <name>
+            <surname>Taylor</surname>
+            <given-names>BJ</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Dempster</surname>
+            <given-names>M</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Donnelly</surname>
+            <given-names>M.</given-names>
+          </name>
+          <article-title>Hidden gems: systematically searching electronic databases for research publications for social work and social care</article-title>
+          <x>. </x>
+          <source>Br J Soc Work</source>
+          <x>. </x>
+          <year>2003</year>
+          <x>&#x000a0;</x>
+          <comment>Jun;</comment>
+          <x>&#x000a0;</x>
+          <volume>33</volume>
+          <x>(</x>
+          <issue>4</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>423</fpage>
+          <x>&#x02013;</x>
+          <lpage>9</lpage>
+          <x>.</x>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b4">
+        <citation citation-type="journal">
+          <name>
+            <surname>Bayliss</surname>
+            <given-names>S</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Dretzke</surname>
+            <given-names>J.</given-names>
+          </name>
+          <article-title>Health technology assessment in social care: a case study of randomized controlled trial retrieval</article-title>
+          <x>. </x>
+          <source>Int J Technol Assess Health Care</source>
+          <x>. </x>
+          <year>2006</year>
+          <x>&#x000a0;</x>
+          <comment>Winter;</comment>
+          <x>&#x000a0;</x>
+          <volume>22</volume>
+          <x>(</x>
+          <issue>1</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>39</fpage>
+          <x>&#x02013;</x>
+          <lpage>46</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">16673679</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b5">
+        <citation citation-type="journal">
+          <name>
+            <surname>Cantor</surname>
+            <given-names>MH.</given-names>
+          </name>
+          <article-title>Social care: family and community support systems</article-title>
+          <x>. </x>
+          <source>Ann Amer Acad Pol Soc Sci</source>
+          <x>. </x>
+          <year>1989</year>
+          <x>&#x000a0;</x>
+          <comment>May;</comment>
+          <x>&#x000a0;</x>
+          <volume>(503)</volume>
+          <x>:</x>
+          <fpage>99</fpage>
+          <x>&#x02013;</x>
+          <lpage>112</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">10293092</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b6">
+        <citation citation-type="journal">
+          <collab>The Campbell Collaboration</collab>
+          <x>. </x>
+          <article-title>The Campbell Collaboration, what helps? what harms? based on what evidence? &#x0005b;web document&#x0005d;</article-title>
+          <x>. </x>
+          <comment>Washington, DC: American Institutes for Research, 2007. &#x0005b;cited 15 Jun 2007&#x0005d;. &#x0003c;<ext-link ext-link-type="uri" xlink:href="http://www.campbellcollaboration.org">http://www.campbellcollaboration.org</ext-link>&#x0003e;</comment>
+          <x>. </x>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b7">
+        <citation citation-type="journal">
+          <name>
+            <surname>Weaver</surname>
+            <given-names>N</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Williams</surname>
+            <given-names>JL</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Weightman</surname>
+            <given-names>AL</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Kitcher</surname>
+            <given-names>HN</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Temple</surname>
+            <given-names>JM</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Jones</surname>
+            <given-names>P</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Palmer</surname>
+            <given-names>S.</given-names>
+          </name>
+          <article-title>Taking STOX: developing a cross disciplinary methodology for systematic reviews of research on the built environment and the health of the public</article-title>
+          <x>. </x>
+          <source>J Epidemiol Community Health</source>
+          <x>. </x>
+          <year>2002</year>
+          <x>&#x000a0;</x>
+          <comment>Jan;</comment>
+          <x>&#x000a0;</x>
+          <volume>56</volume>
+          <x>(</x>
+          <issue>1</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>48</fpage>
+          <x>&#x02013;</x>
+          <lpage>55</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">11801620</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b8">
+        <citation citation-type="journal">
+          <name>
+            <surname>Ogilvie</surname>
+            <given-names>D</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Hamilton</surname>
+            <given-names>V</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Egan</surname>
+            <given-names>M</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Petticrew</surname>
+            <given-names>M.</given-names>
+          </name>
+          <article-title>Systematic reviews of health effects of social interventions: 1. finding the evidence: how far should you go?</article-title>
+          <source>J Epidemiol Community Health</source>
+          <x>. </x>
+          <year>2005</year>
+          <x>&#x000a0;</x>
+          <comment>Sep;</comment>
+          <x>&#x000a0;</x>
+          <volume>59</volume>
+          <x>(</x>
+          <issue>9</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>804</fpage>
+          <x>&#x02013;</x>
+          <lpage>8</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">16100321</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b9">
+        <citation citation-type="journal">
+          <name>
+            <surname>Gomersall</surname>
+            <given-names>A.</given-names>
+          </name>
+          <article-title>Finding the evidence: looking further afield</article-title>
+          <x>. </x>
+          <source>Evidence &#x00026; Policy</source>
+          <x>. </x>
+          <year>2005</year>
+          <x>&#x000a0;</x>
+          <comment>May;</comment>
+          <x>&#x000a0;</x>
+          <volume>1</volume>
+          <x>(</x>
+          <issue>2</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>269</fpage>
+          <x>&#x02013;</x>
+          <lpage>85</lpage>
+          <x>.</x>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b10">
+        <citation citation-type="journal">
+          <name>
+            <surname>Mason</surname>
+            <given-names>A</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Weatherly</surname>
+            <given-names>H</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Spilsbury</surname>
+            <given-names>K</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Golder</surname>
+            <given-names>S</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Arksey</surname>
+            <given-names>H</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Adamson</surname>
+            <given-names>J</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Drummond</surname>
+            <given-names>M</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Glendinning</surname>
+            <given-names>C.</given-names>
+          </name>
+          <article-title>A systematic review of the effectiveness and cost-effectiveness of different models of community-based care for frail older people and their carers</article-title>
+          <x>. </x>
+          <source>Health Technol Assess</source>
+          <x>. </x>
+          <year>2007</year>
+          <x>&#x000a0;</x>
+          <comment>Apr;</comment>
+          <x>&#x000a0;</x>
+          <volume>11</volume>
+          <x>(</x>
+          <issue>15</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>1</fpage>
+          <x>&#x02013;</x>
+          <lpage>157</lpage>
+          <x>.</x>
+          <comment>iii</comment>
+          <x>. </x>
+          <pub-id pub-id-type="pmid">17459263</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b11">
+        <citation citation-type="journal">
+          <collab>National Health Service Centre for Reviews and Dissemination</collab>
+          <x>. </x>
+          <article-title>Undertaking systematic reviews of research on effectiveness (CRD report 4). 2nd ed</article-title>
+          <x>. </x>
+          <comment>York, UK: University of York, National Health Service Centre for Reviews and Dissemination, 2001</comment>
+          <x>. </x>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b12">
+        <citation citation-type="journal">
+          <name>
+            <surname>Arksey</surname>
+            <given-names>H</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Jackson</surname>
+            <given-names>K</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Croucher</surname>
+            <given-names>K</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Weatherly</surname>
+            <given-names>H</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Golder</surname>
+            <given-names>S</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Hare</surname>
+            <given-names>P</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Newbronner</surname>
+            <given-names>E</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Baldwin</surname>
+            <given-names>S.</given-names>
+          </name>
+          <article-title>Review of respite services and short-term breaks for carers for people with dementia</article-title>
+          <x>. </x>
+          <comment>London, UK: National Health Service Service Delivery and Organisation, 2004</comment>
+          <x>. </x>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b13">
+        <citation citation-type="journal">
+          <name>
+            <surname>Brettle</surname>
+            <given-names>A</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Long</surname>
+            <given-names>A.</given-names>
+          </name>
+          <article-title>Comparison of bibliographic databases for information on the rehabilitation of people with severe mental illness</article-title>
+          <x>. </x>
+          <source>Bull Med Libr Assoc</source>
+          <x>. </x>
+          <year>2001</year>
+          <x>&#x000a0;</x>
+          <comment>Oct;</comment>
+          <x>&#x000a0;</x>
+          <volume>89</volume>
+          <x>(</x>
+          <issue>4</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>353</fpage>
+          <x>&#x02013;</x>
+          <lpage>62</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">11837257</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b14">
+        <citation citation-type="journal">
+          <name>
+            <surname>Matthews</surname>
+            <given-names>E</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Edwards</surname>
+            <given-names>A</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Barker</surname>
+            <given-names>J</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Bloor</surname>
+            <given-names>M</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Covey</surname>
+            <given-names>J</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Hood</surname>
+            <given-names>K</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Pill</surname>
+            <given-names>R</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Russell</surname>
+            <given-names>I</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Stott</surname>
+            <given-names>N</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Wilkinson</surname>
+            <given-names>C.</given-names>
+          </name>
+          <article-title>Efficient literature searching in diffuse topics: lessons from a systematic review of research on communicating risk to patients in primary care</article-title>
+          <x>. </x>
+          <source>Health Libr Rev</source>
+          <x>. </x>
+          <year>1999</year>
+          <x>&#x000a0;</x>
+          <comment>Jun;</comment>
+          <x>&#x000a0;</x>
+          <volume>16</volume>
+          <x>(</x>
+          <issue>2</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>112</fpage>
+          <x>&#x02013;</x>
+          <lpage>20</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">10538792</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b15">
+        <citation citation-type="journal">
+          <name>
+            <surname>Stevinson</surname>
+            <given-names>C</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Lawlor</surname>
+            <given-names>D.</given-names>
+          </name>
+          <article-title>Searching multiple databases for systematic reviews: added value or diminishing returns?</article-title>
+          <source>Complement Ther Med</source>
+          <x>. </x>
+          <year>2004</year>
+          <x>&#x000a0;</x>
+          <comment>Dec;</comment>
+          <x>&#x000a0;</x>
+          <volume>12</volume>
+          <x>(</x>
+          <issue>4</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>228</fpage>
+          <x>&#x02013;</x>
+          <lpage>32</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">15649836</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b16">
+        <citation citation-type="journal">
+          <name>
+            <surname>Egger</surname>
+            <given-names>M</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Juni</surname>
+            <given-names>P</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Bartlett</surname>
+            <given-names>C</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Holenstein</surname>
+            <given-names>F</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Sterne</surname>
+            <given-names>J.</given-names>
+          </name>
+          <article-title>How important are comprehensive literature searches and the assessment of trial quality in systematic reviews? empirical study</article-title>
+          <x>. </x>
+          <comment>Health Technol Assess 2003;7(1):1&#x02013;76</comment>
+          <x>. </x>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b17">
+        <citation citation-type="journal">
+          <name>
+            <surname>Royle</surname>
+            <given-names>P</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Milne</surname>
+            <given-names>R.</given-names>
+          </name>
+          <article-title>Literature searching for randomized controlled trials used in Cochrane reviews: rapid versus exhaustive searches</article-title>
+          <x>. </x>
+          <source>Int J Technol Assess Health Care</source>
+          <x>. </x>
+          <year>2003</year>
+          <x>&#x000a0;</x>
+          <comment>Fall;</comment>
+          <x>&#x000a0;</x>
+          <volume>19</volume>
+          <x>(</x>
+          <issue>4</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>591</fpage>
+          <x>&#x02013;</x>
+          <lpage>603</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">15095765</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b18">
+        <citation citation-type="journal">
+          <name>
+            <surname>Royle</surname>
+            <given-names>P</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Bain</surname>
+            <given-names>L</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Waugh</surname>
+            <given-names>N.</given-names>
+          </name>
+          <article-title>Sources of evidence for systematic reviews of interventions in diabetes</article-title>
+          <x>. </x>
+          <source>Diabet Med</source>
+          <x>. </x>
+          <year>2005</year>
+          <x>&#x000a0;</x>
+          <comment>Oct;</comment>
+          <x>&#x000a0;</x>
+          <volume>22</volume>
+          <x>(</x>
+          <issue>10</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>1386</fpage>
+          <x>&#x02013;</x>
+          <lpage>96</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">16176201</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b19">
+        <citation citation-type="journal">
+          <name>
+            <surname>Crumley</surname>
+            <given-names>ET</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Wiebe</surname>
+            <given-names>N</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Cramer</surname>
+            <given-names>K</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Klassen</surname>
+            <given-names>TP</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Hartling</surname>
+            <given-names>L.</given-names>
+          </name>
+          <article-title>Which resources should be used to identify RCT/CCTs for systematic reviews: a systematic review</article-title>
+          <x>. </x>
+          <comment>BMC Med Res Methodol &#x0005b;serial online&#x0005d;. 2005;5:24</comment>
+          <x>. </x>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b20">
+        <citation citation-type="journal">
+          <name>
+            <surname>Savoie</surname>
+            <given-names>I</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Helmer</surname>
+            <given-names>D</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Green</surname>
+            <given-names>CJ</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Kazanjian</surname>
+            <given-names>A.</given-names>
+          </name>
+          <article-title>Beyond Medline: reducing bias through extended systematic review search</article-title>
+          <x>. </x>
+          <source>Int J Technol Assess Health Care</source>
+          <x>. </x>
+          <year>2003</year>
+          <x>&#x000a0;</x>
+          <comment>Winter;</comment>
+          <x>&#x000a0;</x>
+          <volume>19</volume>
+          <x>(</x>
+          <issue>1</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>168</fpage>
+          <x>&#x02013;</x>
+          <lpage>78</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">12701949</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b21">
+        <citation citation-type="journal">
+          <name>
+            <surname>Betran</surname>
+            <given-names>A</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Say</surname>
+            <given-names>L</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Gulmezoglu</surname>
+            <given-names>A</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Allen</surname>
+            <given-names>T</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Hampson</surname>
+            <given-names>L.</given-names>
+          </name>
+          <article-title>Effectiveness of different databases in identifying studies for systematic reviews: experience from the WHO systematic review of maternal morbidity and mortality</article-title>
+          <x>. </x>
+          <comment>BMC Med Res Methodol &#x0005b;serial online&#x0005d;. 2005;5:6</comment>
+          <x>. </x>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b22">
+        <citation citation-type="journal">
+          <name>
+            <surname>Subirana</surname>
+            <given-names>M</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Sola</surname>
+            <given-names>I</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Garcia</surname>
+            <given-names>JM</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Gich</surname>
+            <given-names>I</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Urrutia</surname>
+            <given-names>G.</given-names>
+          </name>
+          <article-title>A nursing qualitative systematic review required MEDLINE and CINAHL for study identification</article-title>
+          <x>. </x>
+          <source>J Clin Epidemiol</source>
+          <x>. </x>
+          <year>2005</year>
+          <x>&#x000a0;</x>
+          <comment>Jan;</comment>
+          <x>&#x000a0;</x>
+          <volume>58</volume>
+          <x>(</x>
+          <issue>1</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>20</fpage>
+          <x>&#x02013;</x>
+          <lpage>5</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">15649667</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b23">
+        <citation citation-type="journal">
+          <name>
+            <surname>McManus</surname>
+            <given-names>RJ</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Wilson</surname>
+            <given-names>S</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Delaney</surname>
+            <given-names>BC</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Fitzmaurice</surname>
+            <given-names>DA</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Hyde</surname>
+            <given-names>CJ</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Tobias</surname>
+            <given-names>RS</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Jowett</surname>
+            <given-names>S</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Hobbs</surname>
+            <given-names>FD.</given-names>
+          </name>
+          <article-title>Review of the usefulness of contacting other experts when conducting a literature search for systematic reviews</article-title>
+          <x>. </x>
+          <source>BMJ</source>
+          <x>. </x>
+          <year>1998</year>
+          <x>&#x000a0;</x>
+          <comment>Dec 5;</comment>
+          <x>&#x000a0;</x>
+          <volume>317</volume>
+          <x>(</x>
+          <issue>7172</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>1562</fpage>
+          <x>&#x02013;</x>
+          <lpage>3</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">9836655</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b24">
+        <citation citation-type="journal">
+          <name>
+            <surname>Helmer</surname>
+            <given-names>D</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Savoie</surname>
+            <given-names>I</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Green</surname>
+            <given-names>C</given-names>
+          </name>
+          <x>, </x>
+          <x>and </x>
+          <name>
+            <surname>Kazanjian</surname>
+            <given-names>A.</given-names>
+          </name>
+          <article-title>Evidence-based practice: extending the search to find material for the systematic review</article-title>
+          <x>. </x>
+          <source>Bull Med Libr Assoc</source>
+          <x>. </x>
+          <year>2001</year>
+          <x>&#x000a0;</x>
+          <comment>Oct;</comment>
+          <x>&#x000a0;</x>
+          <volume>89</volume>
+          <x>(</x>
+          <issue>4</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>346</fpage>
+          <x>&#x02013;</x>
+          <lpage>52</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">11837256</pub-id>
+        </citation>
+      </ref>
+      <ref id="i1536-5050-096-02-0147-b25">
+        <citation citation-type="journal">
+          <name>
+            <surname>Greenhalgh</surname>
+            <given-names>T</given-names>
+          </name>
+          <x>, </x>
+          <name>
+            <surname>Peacock</surname>
+            <given-names>R.</given-names>
+          </name>
+          <article-title>Effectiveness and efficiency of search methods in systematic reviews of complex evidence: audit of primary sources</article-title>
+          <x>. </x>
+          <source>BMJ</source>
+          <x>. </x>
+          <year>2005</year>
+          <x>&#x000a0;</x>
+          <comment>Nov 5;</comment>
+          <x>&#x000a0;</x>
+          <volume>331</volume>
+          <x>(</x>
+          <issue>7524</issue>
+          <x>)</x>
+          <x>:</x>
+          <fpage>1064</fpage>
+          <x>&#x02013;</x>
+          <lpage>5</lpage>
+          <x>.</x>
+          <pub-id pub-id-type="pmid">16230312</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="FNIRP">
+        <p>This article has been approved for the Medical Library Association's Independent Reading Program &#x0003c;<ext-link ext-link-type="uri" xlink:href="http://www.mlanet.org/education/irp/">http://www.mlanet.org/education/irp/</ext-link>&#x0003e;.</p>
+      </fn>
+      <fn id="n102">
+        <p>Supplemental Tables 1 and 2 and Figures 1 and 2 are available with the online version of this journal.</p>
+      </fn>
+    </fn-group>
+  </back>
+  <floats-wrap>
+    <table-wrap id="i1536-5050-096-02-0147-t03" position="float">
+      <caption>
+        <p>Table 3 Sensitivity, precision, and number needed to read for each database</p>
+      </caption>
+      <graphic xlink:href="i1536-5050-096-02-0147-t03"/>
+    </table-wrap>
+  </floats-wrap>
+</article>
+
+
