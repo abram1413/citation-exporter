@@ -17,6 +17,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 import com.spaceprogram.kittycache.KittyCache;
 
+import static gov.ncbi.pmc.ids.IdDb.litIds;
+import gov.ncbi.pmc.ids.IdType;
 import gov.ncbi.pmc.ids.Identifier;
 import gov.ncbi.pmc.ids.RequestId;
 
@@ -27,25 +29,30 @@ import gov.ncbi.pmc.ids.RequestId;
 public abstract class ItemSource {
     protected Logger log;
 
+    private static final IdType pmcid = litIds.getType("pmcid");
+    private static final IdType pmid = litIds.getType("pmid");
+
     // Implement a small-lightweight cache for the retrieved JSON items, to
     // support requests for multiple styles of the same id (for example)
     private KittyCache<String, JsonNode> jsonCache;
     private static final int jsonCacheSize = 100;
     private static final int jsonCacheTtl = 10;
 
-    public ItemSource()
+    private IdType wantedType;
+
+    public ItemSource(IdType wantedType)
     {
         log = LoggerFactory.getLogger(this.getClass());
         jsonCache = new KittyCache<String, JsonNode>(jsonCacheSize);
+        this.wantedType = wantedType;
     }
 
     /**
-     * Every ItemSource prefers IDs of a particular type. This defaults to `aiid` (PMC
-     * article instance id).
-     * @return String - specifies the preferred ID for this item source.
+     * Every ItemSource prefers IDs of a particular type. This defaults to `pmid`
+     * (PubMed ids).
      */
-    public String wantsIdType() {
-        return "aiid";
+    public IdType getWantedType() {
+        return wantedType;
     }
 
     /**
@@ -66,10 +73,12 @@ public abstract class ItemSource {
         Document nxml = retrieveItemNxml(requestId);
         // Prepare id parameters that get passed to the xslt
         Map<String, String> params = new HashMap<String, String>();
-        Identifier pmid = requestId.getIdByType("pmid");
-        if (pmid != null) params.put("pmid", pmid.getValue());
-        Identifier pmcid = requestId.getIdByType("pmcid");
-        if (pmcid != null) params.put("pmcid", pmcid.getValue());
+
+        Identifier myPmid = requestId.getId(pmid);
+        if (myPmid != null) params.put("pmid", myPmid.getValue());
+
+        Identifier myPmcid = requestId.getId(pmcid);
+        if (myPmcid != null) params.put("pmcid", myPmcid.getValue());
 
         return (Document) App.doTransform(nxml, "pub-one", params);
     }
@@ -85,7 +94,7 @@ public abstract class ItemSource {
     public JsonNode retrieveItemJson(RequestId requestId)
         throws BadParamException, NotFoundException, IOException
     {
-        String curie = requestId.getIdByType(this.wantsIdType()).getCurie();
+        String curie = requestId.getId(this.getWantedType()).getCurie();
         JsonNode cached = jsonCache.get(curie);
         if (cached != null) {
             log.debug("JSON for " + curie + ": kitty-cache hit");

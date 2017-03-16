@@ -72,7 +72,7 @@ public class PubmedPubOneItemSource extends ItemSource {
     }
 
     @Override
-    public String wantsIdType() {
+    public String wantedType() {
         return "pmid";
     }
 
@@ -94,10 +94,11 @@ public class PubmedPubOneItemSource extends ItemSource {
     public Document retrieveItemPubOne(RequestId requestId)
         throws NotFoundException, IOException
     {
-        Identifier id = requestId.getIdByType("pmid");
+        Identifier id = requestId.getId("pmid");
         if (id == null) {
             throw new NotFoundException("ID not found");
         }
+
         String idType = id.getType();
 
         try {

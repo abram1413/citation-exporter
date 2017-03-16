@@ -1,128 +1,49 @@
 package gov.ncbi.pmc.ids;
 
-import org.antlr.v4.runtime.misc.NotNull;
-
-import gov.ncbi.pmc.cite.BadParamException;
+import java.util.Objects;
 
 /**
- * This stores a canonicalized ID, that can be instantiated in a number of
- * ways.
+ * This stores a canonicalized, immutable identifier value. It has a
+ * reference to its IdType, and a flag indicating whether or not it is
+ * versioned.
  */
 public class Identifier {
-    private final String type;
-    private final String value;
-
-    // Here we specify the regexp patterns that will be used to match IDs
-    // to their type The order is important:  if determining the type of an
-    // unknown id (getIdType()), then these regexps are attempted in order,
-    // and first match wins.
-    private final static String[][] idTypePatterns = {
-        { "pmid", "^\\d+$" },
-        { "pmcid", "^([Pp][Mm][Cc])?\\d+(\\.\\d+)?$" },
-        { "mid", "^[A-Za-z]+\\d+$" },
-        { "doi", "^10\\.\\d+\\/.*$" },
-        { "aiid", "^\\d+$" },
-    };
+    private final IdType _type;
+    private final String _canon;   // canonicalized, but without prefix
+    private final boolean _isVersionSpecific;
 
     /**
-     * Check a purported ID type string to make sure it is one we know about.
-     */
-    public static boolean idTypeValid(String type) {
-        for (int idtn = 0; idtn < idTypePatterns.length; ++idtn) {
-            String[] idTypePattern = idTypePatterns[idtn];
-            if (type.equals(idTypePattern[0])) return true;
-        }
-        return false;
-    }
-
-    /**
-     * This method checks the id value string, attempting
-     * to match it against the regular expressions listed above, to determine
-     * its type. It throws an exception if it can't find a match.
-     */
-    public static String matchIdType(String idStr)
-        throws BadParamException
-    {
-        for (int idtn = 0; idtn < idTypePatterns.length; ++idtn) {
-            String[] idTypePattern = idTypePatterns[idtn];
-            if (idStr.matches(idTypePattern[1])) {
-                return idTypePattern[0];
-            }
-        }
-        throw new BadParamException("Invalid id.");
-    }
-
-    /**
-     * Checks to see if the id string matches the given type's pattern
-     */
-    public static boolean idTypeMatches(String idStr, String idType) {
-        for (int idtn = 0; idtn < idTypePatterns.length; ++idtn) {
-            String[] idTypePattern = idTypePatterns[idtn];
-            if (idTypePattern[0].equals(idType) &&
-                idStr.matches(idTypePattern[1])) {
-                return true;
-            }
-        }
-        return false;
-    }
-
-    /**
-     * Create a new Identifier object from a value string, which might or
-     * might not be a curie. If not, then this attempts to determine the type
-     * by matching it to the patterns above. If it matches more than one, and
-     * one of them is the default type "aiid", then it uses that.
-     */
-    public Identifier(@NotNull String _value)
-        throws BadParamException
-    {
-        this(_value, "aiid");
-    }
-
-    /**
-     * Create a new Identifier object.  This validates and canonicalizes
-     * the value given.
+     * Identifiers can't be constructed directly. Use one of the IdType
+     * or the IdDb makeId() methods.
      *
-     * FIXME: Why not a constructor that takes a CURIE (e.g. "pmid:123456")?
+     * This constructor is used by those classes to create a new object
+     * with an already-canonicalized value string.
      */
-    public Identifier(@NotNull String _value, @NotNull String defaultType)
-        throws BadParamException
+    protected Identifier(IdType type, String canon, boolean isVersionSpecific)
     {
-        if (!idTypeValid(defaultType)) {
-            throw new BadParamException("Id type not recognized.");
-        }
-        if (!idTypeMatches(_value, defaultType)) {
-            throw new BadParamException("This doesn't look like a valid " +
-                "id for this type.");
-        }
-        String cvalue = null;
-        if (defaultType.equals("pmcid")) {
-            if (_value.matches("\\d+")) {
-                cvalue = "PMC" + _value;
-            }
-            else {
-                cvalue = _value.toUpperCase();
-            }
-        }
-        else if (defaultType.equals("mid")) {
-            cvalue = _value.toUpperCase();
-        }
-        else {
-            cvalue = _value;
-        }
-
-        this.type = defaultType;
-        this.value = cvalue;
+        _type = type;
+        _canon = canon;
+        _isVersionSpecific = isVersionSpecific;
     }
 
-    public String getType() {
-        return type;
+    public IdDb getIdDb() {
+        return _type.getIdDb();
     }
+
+    public IdType getType() {
+        return _type;
+    }
+
     public String getValue() {
-        return value;
+        return _canon;
+    }
+
+    public boolean isVersionSpecific() {
+        return _isVersionSpecific;
     }
 
     public String getCurie() {
-        return type + ":" + value;
+        return getType().getName() + ":" + getValue();
     }
 
     @Override
@@ -132,21 +53,25 @@ public class Identifier {
 
     @Override
     public int hashCode() {
-        final int prime = 31;
-        int result = prime * ((type == null) ? 0 : type.hashCode()) +
-                ((value == null) ? 0 : value.hashCode());
-        return result;
+        return Objects.hash(_type, _canon);
     }
 
     /**
-     * Strict equals - the identifers must exactly match type and value.
+     * To be equal, the identifiers must match type and value.
      */
     @Override
     public boolean equals(Object obj) {
         if (this == obj) return true;
         if (obj == null) return false;
-        if (getClass() != obj.getClass()) return false;
+        if (!(obj instanceof Identifier)) return false;
         Identifier id = (Identifier) obj;
-        return type.equals(id.getType()) && value.equals(id.getValue());
+        return _type.equals(id._type) && _canon.equals(id._canon);
+    }
+
+    public boolean sameId(Identifier oid) {
+        return this.equals(oid);
+    }
+    public boolean sameId(IdSet oset) {
+        return oset.sameId(this);
     }
 }

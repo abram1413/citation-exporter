@@ -1,0 +1,40 @@
+/*
+  There are a couple of special values for the "canonicalize" field:
+  - <absent> or null - do nothing; the ID is already in its canonical form
+  - 1 - to uppercase
+*/
+
+{
+  "id-types": [
+    { "name": "pmid",
+      "patterns": [
+        { "pattern": "^\\d+$" }
+      ]
+    },
+    { "name": "pmcid",
+      "patterns": [
+        { "pattern": "^(\\d+(\\.\\d+)?)$",
+          "canonicalizer": "PMC$1" },
+        { "pattern": "^[Pp][Mm][Cc](\\d+(\\.\\d+)?)$",
+          "canonicalizer": "PMC$1" }
+      ],
+    },
+    { "name":"mid",
+      "patterns": [
+        { "pattern": "^[A-Za-z]+\\d+$",
+          "canonicalizer": 1 }
+      ]
+    },
+    { "name": "doi",
+      "patterns": [
+        { "pattern": "^10\\.\\d+\\/.*$" }
+      ]
+    },
+    { "name": "aiid",
+      "patterns": [
+        { "pattern": "^\\d+$", }
+      ]
+    }
+  ],
+  "preferreds": [ "pmid" ]
+}

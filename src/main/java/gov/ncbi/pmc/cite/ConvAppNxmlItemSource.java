@@ -33,7 +33,7 @@ public class ConvAppNxmlItemSource  extends ItemSource {
     public Document retrieveItemNxml(RequestId requestId)
         throws BadParamException, NotFoundException, IOException
     {
-        Identifier id = requestId.getIdByType(this.wantsIdType());
+        Identifier id = requestId.getId(this.wantedType());
         if (id == null)
             throw new BadParamException("No id of type aiid in " + requestId);
 

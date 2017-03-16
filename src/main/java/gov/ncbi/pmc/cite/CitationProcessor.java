@@ -18,7 +18,6 @@ import de.undercouch.citeproc.helper.json.JsonParser;
 import de.undercouch.citeproc.output.Bibliography;
 import gov.ncbi.pmc.ids.Identifier;
 import gov.ncbi.pmc.ids.RequestId;
-import gov.ncbi.pmc.ids.RequestIdList;
 
 /**
  * This is a wrapper for a pair of citeproc-java objects: one CSL and one
@@ -48,7 +47,7 @@ public class CitationProcessor {
         log = LoggerFactory.getLogger(this.getClass());
         this.style = style;
         this.itemSource = itemSource;
-        this.wantsIdType = itemSource.wantsIdType();
+        this.wantsIdType = itemSource.wantedType();
         itemProvider = new ItemProvider();
         try {
             csl = new CSL(itemProvider, style);
@@ -115,7 +114,6 @@ public class CitationProcessor {
         throws NotFoundException, BadParamException, IOException
     {
         log.debug(">>>>>>>>>>>>>>>>>>>>>>>>>>>> prefetchItems <<<<<<<<<<<<<<<<<<<<<<<<<< ");
-        log.debug("wantsIdType: " + wantsIdType);
         itemProvider.clearCache();
         int numIds = idList.size();
 
@@ -124,7 +122,7 @@ public class CitationProcessor {
         Exception e = null;
         for (int i = 0; i < numIds; ++i) {
             RequestId requestId = idList.get(i);
-            Identifier id = requestId.getIdByType(this.wantsIdType);
+            Identifier id = requestId.getId(this.wantsIdType);
             log.debug("id = " + id);
             if (id == null) continue;
             String curie = id.getCurie();

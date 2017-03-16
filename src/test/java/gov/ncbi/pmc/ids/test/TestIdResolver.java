@@ -1,290 +1,252 @@
 package gov.ncbi.pmc.ids.test;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
-import static org.junit.Assert.assertNotNull;
-import static org.junit.Assert.assertNull;
-import static org.junit.Assert.fail;
+import static gov.ncbi.pmc.ids.test.Helper.aiid;
+import static gov.ncbi.pmc.ids.test.Helper.doi;
+import static gov.ncbi.pmc.ids.test.Helper.litIds;
+import static gov.ncbi.pmc.ids.test.Helper.mid;
+import static gov.ncbi.pmc.ids.test.Helper.pmcid;
+import static gov.ncbi.pmc.ids.test.Helper.pmid;
+import static gov.ncbi.pmc.ids.test.Helper.setup;
+import static org.junit.Assert.*;
 
-import org.junit.Before;
+import java.io.IOException;
+import java.net.URL;
+import java.util.Arrays;
+import java.util.List;
+
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TestName;
+import org.mockito.ArgumentMatcher;
 import org.slf4j.Logger;
 
-import gov.ncbi.pmc.cite.BadParamException;
-import gov.ncbi.pmc.ids.IdGlob;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.node.ObjectNode;
+
+import gov.ncbi.pmc.ids.IdSet;
 import gov.ncbi.pmc.ids.IdResolver;
+import gov.ncbi.pmc.ids.IdType;
 import gov.ncbi.pmc.ids.Identifier;
 import gov.ncbi.pmc.ids.RequestId;
-import gov.ncbi.pmc.ids.RequestIdList;
+import gov.ncbi.pmc.ids.RequestId.B;
+import gov.ncbi.pmc.ids.RequestId.State;
 
-import org.slf4j.Logger;
 
+/**
+ * This uses a mocked Jackson ObjectMapper for testing the calls to the
+ * external ID resolver service. The responses are given in JSON files in
+ * src/test/resources/id-resolver-mock-responses/.
+ */
 public class TestIdResolver
 {
-    private Logger log;
-
     @Rule
     public TestName name = new TestName();
 
-    /**
-     * Set up the testing environment
-     */
-    @Before
-    public void setUp() {
-        System.setProperty("log", "testlog");
-        System.setProperty("log_level", "DEBUG");
-    }
+    /// A real Jackson ObjectMapper used to read the mocked responses from JSON files
+    ObjectMapper realMapper = new ObjectMapper();
 
-    /**
-     * Test the Identifier class
-     */
-    @Test
-    public void testIdentifier() {
-        Identifier id0 = null;
-        Identifier id1 = null;
-        boolean exceptionThrown;
-
-        try {
-            id0 = new Identifier("12345", "pmid");
-        }
-        catch (BadParamException e) {
-            fail("Got BadParamException: " + e.getMessage());
-        }
-        assertEquals("pmid", id0.getType());
-        assertEquals("12345", id0.getValue());
-        assertEquals("pmid:12345", id0.toString());
-
-        // Test bad type
-        exceptionThrown = false;
-        try {
-            id0 = new Identifier("1234", "foo");
-        }
-        catch (BadParamException e) {
-            exceptionThrown = true;
-        }
-        assert(exceptionThrown);
-
-        // Test a bad pattern
-        exceptionThrown = false;
-        try {
-            id0 = new Identifier("1234x", "pmcid");
-        }
-        catch (BadParamException e) {
-            exceptionThrown = true;
-        }
-        assert(exceptionThrown);
-
-        // Test canonicalization
-        try {
-            id0 = new Identifier("pmc12345", "pmcid");
-            id1 = new Identifier("2345", "pmcid");
-        }
-        catch (BadParamException e) {
-            fail("Got BadParamException: " + e.getMessage());
-        }
-        assertEquals("pmcid:PMC12345", id0.toString());
-        assertEquals("pmcid:PMC2345", id1.toString());
-    }
-
-    /**
-     * Test the IdGlob class
-     */
-    @Test
-    public void testIdGlob() {
-        IdGlob idg = null;
-
-        idg = new IdGlob();
-        assertFalse(idg.isVersioned());
-
-        // Add some Identifiers
-        try {
-            idg.addId(new Identifier("1234", "pmid"));
-            idg.addId(new Identifier("2345", "pmcid"));
-            idg.addId(new Identifier("10.12/23/45", "doi"));
-        }
-        catch (BadParamException e) {
-            fail("Got BadParamException: " + e.getMessage());
-        }
-        assert(idg.hasType("pmid"));
-        assert(idg.hasType("pmcid"));
-        assert(idg.hasType("doi"));
-        assertFalse(idg.hasType("mid"));
-        assertEquals("pmid:1234", idg.getIdByType("pmid").toString());
-        assertEquals("pmcid:PMC2345", idg.getIdByType("pmcid").toString());
-        assertEquals("doi:10.12/23/45", idg.getIdByType("doi").toString());
-
-        // Let's add a couple of version kids
-        IdGlob kid0, kid1;
-        kid0 = new IdGlob();
-        try {
-            kid0.addId(new Identifier("NIHMS444", "mid"));
-            kid0.addId(new Identifier("2345.1", "pmcid"));
-        }
-        catch (BadParamException e) {
-            fail("Got BadParamException: " + e.getMessage());
-        }
-        idg.addVersion(kid0);
-
-        kid1 = new IdGlob();
-        try {
-            kid1.addId(new Identifier("NIHMS445", "mid"));
-            kid1.addId(new Identifier("2345.2", "pmcid"));
-        }
-        catch (BadParamException e) {
-            fail("Got BadParamException: " + e.getMessage());
-        }
-        idg.addVersion(kid1);
-
-        assertFalse(idg.isVersioned());
-        assert(kid0.isVersioned());
-        assert(kid1.isVersioned());
-
-        // Lookie, we can get the pmid and doi of the kids:
-        assertEquals("pmid:1234", kid0.getIdByType("pmid").toString());
-        assertEquals("doi:10.12/23/45", kid0.getIdByType("doi").toString());
-        assertEquals("pmid:1234", kid1.getIdByType("pmid").toString());
-        assertEquals("doi:10.12/23/45", kid1.getIdByType("doi").toString());
-    }
-
-    /**
-     * Test the RequestId class
-     */
-    @Test
-    public void testRequestId() {
-        RequestId rid = null;
-        String origType = "pmcid";
-        String origString = "1234";
-        Identifier origId = null;
-        boolean exceptionThrown;
-
-        try {
-            origId = new Identifier(origString, origType);
-            rid = new RequestId(origString, origId);
-        }
-        catch (BadParamException e) {
-            fail("Got BadParamException: " + e.getMessage());
-        }
-        assertEquals(origType, rid.getType());
-        assertEquals(origString, rid.getRequestedValue());
-        assertEquals("pmcid:PMC1234", rid.getCanonical().toString());
-        assertNotNull(rid.getIdGlob());
-        assert(rid.getData() == null);
-        rid.setData(false);
-        assertFalse((Boolean) rid.getData());
-
-
-
-
-        IdGlob idg = new IdGlob();
-        try {
-            idg.addId(new Identifier("1234", "pmid"));
-            idg.addId(origId);
-            idg.addId(new Identifier("10.12/23/45", "doi"));
-            rid.setIdGlob(idg);
-        }
-        catch (Exception e) {
-            fail("Got Exception: " + e.getMessage());
-        }
-        assertNotNull(rid.getIdGlob());
-
-        // Verify that trying to set an IdGlob that doesn't have a matching id causes
-        // an exception
-        exceptionThrown = false;
-        RequestId rid1 = new RequestId(origString, origId);
-        IdGlob idg1 = new IdGlob();
-        try {
-            idg1.addId(new Identifier("1234", "pmid"));
-            rid1.setIdGlob(idg1);
-        }
-        catch (BadParamException e) {
-            fail("Got BadParamException: " + e.getMessage());
-        }
-        catch (IllegalArgumentException e) {
-            exceptionThrown = true;
-        }
-        assert(exceptionThrown);
-    }
-
-    /**
-     * Test the RequestIdList.  Right now, there is only support for lists of IDs that
-     * all have the same type.
-     */
-    @Test
-    public void testRequestIdList() {
-        RequestIdList idList = new RequestIdList();
-        try {
-            idList.add(buildRequestId("pmcid", "0000"));
-            idList.add(buildRequestId("pmcid", "0111"));
-            idList.add(buildRequestId("pmcid", "0222"));
-        }
-        catch (BadParamException e) {
-            fail("Got BadParamException: " + e.getMessage());
-        }
-
-        assertEquals(3, idList.size());
-        assertEquals("pmcid:PMC0000", idList.get(0).getCanonical().toString());
-        assertEquals("pmcid:PMC0111", idList.get(1).getCanonical().toString());
-        assertEquals("pmcid:PMC0222", idList.get(2).getCanonical().toString());
-
-        try {
-            int i = idList.lookup(new Identifier("pmc0111", "pmcid"));
-            assertEquals(1, i);
-        }
-        catch (BadParamException e) {
-            fail("Got BadParamException: " + e.getMessage());
-        }
-
-        // Add some globs to the ids
-        try {
-            RequestId rid0 = idList.get(0);
-            rid0.setIdGlob(buildIdGlob(
-                new String[] {"pmcid", "PMC0000", "pmid", "1000", "doi", "10.2000/0"}
-            ));
-            RequestId rid1 = idList.get(1);
-            rid1.setIdGlob(buildIdGlob(
-                new String[] {"pmcid", "PMC0111", "pmid", "1111", "doi", "10.2111/0"}
-            ));
-            RequestId rid2 = idList.get(2);
-            rid2.setIdGlob(buildIdGlob(
-                new String[] {"pmcid", "PMC0222", "pmid", "1222"}
-            ));
-        }
-        catch (BadParamException e) {
-            fail("Got BadParamException: " + e.getMessage());
-        }
-
-        assertEquals(3, idList.numHasType("pmcid"));
-        assertEquals(2, idList.numHasType("doi"));
-    }
-
-    // Helper functions
-    public static RequestId buildRequestId(String origType, String origString)
-        throws BadParamException
+    /// This function reads a mocked response from a JSON file
+    JsonNode mockResolverResponse(String name)
+        throws IOException
     {
-        Identifier origId = new Identifier(origString, origType);
-        return new RequestId(origString, origId);
-    }
-
-    public static IdGlob buildIdGlob(String[] tv)
-        throws BadParamException
-    {
-        IdGlob idg = new IdGlob();
-        for (int i = 0; i < tv.length; i += 2) {
-            idg.addId(new Identifier(tv[i+1], tv[i]));
-        }
-        return idg;
+        URL url = TestIdResolver.class.getClassLoader()
+            .getResource("id-resolver-mock-responses/" + name + ".json");
+        return realMapper.readTree(url);
     }
 
     /**
-     * Finally, test the master IdResolver class. This is really in integration test, not a unit
-     * test, since it uses the real PMC ID Converter API.
-     * You can test against the internal service by setting the `id_converter_url` system
-     * property.
+     * A custom ArgumentMatcher used with Mockito that checks the argument to
+     * the mocked ObjectMapper's readTree() method (which is a URL), looking
+     * for a part of the query string.
+     */
+    class IdArgMatcher implements ArgumentMatcher<URL> {
+        private String _expectedStr;
+        public IdArgMatcher(String expectedStr) {
+            _expectedStr = expectedStr;
+        }
+        @Override
+        public boolean matches(URL url) {
+            if (url == null || url.getQuery() == null) return false;
+            return url.getQuery().matches("^.*" + _expectedStr + ".*$");
+        }
+        @Override
+        public String toString() {
+            return "[URL expected to contain " + _expectedStr + "]";
+        }
+    }
+
+    /**
+     * This cross-references the pattern that we look for in the query string
+     * to the name of the JSON file containing the mocked response.
+     */
+    String[][] resolverNodes = new String[][] {
+        new String[] { "idtype=pmid&ids=26829486,22368089", "two-good-pmids" },
+        new String[] { "idtype=pmid&ids=26829486,7777", "one-good-one-bad-pmid" },
+    };
+
+    /**
+     * Test the IdResolver class constructors and data access methods.
      */
     @Test
-    public void testIdResolver() {
+    public void testConstructor()
+        throws Exception
+    {
+        String testName = name.getMethodName();
+        Logger log = setup(TestIdResolver.class, testName);
+
+        IdResolver resolver = new IdResolver(litIds, pmid);
+        assertTrue(litIds == resolver.getIdDb());
+        assertEquals(pmid, resolver.getWantedType());
+
+        log.debug(resolver.getConfig());
+
+        log.info(testName + " done.");
+    }
+
+   /**
+    * For reference, here's the call tree of resolveIds():
+    * - parseRequestIds(String, String)
+    *     - new RequestId(IdDb, String, String)
+    * - groupsToResolve(List<RequestId>)
+    * - resolverUrl(IdType, List<RequestId>
+    * - recordFromJson(ObjectNode, IdNonVersionSet)
+    * - findAndBind(IdType, List<RequestId>, IdSet)
+
+    @Test
+    public void testParseRequestIds()
+        throws Exception
+    {
+        String testName = name.getMethodName();
+        Logger log = setup(TestIdResolver.class, testName);
+
+        IdResolver resolver = new IdResolver(litIds, pmid);
+        List<RequestId> rids;
+
+        rids = resolver.parseRequestIds("pMid", "12345,67890");
+        assertEquals(2, rids.size());
+        RequestId rid0 = rids.get(0);
+        assertEquals(State.UNKNOWN, rid0.getState());
+        assertTrue(rid0.isWellFormed());
+        assertFalse(rid0.isResolved());
+        assertEquals(B.MAYBE, rid0.isGood());
+        assertEquals("pMid", rid0.getRequestedType());
+        assertEquals("12345", rid0.getRequestedValue());
+        assertEquals(pmid.id("12345"), rid0.getMainId());
+
+        // mixed types
+        rids = resolver.parseRequestIds(null, "PMC6788,845763,NIHMS99878,PMC778.4");
+        assertEquals(4, rids.size());
+        assertEquals(pmcid, rids.get(0).getMainType());
+        assertEquals(pmid, rids.get(1).getMainType());
+        assertEquals(mid, rids.get(2).getMainType());
+        assertEquals(pmcid, rids.get(3).getMainType());
+
+        // some non-well-formed
+        rids = resolver.parseRequestIds("pmcid", "PMC6788,845763,NIHMS99878,PMC778.4");
+        assertEquals(4, rids.size());
+        assertEquals(pmcid.id("PMC6788"), rids.get(0).getMainId());
+        log.debug("should be non-well-formed: " + rids.get(1));
+        assertEquals(pmcid.id("PMC845763"), rids.get(1).getMainId());
+        assertEquals(State.NOT_WELL_FORMED, rids.get(2).getState());
+        assertEquals(pmcid.id("PMC778.4"), rids.get(3).getMainId());
+
+        log.info(testName + " done.");
+    }
+
+
+    @Test
+    public void testResolverUrl()
+        throws Exception
+    {
+        String testName = name.getMethodName();
+        Logger log = setup(TestIdResolver.class, testName);
+
+        IdResolver resolver = new IdResolver(litIds, pmid);
+        String baseUrl =
+            "https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/?" +
+            "showaiid=yes&format=json&tool=ctxp&" +
+            "email=pubmedcentral@ncbi.nlm.nih.gov&";
+
+        IdType fromType;
+        List<RequestId> rids;
+
+        fromType = pmid;
+        rids = Arrays.asList(
+            new RequestId(litIds, "pmid", "34567"),
+            new RequestId(litIds, "pmid", "77898")
+        );
+        log.debug("rids: " + rids);
+        URL resUrl = resolver.resolverUrl(fromType, rids);
+        log.debug("resolver URL: " + resUrl);
+        assertEquals(baseUrl + "idtype=pmid&ids=34567,77898",
+                resUrl.toString());
+
+        // FIXME: Test some versioned ones
+
+        log.info(testName + " done.");
+    }
+
+    @Test
+    public void testGlobbify()
+        throws Exception
+    {
+        String testName = name.getMethodName();
+        Logger log = setup(TestIdResolver.class, testName);
+
+        IdResolver resolver = new IdResolver(litIds, pmid);
+
+        JsonNode record = mockResolverResponse("basic-one-kid");
+        log.debug("About to globbify record: " + record);
+        IdSet parent = resolver.recordFromJson((ObjectNode) record, null);
+        log.debug("parent: " + parent.toString());
+
+        // Note that the `aiid` at the top level is ignored
+        assertTrue(parent.sameId(pmcid.id("PMC4734780")));
+        assertTrue(parent.sameId(pmid.id("26829486")));
+        assertTrue(parent.sameId(doi.id("10.1371/journal.pntd.0004413")));
+
+        assertTrue(parent.sameWork(pmcid.id("4734780.1")));
+        assertTrue(parent.sameWork(aiid.id("4734780")));
+
+        log.info(testName + " done.");
+    }
+
+
+    /*
+
+        // Create and initialize the mocked ObjectMapper. When its readTree() method
+        // is called, it will return a response from one of
+        // the JSON files in id-resolver-mock-responses/.
+        ObjectMapper mockMapper = mock(ObjectMapper.class);
+
+        for (String[] pair : resolverNodes) {
+            String pattern = pair[0];
+            String name = pair[1];
+            when(mockMapper.readTree(argThat(new IdArgMatcher(pattern))))
+                .thenReturn(mockResolverResponse(name));
+        }
+
+        // Create a new IdResolver that "wants" pmcids
+        IdResolver resolver = new IdResolver(litIds, pmcid, mockMapper);
+        assert(litIds == resolver.getIdDb());
+        assertEquals(pmcid, resolver.getWantedType());
+
+        List<RequestId> ridList = resolver.resolveIds("26829486,22368089");
+        assertEquals(2, ridList.size());
+
+        RequestId rid0 = ridList.get(0);
+        assert(rid0.same(pmid.id("26829485")));
+        assert(rid0.same(pmcid.id("PMC4734780")));
+        assert(rid0.same("pmcid:PMC4734780"));
+        assert(rid0.same("PMC4734780"));
+        assert(rid0.same("pmcid:4734780"));
+        assert(rid0.same("pmcid:4734780"));
+
+        ridList =  resolver.resolveIds("26829486,7777");
+
+/*
+
         RequestId rid0, rid1;
         IdGlob idg0, idg1;
         IdResolver resolver;
@@ -303,7 +265,7 @@ public class TestIdResolver
         rid0 = idList.get(0);
         assertEquals("pmcid", rid0.getType());
         assertEquals("PMC3362639", rid0.getRequestedValue());
-        assertEquals("pmcid:PMC3362639", rid0.getCanonical().toString());
+        assertEquals("pmcid:PMC3362639", rid0.getId().toString());
 
         idg0 = rid0.getIdGlob();
         assertNotNull(idg0);
@@ -316,12 +278,15 @@ public class TestIdResolver
         rid1 = idList.get(1);
         assertEquals("pmcid", rid1.getType());
         assertEquals("Pmc3159421", rid1.getRequestedValue());
-        assertEquals("pmcid:PMC3159421", rid1.getCanonical().toString());
+        assertEquals("pmcid:PMC3159421", rid1.getId().toString());
         idg1 = rid1.getIdGlob();
         assertNotNull(idg1);
         assertFalse(idg1.isVersioned());
         assertEquals("aiid:3159421", idg1.getIdByType("aiid").toString());
         assertEquals("doi:10.4242/BalisageVol7.Maloney01", idg1.getIdByType("doi").toString());
         assertEquals("pmid:21866248", idg1.getIdByType("pmid").toString());
+
+        log.info(testName + " done.");
     }
+      */
 }

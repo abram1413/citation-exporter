@@ -16,7 +16,9 @@ import org.w3c.dom.Document;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import gov.ncbi.pmc.ids.IdDb;
 import gov.ncbi.pmc.ids.IdResolver;
+import gov.ncbi.pmc.ids.IdType;
 import net.sf.saxon.s9api.Processor;
 
 /**
@@ -31,6 +33,7 @@ public class App {
     private static String ctxp_config_sha;
 
     private static Logger log = LoggerFactory.getLogger(App.class);
+    private static IdDb idDb;
     private static IdResolver idResolver;
     // Jackson ObjectMapper should be thread-safe, see
     // http://wiki.fasterxml.com/JacksonFAQThreadSafety
@@ -55,6 +58,7 @@ public class App {
         ctxp_sha = props.getProperty("ctxp.sha", "unknown");
         ctxp_config_sha = props.getProperty("ctxp.config.sha", "unknown");
 
+        idDb = new IdDb();
         idResolver = new IdResolver();
         mapper = new ObjectMapper();
         saxonProcessor = new Processor(false);
@@ -66,8 +70,9 @@ public class App {
 
         if (itemSourceStr.equals("test")) {
             URL samples = App.class.getClassLoader().getResource("samples/");
-            String wantsIdType = System.getProperty("item_source_id_type", "aiid");
-            itemSource = new TestItemSource(samples, wantsIdType);
+            String wantsIdTypeProp = System.getProperty("item_source_id_type", "aiid");
+            IdType wanted = idDb.getType(wantsIdTypeProp);
+            itemSource = new TestItemSource(samples, wanted);
         }
         else {
             // Create a new item source by class name
@@ -122,6 +127,13 @@ public class App {
         DocumentBuilder db = dbf.newDocumentBuilder();
         db.setEntityResolver(catalogResolver);
         return db;
+    }
+
+    /**
+     * Get the ID database
+     */
+    public static IdDb getIdDb() {
+        return idDb;
     }
 
     /**

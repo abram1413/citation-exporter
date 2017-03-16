@@ -370,8 +370,8 @@ public class Request {
             for (int i = 0; i < numIds; ++i) {
                 boolean success = false;
                 RequestId requestId = idList.get(i);
-                Identifier rid = requestId.getCanonical();
-                Identifier aiid = requestId.getIdByType("aiid");
+                Identifier rid = requestId.getId();
+                Identifier aiid = requestId.getId("aiid");
                 if (aiid != null) {
                     try {
                         // Retrieve the PubOne record XML
@@ -535,7 +535,7 @@ public class Request {
             RequestId requestId = idList.get(0);
             if (requestId == null)
                 throw new BadParamException("ID was not properly resolved");
-            Identifier id = requestId.getIdByTypes(
+            Identifier id = requestId.getId(
                 new String[]{"pmcid", "aiid"});
             String outFilename = id.getType() + "-" + id.getValue() + "." +
                 report;
@@ -604,8 +604,8 @@ public class Request {
                     boolean success = false;
 
                     RequestId requestId = idList.get(i);
-                    Identifier rid = requestId.getCanonical();
-                    Identifier aiid = requestId.getIdByType("aiid");
+                    Identifier rid = requestId.getId();
+                    Identifier aiid = requestId.getId("aiid");
                     if (aiid != null) {
                         try {
                             // Retrieve the JSON item and add it to our list
@@ -725,7 +725,7 @@ public class Request {
 
             int numGoodIds = goodIds.size();
             log.debug("numRequestIds = " + numRequestIds + ", numGoodIds = " + numGoodIds);
-            String wantedType = App.getItemSource().wantsIdType();
+            String wantedType = App.getItemSource().wantedType();
 
             // FIXME: This is really ugly. I need to add a method to either Identifier or
             // IdGlob that compares it against any other Identifier or IdGlob. That method
@@ -734,7 +734,7 @@ public class Request {
                 RequestId requestId = goodIds.get(idnum);
                 log.debug("requestId = " + requestId);
 
-                Identifier wid = requestId.getIdByType(wantedType);
+                Identifier wid = requestId.getId(wantedType);
                 log.debug("wid = " + wid);
                 if (wid == null) continue;
                 String curie = wid.getCurie();
@@ -756,7 +756,7 @@ public class Request {
                 }
                 Element entryDiv = doc.getDocumentElement();
                 entryDiv.setAttribute("data-style", style);
-                Identifier rid = requestId.getCanonical();
+                Identifier rid = requestId.getId();
                 entryDiv.setAttribute("data-id", rid.getCurie());
                 if (!rid.equals(wid)) {
                     entryDiv.setAttribute("data-resolved-id", wid.getCurie());

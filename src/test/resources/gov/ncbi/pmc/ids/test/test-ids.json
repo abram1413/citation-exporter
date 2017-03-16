@@ -1,0 +1,23 @@
+[
+  { "name": "split",
+    "pattern": "^banana-.*"
+  },
+  { "name": "splot",
+    "pattern": "^\\w+-.*"
+  },
+  { "name": "pmid",
+    "pattern": "^\\d+$"
+  },
+  { "name": "pmcid",
+    "pattern": "^([Pp][Mm][Cc])?\\d+(\\.\\d+)?$"
+  },
+  { "name":"mid",
+    "pattern": "^[A-Za-z]+\\d+$"
+  },
+  { "name": "doi",
+    "pattern": "^10\\.\\d+\\/.*$"
+  },
+  { "name": "aiid",
+    "pattern": "^\\d+$"
+  }
+]

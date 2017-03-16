@@ -2,12 +2,13 @@
 <!DOCTYPE Configure PUBLIC "-//Jetty//Configure//EN" "http://www.eclipse.org/jetty/configure.dtd">
 
 <!--
-  This configuration file is used in the uber-jar embedded Jetty server created with the Apache Maven Shade
-  plugin.  It is not used when, for example, running with the `mvn jetty:run` command.
+  This configuration file is used in the uber-jar embedded Jetty server created
+  with the Apache Maven Shade plugin.  It is not used when running, for example,
+  with the `mvn jetty:run` command.
 
   The contents of this file were copied and hacked from the [Jetty
-  documentation](http://www.eclipse.org/jetty/documentation/9.2.1.v20140609/), and in particular, these two
-  files:
+  documentation](http://www.eclipse.org/jetty/documentation/9.2.1.v20140609/).
+  In particular, these two files:
   * http://git.eclipse.org/c/jetty/org.eclipse.jetty.project.git/plain/jetty-server/src/main/config/etc/jetty.xml
   * http://git.eclipse.org/c/jetty/org.eclipse.jetty.project.git/plain/jetty-server/src/main/config/etc/jetty-http.xml
 
@@ -153,4 +154,3 @@
     </Arg>
   </Call>
 </Configure>
-

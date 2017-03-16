@@ -324,7 +324,7 @@ this (request ""):
 
 ## Testing
 
-Run unit tests as follows:
+To run unit tests from the command line, you can use Maven, as follows:
 
 ```
 mvn test
@@ -341,6 +341,15 @@ To run a single method of a test class:
 
 ```
 mvn -Dtest=TestCitationProcessor#testBiblFromPubMedPubOne test
+```
+
+To run a test without compiling all of the other, unaffected classes and members
+of the repository, specify the lifecycle phase explicitely as `surefire:test`.
+(This is useful if you want to run a unit test on a class you're working on,
+but there are other compile-time errors in other files.)
+
+```
+mvn -Dtest=TestIdDb#testCustomDb surefire:test
 ```
 
 You can use wildcards; for example:
