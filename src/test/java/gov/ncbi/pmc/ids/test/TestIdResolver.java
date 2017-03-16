@@ -1,19 +1,12 @@
 package gov.ncbi.pmc.ids.test;
 
-import static gov.ncbi.pmc.ids.test.Helper.aiid;
-import static gov.ncbi.pmc.ids.test.Helper.doi;
 import static gov.ncbi.pmc.ids.test.Helper.litIds;
-import static gov.ncbi.pmc.ids.test.Helper.mid;
-import static gov.ncbi.pmc.ids.test.Helper.pmcid;
 import static gov.ncbi.pmc.ids.test.Helper.pmid;
 import static gov.ncbi.pmc.ids.test.Helper.setup;
 import static org.junit.Assert.*;
 
 import java.io.IOException;
 import java.net.URL;
-import java.util.Arrays;
-import java.util.List;
-
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TestName;
@@ -22,15 +15,7 @@ import org.slf4j.Logger;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.node.ObjectNode;
-
-import gov.ncbi.pmc.ids.IdSet;
 import gov.ncbi.pmc.ids.IdResolver;
-import gov.ncbi.pmc.ids.IdType;
-import gov.ncbi.pmc.ids.Identifier;
-import gov.ncbi.pmc.ids.RequestId;
-import gov.ncbi.pmc.ids.RequestId.B;
-import gov.ncbi.pmc.ids.RequestId.State;
 
 
 /**

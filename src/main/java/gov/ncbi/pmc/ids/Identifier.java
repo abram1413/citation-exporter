@@ -8,9 +8,9 @@ import java.util.Objects;
  * versioned.
  */
 public class Identifier {
-    private final IdType _type;
-    private final String _canon;   // canonicalized, but without prefix
-    private final boolean _isVersionSpecific;
+    private final IdType type;
+    private final String value;   // canonicalized, but without prefix
+    private final boolean versionSpecific;
 
     /**
      * Identifiers can't be constructed directly. Use one of the IdType
@@ -19,27 +19,27 @@ public class Identifier {
      * This constructor is used by those classes to create a new object
      * with an already-canonicalized value string.
      */
-    protected Identifier(IdType type, String canon, boolean isVersionSpecific)
+    protected Identifier(IdType type, String value, boolean isVersionSpecific)
     {
-        _type = type;
-        _canon = canon;
-        _isVersionSpecific = isVersionSpecific;
+        this.type = type;
+        this.value = value;
+        this.versionSpecific = isVersionSpecific;
     }
 
     public IdDb getIdDb() {
-        return _type.getIdDb();
+        return this.type.getIdDb();
     }
 
     public IdType getType() {
-        return _type;
+        return this.type;
     }
 
     public String getValue() {
-        return _canon;
+        return this.value;
     }
 
     public boolean isVersionSpecific() {
-        return _isVersionSpecific;
+        return this.versionSpecific;
     }
 
     public String getCurie() {
@@ -51,27 +51,22 @@ public class Identifier {
         return getCurie();
     }
 
+    /**
+     * To be equal, the identifiers must match type and value, but not
+     * _isVersionSpecific. (It would be an error to have two Identifiers with
+     * the same type and value but different _isVersionSpecific.)
+     */
     @Override
     public int hashCode() {
-        return Objects.hash(_type, _canon);
+        return Objects.hash(type, value);
     }
 
-    /**
-     * To be equal, the identifiers must match type and value.
-     */
     @Override
     public boolean equals(Object obj) {
         if (this == obj) return true;
         if (obj == null) return false;
         if (!(obj instanceof Identifier)) return false;
         Identifier id = (Identifier) obj;
-        return _type.equals(id._type) && _canon.equals(id._canon);
-    }
-
-    public boolean sameId(Identifier oid) {
-        return this.equals(oid);
-    }
-    public boolean sameId(IdSet oset) {
-        return oset.sameId(this);
+        return type.equals(id.type) && value.equals(id.value);
     }
 }

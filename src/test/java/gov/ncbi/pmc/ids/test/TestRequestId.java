@@ -1,6 +1,5 @@
 package gov.ncbi.pmc.ids.test;
 
-import static gov.ncbi.pmc.ids.test.Helper.aiid;
 import static gov.ncbi.pmc.ids.test.Helper.checkId;
 import static gov.ncbi.pmc.ids.test.Helper.doi;
 import static gov.ncbi.pmc.ids.test.Helper.litIds;

@@ -40,7 +40,6 @@ import com.fasterxml.jackson.databind.JsonNode;
 import de.undercouch.citeproc.output.Bibliography;
 import gov.ncbi.pmc.ids.Identifier;
 import gov.ncbi.pmc.ids.RequestId;
-import gov.ncbi.pmc.ids.RequestIdList;
 
 /**
  * Stores information about, and handles, a single request.

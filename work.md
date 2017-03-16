@@ -2,7 +2,7 @@
     - In Eclipse, installed EclEmma, by Help -> Eclipse Marketplace, and
       searching for it.
       When it's installed, there'll be an extra run button to the left of
-      the normal one. Pressing 
+      the normal one. Pressing
 
 main:ids/Identifier.java          done
 main:ids/IdType.java              done
@@ -74,3 +74,20 @@ test:cite/test/TestTransformSimple.java
 test:cite/test/TestTransforms.java
 test:cite/test/TransformTestCase.java
 test:cite/test/Utils.java
+
+
+
+_requestedType
+_requestedValue
+_mainId
+_resolved
+_set
+
+
+To do:
+
+- Split IDs out into a separate library.
+
+- Rename IdVersionSet -> VersionedIdSet
+- Rename IdNonVersionSet -> NonVersionedIdSet
+

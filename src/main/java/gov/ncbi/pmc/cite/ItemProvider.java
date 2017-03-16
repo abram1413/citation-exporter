@@ -34,6 +34,7 @@ public class ItemProvider implements ItemDataProvider
      * Retrieve a CSLItemData object, given an id.  This is invoked by the
      * citeproc-js code running inside Rhino.
      */
+    @Override
     public CSLItemData retrieveItem(String tid)
     {
         CSLItemData result = cslItemCache.get(tid);
@@ -42,6 +43,7 @@ public class ItemProvider implements ItemDataProvider
 
     // FIXME: We're required to implement this method of the ItemDataProvider,
     // but I don't know what it is for.
+    @Override
     public String[] getIds() {
         String ids[] = { "PMC3362639" };
         return ids;

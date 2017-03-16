@@ -17,6 +17,7 @@ public class ExceptionHandler extends HttpServlet {
     private Logger log = LoggerFactory.getLogger(ExceptionHandler.class);
     private static final long serialVersionUID = 1L;
 
+    @Override
     protected void doGet(HttpServletRequest request,
                          HttpServletResponse response)
         throws ServletException, IOException
@@ -24,6 +25,7 @@ public class ExceptionHandler extends HttpServlet {
         processError(request, response);
     }
 
+    @Override
     protected void doPost(HttpServletRequest request,
                           HttpServletResponse response)
         throws ServletException, IOException

@@ -8,13 +8,12 @@ import static gov.ncbi.pmc.ids.test.Helper.pmcid;
 import static gov.ncbi.pmc.ids.test.Helper.pmid;
 import static gov.ncbi.pmc.ids.test.Helper.setup;
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertSame;
+import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotSame;
 import static org.junit.Assert.assertNull;
-import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertSame;
 import static org.junit.Assert.assertTrue;
 
-import java.util.Arrays;
 import java.util.stream.Stream;
 
 import org.junit.Rule;
@@ -120,6 +119,5 @@ public class TestIdentifier
             assertFalse(y.equals(id));
             assertFalse(id.equals(y));
         });
-
     }
 }

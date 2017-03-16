@@ -4,7 +4,6 @@ import java.util.List;
 import java.util.Objects;
 import static gov.ncbi.pmc.ids.RequestId.State.*;
 
-import org.mozilla.javascript.tools.shell.Main;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -356,5 +355,18 @@ public class RequestId {
     @Override
     public int hashCode() {
         return toString().hashCode();
+    }
+
+    @Override
+    public boolean equals(Object other) {
+        if (other == null) return false;
+        if (!(other instanceof RequestId)) return false;
+        RequestId orid = (RequestId) other;
+        return this._requestedType == orid._requestedType &&
+                this._requestedValue == orid._requestedValue &&
+                this._mainId == orid._mainId &&
+                this._resolved == orid._resolved &&
+                this._set == orid._set;
+
     }
 }

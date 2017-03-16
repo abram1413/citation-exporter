@@ -1,11 +1,5 @@
 package gov.ncbi.pmc.ids;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Map;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 
@@ -81,8 +75,8 @@ public class IdVersionSet extends IdSet {
      * version-specific child (will either be this or a sibling)
      */
     @Override
-    public IdVersionSet getCurrentVersion() {
-        return _isCurrent ? this : _parent.getCurrentVersion();
+    public IdVersionSet getCurrent() {
+        return _isCurrent ? this : _parent.getCurrent();
     }
 
     @Override

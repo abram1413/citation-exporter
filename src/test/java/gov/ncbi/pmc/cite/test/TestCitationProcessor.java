@@ -17,7 +17,6 @@ import gov.ncbi.pmc.cite.CitationProcessor;
 import gov.ncbi.pmc.cite.CiteprocPool;
 import gov.ncbi.pmc.cite.NotFoundException;
 import gov.ncbi.pmc.ids.IdResolver;
-import gov.ncbi.pmc.ids.RequestIdList;
 
 /**
  * Unit test for CitationProcessor.

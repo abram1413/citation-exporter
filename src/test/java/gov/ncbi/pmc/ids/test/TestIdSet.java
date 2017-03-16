@@ -26,7 +26,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
-import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
@@ -37,8 +36,6 @@ import org.junit.rules.TestName;
 import org.slf4j.Logger;
 
 import gov.ncbi.pmc.ids.IdSet;
-import gov.ncbi.pmc.ids.IdSet.IdFilter;
-import gov.ncbi.pmc.ids.IdSet.IdScope;
 import gov.ncbi.pmc.ids.IdDb;
 import gov.ncbi.pmc.ids.IdNonVersionSet;
 import gov.ncbi.pmc.ids.IdVersionSet;
@@ -139,7 +136,7 @@ public class TestIdSet
         idg = new IdNonVersionSet(litIds);
         assertFalse(idg.isVersionSpecific());
         assertEquals(0, idg.getVersions().size());
-        assertNull(idg.getCurrentVersion());
+        assertNull(idg.getCurrent());
 
         Identifier pmidId = pmid.id("123456");
         Identifier pmcidId = pmcid.id("654321");
@@ -256,10 +253,10 @@ public class TestIdSet
         assertSame(parent, kid1.getComplement());
         assertNull(kid2.getComplement());
 
-        assertSame(kid1, parent.getCurrentVersion());
-        assertSame(kid1, kid0.getCurrentVersion());
-        assertSame(kid1, kid1.getCurrentVersion());
-        assertSame(kid1, kid2.getCurrentVersion());
+        assertSame(kid1, parent.getCurrent());
+        assertSame(kid1, kid0.getCurrent());
+        assertSame(kid1, kid1.getCurrent());
+        assertSame(kid1, kid2.getCurrent());
 
         assertSame(parent, parent.getNonVersioned());
         assertSame(parent, kid0.getNonVersioned());

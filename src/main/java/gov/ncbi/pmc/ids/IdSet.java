@@ -13,27 +13,55 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * Instances of this class store a list of identifiers that all refer to
- * the same semantic resource. For example, a journal article
- * (non-version-specific) can have a pmid, a pmcid, and/or a doi, and
- * these all refer to the exact same semantic resource. A specific
- * version of the journal article can have a pmid (with version number),
- * a pmcid (again, with version number), a mid, and/or an aiid.
+ * An IdSet holds a list of Identifiers that all refer to the exact
+ * same semantically-defined resource. A typical PMC article will
+ * have IDs such as, for example:
  *
- * So, there are two types of IdSets:
+ * - PubMed ID (pmid): 17401604
+ * - PMC ID (pmcid): PMC1868567
+ * - DOI (doi): 10.1007/s10162-007-0081-z
  *
- * 1. non-version-specific - correspond roughly to a FRBR "work". For
- *   example, the ID "PMC3159421" does not refer to any particular version.
- *   Non-versioned IdSets might or might not have a list of versioned
- *   IdSet "children".
- * 2. version-specific - corresponds roughly to a FRBR "expression", for
- *   example, the ID "PMC3159421.1" is the first version of the
- *   above-mentioned article. Every versioned IdSet will have a reference
- *   to its parent (non-version-specific) IdSet.
+ * These three IDs are all non-version-specific, and refer to the article
+ * as a scientific work (see the FRBR definition of "work"), without regard
+ * to any specific version or instance.
  *
- * Note also that, at any given time that a non-version-specific ID is
- * queried, it will resolve to a specific version (usually the latest).
- * This is captured with the _currentVersion property.
+ * There also exist IDs that refer to specific versions of the article. For
+ * example, the final submitted manuscript of the above article is referred
+ * to by the following version-specific IDs:
+ *
+ * - pmcid: PMC1868567.1
+ * - Manuscript ID (mid): NIHMS20955
+ * - Article Instance ID (aiid): 1868567
+ *
+ * Note that PMC IDs have both non-version-specific (without a ".n" suffix)
+ * and version specific (with suffix) forms. Other ID types do not have this
+ * characteristic. For example, DOIs are always (ostensibly)
+ * non-version-specific, whereas Manuscript IDs and article instance IDs are
+ * always version-specific.
+ *
+ * The example article above has two other versions, that are referred to by
+ * different sets of IDs. The second version has IDs:
+ *
+ * - pmcid: PMC1868567.2
+ * - aiid: 1950588
+ *
+ * And the third has:
+ *
+ * - pmcid: PMC1868567.3
+ * - aiid: 2538359
+ *
+ * As of the time of this writing, the third version is "current". So, at
+ * this time, the non-version-specific ID PMC1868567 refers to the same
+ * "expression" (in the FRBR sense) as the version-specific PMC1868567.1.
+ * The two Identifier objects can't be considered equal, because semantically,
+ * they refer to different resources (one refers to the "work", whereas the
+ * other refers to the "expression"). This library includes "sameExpression()"
+ * and "sameWork()" methods to test for these conditions.
+ *
+ * There are two subclasses of IdSet, NonVersionedIdSet and VersionedIdSet,
+ * that store these different types of IDs, and a parent-child relationship
+ * between them. A given IdNonVersionedSet can have zero-to-many
+ * IdVersionedSet children.
  */
 public abstract class IdSet {
     private final IdDb iddb;
@@ -114,13 +142,13 @@ public abstract class IdSet {
     public abstract IdSet getComplement();
 
     /**
-     * Get the version-specific IdVersionSet associated with the current
+     * Get the version-specific object associated with the current
      * version of this resource, if is exists. Otherwise, null.
      */
-    public abstract IdVersionSet getCurrentVersion();
+    public abstract IdVersionSet getCurrent();
 
     /**
-     * Get the non-versioned IdNonVersionSet object for this cluster.
+     * Get the non-versioned object for this cluster.
      */
     public abstract IdNonVersionSet getNonVersioned();
 

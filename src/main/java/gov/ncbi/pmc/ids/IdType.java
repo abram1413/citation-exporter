@@ -37,12 +37,12 @@ public class IdType {
     /**
      * Reference to the IdDb that this IdType belongs to
      */
-    private final IdDb _iddb;
+    private final IdDb iddb;
 
     /**
      * The name; only lowercase letters and numbers; must begin with a letter.
      */
-    private final String _name;
+    private final String name;
 
     /**
      * This enumeration describes, for a given Checker, how to
@@ -149,7 +149,7 @@ public class IdType {
      */
     public IdType(IdDb iddb, String name, List<Checker> checkers)
     {
-        _iddb = iddb;
+        this.iddb = iddb;
 
         // Validate: type names must be all
         // lower case, must start with a letter, and only contain letters, numbers,
@@ -164,7 +164,7 @@ public class IdType {
             if ((c < 'a' || c > 'z') && (c < '0' || c > '9') && c != '_')
                 throw new IllegalArgumentException("Invalid IdType name");
         }
-        _name = name;
+        this.name = name;
 
         _checkers = checkers;
     }
@@ -173,14 +173,14 @@ public class IdType {
      * Get the IdDb to which this type belongs.
      */
     public IdDb getIdDb() {
-        return _iddb;
+        return this.iddb;
     }
 
     /**
      * Get the name.
      */
     public String getName() {
-        return _name;
+        return this.name;
     }
 
     /**
@@ -239,7 +239,7 @@ public class IdType {
      */
     public boolean matches(String value)
     {
-        return _iddb.valid(this, value);
+        return this.iddb.valid(this, value);
     }
 
     /**
@@ -252,13 +252,13 @@ public class IdType {
     public Identifier id(String value)
     {
         if (value == null) return null;
-        Identifier _id = _iddb.id(this, value);
+        Identifier _id = this.iddb.id(this, value);
         return _id;
     }
 
     @Override
     public String toString() {
-        return _name;
+        return this.name;
     }
 
     /**
@@ -268,12 +268,12 @@ public class IdType {
         String checkers = _checkers.stream()
                 .map(Checker::toString)
                 .collect(Collectors.joining(" | "));
-        return "IdType<" + _name + ">: [ " + checkers + " ]";
+        return "IdType<" + this.name + ">: [ " + checkers + " ]";
     }
 
     @Override
     public int hashCode() {
-        return _name.hashCode();
+        return this.name.hashCode();
     }
 
     /**
@@ -286,6 +286,6 @@ public class IdType {
         if (this == obj) return true;
         if (obj == null) return false;
         if (!(obj instanceof IdType)) return false;
-        return _name.equals(((IdType) obj)._name);
+        return this.name.equals(((IdType) obj).name);
     }
 }
