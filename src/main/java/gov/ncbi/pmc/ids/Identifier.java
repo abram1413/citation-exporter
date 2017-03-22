@@ -75,7 +75,7 @@ public class Identifier {
     public Identifier(@NotNull String _value)
         throws BadParamException
     {
-        this(_value, "aiid");
+        this(_value, "pmid");
     }
 
     /**
@@ -87,13 +87,16 @@ public class Identifier {
     public Identifier(@NotNull String _value, @NotNull String defaultType)
         throws BadParamException
     {
+        System.out.println("======================> _value: " + _value);
         if (!idTypeValid(defaultType)) {
             throw new BadParamException("Id type not recognized.");
         }
+      /*
         if (!idTypeMatches(_value, defaultType)) {
             throw new BadParamException("This doesn't look like a valid " +
                 "id for this type.");
         }
+      */
         String cvalue = null;
         if (defaultType.equals("pmcid")) {
             if (_value.matches("\\d+")) {

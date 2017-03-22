@@ -14,6 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TestName;
@@ -44,6 +45,7 @@ public class TestRequestSimple {
      * Test the request object. This is a simple manual test using Mockito,
      * to show how it works.
      */
+   @Ignore
     @Test
     public void testRequestSimple() throws Exception
     {

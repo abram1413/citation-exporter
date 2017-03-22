@@ -257,13 +257,23 @@ public class Request {
             String idp = idsParam != null ? idsParam : idParam;
 
             // The IdResolver seems to be thread-safe
-            idList = App.getIdResolver().resolveIds(idp,
-                request.getParameter("idtype"), new String[] {"aiid"});
+
+            idList = new RequestIdList();
+            Identifier canon = new Identifier(idp);
+            System.out.println("=======> canon: " + canon);
+            RequestId reqId = new RequestId(canon);
+            System.out.println("=======> reqId: " + reqId);
+            idList = new RequestIdList();
+            idList.add(reqId);
+            System.out.println("=======> idList: " + idList);
+
+            //App.getIdResolver().resolveIds(idp,
+            //    request.getParameter("idtype"), new String[] {"pmid"});
 
             // Right now, we only support getting the record by aiid.
             // Later, we will want to add pmid
             log.debug("Resolved ids: " + idList);
-            if (idList.numHasType("aiid") == 0)
+            if (idList.numHasType("pmid") == 0)
                 throw new BadParamException("No resolvable IDs found: " +
                     idList);
 
@@ -325,11 +335,11 @@ public class Request {
             errorResponse(e.getMessage(), 404);
             return;
         }
-        catch (ServiceException e) {
-            log.error("ServiceException", e);
-            errorResponse(e.getMessage(), 500);
-            return;
-        }
+        //catch (ServiceException e) {
+        //    log.error("ServiceException", e);
+        //    errorResponse(e.getMessage(), 500);
+        //    return;
+        //}
         catch (BadParamException e) {
             log.error("BadParamException", e);
             errorResponse(e.getMessage(), 400);

@@ -7,6 +7,7 @@ import static org.junit.Assert.assertNull;
 import static org.junit.Assert.fail;
 
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TestName;
@@ -40,6 +41,7 @@ public class TestIdResolver
     /**
      * Test the Identifier class
      */
+    @Ignore
     @Test
     public void testIdentifier() {
         Identifier id0 = null;

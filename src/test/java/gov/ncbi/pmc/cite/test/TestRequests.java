@@ -20,6 +20,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TestName;
@@ -97,6 +98,7 @@ public class TestRequests {
     /**
      * Test one test case from the JSON file
      */
+    @Ignore
     @Test
     public void testRequestTestCases() throws Exception
     {
