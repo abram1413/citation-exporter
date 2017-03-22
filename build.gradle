@@ -1,0 +1,49 @@
+apply plugin: 'java'
+apply plugin: 'maven'
+
+group = 'gov.ncbi.pmc'
+version = '1.1.2'
+
+description = """PMC Citation Exporter Service"""
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+tasks.withType(JavaCompile) {
+	options.encoding = 'UTF-8'
+}
+
+
+
+repositories {
+        
+     maven { url "https://artifactory-dev.ncbi.nlm.nih.gov/artifactory/ncbi-production" }
+     maven { url "https://oss.sonatype.org/content/groups/public" }
+     maven { url "https://jitpack.io" }
+     maven { url "http://repo.maven.apache.org/maven2" }
+}
+dependencies {
+    compile group: 'xml-resolver', name: 'xml-resolver', version:'1.2'
+    compile group: 'gov.ncbi.pmc', name: 'pub-one', version:'1.0.4-SNAPSHOT'
+    compile group: 'com.github.Klortho', name: 'citeproc-java', version:'3f30f220c279557892d69c9ec95b92d84cf2114d'
+    compile group: 'com.github.Klortho', name: 'styles', version:'2b644a6c51743991d6d26b44961f9063dbd92c49'
+    compile group: 'com.github.Klortho', name: 'locales', version:'290f990996fb329ea1c5228325d9d033daa0aca1'
+    compile group: 'org.eclipse.jetty', name: 'jetty-server', version:'9.2.1.v20140609'
+    compile group: 'org.eclipse.jetty', name: 'jetty-servlets', version:'9.2.1.v20140609'
+    compile group: 'org.eclipse.jetty', name: 'jetty-webapp', version:'9.2.1.v20140609'
+    compile group: 'org.apache.httpcomponents', name: 'httpclient', version:'4.3.3'
+    compile group: 'org.mozilla', name: 'rhino', version:'1.7R4'
+    compile group: 'net.sf.saxon', name: 'Saxon-HE', version:'9.6.0-7'
+    compile group: 'commons-io', name: 'commons-io', version:'2.4'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version:'2.6.3'
+    compile group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-xml', version:'2.6.3'
+    compile group: 'com.github.Klortho', name: 'kitty-cache', version:'065b8d34e2b16c991c4d9db7cdbd16ec1038f325'
+    compile group: 'org.slf4j', name: 'slf4j-log4j12', version:'1.7.13'
+    compile group: 'org.apache.commons', name: 'commons-lang3', version:'3.3.2'
+    testCompile(group: 'org.hamcrest', name: 'hamcrest-junit', version:'2.0.0.0') {
+exclude(module: 'hamcrest-core')
+    }
+    testCompile group: 'com.helger', name: 'ph-schematron', version:'3.0.1'
+    testCompile(group: 'org.mockito', name: 'mockito-core', version:'1.10.19') {
+exclude(module: 'hamcrest-core')
+    }
+}
