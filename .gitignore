@@ -5,9 +5,10 @@
 # Build product files
 /build
 /captures
+dependency-reduced-pom.xml
 /.gradle/
 /gradle/
-dependency-reduced-pom.xml
+/target/
 
 # JATS
 jats/jats-*/
@@ -28,5 +29,6 @@ jats/nlm-*/
 .DS_Store
 
 # Runtime files
-/log/
 jetty-temp-dir/
+/log/
+/testlog/
