@@ -1,16 +1,32 @@
-catalog-local.xml
-CitationExporterProject.xpr
-ctxp.sublime-*
+# Override config
+/local.properties
+/catalog-local.xml
+
+# Build product files
+/build
+/captures
+/.gradle/
+/gradle/
 dependency-reduced-pom.xml
+
+# JATS
 jats/jats-*/
 jats/nlm-*/
+
+# Oxygen XML
+/ctxp.xpr
+
+# Eclipse
+/.classpath
+/.project
+
+# Idea
+/.idea/workspace.xml
+/.idea/libraries
+
+# Stupid mac file
+.DS_Store
+
+# Runtime files
+/log/
 jetty-temp-dir/
-log/
-/setup-dev.sh
-styles/
-target/
-testlog/
-/jats/
-/apidocs/
-/test.out
-/tryxslt/
