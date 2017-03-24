@@ -60,11 +60,11 @@
     -->
       <groupId>gov.ncbi.pmc</groupId>
       <artifactId>pub-one</artifactId>
-      <version>1.0.4-SNAPSHOT</version>
+      <version>1.0.6</version>
     <!--
       <groupId>com.github.Klortho</groupId>
       <artifactId>pub-one</artifactId>
-      <version>1.0.3</version>
+      <version>1.0.6</version>
     -->
     </dependency>
 
