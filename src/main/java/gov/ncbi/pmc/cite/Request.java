@@ -260,12 +260,9 @@ public class Request {
 
             idList = new RequestIdList();
             Identifier canon = new Identifier(idp);
-            System.out.println("=======> canon: " + canon);
             RequestId reqId = new RequestId(canon);
-            System.out.println("=======> reqId: " + reqId);
             idList = new RequestIdList();
             idList.add(reqId);
-            System.out.println("=======> idList: " + idList);
 
             //App.getIdResolver().resolveIds(idp,
             //    request.getParameter("idtype"), new String[] {"pmid"});

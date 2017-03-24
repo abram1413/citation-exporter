@@ -5,6 +5,7 @@
 # Build product files
 /build
 /captures
+/dependencies.txt
 dependency-reduced-pom.xml
 /.gradle/
 /gradle/

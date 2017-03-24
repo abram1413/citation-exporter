@@ -87,7 +87,6 @@ public class Identifier {
     public Identifier(@NotNull String _value, @NotNull String defaultType)
         throws BadParamException
     {
-        System.out.println("======================> _value: " + _value);
         if (!idTypeValid(defaultType)) {
             throw new BadParamException("Id type not recognized.");
         }

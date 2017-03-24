@@ -48,11 +48,13 @@
   </repositories>
 
   <dependencies>
+
     <dependency>
       <groupId>xml-resolver</groupId>
       <artifactId>xml-resolver</artifactId>
       <version>1.2</version>
     </dependency>
+
     <dependency>
     <!--
       I put pub-one on GitHub, and tagged it. It is being served back to
@@ -252,6 +254,29 @@
           <source>1.8</source>
           <target>1.8</target>
         </configuration>
+      </plugin>
+
+      <!--
+        This causes all of the resolved dependencies to be written to the
+        file dependencies.txt during the build.
+      -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-dependency-plugin</artifactId>
+        <version>3.0.0</version>
+        <executions>
+          <execution>
+            <id>list</id>
+            <phase>generate-sources</phase>
+            <goals>
+              <goal>list</goal>
+            </goals>
+            <configuration>
+              <outputFile>dependencies.txt</outputFile>
+              <outputAbsoluteArtifactFilename>true</outputAbsoluteArtifactFilename>
+            </configuration>
+          </execution>
+        </executions>
       </plugin>
 
       <plugin>

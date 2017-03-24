@@ -45,7 +45,7 @@ public class MainServlet extends HttpServlet
         }
         catch (Exception e) {
             e.printStackTrace();
-            System.out.println("Sorry!");  // Not much we can do.
+            System.err.println("Sorry!");  // Not much we can do.
             log.error("Unable to instantiate MainServlet; exiting");
             System.exit(1);
         }

@@ -371,7 +371,7 @@ public class IdResolver {
                 }
                 catch (BadParamException e) {
                     // If the JSON has a field we don't recognize
-                    System.out.println(
+                    System.err.println(
                         "Unrecognized field in ID converter JSON response: " +
                         record.get(key).asText());
                 }
